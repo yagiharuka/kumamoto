@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T14:41:46Z",
-  "updated_at_jst": "2026/07/28 23:41 JST",
+  "updated_at": "2026-07-28T14:56:22Z",
+  "updated_at_jst": "2026/07/28 23:56 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 5,
-  "article_count": 26,
+  "article_count": 27,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,31 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 3,
     "asahi": 5,
+    "jiji": 2,
     "sankei": 4,
     "kumanichi": 3,
     "mainichi": 4,
-    "jiji": 2,
-    "yomiuri": 3,
-    "nhk": 3,
+    "nhk": 4,
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "cecaea12b392bc749675",
+      "title": "イオンモール熊本で地震後に爆発、多数の人が閉じ込められている模様...従業員含め20~30人の安否不明者か",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T14:35:51Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk5fRXR1c3pwc0sxWWVjemw2a1VDZnVhMGdOX1B0RjhFUk80TVFjc1MwOW1STENMdDBqVW1XNFliTnlHZDd6WnYtRjYxYms1c2pWU2lYZlJHTF9jblVUaTJxTmwxQQ?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ]
+    },
     {
       "id": "ceec8a3bdc2570301aef",
       "title": "爆発情報のイオンモール熊本、「20~30人が施設内にいる可能性」 [2026年熊本地震]",
@@ -67,6 +82,19 @@
       "source_group": "全国紙",
       "published_at": "2026-07-28T14:17:05Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVlFfc1I0LWpGenNJdlBzcV9pTW9XR1VTZGNHamZfRFd0Y2RlV2lyVW1DeTBLbnRvNzZQVUpUWXprT1dpOGFsTUxhTnJmdUkzT2JWbktXU2ZmSDFZdThwSmhxc0pZMk0?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "現場状況"
+      ]
+    },
+    {
+      "id": "5584b48264920a769464",
+      "title": "外壁はがれ、柱むき出し 住民「爆弾落ちたかと」―2階崩落のイオン・熊本県嘉島町",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T13:46:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04cURzanVfcDd4RXFWSU9RdWJ3SUNueDB3NmVZT2xYR1R4eFZsYkItS2paSFZfSk1yc3pmS3ZWZVFwZnZhMERiVkhVb3FyMlJTWWdsb3dqSms0STRRUzNheHZ2TQ?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
@@ -143,19 +171,6 @@
       ]
     },
     {
-      "id": "5584b48264920a769464",
-      "title": "外壁はがれ、柱むき出し 住民「爆弾落ちたかと」―2階崩落のイオン・熊本県嘉島町",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T12:36:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04cURzanVfcDd4RXFWSU9RdWJ3SUNueDB3NmVZT2xYR1R4eFZsYkItS2paSFZfSk1yc3pmS3ZWZVFwZnZhMERiVkhVb3FyMlJTWWdsb3dqSms0STRRUzNheHZ2TQ?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "現場状況"
-      ]
-    },
-    {
       "id": "1c6d0fde9bc65d805dfa",
       "title": "【速報】イオンモール熊本「3人搬送し、意識はある」 地元消防",
       "source": "熊本日日新聞",
@@ -198,17 +213,16 @@
       ]
     },
     {
-      "id": "cecaea12b392bc749675",
-      "title": "イオンモール熊本で地震後に爆発、多数の人が閉じ込められている模様...従業員含め20~30人の安否不明者か",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T11:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk5fRXR1c3pwc0sxWWVjemw2a1VDZnVhMGdOX1B0RjhFUk80TVFjc1MwOW1STENMdDBqVW1XNFliTnlHZDd6WnYtRjYxYms1c2pWU2lYZlJHTF9jblVUaTJxTmwxQQ?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
+      "id": "4290739009427bce0339",
+      "title": "「イオンモール熊本」で爆発 閉じ込め多数か 救助活動は難航",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T11:20:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CV3FrNFZtZmJOekxER1ZHXy1lb0d0V0JPMmZhWE1BMGlhcGJXYlJ3V1Q0WmhZYlpCcS02RUFYdVBZUmN3N1A2elJRNHd1Um9LOUhCMXN0cGE?oc=5",
+      "first_seen": "2026-07-28T14:56:22Z",
       "focus": [
         "救助・安否",
-        "避難状況",
         "現場状況"
       ]
     },
