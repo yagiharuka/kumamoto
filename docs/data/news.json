@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T17:31:02Z",
-  "updated_at_jst": "2026/07/29 02:31 JST",
+  "updated_at": "2026-07-28T18:01:08Z",
+  "updated_at_jst": "2026/07/29 03:01 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
   "article_count": 38,
@@ -51,8 +51,8 @@
   "source_counts": {
     "mainichi": 7,
     "asahi": 5,
-    "yomiuri": 4,
     "sankei": 10,
+    "yomiuri": 4,
     "nhk": 5,
     "jiji": 2,
     "kumanichi": 3,
@@ -83,21 +83,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
-        "避難状況",
-        "現場状況"
-      ]
-    },
-    {
-      "id": "cecaea12b392bc749675",
-      "title": "イオンモール熊本で爆発、2階部分が崩落し10人安否不明...従業員が客の避難誘導をして戻った後に爆発か",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T16:02:46Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk5fRXR1c3pwc0sxWWVjemw2a1VDZnVhMGdOX1B0RjhFUk80TVFjc1MwOW1STENMdDBqVW1XNFliTnlHZDd6WnYtRjYxYms1c2pWU2lYZlJHTF9jblVUaTJxTmwxQQ?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否",
         "避難状況",
         "現場状況"
       ]
@@ -360,6 +345,21 @@
       "published_at": "2026-07-28T12:05:38Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qV3JIOHNHdHRySm5ubHdjdjFwb1ctNlBVRWc2SERKcl8yRTk4WW5NVS1vMG5TanRWNVBRblBrMEJFOTVDVzNYQ0JNOVhFTkhHR25YamhkY3dtR3Y3UG5BaGJHWm9pZEJNYWwzb3NZYkY1UVRnOFE?oc=5",
       "first_seen": "2026-07-28T15:22:23Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "cecaea12b392bc749675",
+      "title": "イオンモール熊本で爆発、2階部分が崩落し10人安否不明...従業員が客の避難誘導をして戻った後に爆発か",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T11:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk5fRXR1c3pwc0sxWWVjemw2a1VDZnVhMGdOX1B0RjhFUk80TVFjc1MwOW1STENMdDBqVW1XNFliTnlHZDd6WnYtRjYxYms1c2pWU2lYZlJHTF9jblVUaTJxTmwxQQ?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否",
         "避難状況",
