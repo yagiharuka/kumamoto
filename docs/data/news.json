@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T15:31:14Z",
-  "updated_at_jst": "2026/07/29 00:31 JST",
+  "updated_at": "2026-07-28T15:36:10Z",
+  "updated_at_jst": "2026/07/29 00:36 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 5,
-  "article_count": 32,
+  "article_count": 33,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,8 +50,8 @@
   ],
   "source_counts": {
     "yomiuri": 4,
+    "sankei": 8,
     "nhk": 5,
-    "sankei": 7,
     "asahi": 5,
     "jiji": 2,
     "kumanichi": 3,
@@ -69,6 +69,21 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSTJDUmxaRU1NS3FJQkg5NjY2X2FxMUdsSEQycy1Ja2NFVWY4U3RMRFBrQjlkMWhoLU1JLWNUYnl1UkZsNzliWkpMUnR6ajV2Y3E4VjlCM012aWxYUHRhQ0tCbjZ3Zw?oc=5",
       "first_seen": "2026-07-28T15:30:14Z",
       "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "dba9adf2a52038420359",
+      "title": "イオンモール熊本、爆発はLPガス原因か 政府高官言及 救助継続も「難しい状況」警察庁",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T15:01:04Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eGVxcU1FWlZwUS1IalRqakNQTnhGYkVFTnVXRG1OdGtZczJjaE1pWG40RVJkaWsxUEJlb0ZHdW9laFNLY1hoTjhpbVpNMlpXVEV5UTZYOGRmVFpUbVRVMkFUMElCbkpXQ0UzNURubVkzOWxxYkE?oc=5",
+      "first_seen": "2026-07-28T15:36:10Z",
+      "focus": [
+        "原因・検証",
         "救助・安否",
         "現場状況"
       ]
@@ -477,7 +492,7 @@
     },
     {
       "id": "63ffce683e94f5911254",
-      "title": "【速報】イオンモール熊本“従業員20~30人と連絡取れず”",
+      "title": "【速報】イオンモール熊本「ガスが漏れていたと報告」政権幹部",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -485,7 +500,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMjJKS2FHWDVkMFluOGxPQnZVOTlaa2xJTWplYUtMdVMycG9lQngwY3dkSWVuQUtJSUlXcEZZdmxCZzdZNVFJN2ZxME9TRlBVdjZEVDdkaTJBMDRlbW9J?oc=5",
       "first_seen": "2026-07-28T14:41:46Z",
       "focus": [
-        "避難状況"
+        "原因・検証"
       ]
     },
     {
