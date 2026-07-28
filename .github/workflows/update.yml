@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       send_email:
-        description: "Send the 30-minute email report"
+        description: "Check whether an hourly email should be sent"
         required: false
         default: true
         type: boolean
@@ -77,6 +77,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json docs/data/news.json
+          if [ -f data/email_state.json ]; then
+            git add data/email_state.json
+          fi
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else

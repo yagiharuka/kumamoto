@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Send a concise email after each scheduled news refresh."""
+"""Send an hourly email only when previously unnotified articles exist."""
 
 from __future__ import annotations
 
@@ -8,6 +8,8 @@ import os
 import smtplib
 import ssl
 import sys
+import tempfile
+from datetime import datetime, timedelta, timezone
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Any
@@ -15,6 +17,8 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 RESULT_PATH = ROOT / ".work" / "update_result.json"
+NEWS_PATH = ROOT / "data" / "news.json"
+STATE_PATH = ROOT / "data" / "email_state.json"
 SITE_URL = "https://yagiharuka.github.io/kumamoto/"
 
 
@@ -27,6 +31,73 @@ def load_result() -> dict[str, Any]:
             "run_at_jst": "時刻不明",
             "error": f"更新結果を読み取れませんでした: {error}",
         }
+
+
+def load_json(path: Path, default: dict[str, Any]) -> dict[str, Any]:
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+        return value if isinstance(value, dict) else default
+    except (OSError, json.JSONDecodeError):
+        return default
+
+
+def parse_utc(value: Any) -> datetime | None:
+    if not isinstance(value, str) or not value.strip():
+        return None
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def iso_utc(value: datetime) -> str:
+    return value.astimezone(timezone.utc).isoformat(timespec="seconds").replace(
+        "+00:00", "Z"
+    )
+
+
+def select_unnotified_items(
+    items: list[dict[str, Any]],
+    after: datetime,
+    through: datetime,
+) -> list[dict[str, Any]]:
+    selected = []
+    for item in items:
+        first_seen = parse_utc(item.get("first_seen"))
+        if first_seen is not None and after < first_seen <= through:
+            selected.append(item)
+    return sorted(
+        selected,
+        key=lambda item: parse_utc(item.get("published_at"))
+        or datetime.min.replace(tzinfo=timezone.utc),
+        reverse=True,
+    )
+
+
+def atomic_write_json(path: Path, payload: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    content = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+    temp_name: str | None = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            "w",
+            encoding="utf-8",
+            dir=path.parent,
+            prefix=f".{path.name}.",
+            suffix=".tmp",
+            delete=False,
+        ) as handle:
+            temp_name = handle.name
+            handle.write(content)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp_name, path)
+    finally:
+        if temp_name and os.path.exists(temp_name):
+            os.unlink(temp_name)
 
 
 def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailMessage:
@@ -50,14 +121,7 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
         new_items = result.get("new_items", [])
         new_count = int(result.get("new_count", 0))
         total_count = int(result.get("total_count", 0))
-        first_run = bool(result.get("first_run"))
-        if first_run:
-            state = "監視開始"
-        elif new_count:
-            state = f"新着{new_count}件"
-        else:
-            state = "新着なし"
-        message["Subject"] = f"【熊本イオン報道】{state}（{run_at}）"
+        message["Subject"] = f"【熊本イオン報道】新着{new_count}件（{run_at}）"
         body = [
             "熊本イオン報道ウォッチを更新しました。",
             "",
@@ -95,6 +159,35 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
 
 
 def main() -> int:
+    result = load_result()
+    if result.get("status") != "ok":
+        print("::warning::Email skipped: the collection did not succeed.")
+        return 0
+
+    run_at = parse_utc(result.get("run_at"))
+    if run_at is None:
+        print("::warning::Email skipped: collection time is invalid.")
+        return 0
+
+    state = load_json(STATE_PATH, {"schema_version": 1})
+    last_checked = parse_utc(state.get("last_checked_at"))
+    if last_checked is None or last_checked >= run_at:
+        last_checked = run_at - timedelta(hours=1)
+
+    news = load_json(NEWS_PATH, {"items": []})
+    items = news.get("items") if isinstance(news.get("items"), list) else []
+    new_items = select_unnotified_items(items, last_checked, run_at)
+    state_update = {
+        "schema_version": 1,
+        "last_checked_at": iso_utc(run_at),
+        "last_sent_at": state.get("last_sent_at"),
+    }
+
+    if not new_items:
+        atomic_write_json(STATE_PATH, state_update)
+        print("Email skipped: no unnotified articles from the past hour.")
+        return 0
+
     username = os.environ.get("SMTP_USERNAME", "").strip()
     password = os.environ.get("SMTP_APP_PASSWORD", "").strip()
     recipient = os.environ.get("ALERT_EMAIL_TO", "").strip()
@@ -108,13 +201,19 @@ def main() -> int:
 
     host = os.environ.get("SMTP_HOST", "smtp.gmail.com").strip()
     port = int(os.environ.get("SMTP_PORT", "465"))
-    result = load_result()
+    result = {
+        **result,
+        "new_count": len(new_items),
+        "new_items": new_items,
+    }
     message = build_message(result, sender, recipient)
 
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL(host, port, context=context, timeout=30) as smtp:
         smtp.login(username, password)
         smtp.send_message(message)
+    state_update["last_sent_at"] = iso_utc(run_at)
+    atomic_write_json(STATE_PATH, state_update)
     print(f"Update email sent to {recipient}.")
     return 0
 

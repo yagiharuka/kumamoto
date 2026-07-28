@@ -2,9 +2,9 @@
 
 Cloudflare Worker that starts the GitHub Actions collection workflow:
 
-- every 5 minutes with a Cron Trigger;
+- every 30 minutes with a Cron Trigger;
 - on demand from the public site's refresh button;
-- with email enabled only at minute `00` and `30`.
+- with the hourly email check enabled only at minute `00`.
 
 ## Required secret
 

@@ -195,8 +195,8 @@ class StorageTests(unittest.TestCase):
             self.assertTrue(content.endswith("\n"))
             self.assertEqual(json.loads(content)["schema_version"], 1)
 
-    def test_snapshot_reports_five_minute_cadence(self) -> None:
-        self.assertEqual(collect.empty_snapshot()["cadence_minutes"], 5)
+    def test_snapshot_reports_thirty_minute_cadence(self) -> None:
+        self.assertEqual(collect.empty_snapshot()["cadence_minutes"], 30)
 
 
 if __name__ == "__main__":

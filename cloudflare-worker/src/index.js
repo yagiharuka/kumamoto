@@ -131,7 +131,7 @@ export default {
 
   async scheduled(controller, env, ctx) {
     const minute = new Date(controller.scheduledTime).getUTCMinutes();
-    const sendEmail = minute === 0 || minute === 30;
+    const sendEmail = minute === 0;
     ctx.waitUntil(
       dispatchWorkflow(env, {
         sendEmail,

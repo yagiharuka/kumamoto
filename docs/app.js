@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+  const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
   const COLLECTION_POLL_INTERVAL_MS = 10 * 1000;
   const COLLECTION_POLL_LIMIT = 18;
   const DATA_URL = "./data/news.json";
