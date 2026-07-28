@@ -16,7 +16,17 @@ Do not put the token in `wrangler.jsonc`, the website JavaScript, or GitHub.
 
 ## Deploy
 
-From this directory:
+The repository's `Deploy Cloudflare Worker` GitHub Actions workflow deploys
+the Worker without exposing credentials. Configure these repository secrets:
+
+- `CLOUDFLARE_API_TOKEN`: Cloudflare's **Edit Cloudflare Workers** API token;
+- `CLOUDFLARE_ACCOUNT_ID`: the target Cloudflare account ID;
+- `WORKER_GITHUB_TOKEN`: a fine-grained GitHub token restricted to this
+  repository with **Actions: Read and write**.
+
+Then manually run `Deploy Cloudflare Worker` from the Actions tab.
+
+For a local deployment, run from this directory:
 
 ```sh
 npx wrangler deploy
