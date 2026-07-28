@@ -40,9 +40,16 @@ class OutletTests(unittest.TestCase):
                 self.assertEqual(collect.resolve_outlet(alias), outlet)
 
     def test_unapproved_sources_are_rejected(self) -> None:
-        for label in ("NHK", "共同通信", "TBS NEWS DIG", "Yahoo!ニュース", ""):
+        for label in ("共同通信", "TBS NEWS DIG", "Yahoo!ニュース", ""):
             self.assertIsNone(collect.resolve_outlet(label))
         self.assertIsNone(collect.resolve_outlet("時事通信を引用した別媒体"))
+
+    def test_nhk_aliases_are_approved(self) -> None:
+        for label in ("NHK", "NHK NEWS WEB", "NHKニュース"):
+            outlet = collect.resolve_outlet(label)
+            self.assertIsNotNone(outlet)
+            self.assertEqual(outlet.id, "nhk")
+            self.assertEqual(outlet.group, "公共放送")
 
 
 class ParsingTests(unittest.TestCase):
@@ -187,6 +194,9 @@ class StorageTests(unittest.TestCase):
             content = path.read_text(encoding="utf-8")
             self.assertTrue(content.endswith("\n"))
             self.assertEqual(json.loads(content)["schema_version"], 1)
+
+    def test_snapshot_reports_five_minute_cadence(self) -> None:
+        self.assertEqual(collect.empty_snapshot()["cadence_minutes"], 5)
 
 
 if __name__ == "__main__":

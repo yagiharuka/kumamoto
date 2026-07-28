@@ -36,7 +36,7 @@ RESULT_PATH = ROOT / ".work" / "update_result.json"
 
 QUERY = "熊本 イオン 爆発"
 INCIDENT_START = datetime(2026, 7, 27, tzinfo=timezone.utc)
-CADENCE_MINUTES = 30
+CADENCE_MINUTES = 5
 MAX_RESPONSE_BYTES = 6 * 1024 * 1024
 REQUEST_TIMEOUT_SECONDS = 18
 RETRY_DELAYS_SECONDS = (1, 3)
@@ -88,6 +88,13 @@ OUTLETS = (
         "全国紙",
         ("日本経済新聞", "日本経済新聞 電子版"),
         "nikkei.com",
+    ),
+    Outlet(
+        "nhk",
+        "NHK",
+        "公共放送",
+        ("NHK", "NHK NEWS WEB", "NHKニュース"),
+        "nhk.or.jp",
     ),
     Outlet(
         "kumanichi",
