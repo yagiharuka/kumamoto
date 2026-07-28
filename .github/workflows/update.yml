@@ -2,7 +2,7 @@ name: Update Kumamoto AEON Watch
 
 on:
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches:
