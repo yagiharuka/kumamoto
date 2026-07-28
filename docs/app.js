@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
+  const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
   const DATA_URL = "./data/news.json";
   const GROUP_LABELS = {
     national: "国内主要紙",

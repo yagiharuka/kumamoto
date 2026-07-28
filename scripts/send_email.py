@@ -39,7 +39,7 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
     if status != "ok":
         message["Subject"] = f"【熊本イオン報道】更新失敗（{run_at}）"
         body = [
-            "熊本イオン報道ウォッチの30分更新に失敗しました。",
+            "熊本イオン報道ウォッチの定期更新に失敗しました。",
             "",
             f"実行時刻: {run_at}",
             f"エラー: {result.get('error', '詳細不明')}",
