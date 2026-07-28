@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T20:31:11Z",
-  "updated_at_jst": "2026/07/29 05:31 JST",
+  "updated_at": "2026-07-28T21:01:00Z",
+  "updated_at_jst": "2026/07/29 06:01 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 40,
+  "article_count": 44,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,64 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 5,
+    "nhk": 6,
+    "jiji": 3,
+    "kumanichi": 4,
     "asahi": 6,
     "sankei": 10,
     "mainichi": 8,
-    "yomiuri": 4,
-    "nhk": 5,
-    "jiji": 2,
-    "kumanichi": 3,
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "4572587940c5c800c316",
+      "title": "崩落のイオンモール熊本、20代女性2人が死亡",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T20:41:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRDNGWkNxcERjVzE0clk1clB1ejlsbnJfdVp1dHdFeFdpN0NHQ0ZxSS1WUS1iUl9YZWFzbmYxelU2OGs3cUtDN1E2TER3VHMzTnpUaXVrbzhNakUyMjNHM0hLZE5sUQ?oc=5",
+      "first_seen": "2026-07-28T21:01:00Z",
+      "focus": [
+        "現場状況"
+      ]
+    },
+    {
+      "id": "453484863188494709d3",
+      "title": "イオンモール熊本 爆発 2人死亡 1人心肺停止 熊本県",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T20:32:30Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NnhpTkd5bjV3Y1FPR0d6WlRCN1J5bk40eG53N2RiOWdPdEtsMDc4Q0RJRTlRY0I2WTJveFdQcFQ1ai1XeW1ReDJrYU9BcE9pbGczZ1V5WVVWOGlSTEJv?oc=5",
+      "first_seen": "2026-07-28T21:01:00Z",
+      "focus": [
+        "現場状況"
+      ]
+    },
+    {
+      "id": "a9b188ad5277fb3d387a",
+      "title": "【速報】熊本県によると、イオンモール熊本で20代女性2人の死亡が確認された",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T20:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RU0tJb1luZ1BJQTFBb1d3ZmRnSUppSVBYSzh1c0J2STN3UU40blVMblhReC1lMXU0bWFWWEQ5Zkg3QTVBeFhneXpBbGdwYkZFMWNVQzhuX0NzXzhCUk45UFg3VXBKUQ?oc=5",
+      "first_seen": "2026-07-28T21:01:00Z",
+      "focus": []
+    },
+    {
+      "id": "44f57e839c62fed67528",
+      "title": "【速報】イオンモール熊本で2人の死亡確認 1人が心肺停止 熊本県発表",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T20:14:22Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVXE1SWh0NFpBTzBDRnFBN0ZqVVJhakxwNjdsUm5TbmtrLVB0SUpsZlRlQThoSmZ2WWQ1ay0wNjRzZ1pNZUN5LWlsR3V4QlE?oc=5",
+      "first_seen": "2026-07-28T21:01:00Z",
+      "focus": []
+    },
     {
       "id": "6c9d37233d563d1b6788",
       "title": "熊本、震度7 イオンで爆発、10人安否不明 製紙工場2人心肺停止 M7.1",
