@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kumamoto-news-trigger",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-28",
+  "triggers": {
+    "crons": [
+      "*/5 * * * *"
+    ]
+  }
+}

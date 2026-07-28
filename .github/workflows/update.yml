@@ -9,6 +9,17 @@ on:
     - cron: "20,50 * * * *"
     - cron: "25,55 * * * *"
   workflow_dispatch:
+    inputs:
+      send_email:
+        description: "Send the 30-minute email report"
+        required: false
+        default: true
+        type: boolean
+      trigger:
+        description: "Dispatch source"
+        required: false
+        default: "manual"
+        type: string
   push:
     branches:
       - main
@@ -56,7 +67,7 @@ jobs:
         run: python scripts/collect.py
 
       - name: Email update report
-        if: ${{ always() && (github.event_name == 'workflow_dispatch' || github.event.schedule == '0,30 * * * *') }}
+        if: ${{ always() && ((github.event_name == 'workflow_dispatch' && inputs.send_email) || github.event.schedule == '0,30 * * * *') }}
         continue-on-error: true
         env:
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
