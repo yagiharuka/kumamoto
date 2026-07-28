@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T15:01:46Z",
-  "updated_at_jst": "2026/07/29 00:01 JST",
+  "updated_at": "2026-07-28T15:22:23Z",
+  "updated_at_jst": "2026/07/29 00:22 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 5,
-  "article_count": 27,
+  "article_count": 31,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,44 @@
     }
   ],
   "source_counts": {
+    "nhk": 5,
+    "sankei": 7,
     "yomiuri": 3,
     "asahi": 5,
     "jiji": 2,
-    "sankei": 4,
     "kumanichi": 3,
     "mainichi": 4,
-    "nhk": 4,
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "2478f35085d42691e959",
+      "title": "イオンモール熊本「ガスが漏れていたとの報告」政権幹部",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T14:46:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSnhVRnRJMkRIQkdDQ1J4aDM2SUN1X1RPaGFfM2xTb1RnaTdlOEJlUVQ4TVE2OW4tbmVwVl9KTllWdVpoTVJxYXpHSERzb1BMLWdvdzROY19kQVdoanRr?oc=5",
+      "first_seen": "2026-07-28T15:22:23Z",
+      "focus": [
+        "原因・検証"
+      ]
+    },
+    {
+      "id": "efc089d6fd698df1ab4d",
+      "title": "イオンモール熊本の爆発、ガス漏れが原因か 救助は夜通し継続も警察庁「難しい状況」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T14:40:40Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XY0dkWERqTFp4SXV1bHpxSWNkTGJzN3pQMHJtelJWTmJMSWJyMnhZR25jM1JHOXRRWlpZUDVUanN6SzFYWURtbV9rZzFBVEZibGtIakxKOGdQQ3NXR0tRNlYxYVNGM215MFN5VFVyQ21qTW14emc?oc=5",
+      "first_seen": "2026-07-28T15:22:23Z",
+      "focus": [
+        "原因・検証",
+        "救助・安否",
+        "現場状況"
+      ]
+    },
     {
       "id": "cecaea12b392bc749675",
       "title": "イオンモール熊本で地震後に爆発、多数の人が閉じ込められている模様...従業員含め20~30人の安否不明者か",
@@ -83,6 +111,19 @@
       "published_at": "2026-07-28T14:17:05Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVlFfc1I0LWpGenNJdlBzcV9pTW9XR1VTZGNHamZfRFd0Y2RlV2lyVW1DeTBLbnRvNzZQVUpUWXprT1dpOGFsTUxhTnJmdUkzT2JWbktXU2ZmSDFZdThwSmhxc0pZMk0?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "現場状況"
+      ]
+    },
+    {
+      "id": "a866050117d0c51888ba",
+      "title": "爆発発生のイオンモール熊本、10年前の地震でも被災 シネコンやスーパー温泉など出店",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T14:13:34Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbVdzb1lFc2VtU3Brc0FuTldJcE84dmRzTGJodE9LZnNMVnBNZjJaQkZkWktvY1BLbjJHd0FOb2FmREY3X2JNQjVUc3NHY2cyV2VtUVptT1hvcHFvelpDYVg1WGRtam5tUnl2THhqb2F6MjkzdkE?oc=5",
+      "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "現場状況"
       ]
@@ -199,8 +240,23 @@
       ]
     },
     {
+      "id": "fdb2075091d8158a9392",
+      "title": "イオンモール熊本から4人搬送 いずれも意識あり 約200人避難後に爆発 救助続く",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T12:05:38Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qV3JIOHNHdHRySm5ubHdjdjFwb1ctNlBVRWc2SERKcl8yRTk4WW5NVS1vMG5TanRWNVBRblBrMEJFOTVDVzNYQ0JNOVhFTkhHR25YamhkY3dtR3Y3UG5BaGJHWm9pZEJNYWwzb3NZYkY1UVRnOFE?oc=5",
+      "first_seen": "2026-07-28T15:22:23Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ]
+    },
+    {
       "id": "c8843cbe036468ac34a5",
-      "title": "従業員に誘導され避難、その後爆発 イオン熊本の店内にいた人語る [熊本県] [2026年熊本地震]",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
