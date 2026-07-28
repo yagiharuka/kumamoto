@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T21:01:00Z",
-  "updated_at_jst": "2026/07/29 06:01 JST",
+  "updated_at": "2026-07-28T21:30:22Z",
+  "updated_at_jst": "2026/07/29 06:30 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 44,
+  "article_count": 46,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,43 @@
     }
   ],
   "source_counts": {
+    "nikkei": 3,
+    "asahi": 7,
     "yomiuri": 5,
     "nhk": 6,
     "jiji": 3,
     "kumanichi": 4,
-    "asahi": 6,
     "sankei": 10,
-    "mainichi": 8,
-    "nikkei": 2
+    "mainichi": 8
   },
   "items": [
+    {
+      "id": "e0ece1ed59cd28b91e7f",
+      "title": "熊本地震、爆発のイオンモールで2人の死亡確認 不明者の捜索続く",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T21:11:17Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTzYxMDFtT0NsU0dpWmZ4SG53T3g3OTJGLWdnZDM2Y0VtcDF0YVpYd1N0THg0LU9ZUkNQSy1MTm5qRDMwYTl5YTVaODk2WmNjOFJPWVJnZnR3VEVONFlLNVB5RjJvUG5lRjkyQg?oc=5",
+      "first_seen": "2026-07-28T21:30:22Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "a86c011511518520dda7",
+      "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T20:50:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dlR4d0V6M3lxNU04TkJ0U09JYm1jdEJBNExmVzBNM2JlX09kTU9CSVF2SU56emJsbFdGVkZpcThUUF9ZdFh0R0JtU2RpVG1ZRVhIQmdKWlRBTFpzbmlldmxNWkZYaEU?oc=5",
+      "first_seen": "2026-07-28T21:30:22Z",
+      "focus": [
+        "救助・安否"
+      ]
+    },
     {
       "id": "4572587940c5c800c316",
       "title": "崩落のイオンモール熊本、20代女性2人が死亡",
@@ -620,7 +647,7 @@
     },
     {
       "id": "63ffce683e94f5911254",
-      "title": "イオンモール熊本「ガスが漏れていたと報告」 10人安否不明",
+      "title": "イオンモール熊本で爆発 地震でガス漏れか 2人死亡1人心肺停止",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -629,7 +656,7 @@
       "first_seen": "2026-07-28T14:41:46Z",
       "focus": [
         "原因・検証",
-        "救助・安否"
+        "現場状況"
       ]
     },
     {
