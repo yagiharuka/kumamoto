@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="「熊本 イオン 爆発」に関する国内主要紙と時事通信の見出しを一覧する非公式の報道モニターです。">
+    <meta name="theme-color" content="#0d2237">
+    <title>Kumamoto AEON Watch｜熊本イオン報道モニター</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#article-list">記事一覧へ移動</a>
+
+    <header class="site-header">
+      <div class="status-strip">
+        <div class="page-shell status-strip__inner">
+          <span class="status-strip__label">Breaking News Ledger</span>
+          <span class="status-strip__status">
+            <span class="pulse-dot" aria-hidden="true"></span>
+            30分ごとに確認
+          </span>
+        </div>
+      </div>
+
+      <div class="page-shell masthead">
+        <div class="masthead__copy">
+          <p class="eyebrow">熊本・嘉島町｜報道見出しモニター</p>
+          <h1>Kumamoto <span>AEON Watch</span></h1>
+          <p class="masthead__lead">
+            「熊本 イオン 爆発」に関する国内主要紙・地元紙・通信社の報道を、
+            見出しと記事リンクで横断して確認できます。
+          </p>
+        </div>
+        <div class="masthead__stamp" aria-label="このサイトの性質">
+          <span>Independent</span>
+          <strong>News Monitor</strong>
+          <small>Headlines &amp; links only</small>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <section class="metrics" aria-label="収集状況">
+        <article class="metric-card">
+          <p>収録記事</p>
+          <strong id="article-count">—</strong>
+          <span>件</span>
+        </article>
+        <article class="metric-card">
+          <p>掲載媒体</p>
+          <strong id="source-count">—</strong>
+          <span>媒体</span>
+        </article>
+        <article class="metric-card metric-card--wide">
+          <p>データ最終更新</p>
+          <strong id="updated-at">読み込み中</strong>
+          <span id="refresh-status" class="refresh-status" role="status" aria-live="polite">
+            最新データを確認しています
+          </span>
+        </article>
+        <article class="metric-card">
+          <p>更新間隔</p>
+          <strong>30</strong>
+          <span>分</span>
+        </article>
+      </section>
+
+      <aside class="disclaimer" aria-labelledby="disclaimer-title">
+        <div class="disclaimer__mark" aria-hidden="true">!</div>
+        <div>
+          <h2 id="disclaimer-title">ご利用にあたって</h2>
+          <p>
+            このページは報道の見出しとリンクを整理する非公式モニターで、事故・災害の公式情報サイトではありません。
+            緊急情報や安全確認は自治体、消防、警察、施設運営者などの公式発表をご確認ください。
+          </p>
+        </div>
+      </aside>
+
+      <section class="source-ledger" aria-labelledby="source-ledger-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Tracked publications</p>
+            <h2 id="source-ledger-title">追跡対象メディア</h2>
+          </div>
+          <p>媒体名を選ぶと記事を絞り込めます</p>
+        </div>
+        <div id="source-buttons" class="source-buttons" role="group" aria-label="媒体で絞り込む">
+          <button class="source-button is-active" type="button" data-source="" aria-pressed="true">
+            すべて
+          </button>
+        </div>
+      </section>
+
+      <section class="news-section" aria-labelledby="news-title">
+        <div class="section-heading section-heading--news">
+          <div>
+            <p class="section-kicker">Coverage index</p>
+            <h2 id="news-title">報道一覧</h2>
+          </div>
+          <p id="result-summary" aria-live="polite">記事を読み込んでいます</p>
+        </div>
+
+        <form id="filter-form" class="filter-panel" role="search">
+          <div class="field field--search">
+            <label for="keyword">見出しを検索</label>
+            <div class="search-input">
+              <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
+                <path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/>
+              </svg>
+              <input id="keyword" name="keyword" type="search" placeholder="例：爆発、イオンモール、嘉島町" autocomplete="off">
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="source-select">媒体</label>
+            <select id="source-select" name="source">
+              <option value="">すべての媒体</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="sort-select">並び順</label>
+            <select id="sort-select" name="sort">
+              <option value="newest">新しい順</option>
+              <option value="oldest">古い順</option>
+              <option value="source">媒体順</option>
+            </select>
+          </div>
+
+          <button id="clear-filters" class="clear-button" type="button">条件をクリア</button>
+        </form>
+
+        <div id="article-list" class="article-list" aria-busy="true">
+          <div class="loading-card">
+            <span class="loading-card__line"></span>
+            <span class="loading-card__line loading-card__line--short"></span>
+          </div>
+          <div class="loading-card">
+            <span class="loading-card__line"></span>
+            <span class="loading-card__line loading-card__line--short"></span>
+          </div>
+        </div>
+
+        <div id="empty-state" class="empty-state" hidden>
+          <span aria-hidden="true">0</span>
+          <h3>該当する記事はありません</h3>
+          <p>キーワードや媒体の条件を変えてお試しください。</p>
+        </div>
+
+        <div id="error-state" class="error-state" hidden role="alert">
+          <h3>データを読み込めませんでした</h3>
+          <p>通信状況を確認して、しばらくしてから再度お試しください。</p>
+          <button id="retry-button" type="button">再読み込み</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell site-footer__inner">
+        <div>
+          <strong>Kumamoto AEON Watch</strong>
+          <p>報道の見出しとリンクのみを掲載しています。記事本文の著作権は各報道機関に帰属します。</p>
+        </div>
+        <p>自動確認：30分ごと</p>
+      </div>
+    </footer>
+
+    <noscript>
+      <div class="noscript">記事一覧の表示にはJavaScriptを有効にしてください。</div>
+    </noscript>
+  </body>
+</html>
