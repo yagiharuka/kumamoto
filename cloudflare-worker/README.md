@@ -33,5 +33,4 @@ npx wrangler deploy
 npx wrangler secret put GITHUB_TOKEN
 ```
 
-After deployment, replace `REPLACE_ME` in `docs/app.js` with the Worker's
-actual `workers.dev` account subdomain.
+The deployed endpoint is configured in `docs/app.js`.

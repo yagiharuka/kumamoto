@@ -2,7 +2,11 @@
   "use strict";
 
   const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+  const COLLECTION_POLL_INTERVAL_MS = 10 * 1000;
+  const COLLECTION_POLL_LIMIT = 18;
   const DATA_URL = "./data/news.json";
+  const COLLECTION_ENDPOINT =
+    "https://kumamoto-news-trigger.haru620328.workers.dev/api/refresh";
   const GROUP_LABELS = {
     national: "国内主要紙",
     local: "地元紙",
@@ -23,6 +27,8 @@
     sort: "newest",
     loading: false,
     loadedAt: null,
+    dataUpdatedAt: null,
+    collecting: false,
   };
 
   const elements = {
@@ -41,6 +47,7 @@
     errorState: document.querySelector("#error-state"),
     retryButton: document.querySelector("#retry-button"),
     filterForm: document.querySelector("#filter-form"),
+    collectNowButton: document.querySelector("#collect-now-button"),
   };
 
   const escapeHtml = (value) =>
@@ -138,6 +145,7 @@
       state.loadedAt = new Date();
 
       const updatedValue = data.updated_at || data.updated_at_jst;
+      state.dataUpdatedAt = updatedValue || null;
       elements.articleCount.textContent = Number.isFinite(Number(data.article_count))
         ? Number(data.article_count).toLocaleString("ja-JP")
         : state.items.length.toLocaleString("ja-JP");
@@ -149,6 +157,7 @@
 
       renderSourceControls();
       renderArticles();
+      return data;
     } catch (error) {
       console.error("Failed to load news data:", error);
       elements.articleList.replaceChildren();
@@ -157,6 +166,7 @@
       elements.errorState.hidden = false;
       elements.resultSummary.textContent = "読み込みに失敗しました";
       setLoadingMessage("データ取得エラー");
+      return null;
     } finally {
       state.loading = false;
     }
@@ -307,6 +317,69 @@
     elements.keyword.focus();
   }
 
+  const delay = (milliseconds) =>
+    new Promise((resolve) => window.setTimeout(resolve, milliseconds));
+
+  function setCollecting(isCollecting) {
+    state.collecting = isCollecting;
+    elements.collectNowButton.disabled = isCollecting;
+    elements.collectNowButton.setAttribute("aria-busy", String(isCollecting));
+    elements.collectNowButton.querySelector("span").textContent = isCollecting
+      ? "記事を探しています…"
+      : "今すぐ記事を探す";
+  }
+
+  async function collectNow() {
+    if (state.collecting) return;
+
+    const previousUpdatedAt = state.dataUpdatedAt;
+    setCollecting(true);
+    setLoadingMessage("新しい記事の検索を受け付けています");
+
+    try {
+      const response = await fetch(COLLECTION_ENDPOINT, {
+        method: "POST",
+        mode: "cors",
+        cache: "no-store",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ source: "website" }),
+      });
+
+      const result = await response.json().catch(() => ({}));
+      if (response.status === 429) {
+        const retryAfter = Number(result.retry_after || response.headers.get("Retry-After"));
+        const retryMinutes = Number.isFinite(retryAfter)
+          ? Math.max(1, Math.ceil(retryAfter / 60))
+          : 2;
+        setLoadingMessage(`検索済みです。約${retryMinutes}分後にもう一度お試しください`);
+        return;
+      }
+      if (!response.ok) throw new Error(result.error || `HTTP ${response.status}`);
+
+      setLoadingMessage("記事を検索中です（通常1〜2分）");
+
+      for (let attempt = 0; attempt < COLLECTION_POLL_LIMIT; attempt += 1) {
+        await delay(COLLECTION_POLL_INTERVAL_MS);
+        await loadNews();
+        if (state.dataUpdatedAt && state.dataUpdatedAt !== previousUpdatedAt) {
+          setLoadingMessage("最新記事に更新しました");
+          return;
+        }
+        setLoadingMessage("記事を検索中です（通常1〜2分）");
+      }
+
+      setLoadingMessage("検索は受付済みです。完了後に自動表示されます");
+    } catch (error) {
+      console.error("Failed to start article collection:", error);
+      setLoadingMessage("検索を開始できませんでした。少し待って再度お試しください");
+    } finally {
+      setCollecting(false);
+    }
+  }
+
   elements.filterForm.addEventListener("submit", (event) => event.preventDefault());
 
   elements.keyword.addEventListener("input", (event) => {
@@ -331,6 +404,7 @@
 
   elements.clearFilters.addEventListener("click", clearFilters);
   elements.retryButton.addEventListener("click", () => loadNews({ manual: true }));
+  elements.collectNowButton.addEventListener("click", collectNow);
 
   document.addEventListener("visibilitychange", () => {
     if (

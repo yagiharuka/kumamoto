@@ -257,10 +257,57 @@ a {
 
 .metric-card--wide .refresh-status {
   display: block;
-  margin: 7px 0 0;
+  margin: 0;
   color: var(--teal-dark);
   font-size: 0.7rem;
   font-weight: 700;
+}
+
+.refresh-controls {
+  display: flex;
+  min-height: 34px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 7px;
+}
+
+.collect-now-button {
+  display: inline-flex;
+  flex: 0 0 auto;
+  min-height: 34px;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 11px;
+  border: 1px solid var(--teal-dark);
+  border-radius: 999px;
+  background: var(--teal-dark);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 800;
+  transition:
+    background 150ms ease,
+    color 150ms ease,
+    transform 150ms ease;
+}
+
+.collect-now-button svg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+}
+
+.collect-now-button:hover:not(:disabled) {
+  background: var(--surface);
+  color: var(--teal-dark);
+  transform: translateY(-1px);
+}
+
+.collect-now-button:disabled {
+  cursor: wait;
+  opacity: 0.66;
 }
 
 .disclaimer {
@@ -435,6 +482,7 @@ a {
 .field input:focus,
 .field select:focus,
 .clear-button:focus-visible,
+.collect-now-button:focus-visible,
 .source-button:focus-visible,
 .article-card__link:focus-visible,
 .error-state button:focus-visible {
@@ -702,6 +750,11 @@ a {
 
   .metric-card--wide {
     border-right: 1px solid var(--rule);
+  }
+
+  .refresh-controls {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .filter-panel {

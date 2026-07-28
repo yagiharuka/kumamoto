@@ -55,9 +55,17 @@
         <article class="metric-card metric-card--wide">
           <p>データ最終更新</p>
           <strong id="updated-at">読み込み中</strong>
-          <span id="refresh-status" class="refresh-status" role="status" aria-live="polite">
-            最新データを確認しています
-          </span>
+          <div class="refresh-controls">
+            <span id="refresh-status" class="refresh-status" role="status" aria-live="polite">
+              最新データを確認しています
+            </span>
+            <button id="collect-now-button" class="collect-now-button" type="button">
+              <svg aria-hidden="true" viewBox="0 0 24 24" width="17" height="17">
+                <path d="M20 11a8 8 0 1 0-2.34 5.66M20 4v7h-7"/>
+              </svg>
+              <span>今すぐ記事を探す</span>
+            </button>
+          </div>
         </article>
         <article class="metric-card">
           <p>更新間隔</p>
