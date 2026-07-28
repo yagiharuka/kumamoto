@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T19:31:05Z",
-  "updated_at_jst": "2026/07/29 04:31 JST",
+  "updated_at": "2026-07-28T20:01:07Z",
+  "updated_at_jst": "2026/07/29 05:01 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
   "article_count": 39,
@@ -49,27 +49,28 @@
     }
   ],
   "source_counts": {
-    "asahi": 5,
-    "mainichi": 8,
     "sankei": 10,
+    "mainichi": 8,
     "yomiuri": 4,
     "nhk": 5,
     "jiji": 2,
+    "asahi": 5,
     "kumanichi": 3,
     "nikkei": 2
   },
   "items": [
     {
-      "id": "c8843cbe036468ac34a5",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
+      "id": "dba9adf2a52038420359",
+      "title": "イオンモール熊本の爆発 LPガスが漏れた可能性 救助活動は「難しい状況」でも継続",
+      "source": "産経新聞",
+      "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-07-28T18:24:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
+      "published_at": "2026-07-28T19:26:05Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eGVxcU1FWlZwUS1IalRqakNQTnhGYkVFTnVXRG1OdGtZczJjaE1pWG40RVJkaWsxUEJlb0ZHdW9laFNLY1hoTjhpbVpNMlpXVEV5UTZYOGRmVFpUbVRVMkFUMElCbkpXQ0UzNURubVkzOWxxYkE?oc=5",
+      "first_seen": "2026-07-28T15:36:10Z",
       "focus": [
-        "避難状況",
+        "原因・検証",
+        "救助・安否",
         "現場状況"
       ]
     },
@@ -138,21 +139,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSTJDUmxaRU1NS3FJQkg5NjY2X2FxMUdsSEQycy1Ja2NFVWY4U3RMRFBrQjlkMWhoLU1JLWNUYnl1UkZsNzliWkpMUnR6ajV2Y3E4VjlCM012aWxYUHRhQ0tCbjZ3Zw?oc=5",
       "first_seen": "2026-07-28T15:30:14Z",
       "focus": [
-        "救助・安否",
-        "現場状況"
-      ]
-    },
-    {
-      "id": "dba9adf2a52038420359",
-      "title": "イオンモール熊本、爆発はLPガス原因か 政府高官言及 救助継続も「難しい状況」警察庁",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T15:01:04Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eGVxcU1FWlZwUS1IalRqakNQTnhGYkVFTnVXRG1OdGtZczJjaE1pWG40RVJkaWsxUEJlb0ZHdW9laFNLY1hoTjhpbVpNMlpXVEV5UTZYOGRmVFpUbVRVMkFUMElCbkpXQ0UzNURubVkzOWxxYkE?oc=5",
-      "first_seen": "2026-07-28T15:36:10Z",
-      "focus": [
-        "原因・検証",
         "救助・安否",
         "現場状況"
       ]
@@ -334,6 +320,20 @@
       "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "救助・安否",
+        "避難状況",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "c8843cbe036468ac34a5",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T12:01:45Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
         "避難状況",
         "現場状況"
       ]
