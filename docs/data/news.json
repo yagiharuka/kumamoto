@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T20:01:07Z",
-  "updated_at_jst": "2026/07/29 05:01 JST",
+  "updated_at": "2026-07-28T20:31:11Z",
+  "updated_at_jst": "2026/07/29 05:31 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 39,
+  "article_count": 40,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,30 @@
     }
   ],
   "source_counts": {
+    "asahi": 6,
     "sankei": 10,
     "mainichi": 8,
     "yomiuri": 4,
     "nhk": 5,
     "jiji": 2,
-    "asahi": 5,
     "kumanichi": 3,
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "6c9d37233d563d1b6788",
+      "title": "熊本、震度7 イオンで爆発、10人安否不明 製紙工場2人心肺停止 M7.1",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZMzBpX1V1WFFZdDNocEIyNWVRLUUweXVrWnQ4MzNHdEIyTWdmS2ZQSTNyVGNMa0dlLTZBMnA4cEM2SmdkTUd6MnJVQ1MwdWFSZVNuT3RYR0NfRGV5?oc=5",
+      "first_seen": "2026-07-28T20:31:11Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
     {
       "id": "dba9adf2a52038420359",
       "title": "イオンモール熊本の爆発 LPガスが漏れた可能性 救助活動は「難しい状況」でも継続",
