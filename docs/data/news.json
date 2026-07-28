@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T13:48:41Z",
-  "updated_at_jst": "2026/07/28 22:48 JST",
+  "updated_at": "2026-07-28T13:50:41Z",
+  "updated_at_jst": "2026/07/28 22:50 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 20,
+  "article_count": 23,
   "source_count": 7,
   "tracked_sources": [
     {
@@ -44,15 +44,28 @@
     }
   ],
   "source_counts": {
-    "nikkei": 1,
-    "asahi": 4,
+    "asahi": 5,
+    "nikkei": 2,
     "yomiuri": 3,
+    "kumanichi": 3,
     "mainichi": 4,
     "jiji": 2,
-    "kumanichi": 2,
     "sankei": 4
   },
   "items": [
+    {
+      "id": "71db25d0c85a58653e37",
+      "title": "爆発情報のイオンモール熊本、「20~30人が施設内にいる可能性」",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T13:34:03Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNVlpIRG93VkxNZnhRb2hIZWhQRUZxdWlqM19neWVCdERHckJZd2ZXeHZhN0NLeGZ5WWU1YnRnbm1GV1lkeENfUW83ZS12Y3hKVDQ2MG9LbVdqMklrby1fMFF3Sk9zYnM?oc=5",
+      "first_seen": "2026-07-28T13:50:41Z",
+      "focus": [
+        "現場状況"
+      ]
+    },
     {
       "id": "b17074a08f3c2e101de0",
       "title": "イオンモール、爆発の衝撃「ボンと地響きのような音」 熊本で震度7",
@@ -106,6 +119,21 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "af139ea3abac585536be",
+      "title": "2026年熊本地震>「ドン」爆発音と白煙、外壁崩壊、避難者「怖かった」 熊本・嘉島町のイオンモール熊本",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T12:41:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2d2lZUzVmU3BVU2xIWEd3MXFrNjF3MkppRDZxbWRMUXdzNmtrLWFqcld3b2ZJTlF4RGh3dHVMazFXOWwyT3M2RmxOak5SakE?oc=5",
+      "first_seen": "2026-07-28T13:50:41Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
         "現場状況"
       ]
     },
@@ -206,20 +234,6 @@
       ]
     },
     {
-      "id": "f634532e05fc59b3295b",
-      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始まる 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T11:00:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUF2dXBjWFJMWTNPQzVIS1VqNFVGYVBZYjJ6S3pOVUUyTGs4bWlHRWg1R3VmOGR1cTV4dUlxQ0tTMVZxb1pyM2hLaE9UalRkSEh2S05kQzZyRkZnb3E5aU9OYUgyck44dWVkblFzYlJTRnE2cGFQa3FCNDA4WWV0ZU1NelZubU1RS05n?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ]
-    },
-    {
       "id": "09577b2cf8a13055b37c",
       "title": "イオンモール熊本、約160のテナントや映画館が入居...16年にも被災",
       "source": "読売新聞",
@@ -229,6 +243,20 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yWVpMdTkzMmRkWXAwMEtKeEdObENFOXZnOHdaaFl1VG9qNGRPTTNmVVBBZUt4SVhET2tzYWZ4V25SY0MwZy1EQnJVdGp0UDRCV1pvMHRXYkpCQW9HaFkwdzdIbDdmUQ?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": []
+    },
+    {
+      "id": "f634532e05fc59b3295b",
+      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始める 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T10:43:24Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUF2dXBjWFJMWTNPQzVIS1VqNFVGYVBZYjJ6S3pOVUUyTGs4bWlHRWg1R3VmOGR1cTV4dUlxQ0tTMVZxb1pyM2hLaE9UalRkSEh2S05kQzZyRkZnb3E5aU9OYUgyck44dWVkblFzYlJTRnE2cGFQa3FCNDA4WWV0ZU1NelZubU1RS05n?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
     },
     {
       "id": "262a71ba49e63a885dc5",
@@ -326,6 +354,20 @@
       "focus": [
         "救助・安否",
         "目撃証言",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "3588e0330a3a290684fb",
+      "title": "熊本県で震度7 イオンモール熊本で爆発、20〜30人が安否不明か",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:34:24Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTnZ4MmI0VXQ0STZsVUhXalNLSlVDZHpTQzN2WTQzRW12SG91blFEQ0tKcTA1S2Z0c052c2VzRkJ5YndyekYwRExqMUE1YXlwQy02MjVFVzc0RGxqTGwyNE9vRzZlSWFDUGs2eg?oc=5",
+      "first_seen": "2026-07-28T13:50:41Z",
+      "focus": [
+        "救助・安否",
         "現場状況"
       ]
     }
