@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T16:01:05Z",
-  "updated_at_jst": "2026/07/29 01:01 JST",
+  "updated_at": "2026-07-28T16:08:03Z",
+  "updated_at_jst": "2026/07/29 01:08 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
   "article_count": 36,
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 4,
     "sankei": 9,
     "mainichi": 6,
-    "yomiuri": 4,
     "nhk": 5,
     "asahi": 5,
     "jiji": 2,
@@ -59,6 +59,21 @@
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "cecaea12b392bc749675",
+      "title": "イオンモール熊本で爆発、2階部分が崩落し10人安否不明...従業員が客の避難誘導をして戻った後に爆発か",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T16:02:46Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk5fRXR1c3pwc0sxWWVjemw2a1VDZnVhMGdOX1B0RjhFUk80TVFjc1MwOW1STENMdDBqVW1XNFliTnlHZDd6WnYtRjYxYms1c2pWU2lYZlJHTF9jblVUaTJxTmwxQQ?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ]
+    },
     {
       "id": "d263a7b139857cbc2625",
       "title": "イオンモール熊本、10人が安否不明",
@@ -154,21 +169,6 @@
       "focus": [
         "原因・検証",
         "救助・安否",
-        "現場状況"
-      ]
-    },
-    {
-      "id": "cecaea12b392bc749675",
-      "title": "イオンモール熊本で地震後に爆発、多数の人が閉じ込められている模様...従業員含め20~30人の安否不明者か",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T14:35:51Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk5fRXR1c3pwc0sxWWVjemw2a1VDZnVhMGdOX1B0RjhFUk80TVFjc1MwOW1STENMdDBqVW1XNFliTnlHZDd6WnYtRjYxYms1c2pWU2lYZlJHTF9jblVUaTJxTmwxQQ?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
         "現場状況"
       ]
     },
