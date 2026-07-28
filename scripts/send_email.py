@@ -13,6 +13,7 @@ from datetime import datetime, timedelta, timezone
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -56,6 +57,15 @@ def parse_utc(value: Any) -> datetime | None:
 def iso_utc(value: datetime) -> str:
     return value.astimezone(timezone.utc).isoformat(timespec="seconds").replace(
         "+00:00", "Z"
+    )
+
+
+def format_jst(value: Any) -> str:
+    parsed = parse_utc(value)
+    if parsed is None:
+        return "日時不明"
+    return parsed.astimezone(ZoneInfo("Asia/Tokyo")).strftime(
+        "%Y/%m/%d %H:%M JST"
     )
 
 
@@ -137,7 +147,7 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
                     [
                         "",
                         f"{index}. [{item['source']}] {item['title']}",
-                        f"   公開: {item['published_at']}",
+                        f"   公開: {format_jst(item.get('published_at'))}",
                         f"   {item['url']}",
                     ]
                 )

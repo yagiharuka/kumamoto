@@ -13,6 +13,15 @@ import send_email  # noqa: E402
 
 
 class HourlyEmailTests(unittest.TestCase):
+    def test_formats_article_time_in_jst(self) -> None:
+        self.assertEqual(
+            send_email.format_jst("2026-07-28T15:00:00Z"),
+            "2026/07/29 00:00 JST",
+        )
+
+    def test_invalid_article_time_has_fallback(self) -> None:
+        self.assertEqual(send_email.format_jst("not-a-date"), "日時不明")
+
     def test_selects_only_items_after_last_check(self) -> None:
         after = datetime(2026, 7, 28, 14, 0, tzinfo=timezone.utc)
         through = datetime(2026, 7, 28, 15, 0, tzinfo=timezone.utc)
