@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T15:26:17Z",
-  "updated_at_jst": "2026/07/29 00:26 JST",
+  "updated_at": "2026-07-28T15:30:14Z",
+  "updated_at_jst": "2026/07/29 00:30 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 5,
-  "article_count": 31,
+  "article_count": 32,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 4,
     "nhk": 5,
     "sankei": 7,
-    "yomiuri": 3,
     "asahi": 5,
     "jiji": 2,
     "kumanichi": 3,
@@ -59,6 +59,20 @@
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "43171bb7a47c7971b927",
+      "title": "爆発のイオンモール熊本で4人救助、10人と連絡つかず...日本製紙工場では2人が心肺停止・9人捜索中",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T15:21:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSTJDUmxaRU1NS3FJQkg5NjY2X2FxMUdsSEQycy1Ja2NFVWY4U3RMRFBrQjlkMWhoLU1JLWNUYnl1UkZsNzliWkpMUnR6ajV2Y3E4VjlCM012aWxYUHRhQ0tCbjZ3Zw?oc=5",
+      "first_seen": "2026-07-28T15:30:14Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
     {
       "id": "2478f35085d42691e959",
       "title": "イオンモール熊本「ガスが漏れていたとの報告」政権幹部",
@@ -142,19 +156,6 @@
       ]
     },
     {
-      "id": "4adf1318b2a99acd1e9b",
-      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T13:43:21Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否"
-      ]
-    },
-    {
       "id": "71db25d0c85a58653e37",
       "title": "爆発情報のイオンモール熊本、「20~30人が施設内にいる可能性」",
       "source": "朝日新聞",
@@ -219,6 +220,19 @@
       "source_group": "地元紙",
       "published_at": "2026-07-28T12:28:27Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02U010VUhydjFsTE12a2VaaUE4NU1NclJfa1kwVENsQTNPYXY3anVtOGVoampsSmlxU05hc2ZFT01jbEt3OElWVHprQXVWTlk?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否"
+      ]
+    },
+    {
+      "id": "4adf1318b2a99acd1e9b",
+      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T12:23:03Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否"
