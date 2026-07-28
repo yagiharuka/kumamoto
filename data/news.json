@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T17:01:06Z",
-  "updated_at_jst": "2026/07/29 02:01 JST",
+  "updated_at": "2026-07-28T17:31:02Z",
+  "updated_at_jst": "2026/07/29 02:31 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 37,
+  "article_count": 38,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,30 @@
     }
   ],
   "source_counts": {
+    "mainichi": 7,
     "asahi": 5,
     "yomiuri": 4,
     "sankei": 10,
-    "mainichi": 6,
     "nhk": 5,
     "jiji": 2,
     "kumanichi": 3,
     "nikkei": 2
   },
   "items": [
+    {
+      "id": "0f76526055b8fb1508ac",
+      "title": "地震:熊本で震度7 不明多数 イオンモール爆発、崩落 M7.1 倒壊・火災相次ぐ",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T17:02:27Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04dU5aWnlnQ01sXzZKSlZ4QWRBMmZxYnVzTUk5MlE4OUlBQTVHQWp6b1RxNEIyYUpwN3NNTVF1Ukk5Tmw0VDg0LVBSLVJqTURtSEVzQmU1WEtZTEV2RVl6VnpNeXFrMnlJ?oc=5",
+      "first_seen": "2026-07-28T17:31:02Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
     {
       "id": "c8843cbe036468ac34a5",
       "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県] [2026年熊本地震]",
@@ -103,7 +117,7 @@
     },
     {
       "id": "59e96f1633cd23b61ad0",
-      "title": "イオンモール熊本、4人救助 多数の従業員が安否不明の情報も",
+      "title": "イオンモール熊本、5人救助 多数の従業員が安否不明の情報も",
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
