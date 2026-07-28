@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T19:01:08Z",
-  "updated_at_jst": "2026/07/29 04:01 JST",
+  "updated_at": "2026-07-28T19:31:05Z",
+  "updated_at_jst": "2026/07/29 04:31 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 38,
+  "article_count": 39,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "asahi": 5,
-    "mainichi": 7,
+    "mainichi": 8,
     "sankei": 10,
     "yomiuri": 4,
     "nhk": 5,
@@ -473,6 +473,17 @@
         "救助・安否",
         "現場状況"
       ]
+    },
+    {
+      "id": "bb01c5f17fb202672144",
+      "title": "熊本で震度7 熊本城やイオンモール熊本などで被害 [写真特集15/16]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T10:11:46Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkEtTElPa3ZuZDBxSWN0WUJtZm5BVU4za3Vaa1hURGxDWmZIV3VmVDlURV9wcE5FWHN2dDk0Y1NBTVYzUjlYaEpGVXc2YUxNb3JvWW02alB6N19BX2VwQmVWX1lQeHlkMUtUR2pMbnlVR3F2ZzBHYnZNZUNZVDAxd21qV1FXSzg?oc=5",
+      "first_seen": "2026-07-28T19:31:05Z",
+      "focus": []
     },
     {
       "id": "8604ba3e10b5ba09c07b",
