@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T13:00:18Z",
-  "updated_at_jst": "2026/07/29 22:00 JST",
+  "updated_at": "2026-07-29T13:30:13Z",
+  "updated_at_jst": "2026/07/29 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 230,
+  "article_count": 233,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,8 +50,8 @@
   ],
   "source_counts": {
     "jiji": 18,
-    "asahi": 22,
-    "kumanichi": 59,
+    "kumanichi": 61,
+    "asahi": 23,
     "yomiuri": 26,
     "nikkei": 19,
     "mainichi": 25,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 166,
+    "aeon": 169,
     "power": 39,
     "paper": 27
   },
@@ -96,6 +96,39 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "ce7c399f67603a15acee",
+      "title": "「爆発事故の想定なし」「従業員は戻らないルール」 イオン側会見で強調",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T12:28:57Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UVEc5Qm9qbTFCNnV0Mi1aNXJsYzFyTmtzNy1qVjRtNG5YOFdtbkNCYllOX2xfTF95RWNxSGFFYXJ2cVBURDhzNHRyZDlMYXc?oc=5",
+      "first_seen": "2026-07-29T13:30:13Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b17a5315d23206f8298d",
+      "title": "2026年熊本地震>イオン社長「遺族におわび」 地震後の爆発受け会見 発生時、館内には四千数百人",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T12:26:20Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BMzFEdFF4N1ZGNEdMeVdBc1VzSVFPMlN5Vm5aYlU1Z2RnNDlRRkNFbGJNYzNzX3Vfbm44eVNTQ0RpS1o4Q1c3MFNsd2h6U2M?oc=5",
+      "first_seen": "2026-07-29T13:30:13Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -141,6 +174,22 @@
       "published_at": "2026-07-29T11:44:14Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVVhHRHdHejFseTU3Q09GSERiaWlaQjhBdjFoaUZhaVpDOW1vUXdMbEFJUWxyY19QQnB4TUtnMmNLYzBQTk1zYld3eWJnVnJHbnRia0NJdGI5d2x6ODhMdk1XdlRWdmM?oc=5",
       "first_seen": "2026-07-29T08:31:04Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ffe675d792f80f03cd2f",
+      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T11:44:14Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnhUcTRXOWI2aXc1V0lJa29uMkJMOHJBR1haS0tEMnZwVGtCTzYzcjJiSWx0ZVY3LU0wRXp2UUo3QVpKYmR1WFlReUdzMFo0RVU3VlBWbEZaa2VYX1ppTWhkTU1abnVfbFBKeGxUMFNEQjZjWGFFcmJuRl82N1dXWC00QTFDQm9EU1A2aWRhWTZFOU5hRmcwcWw2UFpRZ0lEN2hmNA?oc=5",
+      "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
       ],
