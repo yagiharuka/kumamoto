@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T13:42:04Z",
+  "updated_at": "2026-07-29T13:42:43Z",
   "updated_at_jst": "2026/07/29 22:42 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
@@ -532,6 +532,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4ad172a19fe1a0e2032a",
+      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T10:42:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
+      "first_seen": "2026-07-28T23:30:22Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -1296,23 +1313,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVUp4Sk9sRnp5Y3V3dUdZbnpoT05ublViSlpqU0xLeU01cDBYZXpDTTVKQldORmg0Z0hhTUQySHo4UzZPd2hsX2k5TktwQ3c?oc=5",
       "first_seen": "2026-07-29T08:31:04Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4ad172a19fe1a0e2032a",
-      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM25OMmxBMWN0SGdhMEVHSkNjaF9jZ2Y3cG91U2M4OXdPa04yckwtTkp6RXc4N1RNM3FwbFhUeTlPWVlkNEZxM1F6bjJ1X1p1OERhdkdrZjd2OTZqeHRtSkdJb0xvWWRIZFNieHljd1ZGdGhBV2lPWlJJVWRYVkpIbnVn?oc=5",
-      "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -4030,6 +4030,23 @@
       ]
     },
     {
+      "id": "bf895cfd1b0a41411549",
+      "title": "地震の影響で折れた日本製紙の八代工場の煙突 =28日午後7時5分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T15:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMG1VcDNkV2dKeTkzemlIYkI1andoTl9HcXYwVkY4WnJrN1dKUUNUQXJzZ2duR3JVczFJUmx5MGtsTHJtckdzYll2c3pKV2E3YXlpbkNOVl9Sa0hQSk1OdW15b0hSTkw1QkhPNVdVb2d2RmdaT3U1bHFpdHJSbGxGNERFZEd5ZEdWQUxBcmo5MWpjRzVweU9WelFoNTVpcWk5VlE?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "aff0ae86adc5acebaba9",
       "title": "写真と映像で追う熊本地震 イオンモール爆発・傾く住宅・橋や石垣崩落",
       "source": "日本経済新聞",
@@ -4615,23 +4632,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "bf895cfd1b0a41411549",
-      "title": "地震の影響で折れた日本製紙の八代工場の煙突=28日午後7時5分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T13:52:13Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmR2QkZ2MXp2RTloUENFZGNoX05oSkY2TWNYalpvSzF3dFZYNDF4ZDBPQWVIVFFmTndyM0dkRExXNkZmaldwMmdIeHByOWJJRDJLakNfNmpmbDdHUlYtaXBPY3ZwY2RCV3J1dlRqel9mMWl3V20xZml1QWQwWS0xR2pFc053QjFFY0UtRmRUa1l0WUM1VTBrWWtoRHdzc0Q0Zmc?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
