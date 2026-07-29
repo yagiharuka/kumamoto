@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T15:30:19Z",
-  "updated_at_jst": "2026/07/30 00:30 JST",
+  "updated_at": "2026-07-29T16:00:15Z",
+  "updated_at_jst": "2026/07/30 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 390,
@@ -300,20 +300,6 @@
       ]
     },
     {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、交通、断層、震度は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T12:19:21Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RlZENjZ2VDRtLXcwVjdhM2txSWNRZFNKeFBoU3JURjE3UXFuRUF6cy1GMXJuLWFIMVVWaEEwUU81SFRES3RyU3dVWVdyRFU4cUVGRmppZUdTWExwRnVPN3A2RlFvSVk?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "45e201366c6428338d68",
       "title": "声詰まらせ「爆発、想定しきれず」=一時避難完了も、悔しさにじませ―イオン社長・熊本震度7",
       "source": "時事通信",
@@ -382,7 +368,7 @@
     },
     {
       "id": "202475f5454e7e191d05",
-      "title": "建屋にガス充満か 大規模爆発に有識者ら イオンモール熊本",
+      "title": "<2026年熊本地震>建屋にガス充満か 大規模爆発に有識者ら 嘉島町「イオンモール熊本」",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -1681,7 +1667,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT04wVVNYbVBkdW84d2NnaENpdTd3b21DMnFrSDlSTG1qUWpZY1JNd0NZaWxfYVRNS2tGeDQxNFVoWTdGZWtTVUR1UF8yZTFiaHNkX3VKd3g2b1dsbFJxRTF1YXd5bUpxLWI5VWtVVGd0eUREcFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -3464,6 +3450,20 @@
       ]
     },
     {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、交通、断層、震度は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RlZENjZ2VDRtLXcwVjdhM2txSWNRZFNKeFBoU3JURjE3UXFuRUF6cy1GMXJuLWFIMVVWaEEwUU81SFRES3RyU3dVWVdyRFU4cUVGRmppZUdTWExwRnVPN3A2RlFvSVk?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8db34bece351e7a38482",
       "title": "イオンモール熊本のペット店、犬・猫の全頭無事を報告「スタッフとともに速やかに避難」 (スポニチ)",
       "source": "毎日新聞",
@@ -4912,7 +4912,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T13:01:08Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTZLblUyRDIzcUFXRGVLQTYwQ3liclM5TUZKLVIyb2hnTU1nbDNaNkFfdEdGd0hvMnNUNHJNdmkwanh0LWxNYXZXaEJXWWF3OUx6UFBjMzczWnJhN3dzTTV6Rl9TckU5T19DZVRIbFozRHptS0hUOXhvQ29uVUxnNEtjeU1vUlhjYi1lOWxaUTdLNG1GRURZRHEzdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNTlBRU9OSE5fT2dHT0ZFNTR3Y2pPV0NqZndmNlFzc3BNT01zc2N4eHc4YktMakJlci1QUmhqQUNIakZPbHNRR2dkdFcwNi1VOEN4ZlJEcGV1ZV94NUR3NVgxMl94X1ZDMi1iWXJzdE1KVThwRGc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
