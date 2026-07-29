@@ -21,6 +21,10 @@ RESULT_PATH = ROOT / ".work" / "update_result.json"
 NEWS_PATH = ROOT / "data" / "news.json"
 STATE_PATH = ROOT / "data" / "email_state.json"
 SITE_URL = "https://yagiharuka.github.io/kumamoto/"
+CATEGORY_LABELS = {
+    "aeon": "イオン爆発",
+    "power": "停電・電源車",
+}
 
 
 def load_result() -> dict[str, Any]:
@@ -66,6 +70,16 @@ def format_jst(value: Any) -> str:
         return "日時不明"
     return parsed.astimezone(ZoneInfo("Asia/Tokyo")).strftime(
         "%Y/%m/%d %H:%M JST"
+    )
+
+
+def category_text(item: dict[str, Any]) -> str:
+    category_ids = item.get("category_ids")
+    if not isinstance(category_ids, list) or not category_ids:
+        category_ids = ["aeon"]
+    return "・".join(
+        CATEGORY_LABELS.get(category_id, str(category_id))
+        for category_id in category_ids
     )
 
 
@@ -146,7 +160,7 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
                 body.extend(
                     [
                         "",
-                        f"{index}. [{item['source']}] {item['title']}",
+                        f"{index}. [{category_text(item)}｜{item['source']}] {item['title']}",
                         f"   公開: {format_jst(item.get('published_at'))}",
                         f"   {item['url']}",
                     ]

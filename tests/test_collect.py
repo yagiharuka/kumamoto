@@ -85,23 +85,64 @@ class ParsingTests(unittest.TestCase):
 
     def test_uki_is_excluded_but_kumamoto_is_kept(self) -> None:
         self.assertFalse(
-            collect.is_target_report(
+            collect.is_aeon_report(
                 "イオンモール宇城でイベント", "熊本県内の買い物情報"
             )
         )
         self.assertFalse(
-            collect.is_target_report("AEON MALL UKI update", "local information")
+            collect.is_aeon_report("AEON MALL UKI update", "local information")
         )
         self.assertTrue(
-            collect.is_target_report(
+            collect.is_aeon_report(
                 "イオンモール熊本で救助続く", "熊本県嘉島町"
             )
         )
         self.assertTrue(
-            collect.is_target_report(
+            collect.is_aeon_report(
                 "宇城市でも被害", "嘉島町のイオンモール熊本で救助"
             )
         )
+
+    def test_power_reports_require_kumamoto_and_power_topic(self) -> None:
+        self.assertTrue(
+            collect.is_power_report(
+                "熊本県内で停電続く",
+                "地震の影響で電力供給の復旧を急いでいる",
+            )
+        )
+        self.assertTrue(
+            collect.is_power_report(
+                "被災地に電源車を派遣",
+                "熊本県益城町で電力を確保する",
+            )
+        )
+        self.assertFalse(
+            collect.is_power_report(
+                "全国で電力需要が増加",
+                "首都圏の需給状況を発表した",
+            )
+        )
+        self.assertFalse(
+            collect.is_power_report(
+                "熊本県内の道路状況",
+                "通行止めが続く",
+            )
+        )
+
+    def test_power_item_gets_power_category(self) -> None:
+        records = collect.parse_rss(
+            rss_item(
+                title="熊本県内で停電 電源車を派遣 - 時事通信",
+                description="地震の影響で熊本県内の停電が続く",
+            )
+        )
+        item = collect.to_item(
+            records[0],
+            datetime(2026, 7, 28, tzinfo=timezone.utc),
+            "power",
+        )
+        self.assertIsNotNone(item)
+        self.assertEqual(item["category_ids"], ["power"])
 
     def test_malformed_xml_raises(self) -> None:
         with self.assertRaises(collect.CollectionError):
@@ -177,6 +218,16 @@ class MergeTests(unittest.TestCase):
         self.assertEqual({item["id"] for item in merged}, {"old", "new"})
         self.assertEqual([item["id"] for item in new_items], ["new"])
 
+    def test_duplicate_article_merges_categories(self) -> None:
+        aeon = {**self.item("one"), "category_ids": ["aeon"]}
+        power = {**self.item("one"), "category_ids": ["power"]}
+
+        merged, new_items = collect.merge_items([], [aeon, power])
+
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]["category_ids"], ["aeon", "power"])
+        self.assertEqual(len(new_items), 1)
+
 
 class StorageTests(unittest.TestCase):
     def test_corrupt_history_is_not_accepted(self) -> None:
@@ -197,6 +248,21 @@ class StorageTests(unittest.TestCase):
 
     def test_snapshot_reports_thirty_minute_cadence(self) -> None:
         self.assertEqual(collect.empty_snapshot()["cadence_minutes"], 30)
+
+    def test_existing_items_are_migrated_to_aeon_category(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "news.json"
+            helper = MergeTests()
+            helper.setUp()
+            item = helper.item("old")
+            payload = collect.empty_snapshot()
+            payload["items"] = [item]
+            path.write_text(collect.serialized(payload), encoding="utf-8")
+
+            snapshot, first_run = collect.load_snapshot(path)
+
+            self.assertFalse(first_run)
+            self.assertEqual(snapshot["items"][0]["category_ids"], ["aeon"])
 
 
 if __name__ == "__main__":

@@ -17,13 +17,28 @@
     通信社: "通信社",
     公共放送: "公共放送",
   };
+  const DEFAULT_CATEGORIES = [
+    {
+      id: "aeon",
+      name: "イオン爆発",
+      description: "爆発・崩落・救助情報",
+    },
+    {
+      id: "power",
+      name: "停電・電源車",
+      description: "停電・復旧・代替電源情報",
+    },
+  ];
 
   const state = {
     items: [],
     trackedSources: [],
     sourceCounts: {},
+    trackedCategories: DEFAULT_CATEGORIES,
+    categoryCounts: {},
     keyword: "",
     source: "",
+    category: "",
     sort: "newest",
     loading: false,
     loadedAt: null,
@@ -36,6 +51,7 @@
     sourceCount: document.querySelector("#source-count"),
     updatedAt: document.querySelector("#updated-at"),
     refreshStatus: document.querySelector("#refresh-status"),
+    categoryButtons: document.querySelector("#category-buttons"),
     sourceButtons: document.querySelector("#source-buttons"),
     articleList: document.querySelector("#article-list"),
     resultSummary: document.querySelector("#result-summary"),
@@ -109,6 +125,40 @@
     return counts;
   };
 
+  const normalizeCategoryIds = (item) => {
+    const declared = Array.isArray(item?.category_ids)
+      ? item.category_ids.filter((value) => typeof value === "string" && value)
+      : [];
+    return declared.length ? [...new Set(declared)] : ["aeon"];
+  };
+
+  const normalizeTrackedCategories = (data) => {
+    const declared = Array.isArray(data.tracked_categories)
+      ? data.tracked_categories
+          .filter((category) => category && typeof category.id === "string")
+          .map((category) => ({
+            id: category.id,
+            name: category.name || category.id,
+            description: category.description || "",
+          }))
+      : [];
+    return declared.length ? declared : DEFAULT_CATEGORIES;
+  };
+
+  const countCategories = (items) => {
+    const counts = {};
+    for (const item of items) {
+      for (const categoryId of normalizeCategoryIds(item)) {
+        counts[categoryId] = (counts[categoryId] ?? 0) + 1;
+      }
+    }
+    return counts;
+  };
+
+  const categoryLabel = (categoryId) =>
+    state.trackedCategories.find((category) => category.id === categoryId)?.name ||
+    categoryId;
+
   const setLoadingMessage = (message) => {
     elements.refreshStatus.textContent = message;
   };
@@ -132,14 +182,23 @@
       const data = await response.json();
       if (!Array.isArray(data.items)) throw new Error("items is not an array");
 
-      state.items = data.items.filter(
-        (item) => item && typeof item.title === "string" && typeof item.source === "string",
-      );
+      state.items = data.items
+        .filter(
+          (item) => item && typeof item.title === "string" && typeof item.source === "string",
+        )
+        .map((item) => ({ ...item, category_ids: normalizeCategoryIds(item) }));
       state.trackedSources = normalizeTrackedSources(data);
+      state.trackedCategories = normalizeTrackedCategories(data);
       state.sourceCounts = {
         ...countSources(state.items),
         ...(data.source_counts && typeof data.source_counts === "object"
           ? data.source_counts
+          : {}),
+      };
+      state.categoryCounts = {
+        ...countCategories(state.items),
+        ...(data.category_counts && typeof data.category_counts === "object"
+          ? data.category_counts
           : {}),
       };
       state.loadedAt = new Date();
@@ -155,6 +214,7 @@
       elements.updatedAt.textContent = formatDateTime(updatedValue);
       setLoadingMessage(`画面確認 ${formatDateTime(state.loadedAt.toISOString(), false)}`);
 
+      renderCategoryControls();
       renderSourceControls();
       renderArticles();
       return data;
@@ -172,8 +232,49 @@
     }
   }
 
+  function categoryScopedItems() {
+    return state.category
+      ? state.items.filter((item) => item.category_ids.includes(state.category))
+      : state.items;
+  }
+
+  function renderCategoryControls() {
+    const markup = [
+      categoryButtonMarkup("", "すべて", "全カテゴリの記事", state.items.length),
+      ...state.trackedCategories.map((category) =>
+        categoryButtonMarkup(
+          category.id,
+          category.name,
+          category.description,
+          Number(state.categoryCounts[category.id] ?? 0),
+        ),
+      ),
+    ].join("");
+    elements.categoryButtons.innerHTML = markup;
+  }
+
+  function categoryButtonMarkup(value, label, description, count) {
+    const isActive = state.category === value;
+    return `
+      <button
+        class="category-button${isActive ? " is-active" : ""}"
+        type="button"
+        data-category="${escapeHtml(value)}"
+        aria-pressed="${isActive ? "true" : "false"}"
+      >
+        <span class="category-button__copy">
+          <strong>${escapeHtml(label)}</strong>
+          <small>${escapeHtml(description)}</small>
+        </span>
+        <span class="category-button__count">${Number(count).toLocaleString("ja-JP")}</span>
+      </button>
+    `;
+  }
+
   function renderSourceControls() {
-    const allCount = state.items.length;
+    const scopedItems = categoryScopedItems();
+    const scopedCounts = countSources(scopedItems);
+    const allCount = scopedItems.length;
     const sources = [...state.trackedSources].sort((a, b) =>
       a.localeCompare(b, "ja"),
     );
@@ -181,7 +282,7 @@
     const buttonMarkup = [
       sourceButtonMarkup("", "すべて", allCount),
       ...sources.map((source) =>
-        sourceButtonMarkup(source, source, Number(state.sourceCounts[source] ?? 0)),
+        sourceButtonMarkup(source, source, Number(scopedCounts[source] ?? 0)),
       ),
     ].join("");
     elements.sourceButtons.innerHTML = buttonMarkup;
@@ -230,10 +331,13 @@
 
     return state.items
       .filter((item) => {
+        const matchesCategory =
+          !state.category || item.category_ids.includes(state.category);
         const matchesSource = !state.source || item.source === state.source;
-        const searchText = `${item.title} ${item.source}`.toLocaleLowerCase("ja");
+        const categoryText = item.category_ids.map(categoryLabel).join(" ");
+        const searchText = `${item.title} ${item.source} ${categoryText}`.toLocaleLowerCase("ja");
         const matchesKeyword = !keyword || searchText.includes(keyword);
-        return matchesSource && matchesKeyword;
+        return matchesCategory && matchesSource && matchesKeyword;
       })
       .sort((a, b) => {
         if (state.sort === "source") {
@@ -249,7 +353,7 @@
 
   function renderArticles() {
     const visibleItems = getVisibleItems();
-    const hasFilters = Boolean(state.keyword.trim() || state.source);
+    const hasFilters = Boolean(state.keyword.trim() || state.source || state.category);
 
     elements.articleList.setAttribute("aria-busy", "false");
     elements.errorState.hidden = true;
@@ -278,6 +382,12 @@
           <div class="article-card__meta">
             <time datetime="${escapeHtml(item.published_at || "")}">${escapeHtml(published)}</time>
             <span class="article-card__group">${escapeHtml(group)}</span>
+            ${item.category_ids
+              .map(
+                (categoryId) =>
+                  `<span class="article-card__category">${escapeHtml(categoryLabel(categoryId))}</span>`,
+              )
+              .join("")}
           </div>
           <h3>
             <a
@@ -305,13 +415,22 @@
     renderArticles();
   }
 
+  function setCategory(category) {
+    state.category = category;
+    renderCategoryControls();
+    renderSourceControls();
+    renderArticles();
+  }
+
   function clearFilters() {
     state.keyword = "";
     state.source = "";
+    state.category = "";
     state.sort = "newest";
     elements.keyword.value = "";
     elements.sourceSelect.value = "";
     elements.sortSelect.value = "newest";
+    renderCategoryControls();
     renderSourceControls();
     renderArticles();
     elements.keyword.focus();
@@ -400,6 +519,12 @@
     const button = event.target.closest("[data-source]");
     if (!button) return;
     setSource(button.dataset.source || "");
+  });
+
+  elements.categoryButtons.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-category]");
+    if (!button) return;
+    setCategory(button.dataset.category || "");
   });
 
   elements.clearFilters.addEventListener("click", clearFilters);

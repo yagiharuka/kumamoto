@@ -13,6 +13,12 @@ import send_email  # noqa: E402
 
 
 class HourlyEmailTests(unittest.TestCase):
+    def test_category_text_supports_power_articles(self) -> None:
+        self.assertEqual(
+            send_email.category_text({"category_ids": ["power"]}),
+            "停電・電源車",
+        )
+
     def test_formats_article_time_in_jst(self) -> None:
         self.assertEqual(
             send_email.format_jst("2026-07-28T15:00:00Z"),

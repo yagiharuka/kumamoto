@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect strictly allow-listed coverage of the Kumamoto AEON incident.
+"""Collect strictly allow-listed coverage of the Kumamoto earthquake.
 
 The collector uses Google News RSS only as a discovery index. It persists
 headlines, publisher attribution, publication time, and the article link; it
@@ -34,7 +34,6 @@ ARCHIVE_PATH = ROOT / "data" / "news.json"
 PUBLIC_PATH = ROOT / "docs" / "data" / "news.json"
 RESULT_PATH = ROOT / ".work" / "update_result.json"
 
-QUERY = "熊本 イオン 爆発"
 INCIDENT_START = datetime(2026, 7, 27, tzinfo=timezone.utc)
 CADENCE_MINUTES = 30
 MAX_RESPONSE_BYTES = 6 * 1024 * 1024
@@ -51,6 +50,40 @@ class Outlet:
     group: str
     aliases: tuple[str, ...]
     domain: str
+
+
+@dataclass(frozen=True)
+class Category:
+    id: str
+    name: str
+    description: str
+    broad_queries: tuple[str, ...]
+    supplement_query: str
+
+
+CATEGORIES = (
+    Category(
+        "aeon",
+        "イオン爆発",
+        "イオンモール熊本の爆発・崩落・救助情報",
+        (
+            '"イオンモール熊本" after:2026-07-27',
+            "熊本 イオン 爆発 after:2026-07-27",
+        ),
+        '"イオンモール熊本" after:2026-07-27',
+    ),
+    Category(
+        "power",
+        "停電・電源車",
+        "熊本県内の停電、復旧見通し、電源車・代替電源情報",
+        (
+            "熊本 地震 停電 after:2026-07-27",
+            "熊本 地震 電源車 after:2026-07-27",
+        ),
+        "熊本 (停電 OR 電源車) after:2026-07-27",
+    ),
+)
+CATEGORIES_BY_ID = {category.id: category for category in CATEGORIES}
 
 
 OUTLETS = (
@@ -117,12 +150,6 @@ OUTLETS_BY_ALIAS = {
     for outlet in OUTLETS
     for alias in outlet.aliases
 }
-
-BROAD_QUERIES = (
-    '"イオンモール熊本" after:2026-07-27',
-    "熊本 イオン 爆発 after:2026-07-27",
-)
-
 
 class CollectionError(RuntimeError):
     """Raised when a run cannot safely produce an updated snapshot."""
@@ -273,7 +300,7 @@ def has_uki_reference(value: str) -> bool:
     )
 
 
-def is_target_report(title: str, description: str) -> bool:
+def is_aeon_report(title: str, description: str) -> bool:
     combined = normalize_text(f"{title} {description}")
     explicit_target = "イオンモール熊本" in combined or "イオン熊本" in combined
     if has_uki_reference(combined) and not explicit_target:
@@ -286,6 +313,27 @@ def is_target_report(title: str, description: str) -> bool:
     )
 
 
+def is_power_report(title: str, description: str) -> bool:
+    combined = normalize_text(f"{title} {description}")
+    has_location = bool(re.search(r"(熊本|嘉島|益城|宇城|阿蘇)", combined))
+    has_power_topic = bool(
+        re.search(
+            r"(停電|電源車|非常用電源|代替電源|電力供給|送電(?:再開|停止)|"
+            r"電気(?:が|の)?復旧|電力(?:が|の)?復旧)",
+            combined,
+        )
+    )
+    return has_location and has_power_topic
+
+
+def is_category_report(category_id: str, title: str, description: str) -> bool:
+    if category_id == "aeon":
+        return is_aeon_report(title, description)
+    if category_id == "power":
+        return is_power_report(title, description)
+    return False
+
+
 def focus_from_title(title: str) -> list[str]:
     tags: list[str] = []
     rules = (
@@ -294,6 +342,9 @@ def focus_from_title(title: str) -> list[str]:
         (r"(避難|来店客|従業員)", "避難状況"),
         (r"(証言|地響き|ドーン|爆発音|白煙|煙)", "目撃証言"),
         (r"(崩落|崩壊|損壊|爆発)", "現場状況"),
+        (r"(停電|電力供給|送電停止)", "停電状況"),
+        (r"(復旧|送電再開)", "復旧情報"),
+        (r"(電源車|非常用電源|代替電源)", "電源車・代替電源"),
     )
     for pattern, label in rules:
         if re.search(pattern, title):
@@ -305,7 +356,11 @@ def iso_utc(value: datetime) -> str:
     return value.astimezone(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
-def to_item(record: dict[str, str], seen_at: datetime) -> dict[str, Any] | None:
+def to_item(
+    record: dict[str, str],
+    seen_at: datetime,
+    category_id: str = "aeon",
+) -> dict[str, Any] | None:
     source_label = record["source"]
     outlet = resolve_outlet(source_label)
     published = parse_published_at(record["pub_date"])
@@ -320,7 +375,7 @@ def to_item(record: dict[str, str], seen_at: datetime) -> dict[str, Any] | None:
         or published < INCIDENT_START
         or parsed_link.scheme not in {"http", "https"}
         or not parsed_link.netloc
-        or not is_target_report(title, record["description"])
+        or not is_category_report(category_id, title, record["description"])
     ):
         return None
 
@@ -336,6 +391,7 @@ def to_item(record: dict[str, str], seen_at: datetime) -> dict[str, Any] | None:
         "url": link,
         "first_seen": iso_utc(seen_at),
         "focus": focus_from_title(title),
+        "category_ids": [category_id],
     }
 
 
@@ -365,29 +421,56 @@ def fetch_queries(
     return records, warnings, success_count
 
 
-def collect_candidates(now: datetime) -> tuple[list[dict[str, Any]], list[str]]:
-    raw_records, warnings, broad_successes = fetch_queries(BROAD_QUERIES)
+def collect_category(
+    category: Category,
+    now: datetime,
+) -> tuple[list[dict[str, Any]], list[str]]:
+    raw_records, warnings, broad_successes = fetch_queries(category.broad_queries)
     if broad_successes == 0:
-        raise CollectionError("all primary RSS queries failed")
+        raise CollectionError(f"all primary RSS queries failed for {category.name}")
 
     candidates = [
         item
-        for item in (to_item(record, now) for record in raw_records)
+        for item in (
+            to_item(record, now, category.id)
+            for record in raw_records
+        )
         if item is not None
     ]
     present_sources = {item["source_id"] for item in candidates}
     missing_outlets = [outlet for outlet in OUTLETS if outlet.id not in present_sources]
     supplements = [
-        f'"イオンモール熊本" after:2026-07-27 site:{outlet.domain}'
+        f"{category.supplement_query} site:{outlet.domain}"
         for outlet in missing_outlets
     ]
     supplemental_records, supplemental_warnings, _ = fetch_queries(supplements)
     warnings.extend(supplemental_warnings)
     candidates.extend(
         item
-        for item in (to_item(record, now) for record in supplemental_records)
+        for item in (
+            to_item(record, now, category.id)
+            for record in supplemental_records
+        )
         if item is not None
     )
+    return candidates, warnings
+
+
+def collect_candidates(now: datetime) -> tuple[list[dict[str, Any]], list[str]]:
+    candidates: list[dict[str, Any]] = []
+    warnings: list[str] = []
+    successful_categories = 0
+    for category in CATEGORIES:
+        try:
+            category_candidates, category_warnings = collect_category(category, now)
+        except CollectionError as error:
+            warnings.append(str(error))
+            continue
+        successful_categories += 1
+        candidates.extend(category_candidates)
+        warnings.extend(category_warnings)
+    if successful_categories == 0:
+        raise CollectionError("all category RSS queries failed")
     return candidates, warnings
 
 
@@ -398,17 +481,30 @@ def tracked_sources() -> list[dict[str, str]]:
     ]
 
 
+def tracked_categories() -> list[dict[str, str]]:
+    return [
+        {
+            "id": category.id,
+            "name": category.name,
+            "description": category.description,
+        }
+        for category in CATEGORIES
+    ]
+
+
 def empty_snapshot() -> dict[str, Any]:
     return {
         "schema_version": 1,
         "updated_at": None,
         "updated_at_jst": None,
-        "query": QUERY,
+        "query": "熊本地震（イオン爆発／停電・電源車）",
         "cadence_minutes": CADENCE_MINUTES,
         "article_count": 0,
         "source_count": 0,
         "tracked_sources": tracked_sources(),
         "source_counts": {},
+        "tracked_categories": tracked_categories(),
+        "category_counts": {category.id: 0 for category in CATEGORIES},
         "items": [],
     }
 
@@ -439,6 +535,9 @@ def load_snapshot(path: Path = ARCHIVE_PATH) -> tuple[dict[str, Any], bool]:
     for item in snapshot["items"]:
         if not isinstance(item, dict) or not REQUIRED_ITEM_KEYS.issubset(item):
             raise CollectionError("existing history contains an invalid item")
+        category_ids = item.get("category_ids")
+        if not isinstance(category_ids, list) or not category_ids:
+            item["category_ids"] = ["aeon"]
     return snapshot, False
 
 
@@ -446,13 +545,19 @@ def merge_items(
     existing_items: list[dict[str, Any]],
     candidates: list[dict[str, Any]],
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
-    merged = [dict(item) for item in existing_items]
+    merged = [
+        {
+            **item,
+            "category_ids": list(item.get("category_ids", ["aeon"])),
+        }
+        for item in existing_items
+    ]
     url_index = {normalize_url(item["url"]): index for index, item in enumerate(merged)}
     title_index = {
         title_fingerprint(item["source_id"], item["title"]): index
         for index, item in enumerate(merged)
     }
-    new_items: list[dict[str, Any]] = []
+    new_ids: set[str] = set()
 
     candidates = sorted(
         candidates,
@@ -465,6 +570,10 @@ def merge_items(
         reverse=True,
     )
     for candidate in candidates:
+        candidate = {
+            **candidate,
+            "category_ids": list(candidate.get("category_ids", ["aeon"])),
+        }
         url_key = normalize_url(candidate["url"])
         title_key = title_fingerprint(candidate["source_id"], candidate["title"])
         existing_index = url_index.get(url_key)
@@ -476,6 +585,10 @@ def merge_items(
             refreshed = {**previous, **candidate}
             refreshed["id"] = previous["id"]
             refreshed["first_seen"] = previous["first_seen"]
+            refreshed["category_ids"] = sorted(
+                set(previous.get("category_ids", ["aeon"]))
+                | set(candidate.get("category_ids", ["aeon"]))
+            )
             merged[existing_index] = refreshed
             url_index[normalize_url(refreshed["url"])] = existing_index
             title_index[
@@ -487,7 +600,7 @@ def merge_items(
         index = len(merged) - 1
         url_index[url_key] = index
         title_index[title_key] = index
-        new_items.append(candidate)
+        new_ids.add(candidate["id"])
 
     merged.sort(
         key=lambda item: (
@@ -498,14 +611,18 @@ def merge_items(
         ),
         reverse=True,
     )
-    new_items.sort(key=lambda item: item["published_at"], reverse=True)
+    new_items = [item for item in merged if item["id"] in new_ids]
     return merged, new_items
 
 
 def make_snapshot(items: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
     counts: dict[str, int] = {}
+    category_counts = {category.id: 0 for category in CATEGORIES}
     for item in items:
         counts[item["source_id"]] = counts.get(item["source_id"], 0) + 1
+        for category_id in item.get("category_ids", ["aeon"]):
+            if category_id in category_counts:
+                category_counts[category_id] += 1
     from zoneinfo import ZoneInfo
 
     jst = now.astimezone(ZoneInfo("Asia/Tokyo")).strftime("%Y/%m/%d %H:%M JST")
@@ -513,12 +630,14 @@ def make_snapshot(items: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
         "schema_version": 1,
         "updated_at": iso_utc(now),
         "updated_at_jst": jst,
-        "query": QUERY,
+        "query": "熊本地震（イオン爆発／停電・電源車）",
         "cadence_minutes": CADENCE_MINUTES,
         "article_count": len(items),
         "source_count": len(counts),
         "tracked_sources": tracked_sources(),
         "source_counts": counts,
+        "tracked_categories": tracked_categories(),
+        "category_counts": category_counts,
         "items": items,
     }
 

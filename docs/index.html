@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="「熊本 イオン 爆発」に関する国内主要紙、NHK、熊本日日新聞、時事通信の見出しを一覧する非公式の報道モニターです。">
+    <meta name="description" content="熊本地震に関するイオンモール熊本の被害と、停電・電源車情報を国内主要紙、NHK、熊本日日新聞、時事通信から一覧する非公式の報道モニターです。">
     <meta name="theme-color" content="#0d2237">
-    <title>Kumamoto AEON Watch｜熊本イオン報道モニター</title>
+    <title>Kumamoto News Watch｜熊本地震報道モニター</title>
     <link rel="stylesheet" href="./styles.css">
     <script src="./app.js" defer></script>
   </head>
@@ -25,11 +25,11 @@
 
       <div class="page-shell masthead">
         <div class="masthead__copy">
-          <p class="eyebrow">熊本・嘉島町｜報道見出しモニター</p>
-          <h1>Kumamoto <span>AEON Watch</span></h1>
+          <p class="eyebrow">熊本地震｜報道見出しモニター</p>
+          <h1>Kumamoto <span>News Watch</span></h1>
           <p class="masthead__lead">
-            「熊本 イオン 爆発」に関する国内主要紙・NHK・地元紙・通信社の報道を、
-            見出しと記事リンクで横断して確認できます。
+            イオンモール熊本の爆発・崩落と、熊本県内の停電・電源車に関する報道を、
+            カテゴリ別に横断して確認できます。
           </p>
         </div>
         <div class="masthead__stamp" aria-label="このサイトの性質">
@@ -85,6 +85,21 @@
         </div>
       </aside>
 
+      <section class="category-ledger" aria-labelledby="category-ledger-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Coverage categories</p>
+            <h2 id="category-ledger-title">報道カテゴリ</h2>
+          </div>
+          <p>カテゴリを選ぶと関連記事だけを表示します</p>
+        </div>
+        <div id="category-buttons" class="category-buttons" role="group" aria-label="報道カテゴリで絞り込む">
+          <button class="category-button is-active" type="button" data-category="" aria-pressed="true">
+            <span class="category-button__label">すべて</span>
+          </button>
+        </div>
+      </section>
+
       <section class="source-ledger" aria-labelledby="source-ledger-title">
         <div class="section-heading">
           <div>
@@ -116,7 +131,7 @@
               <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
                 <path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/>
               </svg>
-              <input id="keyword" name="keyword" type="search" placeholder="例：爆発、イオンモール、嘉島町" autocomplete="off">
+              <input id="keyword" name="keyword" type="search" placeholder="例：爆発、停電、電源車、嘉島町" autocomplete="off">
             </div>
           </div>
 
@@ -167,7 +182,7 @@
     <footer class="site-footer">
       <div class="page-shell site-footer__inner">
         <div>
-          <strong>Kumamoto AEON Watch</strong>
+          <strong>Kumamoto News Watch</strong>
           <p>報道の見出しとリンクのみを掲載しています。記事本文の著作権は各報道機関に帰属します。</p>
         </div>
         <p>自動確認：30分ごと</p>
