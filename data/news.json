@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T20:30:10Z",
-  "updated_at_jst": "2026/07/30 05:30 JST",
+  "updated_at": "2026-07-29T21:00:21Z",
+  "updated_at_jst": "2026/07/30 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 411,
+  "article_count": 412,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "nikkei": 26,
     "mainichi": 53,
     "yomiuri": 43,
     "asahi": 49,
-    "nikkei": 25,
     "sankei": 85,
     "jiji": 59,
     "kumanichi": 70,
@@ -77,10 +77,27 @@
   ],
   "category_counts": {
     "aeon": 326,
-    "power": 58,
+    "power": 59,
     "paper": 35
   },
   "items": [
+    {
+      "id": "81d272b280d4904e357a",
+      "title": "熊本地震で停電2万戸超 生活インフラ被災、避難者に熱中症リスク",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T20:45:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTnNqUERJS3k0MURkbHBrLWZ0Y3E0QzhURFdvWGl4SFlfN1dlcHhVYnpmOEIzdFhoTUhGTXJtbUxwRnBJY3lGd0lIUEhtQktWRzNFbzZXV1J5RHZUcVhqY3FuNkhNOTR5R2FnZA?oc=5",
+      "first_seen": "2026-07-29T21:00:21Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "d0c380684869956c6e8a",
       "title": "毎小ニュース:災害 熊本で震度7 死傷者多く イオンモール爆発",
@@ -540,7 +557,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T12:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SUJoSm5jalk4aERyTjdKd0Q4emUzdmx0b0NpNVpXRzF6RTBJQk9WUWxKZXBOYTVuVjFsUl91bjJDZ0FpbTZ1TGZOb3VIWG9CT0xlUjg2aktWSDByX2kxWlNNdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sRHlrTnFhQ1JRcU4tekU4aW1oZl8wSXhodHp0SEdoYzExTURUX2swR0hJSjRseEtGcFlDQzk4eDRQdmcyTXZoOTRrT3FoUlB1X0FmSFJTTmJ0QUNpWjFVc1Vnbw?oc=5",
       "first_seen": "2026-07-29T13:00:18Z",
       "focus": [
         "避難状況",
@@ -1004,7 +1021,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxMWYzYWRabEU3OGNiWngxdnRPemc5YkYwQXFoaVVuZzBaQlN5M2NDSEUtdlUzUVV1alB3cU5WUG9WOVRWaHlpUVhIVkJadmlSVV9Z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
       "first_seen": "2026-07-29T10:01:09Z",
       "focus": [],
       "category_ids": [
@@ -1307,6 +1324,20 @@
       ]
     },
     {
+      "id": "223aac4f7cf969e309d9",
+      "title": "地震発生時、イオンモール内に4千人超 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T08:35:45Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05bExGeGUydm9KazZJT0oxY0Q0THlsS3Y5ZEVCeXZsa2pLS1k1bDMzR2RtT3hjVkpxTklrVnEwR1p5c1lvOHRGNWRRQ2U4TGc?oc=5",
+      "first_seen": "2026-07-29T09:01:08Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "354ab46e4f219f17e732",
       "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー(写真・画像 1/3)",
       "source": "産経新聞",
@@ -1336,20 +1367,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "223aac4f7cf969e309d9",
-      "title": "地震発生時、イオンモール内に3千人 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T08:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05bExGeGUydm9KazZJT0oxY0Q0THlsS3Y5ZEVCeXZsa2pLS1k1bDMzR2RtT3hjVkpxTklrVnEwR1p5c1lvOHRGNWRRQ2U4TGc?oc=5",
-      "first_seen": "2026-07-29T09:01:08Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -5231,7 +5248,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T13:01:08Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNTlBRU9OSE5fT2dHT0ZFNTR3Y2pPV0NqZndmNlFzc3BNT01zc2N4eHc4YktMakJlci1QUmhqQUNIakZPbHNRR2dkdFcwNi1VOEN4ZlJEcGV1ZV94NUR3NVgxMl94X1ZDMi1iWXJzdE1KVThwRGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTZLblUyRDIzcUFXRGVLQTYwQ3liclM5TUZKLVIyb2hnTU1nbDNaNkFfdEdGd0hvMnNUNHJNdmkwanh0LWxNYXZXaEJXWWF3OUx6UFBjMzczWnJhN3dzTTV6Rl9TckU5T19DZVRIbFozRHptS0hUOXhvQ29uVUxnNEtjeU1vUlhjYi1lOWxaUTdLNG1GRURZRHEzdw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -5467,6 +5484,24 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9c08eff98e82f33d6a8e",
+      "title": "【速報】警察関係者によると、崩落したイオンモール熊本で従業員20~30人が安否不明になっているとの情報がある",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T12:18:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4NjdSZ094U2t5THFLYzVfbVkyUDhIazhIWUlUdFR0dmd6ck00SVBJX0pUYklmLXZmUEtsWjFQTUo4V2hWTU0wUmpFLWRNWEl2c1QyOEhfbFRfRmtxVjY5SEY1ZXRFdw?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -6703,24 +6738,6 @@
       "focus": [
         "原因・検証",
         "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "9c08eff98e82f33d6a8e",
-      "title": "警察関係者によると、崩落したイオンモール熊本で従業員20~30人が安否不明になっているとの情報がある",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T01:17:53Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OVkhUTzd4X3RTS1lPczFyeHl3bHFUMU04eHFNWnl0VmFwWm9NckYzUXVrMy1Jd1dTVDdXVkVneUJoclp0UUNnZkJQdFdLbWxadktFdg?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
