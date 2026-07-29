@@ -82,6 +82,16 @@ CATEGORIES = (
         ),
         "熊本 (停電 OR 電源車) after:2026-07-27",
     ),
+    Category(
+        "paper",
+        "日本製紙・八代工場",
+        "煙突崩落、救助・安否、工場被害・操業情報",
+        (
+            '"日本製紙八代工場" after:2026-07-27',
+            '"日本製紙" 八代工場 (煙突 OR 崩落 OR 安否 OR 救助) after:2026-07-27',
+        ),
+        '"日本製紙八代工場" after:2026-07-27',
+    ),
 )
 CATEGORIES_BY_ID = {category.id: category for category in CATEGORIES}
 
@@ -326,11 +336,28 @@ def is_power_report(title: str, description: str) -> bool:
     return has_location and has_power_topic
 
 
+def is_paper_report(title: str, description: str) -> bool:
+    combined = normalize_text(f"{title} {description}")
+    has_facility = "日本製紙八代工場" in combined or (
+        "日本製紙" in combined and "八代" in combined
+    )
+    has_incident_topic = bool(
+        re.search(
+            r"(地震|震度|煙突|崩落|倒壊|折れ|閉じ込|要救助|救助|安否|"
+            r"心肺停止|死者|けが|被害|操業|稼働|生産|停止|復旧)",
+            combined,
+        )
+    )
+    return has_facility and has_incident_topic
+
+
 def is_category_report(category_id: str, title: str, description: str) -> bool:
     if category_id == "aeon":
         return is_aeon_report(title, description)
     if category_id == "power":
         return is_power_report(title, description)
+    if category_id == "paper":
+        return is_paper_report(title, description)
     return False
 
 
@@ -338,13 +365,14 @@ def focus_from_title(title: str) -> list[str]:
     tags: list[str] = []
     rules = (
         (r"(原因|ガス|検証)", "原因・検証"),
-        (r"(救助|安否|閉じ込|下敷き|搬送|けが|死者|不明)", "救助・安否"),
+        (r"(救助|要救助|安否|閉じ込|下敷き|搬送|心肺停止|けが|死者|不明)", "救助・安否"),
         (r"(避難|来店客|従業員)", "避難状況"),
         (r"(証言|地響き|ドーン|爆発音|白煙|煙)", "目撃証言"),
-        (r"(崩落|崩壊|損壊|爆発)", "現場状況"),
+        (r"(煙突|崩落|崩壊|倒壊|損壊|折れ|爆発)", "現場状況"),
         (r"(停電|電力供給|送電停止)", "停電状況"),
         (r"(復旧|送電再開)", "復旧情報"),
         (r"(電源車|非常用電源|代替電源)", "電源車・代替電源"),
+        (r"(操業|稼働|生産|運転停止)", "操業情報"),
     )
     for pattern, label in rules:
         if re.search(pattern, title):
@@ -497,7 +525,7 @@ def empty_snapshot() -> dict[str, Any]:
         "schema_version": 1,
         "updated_at": None,
         "updated_at_jst": None,
-        "query": "熊本地震（イオン爆発／停電・電源車）",
+        "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
         "cadence_minutes": CADENCE_MINUTES,
         "article_count": 0,
         "source_count": 0,
@@ -630,7 +658,7 @@ def make_snapshot(items: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
         "schema_version": 1,
         "updated_at": iso_utc(now),
         "updated_at_jst": jst,
-        "query": "熊本地震（イオン爆発／停電・電源車）",
+        "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
         "cadence_minutes": CADENCE_MINUTES,
         "article_count": len(items),
         "source_count": len(counts),

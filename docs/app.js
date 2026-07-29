@@ -28,6 +28,11 @@
       name: "停電・電源車",
       description: "停電・復旧・代替電源情報",
     },
+    {
+      id: "paper",
+      name: "日本製紙・八代工場",
+      description: "煙突崩落・救助・操業情報",
+    },
   ];
 
   const state = {

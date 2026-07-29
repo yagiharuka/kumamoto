@@ -144,6 +144,47 @@ class ParsingTests(unittest.TestCase):
         self.assertIsNotNone(item)
         self.assertEqual(item["category_ids"], ["power"])
 
+    def test_paper_reports_require_the_yatsushiro_mill_and_incident_topic(self) -> None:
+        self.assertTrue(
+            collect.is_paper_report(
+                "日本製紙八代工場で煙突崩落",
+                "地震で従業員らが閉じ込められ救助活動が続く",
+            )
+        )
+        self.assertTrue(
+            collect.is_paper_report(
+                "工場の操業を停止",
+                "日本製紙の八代工場が地震被害を確認している",
+            )
+        )
+        self.assertFalse(
+            collect.is_paper_report(
+                "日本製紙が決算を発表",
+                "製紙需要の見通しを示した",
+            )
+        )
+        self.assertFalse(
+            collect.is_paper_report(
+                "八代市で煙突が崩落",
+                "別の工場で被害が確認された",
+            )
+        )
+
+    def test_paper_item_gets_paper_category(self) -> None:
+        records = collect.parse_rss(
+            rss_item(
+                title="日本製紙八代工場で煙突崩落 - 時事通信",
+                description="熊本地震で救助活動が続く",
+            )
+        )
+        item = collect.to_item(
+            records[0],
+            datetime(2026, 7, 29, tzinfo=timezone.utc),
+            "paper",
+        )
+        self.assertIsNotNone(item)
+        self.assertEqual(item["category_ids"], ["paper"])
+
     def test_malformed_xml_raises(self) -> None:
         with self.assertRaises(collect.CollectionError):
             collect.parse_rss(b"<rss><broken>")
@@ -248,6 +289,13 @@ class StorageTests(unittest.TestCase):
 
     def test_snapshot_reports_thirty_minute_cadence(self) -> None:
         self.assertEqual(collect.empty_snapshot()["cadence_minutes"], 30)
+
+    def test_snapshot_lists_all_three_categories(self) -> None:
+        category_ids = [
+            category["id"]
+            for category in collect.empty_snapshot()["tracked_categories"]
+        ]
+        self.assertEqual(category_ids, ["aeon", "power", "paper"])
 
     def test_existing_items_are_migrated_to_aeon_category(self) -> None:
         with tempfile.TemporaryDirectory() as directory:

@@ -19,6 +19,12 @@ class HourlyEmailTests(unittest.TestCase):
             "停電・電源車",
         )
 
+    def test_category_text_supports_paper_mill_articles(self) -> None:
+        self.assertEqual(
+            send_email.category_text({"category_ids": ["paper"]}),
+            "日本製紙・八代工場",
+        )
+
     def test_formats_article_time_in_jst(self) -> None:
         self.assertEqual(
             send_email.format_jst("2026-07-28T15:00:00Z"),

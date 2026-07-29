@@ -24,6 +24,7 @@ SITE_URL = "https://yagiharuka.github.io/kumamoto/"
 CATEGORY_LABELS = {
     "aeon": "イオン爆発",
     "power": "停電・電源車",
+    "paper": "日本製紙・八代工場",
 }
 
 
