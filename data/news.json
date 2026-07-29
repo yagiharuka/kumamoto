@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T22:00:47Z",
-  "updated_at_jst": "2026/07/30 07:00 JST",
+  "updated_at": "2026-07-29T22:30:53Z",
+  "updated_at_jst": "2026/07/30 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 414,
+  "article_count": 416,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "mainichi": 53,
     "nikkei": 26,
     "yomiuri": 43,
-    "asahi": 49,
+    "asahi": 51,
     "sankei": 85,
     "jiji": 59,
     "nhk": 27
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 326,
+    "aeon": 328,
     "power": 61,
     "paper": 35
   },
@@ -1151,6 +1151,22 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vU0xxT3RBR3g3NXBJamtWaUwzcFgteUswR0xLcUQ5T2R6SXRuZGVHUmJfcklXMFR1bTBXN3JwNmtDYi1Jczl6MVE2SWdZU0pTbHV5SzdyTVpWcHRvQm9r?oc=5",
       "first_seen": "2026-07-29T09:31:09Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "86a8f376f12b3e8a7349",
+      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T09:23:38Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "first_seen": "2026-07-29T22:30:53Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -5306,6 +5322,23 @@
       ]
     },
     {
+      "id": "c05324b059f7a7b4bfac",
+      "title": "イオンモール熊本の爆発、ガス漏れの可能性? 専門家の見立ては",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T13:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0xhZXBsMkNjR0M3cHpwSG9PU095YjRBbjBFZ2lHdHFMNDM3U1gxcEdXcm9HMTZXel81bl90OHgyWmd4Ulc2RU4yQjRoMWdOeGhWY01DbFJLNVUwMUdQZTduX19ydmVhSjRreDNQc19xUVJra0tEOEpVV19tY19BcjJGS0pVcGc?oc=5",
+      "first_seen": "2026-07-29T22:30:53Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "307f7e07ced63d869f40",
       "title": "イオンモール熊本の爆発、ガス漏れか? 専門家が指摘する可能性 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -5523,24 +5556,6 @@
       ]
     },
     {
-      "id": "9c08eff98e82f33d6a8e",
-      "title": "【速報】警察関係者によると、崩落したイオンモール熊本で従業員20~30人が安否不明になっているとの情報がある",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T12:18:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4NjdSZ094U2t5THFLYzVfbVkyUDhIazhIWUlUdFR0dmd6ck00SVBJX0pUYklmLXZmUEtsWjFQTUo4V2hWTU0wUmpFLWRNWEl2c1QyOEhfbFRfRmtxVjY5SEY1ZXRFdw?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "7bba0b7a5a2315b5bb88",
       "title": "イオンモール熊本、営業休止",
       "source": "朝日新聞",
@@ -5641,7 +5656,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T12:04:57Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CakdhNGRJdTZqOUphRG5jV1h2ZkVsano0UHZyeFp3NXBIRm41QUxQQ05fOTc4QU1MRVMyTlA3LVZnSm5vQi1KUnBIU2xmdk5GeG1KY2g1U2VOdlhSbDB1TjlncUFiaWhPbzViQmdB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWo2YXJEakQ5UDNFTWtwcE1oQ3dVRjhEUXVqOW9EbVRfLWFXcU1abUZBMUpQZ1FUTmdaU05lWGtDcG9JZy03aWwxcGI0NTkzel9URUJqd3c4RUtBZHQxYm9EWkpWeW4yQlRvclV2R2RrU2RHS09UU1Y1LW1jdW1YSUp1cDBQSUVKTUtOcEVn?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否",
@@ -5703,7 +5718,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T12:01:45Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTNQdnYtV2tBd0t5RTBCRTdSXy0tTldfcElJOG1rZFNGM3c4NVhpdjgwWlVHaXRwS3VIQnVoWjdYN3hqYWRja285ZUZ0R2ZUZ3lpejByQWg0WDduN28xUVBLeF9LeGxxbEF2ZHpoVTVkYzBocW54T1pZTDhsMjMtMWR6aFNoRXllNk56dGdKQ3dSWWZ1UEZzeS05Y2swTVdPXzMtRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzdPYVdacVRHX21lTG5rNTRiYXA0RjRVcXpDYmYwTXhmNnB2MlRfZEFtNUJMUk9oRWNUdkNGaG1hN2MtT2lDQXpGcWI5SGFvbDF1WkpSZHBjaVZQRHRvcGVuNmFfejRFaEhKUXNCV2pkbVoxOGFhUTIwWGRKOHBXc0dkQXI3S3FEWHZYalpGdXQwQkVVNVg2UkY2SVJ1dmI2LVJLMQ?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
@@ -6507,7 +6522,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:59:12Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QclNyQ3V6OWMyd2hUY2FGNzRySE1kUW1rZ0gwand6cjBpNFpnazdLOHdQMVotVE1zbWgtemJhMWQxQVRuQ0JyMW1jejVYdWo3OWN0ZQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWm5HUFB5aTRjTXV4R2pYaTZmYzVobGtuM0ttaVZuaGh6RW9CSnU3Y05yWmo4WkkyaDNnWHc2WDBFSDdKdmVGVXUtaUc3bWozRVhTREN3?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
@@ -6604,7 +6619,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGJuWFIteEsxazc0bDBhUkdJRE5UeHkwV0Fncl8tVFJ4YjVSNG9HYXhnNFAydGJkZGhqREV6TnpGaGh4a292YWxkZU5kUEpTQmtORkYxaGNKZjk1Zm9HOW9BTzJyVEI0QW1JQXd3UmVzdTZIQk1DdDNtRDRBVE91RENjUTQ1UVRWd1VHS3dR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFMMElWTGxaYmhVcTNsRUNzVGNGdzlrVG5CblM2N3gwM0U1bjliSFdlaHFqMjYwNlNOZHRjVmlWWDM2Z19ER1p0bjFDUTFScVNVbnk4Y2tCaXJLaWlpNG5QblZUVG9mNU9pd3FGQzVBLVFWN0xzRDhfbDJsVkpwdkJBdUh2aHAwMHdfdU53?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
@@ -6717,7 +6732,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMWMxLVJKZFBSM25MNmVtdkV0anFwX3pvS3lqdGZOMTlESEkxZmNyazVmeUJ2akE2WkZuajkxb0dXdGN6VGlkcHhUaS1QY3EwSjVIVlJHeEJMZHZnSVhZWnJPV3YyaGYwUkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxRXduUnlMUVlMWGJkOC1RSUdFNy1NRno4dnF1SmE5OVBNYlM0cXRrX2VsLXhPWmRWVWFibmpOb0FLRXl0bW82Z05JSmNCdVRfdXR5UUUwVmQ3eEtUdkxIT2d2R2lLLV9yUFE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -6771,6 +6786,24 @@
       "focus": [
         "原因・検証",
         "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9c08eff98e82f33d6a8e",
+      "title": "警察関係者によると、崩落したイオンモール熊本で従業員20~30人が安否不明になっているとの情報がある",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T01:17:53Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OVkhUTzd4X3RTS1lPczFyeHl3bHFUMU04eHFNWnl0VmFwWm9NckYzUXVrMy1Jd1dTVDdXVkVneUJoclp0UUNnZkJQdFdLbWxadktFdg?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
