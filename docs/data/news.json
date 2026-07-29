@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T13:39:56Z",
-  "updated_at_jst": "2026/07/29 22:39 JST",
+  "updated_at": "2026-07-29T13:40:30Z",
+  "updated_at_jst": "2026/07/29 22:40 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 381,
+  "article_count": 382,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,11 +51,11 @@
   "source_counts": {
     "yomiuri": 40,
     "mainichi": 42,
+    "asahi": 41,
     "nikkei": 23,
     "sankei": 83,
-    "jiji": 55,
+    "jiji": 56,
     "kumanichi": 70,
-    "asahi": 41,
     "nhk": 27
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 301,
+    "aeon": 302,
     "power": 50,
     "paper": 33
   },
@@ -109,6 +109,22 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vUmJVb2VTMkJnMGV5Mi1aME9Oa2pMaVpkRnNqUTZXaVYtWVRxOWI5SFRqckUzdWZDRnMwOVkzTGpESUthU3ZSNThOSnFNMnFCNEh6ZlJLZGp0U3RSMGtKcExNNmJSNHZV?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "293561b6eca50cfe56ef",
+      "title": "イオン爆発「内圧高まり、壁ごと破壊」 爆風が伝播か、専門家の見方 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T13:02:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeHAyRWVYT0VfbUo2N0Qtb2hPT20yVjRxZVhhRWphMUxjeGRHNlhDNm8ySFlBck5xejA1WHc2LUY3Yko1OXY4SjJOUEd5WjdQZnk2VGg5eVFuR3JrLUhUeTcxX2wtbjg?oc=5",
+      "first_seen": "2026-07-29T07:00:21Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -288,6 +304,23 @@
       "published_at": "2026-07-29T12:14:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sRHlrTnFhQ1JRcU4tekU4aW1oZl8wSXhodHp0SEdoYzExTURUX2swR0hJSjRseEtGcFlDQzk4eDRQdmcyTXZoOTRrT3FoUlB1X0FmSFJTTmJ0QUNpWjFVc1Vnbw?oc=5",
       "first_seen": "2026-07-29T13:00:18Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "376f1f08702fd4dd8ee5",
+      "title": "◎声詰まらせ「爆発、想定しきれず」=一時避難完了も、悔しさにじませ―イオン社長・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T12:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PTnEybWg2QzFfSVJoZk5WMW9OVWo4clR0VjdEZld5ZGw0Wndyb3NkVjJuSUp5NG5heGhOLTllM2hEZGxqdVR6RFBvd0NhS0ZxMFB5Vw?oc=5",
+      "first_seen": "2026-07-29T13:40:30Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -508,7 +541,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T10:42:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
@@ -962,7 +995,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T08:47:07Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HVEpMRXNOSzlkb0pCSUowanNWMXBQdEFlRXpBbzJpUmp1MXB2eUlXTjE5NWdSZWYtYXpNZHhJTGNDT1k3MUpWekgxTklDY2c5eVZLODJrY3B0UElGU1JCQ3NLUkRkVEg3SW9r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvc215UUdSYnY5aUNJUjlYa0N6bkNCMUJOU2FCYTdQQ1ZxSm5PZ0RvblMyWUFoZWVMb00ta01GNWw1bWhiWE1LOGtuVmdMSldWeDF3M0s5TGVoM2p4cV9CYjRGWmdHOHVuNWc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -2045,22 +2078,6 @@
       "published_at": "2026-07-29T06:02:55Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMzh4TFl1S2RxZE5oYXZVRms4Nnl3Ym1NbVJ2MTBQYURvRDNnVDdmNGVocnpsYlJkc0JrX2s2a0lnVHhtRkpCM2tEOVpxRlNfR1RLd2lDY3BnWHVCdlZZQVN1ZFhtMmM?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "293561b6eca50cfe56ef",
-      "title": "イオン爆発「内圧高まり、壁ごと破壊」 爆風が伝播か、専門家の見方 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T06:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeHAyRWVYT0VfbUo2N0Qtb2hPT20yVjRxZVhhRWphMUxjeGRHNlhDNm8ySFlBck5xejA1WHc2LUY3Yko1OXY4SjJOUEd5WjdQZnk2VGg5eVFuR3JrLUhUeTcxX2wtbjg?oc=5",
-      "first_seen": "2026-07-29T07:00:21Z",
       "focus": [
         "現場状況"
       ],
@@ -4013,6 +4030,23 @@
       ]
     },
     {
+      "id": "bf895cfd1b0a41411549",
+      "title": "地震の影響で折れた日本製紙の八代工場の煙突 =28日午後7時5分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T15:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMG1VcDNkV2dKeTkzemlIYkI1andoTl9HcXYwVkY4WnJrN1dKUUNUQXJzZ2duR3JVczFJUmx5MGtsTHJtckdzYll2c3pKV2E3YXlpbkNOVl9Sa0hQSk1OdW15b0hSTkw1QkhPNVdVb2d2RmdaT3U1bHFpdHJSbGxGNERFZEd5ZEdWQUxBcmo5MWpjRzVweU9WelFoNTVpcWk5VlE?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "aff0ae86adc5acebaba9",
       "title": "写真と映像で追う熊本地震 イオンモール爆発・傾く住宅・橋や石垣崩落",
       "source": "日本経済新聞",
@@ -4598,23 +4632,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "bf895cfd1b0a41411549",
-      "title": "地震の影響で折れた日本製紙の八代工場の煙突=28日午後7時5分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T13:52:13Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmR2QkZ2MXp2RTloUENFZGNoX05oSkY2TWNYalpvSzF3dFZYNDF4ZDBPQWVIVFFmTndyM0dkRExXNkZmaldwMmdIeHByOWJJRDJLakNfNmpmbDdHUlYtaXBPY3ZwY2RCV3J1dlRqel9mMWl3V20xZml1QWQwWS0xR2pFc053QjFFY0UtRmRUa1l0WUM1VTBrWWtoRHdzc0Q0Zmc?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
