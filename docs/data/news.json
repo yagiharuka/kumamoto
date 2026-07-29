@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T16:00:15Z",
-  "updated_at_jst": "2026/07/30 01:00 JST",
+  "updated_at": "2026-07-29T16:30:19Z",
+  "updated_at_jst": "2026/07/30 01:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 390,
@@ -285,7 +285,7 @@
     },
     {
       "id": "b17a5315d23206f8298d",
-      "title": "2026年熊本地震>イオン社長「遺族におわび」 地震後の爆発受け会見 発生時、館内には四千数百人",
+      "title": "2026年熊本地震>イオン社長「遺族におわび」 地震後、嘉島町「イオンモール熊本」の爆発受け会見 発生時、館内には四千数百人",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "1bd1dc8798a609161328",
-      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -2939,7 +2939,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T02:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3ItdkVrcmtfRnhSNzZzdENiXzNOT002X2kzdWNqcXdMMWx2Vm1PaFE0b2ZpazFta3JHazNfd3FSQzVBcE1JX1JFakRGd0EzR1doeU44Z2ktazJ4QWJ1WnBqOFNyQXAxeTBwVnkxNk0zZXFnVGdnWjVLOE5iWk9rVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYm9QTUxhZGJfbW9wdGlaQlBLUWMxQkIweHB5MnVHQ2NMZXY5eFVfWHZRY2NtYm5HYjBUZHpqZDh6bG91cHhTRGFiRk5NSjFkNDlXWlpOaWRtSDNEbl9PTXNfTDBOZGZ5Q3o4Q1pZN1JST3QxNW1VNG5XdGdZX21IUmhR?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "救助・安否",
@@ -5710,7 +5710,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T10:31:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3c0dUVXb1RUOWhuT3owaFVwMTk2OFBJdktFeGRvS0U5c1NiM1hPcHVfWTZ5ZHJXRm1kcWUtakxQNS04QUNRSkIzZVkxZ0xsY0pfal9qeW5DWHU0LVpWaHh6ZDgydG9FcFZqSDNId1JZck5KRGRSaFNYUUdzalJDRk9KOERocHVESC1JVXdrcExpOWhZdHNLZmZqdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odVdDczA1bW9RajlCU2Y1S09RLW1uak1MVFduVF9Tdk9jOS0ta0dhd2t1TnI1SHplRng3a3hlWW5zUzdxX2lvN3VzeWV4X3BRZlpTRlVTNXptelUzV0YyX21qR1JSSkQxMm9yTFY5dmtaS1JMNkE?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "停電状況"
@@ -6201,7 +6201,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGJuWFIteEsxazc0bDBhUkdJRE5UeHkwV0Fncl8tVFJ4YjVSNG9HYXhnNFAydGJkZGhqREV6TnpGaGh4a292YWxkZU5kUEpTQmtORkYxaGNKZjk1Zm9HOW9BTzJyVEI0QW1JQXd3UmVzdTZIQk1DdDNtRDRBVE91RENjUTQ1UVRWd1VHS3dR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFMMElWTGxaYmhVcTNsRUNzVGNGdzlrVG5CblM2N3gwM0U1bjliSFdlaHFqMjYwNlNOZHRjVmlWWDM2Z19ER1p0bjFDUTFScVNVbnk4Y2tCaXJLaWlpNG5QblZUVG9mNU9pd3FGQzVBLVFWN0xzRDhfbDJsVkpwdkJBdUh2aHAwMHdfdU53?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
