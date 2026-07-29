@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T17:00:13Z",
-  "updated_at_jst": "2026/07/30 02:00 JST",
+  "updated_at": "2026-07-29T17:30:12Z",
+  "updated_at_jst": "2026/07/30 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 394,
+  "article_count": 398,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "mainichi": 47,
+    "mainichi": 51,
     "asahi": 42,
     "yomiuri": 42,
     "nikkei": 24,
@@ -76,11 +76,61 @@
     }
   ],
   "category_counts": {
-    "aeon": 311,
+    "aeon": 314,
     "power": 55,
-    "paper": 34
+    "paper": 35
   },
   "items": [
+    {
+      "id": "fdf7d5e0f428837d97f1",
+      "title": "熊本地震、死者13人 イオン・日本製紙、捜索続く 心肺停止5人",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T17:06:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1MW9kUWVvOFhqLWxMMVhRQVMyTUFQaS16ZS1uYjcycGZuYl9EbS16QlZadVF6VktPWFEydTdRdzYwdGE5RVRmYVREVzBYSVUzd1JjQ0NGOHNBak1NMUxwdHF1bUJFN29Y?oc=5",
+      "first_seen": "2026-07-29T17:30:12Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d623d9c845bd6e41d2d5",
+      "title": "熊本地震 客3000人避難後ごう音 イオン社長謝罪「想定外」 従業員3人死亡、3人不明",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T17:04:11Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zRlNUYm9EMTYzbEpJX1NuYVVXRFVKVEFhU014Rmp0TjBIUGgteTdCYldPUUl1T3RtRl9JSDBYRjFMQ1VNUG9TNzVVc3VJUGhUcHFPc3M1OWhuZUJoVEhIUENQTnUwMXM?oc=5",
+      "first_seen": "2026-07-29T17:30:12Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "25e397ff83ed4ff40ad7",
+      "title": "クローズアップ:熊本地震 イオン爆発 ガス充満か 窓ない構造 内圧上昇の見方",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T17:02:10Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1UHFtSzNXdk9WejRTdVBZdTJaRFVaTENNSGd2VlF0emZGV1g0UEV1aGc2dmU5MUF0TjJvSmIxVXZrcVlUUDdXVjRfVEpYcV9obF9QeUR1VkhLbUo5U3R0b3UtOHRCM2ZK?oc=5",
+      "first_seen": "2026-07-29T17:30:12Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "4f850ef30c5bd42621e7",
       "title": "熊本地震 イオンモール爆発 最新状況は",
@@ -223,6 +273,23 @@
       "published_at": "2026-07-29T12:45:29Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMTFREOTZsX3l3cHpUTkhkYzEwYmVtT3RPb1ctVmFPdVVVa1ljS09ocTd2andBRnJCdHcxX3lQUUE4QkhuSFlSWFA4RThaMnc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "254139dde58c28140923",
+      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8700人避難・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T12:37:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
         "避難状況"
@@ -581,23 +648,6 @@
       "published_at": "2026-07-29T10:42:00Z",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
       "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "254139dde58c28140923",
-      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8700人避難・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T10:42:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
-      "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
         "避難状況"
@@ -1244,6 +1294,23 @@
       ]
     },
     {
+      "id": "fd1ea341502ea8208672",
+      "title": "「まさか、あの煙突が折れるなんて」 日本製紙工場 熊本地震 [写真特集2/27]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T08:14:31Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcnhTbFc2cWdtM18yUDMwM1NSX2RuVksxUENEUndBRnJ0cTIyVG1lYWJjYVptNDhLdnpkZWVwM2JlZVZXV1NaSUpzVTJhNGs5R1M5X1BJNHdJcmpEeENJaDZHaHNGdlhrV3Q5RER3YTQxbWg1ZG05TUpKdC01Z1Y0TV83QXotQm8?oc=5",
+      "first_seen": "2026-07-29T17:30:12Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "8851e8c1dba872df3f0a",
       "title": "イオン社長、全国の商業施設で「一斉点検を実施」 熊本で爆発事故",
       "source": "日本経済新聞",
@@ -1585,7 +1652,7 @@
     },
     {
       "id": "1bd1dc8798a609161328",
-      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -6250,7 +6317,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFMMElWTGxaYmhVcTNsRUNzVGNGdzlrVG5CblM2N3gwM0U1bjliSFdlaHFqMjYwNlNOZHRjVmlWWDM2Z19ER1p0bjFDUTFScVNVbnk4Y2tCaXJLaWlpNG5QblZUVG9mNU9pd3FGQzVBLVFWN0xzRDhfbDJsVkpwdkJBdUh2aHAwMHdfdU53?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGJuWFIteEsxazc0bDBhUkdJRE5UeHkwV0Fncl8tVFJ4YjVSNG9HYXhnNFAydGJkZGhqREV6TnpGaGh4a292YWxkZU5kUEpTQmtORkYxaGNKZjk1Zm9HOW9BTzJyVEI0QW1JQXd3UmVzdTZIQk1DdDNtRDRBVE91RENjUTQ1UVRWd1VHS3dR?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
