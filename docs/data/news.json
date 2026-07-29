@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T02:30:21Z",
-  "updated_at_jst": "2026/07/29 11:30 JST",
+  "updated_at": "2026-07-29T02:37:45Z",
+  "updated_at_jst": "2026/07/29 11:37 JST",
   "query": "熊本地震（イオン爆発／停電・電源車）",
   "cadence_minutes": 30,
-  "article_count": 85,
+  "article_count": 86,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,10 +51,10 @@
   "source_counts": {
     "nhk": 9,
     "mainichi": 13,
+    "sankei": 15,
     "jiji": 7,
     "yomiuri": 11,
     "asahi": 10,
-    "sankei": 14,
     "nikkei": 12,
     "kumanichi": 9
   },
@@ -71,10 +71,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 66,
+    "aeon": 67,
     "power": 19
   },
   "items": [
+    {
+      "id": "453484863188494709d3",
+      "title": "イオンモール熊本で爆発 地震でガス漏れか 2人死亡1人心肺停止",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T02:27:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NnhpTkd5bjV3Y1FPR0d6WlRCN1J5bk40eG53N2RiOWdPdEtsMDc4Q0RJRTlRY0I2WTJveFdQcFQ1ai1XeW1ReDJrYU9BcE9pbGczZ1V5WVVWOGlSTEJv?oc=5",
+      "first_seen": "2026-07-28T21:01:00Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "69ab50805ca36cb50e15",
       "title": "【動画】イオンモール熊本の内部映像を公開 警察庁",
@@ -102,6 +119,20 @@
         "避難状況",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c22709c86c65e42e5274",
+      "title": "【動画】鉄骨むき出し、床に建材散乱 イオンモール熊本内部の映像を警察庁が公開",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T02:03:06Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTc2lmQ0hVRTlseEZfaDJTNHltSDdSSTJnTGdqQk1qQXFpUVpCZE1ubDdIUHB4S3pNOEpUVXZQaTNPSjVoTVVQcS1EYUpidjhjN0Z3elhBNEdLWEM2bGN1R2hWWjBxY256MFZPdWxfeTFQX2VVZlE?oc=5",
+      "first_seen": "2026-07-29T02:37:45Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -381,22 +412,6 @@
       ]
     },
     {
-      "id": "453484863188494709d3",
-      "title": "イオンモール熊本で爆発 2人死亡 1人心肺停止 熊本県 | NHKニュース | 令和8年熊本地震、地震、熊本県",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-28T20:32:30Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NnhpTkd5bjV3Y1FPR0d6WlRCN1J5bk40eG53N2RiOWdPdEtsMDc4Q0RJRTlRY0I2WTJveFdQcFQ1ai1XeW1ReDJrYU9BcE9pbGczZ1V5WVVWOGlSTEJv?oc=5",
-      "first_seen": "2026-07-28T21:01:00Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a9b188ad5277fb3d387a",
       "title": "【速報】熊本県によると、イオンモール熊本で20代女性2人の死亡が確認された",
       "source": "時事通信",
@@ -629,7 +644,7 @@
     },
     {
       "id": "4f8835621858f50f07bf",
-      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
+      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
