@@ -84,6 +84,30 @@ def category_text(item: dict[str, Any]) -> str:
     )
 
 
+def primary_category(item: dict[str, Any]) -> str:
+    category_ids = item.get("category_ids")
+    if not isinstance(category_ids, list) or not category_ids:
+        return "aeon"
+    for category_id in CATEGORY_LABELS:
+        if category_id in category_ids:
+            return category_id
+    return str(category_ids[0])
+
+
+def group_items_by_category(
+    items: list[dict[str, Any]],
+) -> list[tuple[str, list[dict[str, Any]]]]:
+    grouped: dict[str, list[dict[str, Any]]] = {}
+    for item in items:
+        category_id = primary_category(item)
+        grouped.setdefault(category_id, []).append(item)
+    ordered_ids = [
+        *[category_id for category_id in CATEGORY_LABELS if category_id in grouped],
+        *[category_id for category_id in grouped if category_id not in CATEGORY_LABELS],
+    ]
+    return [(category_id, grouped[category_id]) for category_id in ordered_ids]
+
+
 def select_unnotified_items(
     items: list[dict[str, Any]],
     after: datetime,
@@ -133,9 +157,9 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
     message["To"] = recipient
 
     if status != "ok":
-        message["Subject"] = f"【熊本イオン報道】更新失敗（{run_at}）"
+        message["Subject"] = f"【熊本地震報道】更新失敗（{run_at}）"
         body = [
-            "熊本イオン報道ウォッチの定期更新に失敗しました。",
+            "熊本地震報道ウォッチの定期更新に失敗しました。",
             "",
             f"実行時刻: {run_at}",
             f"エラー: {result.get('error', '詳細不明')}",
@@ -146,9 +170,9 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
         new_items = result.get("new_items", [])
         new_count = int(result.get("new_count", 0))
         total_count = int(result.get("total_count", 0))
-        message["Subject"] = f"【熊本イオン報道】新着{new_count}件（{run_at}）"
+        message["Subject"] = f"【熊本地震報道】新着{new_count}件（{run_at}）"
         body = [
-            "熊本イオン報道ウォッチを更新しました。",
+            "熊本地震報道ウォッチを更新しました。",
             "",
             f"実行時刻: {run_at}",
             f"今回の新着: {new_count}件",
@@ -157,17 +181,20 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
         ]
         if new_items:
             body.extend(["", "新着記事"])
-            for index, item in enumerate(new_items[:25], start=1):
-                body.extend(
-                    [
-                        "",
-                        f"{index}. [{category_text(item)}｜{item['source']}] {item['title']}",
-                        f"   公開: {format_jst(item.get('published_at'))}",
-                        f"   {item['url']}",
-                    ]
-                )
-            if len(new_items) > 25:
-                body.extend(["", f"ほか {len(new_items) - 25}件は公開ページで確認できます。"])
+            index = 1
+            for category_id, category_items in group_items_by_category(new_items):
+                label = CATEGORY_LABELS.get(category_id, category_id)
+                body.extend(["", f"■ {label}（{len(category_items)}件）"])
+                for item in category_items:
+                    body.extend(
+                        [
+                            "",
+                            f"{index}. [{category_text(item)}｜{item['source']}] {item['title']}",
+                            f"   公開: {format_jst(item.get('published_at'))}",
+                            f"   {item['url']}",
+                        ]
+                    )
+                    index += 1
         warnings = result.get("warnings") or []
         if warnings:
             body.extend(["", f"取得警告: {len(warnings)}件（一部媒体の検索が遅延した可能性があります）"])

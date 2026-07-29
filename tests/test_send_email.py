@@ -71,6 +71,44 @@ class HourlyEmailTests(unittest.TestCase):
 
         self.assertEqual(selected, [])
 
+    def test_email_groups_all_categories_and_does_not_truncate(self) -> None:
+        items = []
+        for index in range(30):
+            category_id = "aeon"
+            if index == 28:
+                category_id = "power"
+            elif index == 29:
+                category_id = "paper"
+            items.append(
+                {
+                    "category_ids": [category_id],
+                    "source": "NHK",
+                    "title": f"記事{index + 1}",
+                    "published_at": "2026-07-29T00:00:00Z",
+                    "url": f"https://example.com/{index + 1}",
+                }
+            )
+
+        message = send_email.build_message(
+            {
+                "status": "ok",
+                "run_at_jst": "2026/07/29 10:00 JST",
+                "new_count": len(items),
+                "total_count": 200,
+                "new_items": items,
+            },
+            "sender@example.com",
+            "recipient@example.com",
+        )
+        body = message.get_content()
+
+        self.assertIn("【熊本地震報道】", str(message["Subject"]))
+        self.assertIn("■ イオン爆発（28件）", body)
+        self.assertIn("■ 停電・電源車（1件）", body)
+        self.assertIn("■ 日本製紙・八代工場（1件）", body)
+        self.assertIn("30. [日本製紙・八代工場｜NHK] 記事30", body)
+        self.assertNotIn("ほか 5件", body)
+
 
 if __name__ == "__main__":
     unittest.main()
