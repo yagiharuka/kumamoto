@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T14:00:12Z",
-  "updated_at_jst": "2026/07/29 23:00 JST",
+  "updated_at": "2026-07-29T14:30:20Z",
+  "updated_at_jst": "2026/07/29 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 383,
+  "article_count": 385,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "nikkei": 24,
     "yomiuri": 40,
-    "nikkei": 23,
     "mainichi": 43,
     "asahi": 41,
-    "sankei": 83,
+    "sankei": 84,
     "jiji": 56,
     "kumanichi": 70,
     "nhk": 27
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 303,
-    "power": 51,
+    "aeon": 304,
+    "power": 52,
     "paper": 33
   },
   "items": [
+    {
+      "id": "4989cd804229aa729b3e",
+      "title": "熊本県の54医療機関で停電、断水 82高齢者施設も被害",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T14:25:25Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2VNdGFieXVId1hyZGs0NVJNbzRxX3oyMlpvbkFfUjFOdG9tWVJaZmpqbENHb1Z3MGxBUmZoQWtJSG5IQnhsRlc3eFExN01jaDdCWWJZLUY2dU5aR1NiQkkyMzNPWUFGZm9HYQ?oc=5",
+      "first_seen": "2026-07-29T14:30:20Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "a50e1fa7f56c30c1ad7b",
       "title": "熊本地震の死者12人、心肺停止6人に...イオンモール爆発で木原官房長官「ガス臭がしたという報告」",
@@ -209,6 +225,23 @@
       "focus": [
         "救助・安否",
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c6d12048687a82c162d2",
+      "title": "耳をつんざく爆音と白煙 イオンモール熊本、証言で振り返る緊迫の避難誘導と残された8人(写真・画像 1/2)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T12:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLVN0WG9iX1M4Z2dVTlM5TVFsdW55Wi1xSkg3V1ctLXZwNDE1ejdISzkwQzlnUHpUV0N3aTFVOVFuODZJVGh2Y1FUX3ZGekd6Zmp4aFZ0MWx0WllwTU1VR2xtZWsxVW5jVTFoQUFoYkh1QlNzcWhtNjRhdk53TzJZWWluLUJ0REluUC1uSXdwOHYwTDRaaHEzMWV0ZmxJOThXM2c?oc=5",
+      "first_seen": "2026-07-29T14:30:20Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -495,6 +528,22 @@
       "published_at": "2026-07-29T11:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMmd0WV94dS1LQm5fMFRHTi11T1RNLVNZdTd5TDV5eVZ6SEpHWl8wMUlaUlZxZnBJYllrUzdlcFVXVHl4c21jQzhRUV9Mekcyam41RlhCM2tEZGFXemxEU1F2M2xLTkw1Z201anVsR0FNeHBOZlE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cda8b1d58e17106fd830",
+      "title": "イオン社長謝罪、爆発想定できず 地震時4000人が館内に(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T11:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVUp4Sk9sRnp5Y3V3dUdZbnpoT05ublViSlpqU0xLeU01cDBYZXpDTTVKQldORmg0Z0hhTUQySHo4UzZPd2hsX2k5TktwQ3c?oc=5",
+      "first_seen": "2026-07-29T08:31:04Z",
       "focus": [
         "現場状況"
       ],
@@ -1126,6 +1175,22 @@
       ]
     },
     {
+      "id": "e6eb2d7441e1a8f8a5de",
+      "title": "天井崩落、床一面に資材 イオンと日本製紙内部映像(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T08:25:45Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83aUR0YlFaY0R4eE1ROXJRYXpIOEdjeWs2cUZfaEpURzNqMFBfa3R5OHBzeTRsT3JqaU1IRHNybXNQWTM4eGcyZXF0NUhVZ0k?oc=5",
+      "first_seen": "2026-07-29T08:31:04Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "12550c9001269077e709",
       "title": "放射線量データ、熊本県内6か所で確認できない状態に...停電の影響か",
       "source": "読売新聞",
@@ -1182,22 +1247,6 @@
       "published_at": "2026-07-29T08:12:55Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNUJBdlRMRjRuXzdQNVZaYkZoUE52a1cwSVE3TlBsdWtvMjFZLWx4ZV8xemJqaWVfLWktTWljMjQ4MTBORlN1a3JTb01zdlUwdVpQSExXaEd2dk10akd5amR3RGp1bks4aklVVw?oc=5",
       "first_seen": "2026-07-29T10:01:09Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "e6eb2d7441e1a8f8a5de",
-      "title": "天井崩落、床一面に資材 イオンと日本製紙内部映像(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T08:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83aUR0YlFaY0R4eE1ROXJRYXpIOEdjeWs2cUZfaEpURzNqMFBfa3R5OHBzeTRsT3JqaU1IRHNybXNQWTM4eGcyZXF0NUhVZ0k?oc=5",
-      "first_seen": "2026-07-29T08:31:04Z",
       "focus": [
         "現場状況"
       ],
@@ -1281,20 +1330,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-29T08:09:42Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kNC13QV9UckhMdWhSbkpwdUVMeU5TcVoyMEo3RFIxS3Z1bjhhVjNLQU5NbDJpdUFsUDRNZTNrMVFuaGtFdDlTN0dMemhoaHNzLUlvY1dxaUtqV3lXdS1wR0lMRjBTOHB1?oc=5",
-      "first_seen": "2026-07-29T08:31:04Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "cda8b1d58e17106fd830",
-      "title": "イオン社長「深くおわび」 熊本市で記者会見(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T08:06:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVUp4Sk9sRnp5Y3V3dUdZbnpoT05ublViSlpqU0xLeU01cDBYZXpDTTVKQldORmg0Z0hhTUQySHo4UzZPd2hsX2k5TktwQ3c?oc=5",
       "first_seen": "2026-07-29T08:31:04Z",
       "focus": [],
       "category_ids": [
@@ -5589,7 +5624,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T10:31:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odVdDczA1bW9RajlCU2Y1S09RLW1uak1MVFduVF9Tdk9jOS0ta0dhd2t1TnI1SHplRng3a3hlWW5zUzdxX2lvN3VzeWV4X3BRZlpTRlVTNXptelUzV0YyX21qR1JSSkQxMm9yTFY5dmtaS1JMNkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3c0dUVXb1RUOWhuT3owaFVwMTk2OFBJdktFeGRvS0U5c1NiM1hPcHVfWTZ5ZHJXRm1kcWUtakxQNS04QUNRSkIzZVkxZ0xsY0pfal9qeW5DWHU0LVpWaHh6ZDgydG9FcFZqSDNId1JZck5KRGRSaFNYUUdzalJDRk9KOERocHVESC1JVXdrcExpOWhZdHNLZmZqdw?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "停電状況"
@@ -6107,7 +6142,7 @@
     },
     {
       "id": "ceec8a3bdc2570301aef",
-      "title": "イオン社長「ご遺族に深く深くおわび」 爆発事故での死者は計3人に [2026年熊本地震]",
+      "title": "イオンモール爆発事故、死者は5人に 新たに2人死亡確認 熊本地震",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
