@@ -157,7 +157,7 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
     message["To"] = recipient
 
     if status != "ok":
-        message["Subject"] = f"【熊本地震報道】更新失敗（{run_at}）"
+        message["Subject"] = f"【熊本イオン報道】更新失敗（{run_at}）"
         body = [
             "熊本地震報道ウォッチの定期更新に失敗しました。",
             "",
@@ -170,7 +170,7 @@ def build_message(result: dict[str, Any], sender: str, recipient: str) -> EmailM
         new_items = result.get("new_items", [])
         new_count = int(result.get("new_count", 0))
         total_count = int(result.get("total_count", 0))
-        message["Subject"] = f"【熊本地震報道】新着{new_count}件（{run_at}）"
+        message["Subject"] = f"【熊本イオン報道】新着{new_count}件（{run_at}）"
         body = [
             "熊本地震報道ウォッチを更新しました。",
             "",
