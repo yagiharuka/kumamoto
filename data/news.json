@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T11:31:03Z",
-  "updated_at_jst": "2026/07/29 20:31 JST",
+  "updated_at": "2026-07-29T12:01:02Z",
+  "updated_at_jst": "2026/07/29 21:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 222,
+  "article_count": 223,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "asahi": 22,
     "yomiuri": 26,
     "kumanichi": 55,
-    "asahi": 22,
-    "jiji": 16,
+    "jiji": 17,
     "sankei": 33,
     "nikkei": 19,
     "mainichi": 24,
@@ -78,9 +78,41 @@
   "category_counts": {
     "aeon": 160,
     "power": 39,
-    "paper": 25
+    "paper": 26
   },
   "items": [
+    {
+      "id": "c273c00b8bbc3bef76c0",
+      "title": "「地震の予測的中」「イオン爆発の瞬間」 熊本地震で相次ぐデマ投稿",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T11:27:19Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUFEyOGJhcnlBM3kzZkFsRFltT3Q0ek5HQkQ5UUpDbWgzMHNYNEJlMnlRdUpPY2drZHBjWEo2RjhIVG9YeWctQjd5cEx0ZkVEZ2VpbnM0T2MtRlI1WExELUhwQUg5cFk?oc=5",
+      "first_seen": "2026-07-29T09:01:08Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "16534565d891674cedaa",
+      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T11:26:10Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVVhHRHdHejFseTU3Q09GSERiaWlaQjhBdjFoaUZhaVpDOW1vUXdMbEFJUWxyY19QQnB4TUtnMmNLYzBQTk1zYld3eWJnVnJHbnRia0NJdGI5d2x6ODhMdk1XdlRWdmM?oc=5",
+      "first_seen": "2026-07-29T08:31:04Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "fbf451ad28d02a0529d1",
       "title": "熊本地震で爆発事故、イオン吉田社長「想定しきれなかった」「従業員が館内に戻った理由わからない」",
@@ -130,22 +162,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "16534565d891674cedaa",
-      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T10:45:43Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVVhHRHdHejFseTU3Q09GSERiaWlaQjhBdjFoaUZhaVpDOW1vUXdMbEFJUWxyY19QQnB4TUtnMmNLYzBQTk1zYld3eWJnVnJHbnRia0NJdGI5d2x6ODhMdk1XdlRWdmM?oc=5",
-      "first_seen": "2026-07-29T08:31:04Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -313,22 +329,6 @@
       ]
     },
     {
-      "id": "8851e8c1dba872df3f0a",
-      "title": "イオン社長、全国の商業施設で「一斉点検を実施」 熊本で爆発事故",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T09:40:07Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNUJBdlRMRjRuXzdQNVZaYkZoUE52a1cwSVE3TlBsdWtvMjFZLWx4ZV8xemJqaWVfLWktTWljMjQ4MTBORlN1a3JTb01zdlUwdVpQSExXaEd2dk10akd5amR3RGp1bks4aklVVw?oc=5",
-      "first_seen": "2026-07-29T10:01:09Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4e70601109e3ba761ab5",
       "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
       "source": "読売新聞",
@@ -357,6 +357,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "337937371ce94ad9760c",
+      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T09:37:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEZmF5REZjUmgwQVRUc19OR1JfT2NoYXMteGExU3ZhZThDWklVTDRrRnZESDJOYzdqWS1xODF5dlN4eTRhWVB1d0pDWXhjSG5RVlB0blVFRGt2Nmp5WThmTm91Qzc?oc=5",
+      "first_seen": "2026-07-29T12:01:02Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -519,6 +536,22 @@
       ]
     },
     {
+      "id": "8851e8c1dba872df3f0a",
+      "title": "イオン社長、全国の商業施設で「一斉点検を実施」 熊本で爆発事故",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T08:12:55Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNUJBdlRMRjRuXzdQNVZaYkZoUE52a1cwSVE3TlBsdWtvMjFZLWx4ZV8xemJqaWVfLWktTWljMjQ4MTBORlN1a3JTb01zdlUwdVpQSExXaEd2dk10akd5amR3RGp1bks4aklVVw?oc=5",
+      "first_seen": "2026-07-29T10:01:09Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e6eb2d7441e1a8f8a5de",
       "title": "天井崩落、床一面に資材 イオンと日本製紙内部映像(共同通信)",
       "source": "熊本日日新聞",
@@ -656,22 +689,6 @@
       "first_seen": "2026-07-29T08:31:04Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c273c00b8bbc3bef76c0",
-      "title": "「地震の予測的中」「イオン爆発の瞬間」 熊本地震で相次ぐデマ投稿",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUFEyOGJhcnlBM3kzZkFsRFltT3Q0ek5HQkQ5UUpDbWgzMHNYNEJlMnlRdUpPY2drZHBjWEo2RjhIVG9YeWctQjd5cEx0ZkVEZ2VpbnM0T2MtRlI1WExELUhwQUg5cFk?oc=5",
-      "first_seen": "2026-07-29T09:01:08Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -2070,7 +2087,7 @@
     },
     {
       "id": "453484863188494709d3",
-      "title": "イオンモール熊本爆発 県「10人救助うち3人死亡 1人心肺停止」",
+      "title": "イオンモール熊本 爆発 複数人取り残されか 夜通し捜索へ",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -2078,7 +2095,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NnhpTkd5bjV3Y1FPR0d6WlRCN1J5bk40eG53N2RiOWdPdEtsMDc4Q0RJRTlRY0I2WTJveFdQcFQ1ai1XeW1ReDJrYU9BcE9pbGczZ1V5WVVWOGlSTEJv?oc=5",
       "first_seen": "2026-07-28T21:01:00Z",
       "focus": [
-        "救助・安否",
         "現場状況"
       ],
       "category_ids": [
