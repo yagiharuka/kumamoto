@@ -116,7 +116,13 @@ def select_unnotified_items(
     selected = []
     for item in items:
         first_seen = parse_utc(item.get("first_seen"))
-        if first_seen is not None and after < first_seen <= through:
+        published_at = parse_utc(item.get("published_at"))
+        if (
+            first_seen is not None
+            and published_at is not None
+            and after < first_seen <= through
+            and after < published_at <= through
+        ):
             selected.append(item)
     return sorted(
         selected,
