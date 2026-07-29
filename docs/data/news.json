@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T22:30:53Z",
-  "updated_at_jst": "2026/07/30 07:30 JST",
+  "updated_at": "2026-07-29T23:00:47Z",
+  "updated_at_jst": "2026/07/30 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 416,
+  "article_count": 417,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nhk": 28,
     "kumanichi": 72,
     "mainichi": 53,
     "nikkei": 26,
     "yomiuri": 43,
     "asahi": 51,
     "sankei": 85,
-    "jiji": 59,
-    "nhk": 27
+    "jiji": 59
   },
   "tracked_categories": [
     {
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 328,
+    "aeon": 329,
     "power": 61,
     "paper": 35
   },
   "items": [
+    {
+      "id": "18a009c45b5075f5542a",
+      "title": "イオンモール熊本 夜通しで がれきの撤去と捜索続く 嘉島町",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T22:12:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpMnJLVFNMU3d4MUwyazFXQ3BrZGlCa21lRnhDdkV5bzFJUXJIVkU4Vk42Ry1TUmlxVzEzOGs5ck1ETWVjcnBZSi10Mm5MWkphMzZ4X2ViR2k?oc=5",
+      "first_seen": "2026-07-29T23:00:47Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "416b327ad6f96c2d47a4",
       "title": "【速報】熊本県内の停電、復旧の見込み「確認中」 九州電力が訂正 26年熊本地震",
@@ -6112,7 +6126,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T10:31:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3c0dUVXb1RUOWhuT3owaFVwMTk2OFBJdktFeGRvS0U5c1NiM1hPcHVfWTZ5ZHJXRm1kcWUtakxQNS04QUNRSkIzZVkxZ0xsY0pfal9qeW5DWHU0LVpWaHh6ZDgydG9FcFZqSDNId1JZck5KRGRSaFNYUUdzalJDRk9KOERocHVESC1JVXdrcExpOWhZdHNLZmZqdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odVdDczA1bW9RajlCU2Y1S09RLW1uak1MVFduVF9Tdk9jOS0ta0dhd2t1TnI1SHplRng3a3hlWW5zUzdxX2lvN3VzeWV4X3BRZlpTRlVTNXptelUzV0YyX21qR1JSSkQxMm9yTFY5dmtaS1JMNkE?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "停電状況"
