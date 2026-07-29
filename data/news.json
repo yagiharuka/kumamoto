@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T18:30:11Z",
-  "updated_at_jst": "2026/07/30 03:30 JST",
+  "updated_at": "2026-07-29T19:00:13Z",
+  "updated_at_jst": "2026/07/30 04:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 399,
+  "article_count": 400,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "mainichi": 51,
     "asahi": 42,
     "yomiuri": 42,
-    "nikkei": 24,
+    "nikkei": 25,
     "sankei": 84,
     "jiji": 59,
     "kumanichi": 70,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 316,
+    "aeon": 317,
     "power": 55,
     "paper": 35
   },
@@ -137,7 +137,7 @@
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-07-29T16:52:30Z",
+      "published_at": "2026-07-29T16:56:25Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQzZKeWhpSExuV3JlM3pTVS0zRmJRZE1hOGJ2RTRkNFBxSm02emhUVUZ0aTVwcmNHaWRhNnptb2twa3RZTFByTWxwZ0NfN0I0MDV2bVJxS0dReFFMYkFVUDAwQ2RUMlpL?oc=5",
       "first_seen": "2026-07-29T17:00:13Z",
       "focus": [
@@ -1620,22 +1620,6 @@
       ]
     },
     {
-      "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-29T07:52:55Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMHdQQkVGMnZlMWR1SWMzaFpOR1BYR2lHbG5HMmlqWUNudW5IU3pDdWtzSzE3R1BkRmVzYlNvdEJ0M1ZOazhocDZfQ2lJdXJjWVlEV3NycUxfNEV3dTNZ?oc=5",
-      "first_seen": "2026-07-29T07:00:21Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "966bf88b4b88eb97dc6b",
       "title": "◎爆発事故で3人死亡、「深くおわび」=イオン社長が謝罪―熊本地震",
       "source": "時事通信",
@@ -2478,7 +2462,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T05:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44UDM1dzN6UVd2SnhDMHlLaVRLU2VuS1B6Q3QwTFlzc2xCOHFzMVBMODdhZmRoR0tUSjJVUTVIejc3NkJMSzZXRkVUQkJJSmhsMUhsUnVLbFpIVFFNY0ZoYlBUYkpCelozNXhz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRElRbTJnbnF5QTdkQWI1T2otOWg1dzhEZXlmSTZ5RE1wTXZqVVJsZENrU2lkN2F4RzVIckN6WEc5V3JZQ29leDFwOU8tQXhJelE1WmFZaFMwckZud0RieDd3OHVsQWpZNEIxWQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -4329,6 +4313,23 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOHhabWJsWnBGNmVBNjFmUE5aUkJzT216WmVxU0dZdlg4dENKSjIya29mZloxMTFMd1RubVRfb0tMRV81T0k1ZnhITjA3em9naGNhS1ZRR1hqWUVmNS1ibGRQbzBzbnVCSlhEeg?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f5b92cf755540b5c1ed9",
+      "title": "写真で追う熊本地震 イオンモールで爆発、折れた煙突",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T15:51:03Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GNlBlZG1YZkU5T0Zlc1dTaU1CaFVjenN2dm92X3BvRVduWFBBMDZWbFJOV1ZOcnBKTzQ3d3hQT0M4Nmw0aDhhZzVRdlJsQTZpT0ZMaHNQcHFWSEE5MGlUdlJReG12UUdsYk9rVg?oc=5",
+      "first_seen": "2026-07-29T19:00:13Z",
+      "focus": [
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -6194,6 +6195,22 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "02cb01a83233371123e7",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T09:20:10Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMHdQQkVGMnZlMWR1SWMzaFpOR1BYR2lHbG5HMmlqWUNudW5IU3pDdWtzSzE3R1BkRmVzYlNvdEJ0M1ZOazhocDZfQ2lJdXJjWVlEV3NycUxfNEV3dTNZ?oc=5",
+      "first_seen": "2026-07-29T07:00:21Z",
+      "focus": [
+        "救助・安否"
       ],
       "category_ids": [
         "paper"
