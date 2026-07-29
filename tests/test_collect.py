@@ -6,6 +6,7 @@ import tempfile
 import unittest
 from datetime import datetime, timezone
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -195,6 +196,35 @@ class ParsingTests(unittest.TestCase):
         self.assertIn("gl=JP", url)
         self.assertIn("ceid=JP%3Aja", url)
         self.assertIn("%E7%86%8A%E6%9C%AC", url)
+
+
+class CollectionTests(unittest.TestCase):
+    def test_every_outlet_gets_a_targeted_search_each_cycle(self) -> None:
+        broad_record = collect.parse_rss(
+            rss_item(
+                source="毎日新聞",
+                title="イオンモール熊本で爆発 - 毎日新聞",
+            )
+        )[0]
+        category = collect.CATEGORIES_BY_ID["aeon"]
+        now = datetime(2026, 7, 29, tzinfo=timezone.utc)
+
+        with patch(
+            "collect.fetch_queries",
+            side_effect=[
+                ([broad_record], [], len(category.broad_queries)),
+                ([], [], len(collect.OUTLETS)),
+            ],
+        ) as mocked_fetch:
+            collect.collect_category(category, now)
+
+        targeted_queries = list(mocked_fetch.call_args_list[1].args[0])
+        self.assertEqual(len(targeted_queries), len(collect.OUTLETS))
+        for outlet in collect.OUTLETS:
+            self.assertIn(
+                f"{category.supplement_query} site:{outlet.domain}",
+                targeted_queries,
+            )
 
 
 class MergeTests(unittest.TestCase):
