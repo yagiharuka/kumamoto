@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T17:30:12Z",
-  "updated_at_jst": "2026/07/30 02:30 JST",
+  "updated_at": "2026-07-29T18:00:14Z",
+  "updated_at_jst": "2026/07/30 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 398,
+  "article_count": 399,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "yomiuri": 42,
     "nikkei": 24,
     "sankei": 84,
-    "jiji": 58,
+    "jiji": 59,
     "kumanichi": 70,
     "nhk": 27
   },
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 314,
+    "aeon": 316,
     "power": 55,
     "paper": 35
   },
@@ -351,7 +351,7 @@
     },
     {
       "id": "ce7c399f67603a15acee",
-      "title": "「爆発事故の想定なし」「従業員は戻らないルール」 イオン側会見で強調",
+      "title": "<2026年熊本地震>「爆発事故の想定なし」「従業員は戻らないルール」 イオン側会見で強調",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -932,6 +932,23 @@
       "published_at": "2026-07-29T09:28:40Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V1FRVzlwenJoNnVya0JHVW9MWG55djBuZncxeVJESm5iVHN2cTNreFYyTW1qX3JONXNhUmt0QWlmQk43dTdac2ZFOHphY1RBMjZKN2JwVnBGVXVzQjh1SjlDVF9VM25v?oc=5",
       "first_seen": "2026-07-29T11:01:02Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d59bea51ae05eda415b1",
+      "title": "3人死亡、「深くおわび」=当日3000人利用、客全員避難―爆発巡りイオン社長会見・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T09:26:37Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vTHFEWlJPZWJmeWJfQlBvM2ZPQzRaMlNRYm5SZHFmVkFCS0FJVnIxZzRBMmstNTRrellaalVjNWFoY2MwMjVoR0pvZXdZcGxsM0g1YQ?oc=5",
+      "first_seen": "2026-07-29T18:00:14Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -2461,7 +2478,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T05:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRElRbTJnbnF5QTdkQWI1T2otOWg1dzhEZXlmSTZ5RE1wTXZqVVJsZENrU2lkN2F4RzVIckN6WEc5V3JZQ29leDFwOU8tQXhJelE1WmFZaFMwckZud0RieDd3OHVsQWpZNEIxWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44UDM1dzN6UVd2SnhDMHlLaVRLU2VuS1B6Q3QwTFlzc2xCOHFzMVBMODdhZmRoR0tUSjJVUTVIejc3NkJMSzZXRkVUQkJJSmhsMUhsUnVLbFpIVFFNY0ZoYlBUYkpCelozNXhz?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -3055,7 +3072,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T02:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3ItdkVrcmtfRnhSNzZzdENiXzNOT002X2kzdWNqcXdMMWx2Vm1PaFE0b2ZpazFta3JHazNfd3FSQzVBcE1JX1JFakRGd0EzR1doeU44Z2ktazJ4QWJ1WnBqOFNyQXAxeTBwVnkxNk0zZXFnVGdnWjVLOE5iWk9rVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYm9QTUxhZGJfbW9wdGlaQlBLUWMxQkIweHB5MnVHQ2NMZXY5eFVfWHZRY2NtYm5HYjBUZHpqZDh6bG91cHhTRGFiRk5NSjFkNDlXWlpOaWRtSDNEbl9PTXNfTDBOZGZ5Q3o4Q1pZN1JST3QxNW1VNG5XdGdZX21IUmhR?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "救助・安否",
@@ -3744,6 +3761,7 @@
         "停電状況"
       ],
       "category_ids": [
+        "aeon",
         "power"
       ]
     },
@@ -4588,7 +4606,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T14:48:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOc3k1VXJ0WWxpR1llVFZfRkJEeVdhVEdTWmNOSzFIM2Zlb3czNVRDM2IteDlPMDdxVDdRaVVZUUQ0SVBrTkJ2NHQxVHJ0dll1SVgxQ2RnS3ZmZUxGYTJYTk9EdDFTeVZvYXhIaFJYc1Q3d3NWbld3dUJYdXoyR1V2eGplRmtWNEIxUUlTZUNZOWhjUEE0SDNIZVJ6MmhUWU9oM2M0TTVnQm5OdDBpRnNUM1l1U2VWcXMtQ0FJSUxfbmpha1UtMDljZ2EwSFp3djNqVVpmOVJsUEhwT1lCTTNMUnJySFhXZ1J1SHlxTzhxTjg1THY0M3Bjd0tNVnN2emR0NWFkcTB5Vi0?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
