@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T02:13:56Z",
-  "updated_at_jst": "2026/07/29 11:13 JST",
+  "updated_at": "2026-07-29T02:30:21Z",
+  "updated_at_jst": "2026/07/29 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車）",
   "cadence_minutes": 30,
-  "article_count": 82,
+  "article_count": 85,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nhk": 9,
+    "mainichi": 13,
+    "jiji": 7,
     "yomiuri": 11,
-    "jiji": 6,
     "asahi": 10,
     "sankei": 14,
-    "mainichi": 12,
     "nikkei": 12,
-    "kumanichi": 9,
-    "nhk": 8
+    "kumanichi": 9
   },
   "tracked_categories": [
     {
@@ -71,10 +71,55 @@
     }
   ],
   "category_counts": {
-    "aeon": 63,
+    "aeon": 66,
     "power": 19
   },
   "items": [
+    {
+      "id": "69ab50805ca36cb50e15",
+      "title": "【動画】イオンモール熊本の内部映像を公開 警察庁",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T02:17:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRMTI5OHV4eEhoYjVNelFwZGt6OWViTVloTTBBbVgwSWtxU2NSSVBacmJnT3psUjlVSHhQMW1kOXBISEhJMThFWDB2UkRXUTVPOC1CVnNzbXpPVWRvWUc0?oc=5",
+      "first_seen": "2026-07-29T02:30:21Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d29557c1c241da7db03a",
+      "title": "「中に戻っていく人いた、心配」 避難の店員語るイオン熊本爆発",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T02:03:56Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIUUNTR2xWdDRVMDZ5ZUZsVGdiZ2tuZmdwUkRldkxhMzZsRE51Q1JCNi1SY3RoM0xhLWhtZTFScThJV180bUJBdEdIcDgzczdxbkZlUWRmMjJPQ184a3VaUjMtZVhBUXBy?oc=5",
+      "first_seen": "2026-07-29T02:30:21Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "026f12ca1e284e079acb",
+      "title": "イオン周辺、がれき散乱 知人の無事願う人も―熊本・嘉島町",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T01:54:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBORUNvUVVHeHJGellVbFlJaE10T2swd1dqYTI1QW1UUG5aWGY5WThrUG5ycElTWkVNT3phTzBtVkY4RDVaZS1pd080N2wwMUE2Wkl4c2xVWTM5UTB0Y2wxMGJUVQ?oc=5",
+      "first_seen": "2026-07-29T02:30:21Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "b3c98c4f4a00e7f8b6a3",
       "title": "崩落のイオンモール熊本、これまでに8人救助...2人死亡・1人心肺停止",
@@ -584,7 +629,7 @@
     },
     {
       "id": "4f8835621858f50f07bf",
-      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -716,7 +761,7 @@
     },
     {
       "id": "2a46bccd7fa4ffea2998",
-      "title": "医療機関にけが人次々 停電や断水で診療に影響も",
+      "title": "<2026熊本地震>医療機関にけが人次々 停電や断水で診療に影響も",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
