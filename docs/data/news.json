@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T15:00:13Z",
-  "updated_at_jst": "2026/07/30 00:00 JST",
+  "updated_at": "2026-07-29T15:30:19Z",
+  "updated_at_jst": "2026/07/30 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 388,
+  "article_count": 390,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,11 +51,11 @@
   "source_counts": {
     "yomiuri": 41,
     "nikkei": 24,
-    "mainichi": 45,
-    "asahi": 41,
+    "mainichi": 46,
     "sankei": 84,
-    "jiji": 56,
+    "jiji": 57,
     "kumanichi": 70,
+    "asahi": 41,
     "nhk": 27
   },
   "tracked_categories": [
@@ -76,8 +76,8 @@
     }
   ],
   "category_counts": {
-    "aeon": 306,
-    "power": 54,
+    "aeon": 307,
+    "power": 55,
     "paper": 34
   },
   "items": [
@@ -116,7 +116,7 @@
     },
     {
       "id": "a50e1fa7f56c30c1ad7b",
-      "title": "熊本地震の死者12人、心肺停止6人に...イオンモール爆発で木原官房長官「ガス臭がしたという報告」",
+      "title": "熊本地震の死者12人、心肺停止6人に...イオンモール爆発でガス漏れに引火の可能性",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
@@ -142,22 +142,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vUmJVb2VTMkJnMGV5Mi1aME9Oa2pMaVpkRnNqUTZXaVYtWVRxOWI5SFRqckUzdWZDRnMwOVkzTGpESUthU3ZSNThOSnFNMnFCNEh6ZlJLZGp0U3RSMGtKcExNNmJSNHZV?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "293561b6eca50cfe56ef",
-      "title": "イオン爆発「内圧高まり、壁ごと破壊」 爆風が伝播か、専門家の見方 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T13:02:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeHAyRWVYT0VfbUo2N0Qtb2hPT20yVjRxZVhhRWphMUxjeGRHNlhDNm8ySFlBck5xejA1WHc2LUY3Yko1OXY4SjJOUEd5WjdQZnk2VGg5eVFuR3JrLUhUeTcxX2wtbjg?oc=5",
-      "first_seen": "2026-07-29T07:00:21Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -817,7 +801,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxMWYzYWRabEU3OGNiWngxdnRPemc5YkYwQXFoaVVuZzBaQlN5M2NDSEUtdlUzUVV1alB3cU5WUG9WOVRWaHlpUVhIVkJadmlSVV9Z?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
       "first_seen": "2026-07-29T10:01:09Z",
       "focus": [],
       "category_ids": [
@@ -1334,6 +1318,22 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kNC13QV9UckhMdWhSbkpwdUVMeU5TcVoyMEo3RFIxS3Z1bjhhVjNLQU5NbDJpdUFsUDRNZTNrMVFuaGtFdDlTN0dMemhoaHNzLUlvY1dxaUtqV3lXdS1wR0lMRjBTOHB1?oc=5",
       "first_seen": "2026-07-29T08:31:04Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "99ae68389686aadd5123",
+      "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T08:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUEsyMkNESGxNSktTRVdpRlhRbjktRjVCMjdHYTdrTFFJWU96UUdBeS1FZXMxSlNBWldtRTE5WkUwaXRELTh4aVR0N0d1WTZudHpxVg?oc=5",
+      "first_seen": "2026-07-29T15:30:19Z",
+      "focus": [
+        "救助・安否"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -2131,6 +2131,22 @@
       "published_at": "2026-07-29T06:02:55Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMzh4TFl1S2RxZE5oYXZVRms4Nnl3Ym1NbVJ2MTBQYURvRDNnVDdmNGVocnpsYlJkc0JrX2s2a0lnVHhtRkpCM2tEOVpxRlNfR1RLd2lDY3BnWHVCdlZZQVN1ZFhtMmM?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "293561b6eca50cfe56ef",
+      "title": "イオン爆発「内圧高まり、壁ごと破壊」 爆風が伝播か、専門家の見方 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T06:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeHAyRWVYT0VfbUo2N0Qtb2hPT20yVjRxZVhhRWphMUxjeGRHNlhDNm8ySFlBck5xejA1WHc2LUY3Yko1OXY4SjJOUEd5WjdQZnk2VGg5eVFuR3JrLUhUeTcxX2wtbjg?oc=5",
+      "first_seen": "2026-07-29T07:00:21Z",
       "focus": [
         "現場状況"
       ],
@@ -3595,6 +3611,23 @@
       ],
       "category_ids": [
         "aeon",
+        "power"
+      ]
+    },
+    {
+      "id": "2ec68069f4054e1f7e28",
+      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集2/34]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T22:46:42Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUktsdUZSNFU3MGt5Tndjbm1lSXJiSFYwZTVJNEV4cjBKVEV5TkpVVzZVOVUzS05JRHJjZHhvX0x3ZElJZnhLYXRidWV0ci1naVZqLWQ3bVdtb3J1LUtTTlNCbll4c1hNNnlvX2NXVW51V1d3SXU5THJiMS1Odjl1Q0FhQUpKSGs?oc=5",
+      "first_seen": "2026-07-29T15:30:19Z",
+      "focus": [
+        "現場状況",
+        "停電状況"
+      ],
+      "category_ids": [
         "power"
       ]
     },
