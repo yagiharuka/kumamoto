@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T14:30:20Z",
-  "updated_at_jst": "2026/07/29 23:30 JST",
+  "updated_at": "2026-07-29T15:00:13Z",
+  "updated_at_jst": "2026/07/30 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 385,
+  "article_count": 388,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 41,
     "nikkei": 24,
-    "yomiuri": 40,
-    "mainichi": 43,
+    "mainichi": 45,
     "asahi": 41,
     "sankei": 84,
     "jiji": 56,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 304,
-    "power": 52,
-    "paper": 33
+    "aeon": 306,
+    "power": 54,
+    "paper": 34
   },
   "items": [
+    {
+      "id": "73abbd057d8e6c6dd31b",
+      "title": "[深層NEWS]熊本地震でイオンモール爆発、「ガスや電気など設備の構造も点検必要」...高橋治教授",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T14:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pR0JTVDlJUHVsU1Y4UVpmdkc0NFNIMFZoVXR6V2xDVDB4R2V5d2U3SlZETkRlMHljemFiVG5xQ3ZxLXp0R2hDZzNWVTg0LUI2eFltMG51bFdOd2xaWklwVXp5a2V5UQ?oc=5",
+      "first_seen": "2026-07-29T15:00:13Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "4989cd804229aa729b3e",
       "title": "熊本県の54医療機関で停電、断水 82高齢者施設も被害",
@@ -113,22 +130,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "534a1a274ee4142dc58f",
-      "title": "熊本地震、停電対応で発電機車80台が被災地へ 送配電各社が応援",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T13:31:01Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vUlZQUUh2dDcxZzdnWEhwQ1JISm9VaGtpZFN2MUtEWkRFVWxmdlZ1OUhvWDJzRjdnMzFyVHhtb0daek5CYm16TXAybVVFTXhGaGx4cGlxb3RBSFdvTWEtQmRFLUVQakxZNXAzQg?oc=5",
-      "first_seen": "2026-07-29T10:31:10Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -180,6 +181,23 @@
       ]
     },
     {
+      "id": "337937371ce94ad9760c",
+      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T12:53:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOGJwNmVMbmktSGFjOEV4Rml1ZjdVSW9KZnVJUzJHRE9wdzFYX2c2dnVjdU9iazRPTml1ZWdDdWZQSmpXN1hZakMtYWlpdGZPR0JtdG5BYXltS0hsb09uWndPTGo?oc=5",
+      "first_seen": "2026-07-29T12:01:02Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "e8cc9518cfc3870249ee",
       "title": "【動画】死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人 8700人避難・熊本震度7",
       "source": "時事通信",
@@ -197,20 +215,20 @@
       ]
     },
     {
-      "id": "337937371ce94ad9760c",
-      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
+      "id": "254139dde58c28140923",
+      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8700人避難・熊本震度7",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-07-29T12:45:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOGJwNmVMbmktSGFjOEV4Rml1ZjdVSW9KZnVJUzJHRE9wdzFYX2c2dnVjdU9iazRPTml1ZWdDdWZQSmpXN1hZakMtYWlpdGZPR0JtdG5BYXltS0hsb09uWndPTGo?oc=5",
-      "first_seen": "2026-07-29T12:01:02Z",
+      "published_at": "2026-07-29T12:37:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
-        "目撃証言",
-        "現場状況"
+        "救助・安否",
+        "避難状況"
       ],
       "category_ids": [
-        "paper"
+        "aeon"
       ]
     },
     {
@@ -445,7 +463,7 @@
     },
     {
       "id": "4f6ca5d50e31a5a9bd75",
-      "title": "天井が崩れ、積み重なるがれき... イオンモールと日本製紙八代工場の内部 熊本県警が映像公開",
+      "title": "【動画あり】<2026年熊本地震>天井が崩れ、積み重なるがれき... イオンモールと日本製紙八代工場の内部 熊本県警が映像公開",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -454,12 +472,13 @@
       "first_seen": "2026-07-29T12:31:06Z",
       "focus": [],
       "category_ids": [
-        "aeon"
+        "aeon",
+        "paper"
       ]
     },
     {
       "id": "0ab812fa5afd80f44499",
-      "title": "「どうにか無事で」 夜通しの捜索、無事祈る 鉄骨むき出し、トラック大破 イオンモール熊本",
+      "title": "【動画あり】<2026年熊本地震>「どうにか無事で」...夜通しの捜索、無事祈る 鉄骨むき出し、トラック大破 嘉島町「イオンモール熊本」",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -512,7 +531,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iTm1yR1QxUTZZTVR5UGJScXFvUUZ2b2p4Y0NrZEJBSlA0X3pGRTVrVGZQT0Jzb0JNX1YyYkJqczZzejlOSmd2OFlPRW1EQUZkWHB3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wNXBDSlByV0JvaWZmel9HcnhtYW9IbGxORVFMUnN1d3BRYlRqN1RJdllfRUtGY1d2N0pidEhuSjFnZWZ4Nm53UDRvc0EzWTVqbTRRc2dMbTZjc28?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -576,23 +595,6 @@
       "published_at": "2026-07-29T10:42:00Z",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
       "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "254139dde58c28140923",
-      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T10:42:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
-      "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
         "避難状況"
@@ -815,7 +817,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sWWFnSXR1a29fUW1OZjZTRExfNEc1clZaVkpESUFIU2gxZUtibTZERUlMOHFSUVFHTGNRbUM4c29jLThlLTVDeTVkY0U2WEo5cXc0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxMWYzYWRabEU3OGNiWngxdnRPemc5YkYwQXFoaVVuZzBaQlN5M2NDSEUtdlUzUVV1alB3cU5WUG9WOVRWaHlpUVhIVkJadmlSVV9Z?oc=5",
       "first_seen": "2026-07-29T10:01:09Z",
       "focus": [],
       "category_ids": [
@@ -1045,7 +1047,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T08:47:07Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvc215UUdSYnY5aUNJUjlYa0N6bkNCMUJOU2FCYTdQQ1ZxSm5PZ0RvblMyWUFoZWVMb00ta01GNWw1bWhiWE1LOGtuVmdMSldWeDF3M0s5TGVoM2p4cV9CYjRGWmdHOHVuNWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HVEpMRXNOSzlkb0pCSUowanNWMXBQdEFlRXpBbzJpUmp1MXB2eUlXTjE5NWdSZWYtYXpNZHhJTGNDT1k3MUpWekgxTklDY2c5eVZLODJrY3B0UElGU1JCQ3NLUkRkVEg3SW9r?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -1731,6 +1733,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "534a1a274ee4142dc58f",
+      "title": "熊本地震、停電対応で発電機車80台が被災地へ 送配電各社が応援",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:23:49Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vUlZQUUh2dDcxZzdnWEhwQ1JISm9VaGtpZFN2MUtEWkRFVWxmdlZ1OUhvWDJzRjdnMzFyVHhtb0daek5CYm16TXAybVVFTXhGaGx4cGlxb3RBSFdvTWEtQmRFLUVQakxZNXAzQg?oc=5",
+      "first_seen": "2026-07-29T10:31:10Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -3525,6 +3543,41 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "321f231844d09b9479eb",
+      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集7/34]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T22:46:42Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkgwM1FGcmU1d2J5bkRxVXFEOVFPZGlfeTJ2NlpYSFJxNWtaQ3Z0V19mZ1pVVWZDS1dZdGJBUzJOS0hyM0hWa2JEakhfQWltLXNDdTdCNnNLenNaWWs2cUVQSnVyUjZwN3FxdzBFTk5MbUg5emdmaVlmaDN3V2FtN1lJR3pZMDQ?oc=5",
+      "first_seen": "2026-07-29T15:00:13Z",
+      "focus": [
+        "現場状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "b97f915e3307e1660b09",
+      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集5/34]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T22:46:42Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnlfNUs4dEJTOHAxblZ4TGVfSXM4cXh5cnhkMHRwOTR5ekpuZml0NEhNTy1LUHJlMk5BU2VuX3VNX1FzbVZZaXlocHBjaW9lY1hEcWRScERXWDlrQ0hDc0JXN3VhVkl6ZV92Y1ZfWG85SjNmd1NBZUJPdy1MY05QOThLMmRJUnM?oc=5",
+      "first_seen": "2026-07-29T15:00:13Z",
+      "focus": [
+        "現場状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "aeon",
+        "power"
       ]
     },
     {
@@ -6115,7 +6168,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFMMElWTGxaYmhVcTNsRUNzVGNGdzlrVG5CblM2N3gwM0U1bjliSFdlaHFqMjYwNlNOZHRjVmlWWDM2Z19ER1p0bjFDUTFScVNVbnk4Y2tCaXJLaWlpNG5QblZUVG9mNU9pd3FGQzVBLVFWN0xzRDhfbDJsVkpwdkJBdUh2aHAwMHdfdU53?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGJuWFIteEsxazc0bDBhUkdJRE5UeHkwV0Fncl8tVFJ4YjVSNG9HYXhnNFAydGJkZGhqREV6TnpGaGh4a292YWxkZU5kUEpTQmtORkYxaGNKZjk1Zm9HOW9BTzJyVEI0QW1JQXd3UmVzdTZIQk1DdDNtRDRBVE91RENjUTQ1UVRWd1VHS3dR?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
