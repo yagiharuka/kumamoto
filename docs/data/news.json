@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T11:01:02Z",
-  "updated_at_jst": "2026/07/29 20:01 JST",
+  "updated_at": "2026-07-29T11:31:03Z",
+  "updated_at_jst": "2026/07/29 20:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 218,
+  "article_count": 222,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 26,
+    "kumanichi": 55,
     "asahi": 22,
-    "jiji": 15,
-    "yomiuri": 24,
+    "jiji": 16,
     "sankei": 33,
     "nikkei": 19,
-    "kumanichi": 54,
     "mainichi": 24,
     "nhk": 27
   },
@@ -76,11 +76,62 @@
     }
   ],
   "category_counts": {
-    "aeon": 157,
-    "power": 38,
+    "aeon": 160,
+    "power": 39,
     "paper": 25
   },
   "items": [
+    {
+      "id": "fbf451ad28d02a0529d1",
+      "title": "熊本地震で爆発事故、イオン吉田社長「想定しきれなかった」「従業員が館内に戻った理由わからない」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T11:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZjB5cXpWWTZpejdVTWk1NTRfZGw2RXJLYzZaY2t5Sk1LcTNsUHVyY0trMFk2dmdua3g4c1Y1RUR4M2ZBbjZldlhRc0Z5My1BTGx3cTZDcnJIS3JhMkY4MFIzbUZ5QQ?oc=5",
+      "first_seen": "2026-07-29T11:31:03Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6f73479051fe2773a5be",
+      "title": "日本製紙八代工場、救助された2人が心肺停止・9人安否不明...煙突折れる被害確認",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T11:06:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXaTJfZnBaVVYwSy16T21QX3ZTQkVBZlRVQ3pTa05ObXJEV1ItUUZLbnpkdGRZUFVWaGtKOS0zV2M0bE4xTmQ0dEg3UFFhZHdLNzJTcFhUMnlMYkxDalliVVJlaFFwUQ?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "a7d20f5c3e95ef52d1f9",
+      "title": "<2026年熊本地震>医療機関被災、入院患者転院も 建物損傷や医療機器破損、断水、停電...",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T10:51:05Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CY0xOQmE3ZmwwYXB4WEdjWGhURVA4am02Vm9qMThnVlkyektXZXBUYlBMYWJHQV9MYXRTV0ZFWGZlNFVSR3BWaElEdTJQLTQ?oc=5",
+      "first_seen": "2026-07-29T11:31:03Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "16534565d891674cedaa",
       "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県] [2026年熊本地震]",
@@ -131,6 +182,23 @@
       ]
     },
     {
+      "id": "9840005d90ad551f7658",
+      "title": "イオン爆発事故の原因究明へ ガス引火の可能性で経産省―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T10:28:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jc28tZ1pPUWdsMkVEc2JQY3NiMWp6T1gwb3ctRllna05YOEE4TTB4SEZOczNwVDZQSWs5Y0FvQTJ4aGppVjQtUDk5RFFxWTVfTUVlTWxJcUJoaldwSk50T3FUWQ?oc=5",
+      "first_seen": "2026-07-29T11:31:03Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "13c4466de0a6fc0be19e",
       "title": "【速報中】熊本地震、煙突倒壊の日本製紙八代工場で5人死亡...イオンモールでは3人が安否不明",
       "source": "読売新聞",
@@ -158,6 +226,23 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGYl92ZGZFQ2Y5V1ZlV3NrY3FBcjlZYlEtTnRhTnc0QXlnVkFpRjhFN0ZLOGctZTRYblZQS1lqMHdkQlZGUVZNQjJGU0VPVXpQcHNuX0JIbHgybE4zRGF1NzFmMldSNzlIaEFiYVhsUWJVUzFWZUE?oc=5",
       "first_seen": "2026-07-29T09:31:09Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8c299462dc06a4bcd72c",
+      "title": "熊本地震で影響があったガス事業者、経産省が設備点検を要請...「イオンモール熊本」の爆発受け",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T10:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rbUc5MDJWRGppQ2h5cWFoWFdXSWZZd1J2aHpldnV0WU1oS0o1WklDRHJzS0tMY0RxYW9LWkM4eTV3aVlESmd6T1BrMmY2TW5MQ05vZll0Y05Va3BMVVRPc2ZKUUc?oc=5",
+      "first_seen": "2026-07-29T11:31:03Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -371,6 +456,23 @@
       ]
     },
     {
+      "id": "0f204a632a747eaa9acf",
+      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T08:49:20Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnZ6WGswRWhlZ1JxWGtIWjROT1A2cDMyazc3U090YTliZEg5Mm1ReEhld1BKUGZzUkpoTkJiWFYtQ0VhYXpfWjJyMldrTnJiT1NNSVVOY3BNUGtzcTdUSHpnZkktbFFZVXlFSm5WeEFvWFBkaDJrb00zeUh0Mk5oWlhLczk3TVBGZjlCLU0wYlZ1RVluNDZ3eUp3?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "303fb7b4b86a57276045",
       "title": "イオンモール熊本、開業時からLPガス使用 過去のトラブルなし",
       "source": "毎日新聞",
@@ -402,7 +504,7 @@
     },
     {
       "id": "12550c9001269077e709",
-      "title": "環境中の放射線量データ、熊本県内6か所で確認できない状態に...停電の影響か",
+      "title": "放射線量データ、熊本県内6か所で確認できない状態に...停電の影響か",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
@@ -1440,23 +1542,6 @@
       ]
     },
     {
-      "id": "0f204a632a747eaa9acf",
-      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUdjREp3MEVXX2JJY1JqZGhMUF80Z1JsX09oODRxbVlmWGVaVDQ2cmxleWxZbUZYYVZvWE1sWl9TMmNjbUFQUGRPN1VPQlN4NUNGeEJJR2lKS3FvbU9CbUI0TUdsX1ZjLXFOUURDTld1ZW1VNE1NWi1hRmM3ZjVaamtqNDVGY00?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "f1129407b7e1af24646d",
       "title": "地震で被害の日本製紙八代工場 7人の安否わからず 捜索続く",
       "source": "NHK",
@@ -2147,24 +2232,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "6f73479051fe2773a5be",
-      "title": "日本製紙八代工場、救助された2人が心肺停止・9人安否不明...煙突折れる被害確認",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T16:41:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXaTJfZnBaVVYwSy16T21QX3ZTQkVBZlRVQ3pTa05ObXJEV1ItUUZLbnpkdGRZUFVWaGtKOS0zV2M0bE4xTmQ0dEg3UFFhZHdLNzJTcFhUMnlMYkxDalliVVJlaFFwUQ?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
