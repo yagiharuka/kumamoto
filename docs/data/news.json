@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T02:00:21Z",
-  "updated_at_jst": "2026/07/29 11:00 JST",
-  "query": "熊本 イオン 爆発",
+  "updated_at": "2026-07-29T02:13:56Z",
+  "updated_at_jst": "2026/07/29 11:13 JST",
+  "query": "熊本地震（イオン爆発／停電・電源車）",
   "cadence_minutes": 30,
-  "article_count": 62,
+  "article_count": 82,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,30 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 6,
+    "yomiuri": 11,
     "jiji": 6,
-    "asahi": 9,
-    "sankei": 12,
-    "mainichi": 9,
-    "nikkei": 10,
-    "nhk": 6,
-    "kumanichi": 4
+    "asahi": 10,
+    "sankei": 14,
+    "mainichi": 12,
+    "nikkei": 12,
+    "kumanichi": 9,
+    "nhk": 8
+  },
+  "tracked_categories": [
+    {
+      "id": "aeon",
+      "name": "イオン爆発",
+      "description": "イオンモール熊本の爆発・崩落・救助情報"
+    },
+    {
+      "id": "power",
+      "name": "停電・電源車",
+      "description": "熊本県内の停電、復旧見通し、電源車・代替電源情報"
+    }
+  ],
+  "category_counts": {
+    "aeon": 63,
+    "power": 19
   },
   "items": [
     {
@@ -71,6 +87,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -85,6 +104,9 @@
       "focus": [
         "救助・安否",
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -99,6 +121,25 @@
       "focus": [
         "救助・安否",
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1e2590b7d7b5fee72658",
+      "title": "熊本地震 被災地で携帯電話サービスが利用しづらい状況続く...停電も熊本地方の3万4690戸で",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T01:22:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Mckx5WlZjQWVoTnE4dnZIZzJsRGQzMWo1djMwYUllMUlRaUw0MVJHbnVFb1dYVUJLVldYQmZkWGpMT1FlSGtnaFpCM3g4dHBkNlJkUGtKemxrLVpzbjEtZk5WSnBFZw?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -112,6 +153,9 @@
       "first_seen": "2026-07-28T21:30:22Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -126,6 +170,26 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "3a6e06b8b2575539bb27",
+      "title": "熊本地震の死者13人か イオン爆発、製紙工場被害 家屋倒壊や閉じ込めの情報も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T01:08:51Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4NXVKU3JBa0wzMHdyS2ZBd0FxelRxSl84cnFPaUppcDg5MlNYT3BBajFZSzFqZ2tVZmN3eERuajNsZUlxZlRxMnpnRlo5TVBSd0lLdUhqb2x4U0UxMTdCaklIS1NQc29FQy1tYjhsVDBfSUc3Qmc?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -137,7 +201,10 @@
       "published_at": "2026-07-29T00:28:58Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVlFfc1I0LWpGenNJdlBzcV9pTW9XR1VTZGNHamZfRFd0Y2RlV2lyVW1DeTBLbnRvNzZQVUpUWXprT1dpOGFsTUxhTnJmdUkzT2JWbktXU2ZmSDFZdThwSmhxc0pZMk0?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
-      "focus": []
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
     },
     {
       "id": "c8843cbe036468ac34a5",
@@ -151,6 +218,25 @@
       "focus": [
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "69e7f0d67c9ba1ee0b72",
+      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:33:39Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -164,6 +250,9 @@
       "first_seen": "2026-07-28T23:30:22Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -178,6 +267,9 @@
       "focus": [
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -189,7 +281,10 @@
       "published_at": "2026-07-28T21:18:31Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15aG5jSjQ1RERuUGZnLUE1cHFSdVZfLTk2Vi1USF9UakwwV1VMZGR1TXI0NldBOUZzYXhQWE9IdnducTdiemctcG05b3BYak9oNm9JYWVseEQ5Yi05YVFBV2RnVXZ4cXlPdE1xZGVEUWs3TXpaQUE?oc=5",
       "first_seen": "2026-07-28T22:30:22Z",
-      "focus": []
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
     },
     {
       "id": "e0ece1ed59cd28b91e7f",
@@ -203,6 +298,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -216,6 +314,25 @@
       "first_seen": "2026-07-28T21:01:00Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "0baf15c7e882dcb41ac8",
+      "title": "【速報】熊本県内で3・5万戸停電 九電が公表",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T20:40:59Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaWdGbjFTdG5uS2RJYV9QaDE0SEJuSXVwdHdXUUM3TmtQMnBFOTdERmdwOGdCWk9rQmFsVkI0LTZ3aUE5cnNlREFxN0VSbXM?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -229,6 +346,9 @@
       "first_seen": "2026-07-28T21:01:00Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -240,7 +360,10 @@
       "published_at": "2026-07-28T20:30:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RU0tJb1luZ1BJQTFBb1d3ZmRnSUppSVBYSzh1c0J2STN3UU40blVMblhReC1lMXU0bWFWWEQ5Zkg3QTVBeFhneXpBbGdwYkZFMWNVQzhuX0NzXzhCUk45UFg3VXBKUQ?oc=5",
       "first_seen": "2026-07-28T21:01:00Z",
-      "focus": []
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
     },
     {
       "id": "44f57e839c62fed67528",
@@ -251,7 +374,26 @@
       "published_at": "2026-07-28T20:14:22Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtVXE1SWh0NFpBTzBDRnFBN0ZqVVJhakxwNjdsUm5TbmtrLVB0SUpsZlRlQThoSmZ2WWQ1ay0wNjRzZ1pNZUN5LWlsR3V4QlE?oc=5",
       "first_seen": "2026-07-28T21:01:00Z",
-      "focus": []
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7b2c0f983151a8a23880",
+      "title": "貨車横転・高速寸断、停電も 熊本・震度7",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZY25LUGhXU0VZRE1GNlhvcWFBb3VoOHlSbDZJU2EzcmdaZERqM21HVDNZS2duQWRGMHp5ZmZnMi1wcGlWRW85RmFBV0JJeDRiNDJxckt2NUpkQzQ2?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
     },
     {
       "id": "6c9d37233d563d1b6788",
@@ -265,6 +407,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -280,6 +425,9 @@
         "原因・検証",
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -293,6 +441,9 @@
       "first_seen": "2026-07-28T23:30:22Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -307,6 +458,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -321,6 +475,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -336,6 +493,9 @@
         "救助・安否",
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -350,6 +510,9 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -363,6 +526,9 @@
       "first_seen": "2026-07-28T16:01:05Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -377,6 +543,9 @@
       "focus": [
         "救助・安否",
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -391,6 +560,9 @@
       "focus": [
         "原因・検証",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -405,6 +577,25 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4f8835621858f50f07bf",
+      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T15:19:11Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M1pNY1FJNG9heFBlWURKdjdBNm9OQVM2bjZKQ0JMcW5CZElOSjBHUTZfME5QUE9GZTdQVEIwc0Z4TWc5Y0pVQmJ4VjJhUFJ3NVNwTjhyWVNKaVpDRWhF?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -418,6 +609,9 @@
       "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "原因・検証"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -431,6 +625,9 @@
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -444,6 +641,9 @@
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -459,6 +659,9 @@
         "原因・検証",
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -473,6 +676,26 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6c3a53894aa7991bebf3",
+      "title": "<2026年熊本地震>公共交通機関、運休相次ぐ 停電、ガス供給停止も",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T14:25:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ERTl5ajNSWmdOeGJLOGd3Z2ZqbUh1ZlV4ekQ1aElORFBhLXFNXzVtUlIzWjF4Qms4LTEydzNhTVpRRzVPcTFPUlBZdmd0anM?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -486,6 +709,26 @@
       "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2a46bccd7fa4ffea2998",
+      "title": "医療機関にけが人次々 停電や断水で診療に影響も",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T14:11:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XRGYzZjctcFRHQ1VTZzRYbmx5MDZmR3ZuTGJKMVVNdnMyYXZYekpTWGp6N0R4YU9pTllvcDdzV2hFenZvdF9qalBPU1N4WTQ?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "救助・安否",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -500,6 +743,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -513,6 +759,9 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -526,6 +775,9 @@
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -540,6 +792,9 @@
       "focus": [
         "原因・検証",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -555,6 +810,9 @@
         "避難状況",
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -570,6 +828,9 @@
         "救助・安否",
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -583,6 +844,9 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -596,6 +860,9 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -611,6 +878,9 @@
         "救助・安否",
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -626,6 +896,9 @@
         "救助・安否",
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -641,6 +914,9 @@
         "救助・安否",
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -655,6 +931,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -668,6 +947,26 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fb1effe6adc756cd7a78",
+      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T11:12:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16Qzl6bDZ5eWZCQVFDSFFTdzJtMmxvQ1ZwTGx6ZzZ5R0I4eTJzMnlXRHFSWFRHMVB2MFc4RkFKN2lKTnB0Q2hsNzV4QkdHRF91VVJic18zT2hFd3pkS0ZR?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "救助・安否",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -681,6 +980,25 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c27370a63425534403e5",
+      "title": "熊本県 震度7:簡易型クーラーや電源車など「プッシュ型支援」展開へ...政府が非常災害対策本部",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T10:55:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nRVRUVE90SWdEeF93UUZKbVVPZmlwMUxhTmt4ckhQdFNNZjh6clNOYUI3U1BnWnVPYnRrblFzSUc1eG44c3NZTGtfQks5U1hvR1pZelFzaVJwbU1iN1JHU3J0V3k5dw?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "電源車・代替電源"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -692,7 +1010,26 @@
       "published_at": "2026-07-28T10:49:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yWVpMdTkzMmRkWXAwMEtKeEdObENFOXZnOHdaaFl1VG9qNGRPTTNmVVBBZUt4SVhET2tzYWZ4V25SY0MwZy1EQnJVdGp0UDRCV1pvMHRXYkpCQW9HaFkwdzdIbDdmUQ?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
-      "focus": []
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4902dedd14931d0afc9e",
+      "title": "<2026年熊本地震>八代市などの総合病院 停電と断水 診療に影響も",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T10:35:24Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tbmxLdVJkaXd5NURaUHh0Wi1KanJSOHJnY2xUSTdaWWRlem95dGlTajdHNVg0T2ItbmV1Q1lPakNfMkVjUDlZTmJkREI1eTg?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
     },
     {
       "id": "262a71ba49e63a885dc5",
@@ -706,6 +1043,9 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -720,6 +1060,9 @@
       "focus": [
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -734,6 +1077,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -748,6 +1094,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -762,6 +1111,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -773,7 +1125,10 @@
       "published_at": "2026-07-28T10:11:46Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkEtTElPa3ZuZDBxSWN0WUJtZm5BVU4za3Vaa1hURGxDWmZIV3VmVDlURV9wcE5FWHN2dDk0Y1NBTVYzUjlYaEpGVXc2YUxNb3JvWW02alB6N19BX2VwQmVWX1lQeHlkMUtUR2pMbnlVR3F2ZzBHYnZNZUNZVDAxd21qV1FXSzg?oc=5",
       "first_seen": "2026-07-28T19:31:05Z",
-      "focus": []
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
     },
     {
       "id": "8604ba3e10b5ba09c07b",
@@ -787,6 +1142,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -801,6 +1159,9 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -815,6 +1176,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -830,6 +1194,25 @@
         "救助・安否",
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2380bf28b96d7ad184fe",
+      "title": "セブン、熊本県内の約30店で停電 人的被害や建物の大きな被害は確認されず",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T09:38:12Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -844,6 +1227,25 @@
       "focus": [
         "避難状況",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "5da916a52e942de6caae",
+      "title": "[令和8年熊本地震]NHK公式X、熊本地震受け「停電している地域の皆さん」に向けた投稿 ライト・スマホ・ブレーカーなど[一覧]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T09:30:03Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02YTNLaWtHbG9sNDhDaDMxUW03akZTV2JjUE9vZ25xUm4tUE00NTFfZFZjOHVDQmhPMFNqVjhKWGlYV3R5VGRTSHlJR3ZxdC1hUzB2aGdRM0FGaGc4eGNFVzRMZFB1VGVD?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -858,6 +1260,41 @@
       "focus": [
         "原因・検証",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d82dd8ad484557896219",
+      "title": "熊本県で震度7、M7・1と推定...4万8280戸で停電・民家全壊や建物火災の情報も",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T09:07:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTVpvY0N4MUkxVXB3aUJkTUV4RXp3Z0ZEbGZlWmxWTVZNY3pib2dJVjNDNUY4Wm5tbHJQM2VQZC1Bb3JkOFF1c2RXYnBXaWlNN3lnWmxKNHN5cHd0b0RLQWZjVk56UQ?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "ea3215bf72ae86d13999",
+      "title": "熊本県内の停電4万8170戸...八代市1万3770戸、宇城市1万2060戸など",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T09:04:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Uy1waTc0SFpjdzEyOTM5Sjd4S0RYUm0yMkRBMHgtLTM4VXRvZGs5eG51anNsWGhSUlFWeXIySkdjV2twc2JpWGs5Nm9sTDl3QVllaXpFRElYcFZWQmpWNHJHWC1pUQ?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -872,6 +1309,9 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -885,6 +1325,89 @@
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "96ace6ae40ea7ffe52f3",
+      "title": "【速報】熊本県内、停電4万8千戸超",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T08:46:58Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51R1JLaU5ydFZrdXN6bEtHc2pRRFoyajYwRU1rQUlvUEY4OThpajRqdDIyMGtuYUlqZDZJYVljQWwxc0tZUEVkdHdicFRERUk?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "5c70c2b0929a276fd18e",
+      "title": "川内と玄海原発、異常なし 熊本震度7 県内4.8万戸超が停電",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T08:26:44Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sWnJ6NUZ0Rmkzc29xYWpYd3FXOXpja0dWZTNibEtxbHpCLU9Hbk1iTEFZMXdpMElhOHdsVDFjYmtFUjMxbFE2RXY3eGNaMGFDWkYweTlvd1R4UUl1NXZiWmhYMEdZWUh4?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "79a1d70dd16b22101bf0",
+      "title": "九州電力の玄海原発・川内原発に異常なし 熊本震度7、4.7万戸で停電",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T08:11:12Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wSzFIMEtqc0JDTTZld2hhX3pMZi0xYjE5eVUxUTZkVHpqWkdtODhJRlhPLU93NG5XSG1tOGZNZmNoQUdVWVZOVjZ0dmJ3R3Jvam4xQmlZZmY3V1piLWJjWDI4MVI3Zk8wSnRJSw?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "6c25399d987b0b61e3de",
+      "title": "熊本県内約4万5060戸で停電",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T08:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMEcxOTNmZXhMVUxmSmZJWFBKR2xpYnRoN1RQc2JGOFVFRXpIMzAwakpfMENxS080dl8zVHdxR2F4Wk85U1pUQl9hZ0IzZkdxV0h2S3pBSGN3YWNjdDlOODNuakVpQQ?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "8d8fb2f811681eda805b",
+      "title": "熊本最大震度7で高市首相「身を守る行動を」 停電や火災、倒壊被害",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:46:10Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fNW05NlVrcjNKVVducXN6Ni02dTVuN2plTmE3NnpNY2VFaHFPQWRrRHFTSC1SNEYyeEd4M1g0RlNzTUFUWFBIbW9pcnltUEdHMkdaZ2x2OW5XZGtsZ3BzYVUwc3Rvck5vWFVXZQ?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -900,6 +1423,9 @@
         "原因・検証",
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     }
   ]
