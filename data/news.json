@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T05:28:44Z",
-  "updated_at_jst": "2026/07/29 14:28 JST",
+  "updated_at": "2026-07-29T05:30:28Z",
+  "updated_at_jst": "2026/07/29 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 152,
+  "article_count": 153,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "asahi": 14,
+    "asahi": 15,
     "kumanichi": 38,
     "nikkei": 14,
     "sankei": 26,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 106,
+    "aeon": 107,
     "power": 32,
     "paper": 15
   },
@@ -107,6 +107,22 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42NHJ4NnVzUjRwMmJadG96dUZ5NXZycmFjekRmNHJCcjZkM2t3Ynk4em03amtPQnZOd3NXYmU4Y0RxaXNERnNOT2RuaU1icHc?oc=5",
       "first_seen": "2026-07-29T05:28:44Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4b2c7eb395eaa234fbb6",
+      "title": "イオン、熊本の爆発事故を謝罪",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T05:12:27Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mWHE1OG9kb2EtS1FSalJNcFpSUjBSZTktclZsak1VVXpHM3hIaXFfdXdDbTFEOFdPZ3M4ZDRCb2FPcnNpLVlJcHAxSEZqSkhtZHVtZmk3SjFUSlBn?oc=5",
+      "first_seen": "2026-07-29T05:30:28Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -302,7 +318,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T03:44:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkRCVFVTeHNPMU1lakliS2dvUDVLNlQyOFpESmJFUmlHdmhuSXFZLXl6ZGlMeUNtelVvX0hScF9FUGJZbHo3T3NqWXZKN210STZ0NThoenIyMm44LVlBRkFkNjZZaXVIZGRBZUN2WXJ6TzhJRVhvQXI4cFpBVl9JLUtGS001YjZhZjV1X3dOLUJBLVBSS0tNeFV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTRXZXI1SGVsNEphTklFcUpQUURxS0E3MWYtVjB6YTB2cWdEdVI3M21Nb1dFZWtEakNYUzFINElMd0xpRlVqX3paa0NPanBvb1J6STAtX2hvRndtcEVVQmlFbVYwdEduckdZMEFJdUhXMnlMZ0Y3by1sbnR6RDdsRHVlRUFYS2JZTEQ0RjBn?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
@@ -632,14 +648,14 @@
       ]
     },
     {
-      "id": "4ad172a19fe1a0e2032a",
-      "title": "死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場―9800人避難・熊本震度7",
+      "id": "254139dde58c28140923",
+      "title": "死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場―36市町村4700人避難・熊本震度7",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T01:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
-      "first_seen": "2026-07-28T23:30:22Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
         "避難状況"
@@ -649,14 +665,14 @@
       ]
     },
     {
-      "id": "254139dde58c28140923",
+      "id": "4ad172a19fe1a0e2032a",
       "title": "死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場―36市町村4700人避難・熊本震度7",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T01:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
-      "first_seen": "2026-07-29T02:00:21Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "first_seen": "2026-07-28T23:30:22Z",
       "focus": [
         "救助・安否",
         "避難状況"
