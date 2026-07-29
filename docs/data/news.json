@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T10:49:24Z",
-  "updated_at_jst": "2026/07/29 19:49 JST",
+  "updated_at": "2026-07-29T10:53:10Z",
+  "updated_at_jst": "2026/07/29 19:53 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 215,
+  "article_count": 217,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,12 +50,12 @@
   ],
   "source_counts": {
     "asahi": 22,
-    "yomiuri": 23,
+    "jiji": 15,
+    "yomiuri": 24,
+    "nikkei": 19,
     "kumanichi": 54,
     "mainichi": 23,
-    "nikkei": 18,
     "nhk": 27,
-    "jiji": 15,
     "sankei": 33
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 154,
+    "aeon": 156,
     "power": 38,
     "paper": 25
   },
@@ -98,6 +98,39 @@
       ]
     },
     {
+      "id": "4ad172a19fe1a0e2032a",
+      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T10:42:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "first_seen": "2026-07-28T23:30:22Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a31039cb641f07a1818e",
+      "title": "爆発後の「イオンモール熊本」を3D化...被害状況を様々な角度から",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T10:31:16Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wU013Z01PRmw1a1lRY2VSaVBRTF9kWDJ0R1BFSHgxakVfN284VkVzY1Vpell6MU5oMkV0MjdEaTdYSm1RZk82c043V0ZjTFNOaHEyckFGN1dvMUdaVHNvWEZCM3ZSZw?oc=5",
+      "first_seen": "2026-07-29T10:53:10Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "13c4466de0a6fc0be19e",
       "title": "【速報中】熊本地震、煙突倒壊の日本製紙八代工場で5人死亡...イオンモールでは3人が安否不明",
       "source": "読売新聞",
@@ -109,6 +142,23 @@
       "focus": [
         "救助・安否",
         "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "854f6623eb4797ff045e",
+      "title": "イオンモール熊本、地震80分後に爆発 「一度は全員避難」経緯説明",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T10:15:29Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNFJleFdDTXM3U19admZudUR2cUNsaWVHeUNqeEpEOFlUYjBxVEl6NDJHZWFjQXhjR01QTkhxWldhNXZ4OHVvNWtyVV9VaXJpbHhYVmpINGpGTUVtNVNaa1FQWm9HbnAxUndWSw?oc=5",
+      "first_seen": "2026-07-29T10:53:10Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -321,6 +371,23 @@
       ]
     },
     {
+      "id": "0f204a632a747eaa9acf",
+      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T08:49:20Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnZ6WGswRWhlZ1JxWGtIWjROT1A2cDMyazc3U090YTliZEg5Mm1ReEhld1BKUGZzUkpoTkJiWFYtQ0VhYXpfWjJyMldrTnJiT1NNSVVOY3BNUGtzcTdUSHpnZkktbFFZVXlFSm5WeEFvWFBkaDJrb00zeUh0Mk5oWlhLczk3TVBGZjlCLU0wYlZ1RVluNDZ3eUp3?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "303fb7b4b86a57276045",
       "title": "イオンモール熊本、開業時からLPガス使用 過去のトラブルなし",
       "source": "毎日新聞",
@@ -457,23 +524,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zVUp4Sk9sRnp5Y3V3dUdZbnpoT05ublViSlpqU0xLeU01cDBYZXpDTTVKQldORmg0Z0hhTUQySHo4UzZPd2hsX2k5TktwQ3c?oc=5",
       "first_seen": "2026-07-29T08:31:04Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4ad172a19fe1a0e2032a",
-      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
-      "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -1381,23 +1431,6 @@
       "published_at": "2026-07-29T03:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
       "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "0f204a632a747eaa9acf",
-      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUdjREp3MEVXX2JJY1JqZGhMUF80Z1JsX09oODRxbVlmWGVaVDQ2cmxleWxZbUZYYVZvWE1sWl9TMmNjbUFQUGRPN1VPQlN4NUNGeEJJR2lKS3FvbU9CbUI0TUdsX1ZjLXFOUURDTld1ZW1VNE1NWi1hRmM3ZjVaamtqNDVGY00?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "避難状況",
         "停電状況"
