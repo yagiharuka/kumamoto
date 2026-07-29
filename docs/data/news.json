@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T19:30:14Z",
-  "updated_at_jst": "2026/07/30 04:30 JST",
+  "updated_at": "2026-07-29T20:00:10Z",
+  "updated_at_jst": "2026/07/30 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 401,
+  "article_count": 402,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "mainichi": 52,
-    "asahi": 42,
+    "asahi": 43,
     "yomiuri": 42,
     "nikkei": 25,
     "sankei": 84,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 319,
+    "aeon": 320,
     "power": 55,
     "paper": 35
   },
@@ -2805,6 +2805,22 @@
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "254424352098149df0f3",
+      "title": "震度7地震で爆発したイオンモール熊本 警察が捜索、内部動画を公開 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T03:13:39Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXEtSGlyTmVhWjc0cXFJVXhFeTBBS3hER3gxMkVicERWR0Y2d3paVjEtcTJSUE5LRElHalFLNElMWGpEaUNCV1Ywa3BxZzYwdnhKdENyQkRfOS12X0RlVngyTjg2WTliRkNZaUZqTW90Mk9SYVE2OGtMTG1JQkdIOG1lTQ?oc=5",
+      "first_seen": "2026-07-29T20:00:10Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
