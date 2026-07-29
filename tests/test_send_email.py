@@ -71,6 +71,24 @@ class HourlyEmailTests(unittest.TestCase):
 
         self.assertEqual(selected, [])
 
+    def test_late_discovered_old_article_is_not_emailed(self) -> None:
+        after = datetime(2026, 7, 29, 13, 0, tzinfo=timezone.utc)
+        through = datetime(2026, 7, 29, 14, 0, tzinfo=timezone.utc)
+
+        selected = send_email.select_unnotified_items(
+            [
+                {
+                    "id": "late-backfill",
+                    "first_seen": "2026-07-29T13:39:00Z",
+                    "published_at": "2026-07-28T08:09:00Z",
+                }
+            ],
+            after,
+            through,
+        )
+
+        self.assertEqual(selected, [])
+
     def test_email_groups_all_categories_and_does_not_truncate(self) -> None:
         items = []
         for index in range(30):
