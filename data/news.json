@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T01:30:22Z",
-  "updated_at_jst": "2026/07/29 10:30 JST",
+  "updated_at": "2026-07-29T02:00:21Z",
+  "updated_at_jst": "2026/07/29 11:00 JST",
   "query": "熊本 イオン 爆発",
   "cadence_minutes": 30,
-  "article_count": 53,
+  "article_count": 62,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,16 +49,58 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 6,
+    "jiji": 6,
     "asahi": 9,
     "sankei": 12,
     "mainichi": 9,
-    "jiji": 5,
-    "nikkei": 3,
-    "yomiuri": 5,
+    "nikkei": 10,
     "nhk": 6,
     "kumanichi": 4
   },
   "items": [
+    {
+      "id": "b3c98c4f4a00e7f8b6a3",
+      "title": "崩落のイオンモール熊本、これまでに8人救助...2人死亡・1人心肺停止",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T01:43:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVVm5mcm9WQTNNRmItVUhOajZLT003NmZjZnlhZHl2bGVYU2NjWENfc09KZ1FNdVd5OHB1dlQ1RzFwQnVVTEt0Vkp2b0t4Um90dEVzNXJjVHk5M2pWN1gwX01XV3ZpUQ?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "254139dde58c28140923",
+      "title": "死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場―36市町村4700人避難・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T01:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ]
+    },
+    {
+      "id": "4ad172a19fe1a0e2032a",
+      "title": "死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場―36市町村4700人避難・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T01:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "first_seen": "2026-07-28T23:30:22Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ]
+    },
     {
       "id": "a86c011511518520dda7",
       "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [2026年熊本地震]",
@@ -122,20 +164,6 @@
       "first_seen": "2026-07-28T23:30:22Z",
       "focus": [
         "現場状況"
-      ]
-    },
-    {
-      "id": "4ad172a19fe1a0e2032a",
-      "title": "死亡2人、安否不明者の捜索続く イオンモールと日本製紙工場―36市町村4700人避難・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T22:32:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
-      "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
       ]
     },
     {
@@ -282,6 +310,49 @@
       ]
     },
     {
+      "id": "b245e0c402113a9cb8be",
+      "title": "熊本で震度7 イオンモール爆発、10人安否不明 日本製紙工場で2人心肺停止",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZW1RcGktd0h0VnNKcVJMdFI1VW9CRjBMamcwbnBNVTNQU0hLRHJSTlBYTE00WGFEYkw0cHpfdk9uTnd2RVl3aFdtZTZ2VXVkaTZpY0lGZUwydTdPb19xTEVtbmlmQ0tLM3A3dA?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "d5965e9326d1a83c6c82",
+      "title": "激震「10年前の恐怖再び」 熊本で震度7 イオンモール爆発「ボンと地響き」 懸命の救助活動",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wbzlDeVA0U0FCc0tIT2xTRzZMZ0FMWGhYZmp3WGk4NkpQa3Yxc2FfdTI2X0hGN2wxaDBTVXBTem5QVnZMNXI1XzZiM3hTX1c2eW9USVJiTFZKTk5pZU9DZkV1b3NKSUFtdmppTQ?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "aff0ae86adc5acebaba9",
+      "title": "写真で追う熊本地震 イオンモールで爆発、折れた煙突",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T15:51:03Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOHhabWJsWnBGNmVBNjFmUE5aUkJzT216WmVxU0dZdlg4dENKSjIya29mZloxMTFMd1RubVRfb0tMRV81T0k1ZnhITjA3em9naGNhS1ZRR1hqWUVmNS1ibGRQbzBzbnVCSlhEeg?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ]
+    },
+    {
       "id": "d263a7b139857cbc2625",
       "title": "イオンモール熊本、10人が安否不明",
       "source": "産経新聞",
@@ -347,6 +418,32 @@
       "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "原因・検証"
+      ]
+    },
+    {
+      "id": "0a337b937a12dc4ed29e",
+      "title": "地震後に爆発、イオンモール熊本:写真",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T14:43:29Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2R0gyUWJ1WmlPSEFsT0tDR1o1M0VwTXFzb2VXU040clFfY29INEtueklpQ1B6MEJ5em51bi1JTVN3TGxHTkFjYkc3VDJpRmFsWEZVUVRJdGtfNDZlYVgwRENOejVhTXdXdGtxblduMURuV1dfOGtsblRiMVdqeEU?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "現場状況"
+      ]
+    },
+    {
+      "id": "98960a459ca2f2e6f077",
+      "title": "地震後に爆発、イオンモール熊本",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T14:41:59Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53M010VnhsZk02OHdzeS0zQ0xJMnQxZmxrTHZfOG9fUkg1WGlvMzkzbng5TVdhU1lxaTZocHNMdTU2Z0tsdHlmek1lcjRkS2dUTEpOWHBNOGFrZXZmSkJpaENVYUdJVVh3QW9zZA?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "現場状況"
       ]
     },
     {
@@ -764,8 +861,35 @@
       ]
     },
     {
+      "id": "c81b272be8857ce448e0",
+      "title": "熊本県で震度7 イオンモール熊本で爆発、2階崩落で多数閉じ込めか : 映像",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T08:59:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWm5HUFB5aTRjTXV4R2pYaTZmYzVobGtuM0ttaVZuaGh6RW9CSnU3Y05yWmo4WkkyaDNnWHc2WDBFSDdKdmVGVXUtaUc3bWozRVhTREN3?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ]
+    },
+    {
+      "id": "91a678b87c8a0e24b569",
+      "title": "小泉防衛相「人命救助を最優先」 イオンモール熊本の救援に陸自部隊",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T08:54:46Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQzZFelZSMEZaYzdGcE16cTExUmZoUGxRSE5SemxTQUwtVVRfWFNGMXNFWi1aSE14OEc3elQ4eTgwQXFJd1FLVllFUUFEYS1Qb3htYk55SFRvRjl5d25wSnBCcERhbGhsT1c4dg?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "救助・安否"
+      ]
+    },
+    {
       "id": "3588e0330a3a290684fb",
-      "title": "熊本県で震度7 イオンモール熊本で爆発、20〜30人が安否不明か",
+      "title": "熊本県で震度7 イオンモール熊本の爆発はガス漏れか、10人安否不明",
       "source": "日本経済新聞",
       "source_id": "nikkei",
       "source_group": "全国紙",
@@ -773,6 +897,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTnZ4MmI0VXQ0STZsVUhXalNLSlVDZHpTQzN2WTQzRW12SG91blFEQ0tKcTA1S2Z0c052c2VzRkJ5YndyekYwRExqMUE1YXlwQy02MjVFVzc0RGxqTGwyNE9vRzZlSWFDUGs2eg?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
+        "原因・検証",
         "救助・安否",
         "現場状況"
       ]
