@@ -465,11 +465,13 @@ def collect_category(
         )
         if item is not None
     ]
-    present_sources = {item["source_id"] for item in candidates}
-    missing_outlets = [outlet for outlet in OUTLETS if outlet.id not in present_sources]
+    # Run outlet-specific searches on every cycle, even when the broad search
+    # already returned another article from that outlet. Broad Google News
+    # results are ranked and capped, so relying on them alone can make a second
+    # article from the same publisher appear several hours late.
     supplements = [
         f"{category.supplement_query} site:{outlet.domain}"
-        for outlet in missing_outlets
+        for outlet in OUTLETS
     ]
     supplemental_records, supplemental_warnings, _ = fetch_queries(supplements)
     warnings.extend(supplemental_warnings)
