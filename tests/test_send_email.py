@@ -102,7 +102,7 @@ class HourlyEmailTests(unittest.TestCase):
         )
         body = message.get_content()
 
-        self.assertIn("【熊本地震報道】", str(message["Subject"]))
+        self.assertIn("【熊本イオン報道】", str(message["Subject"]))
         self.assertIn("■ イオン爆発（28件）", body)
         self.assertIn("■ 停電・電源車（1件）", body)
         self.assertIn("■ 日本製紙・八代工場（1件）", body)
