@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T00:30:50Z",
-  "updated_at_jst": "2026/07/30 09:30 JST",
+  "updated_at": "2026-07-30T01:00:49Z",
+  "updated_at_jst": "2026/07/30 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 423,
+  "article_count": 425,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "nhk": 29,
     "yomiuri": 47,
     "nikkei": 26,
-    "nhk": 28,
     "kumanichi": 73,
     "mainichi": 53,
     "asahi": 51,
-    "sankei": 85,
+    "sankei": 86,
     "jiji": 60
   },
   "tracked_categories": [
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 334,
+    "aeon": 335,
     "power": 62,
-    "paper": 36
+    "paper": 37
   },
   "items": [
+    {
+      "id": "7ec6d4c3e0808a87e7b4",
+      "title": "日本製紙 八代工場 8人死亡 2人けが 1人安否不明 熊本県",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-30T00:57:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44U2FvbWNZVlVxT0JhNmR0eHpyQ1ZIYXlvTUx1VkZqbjNER2YyRDR4a0dwZUQ3akMxZFZQc3oxdGJGWk52QW9rc0JkRnhpQWt1cGY2UE1TRlhQcEdSUm0w?oc=5",
+      "first_seen": "2026-07-30T01:00:49Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "bdc737c8d4123ced9e82",
       "title": "熊本地震で爆発したイオンモール、店員だった妻が音信不通「覚悟しておいた方がいいのかもしれない」",
@@ -738,7 +754,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRlRfbTV4Wjl6WEF3aVo4X3hXNEE0MzM5LUVVVUVxbzZrVmtOR2RZY3BvLThGMWNwNDNXSmRyOWEwMnZPQVRhd0ZkNUFNQ2tFQ004?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yakFXUGU0WkwwQXZJbkE0WXRvRG83bkNqMGVPeTdIdXJobVlDQmdSNHR0RkpsS0dsV2ZSdldxWU5pUUNBc2xvTGhjQmZENkJkeGFIVERjeG9HMWc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -866,7 +882,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVRDRnMEF0OGN3NzNvU0NEdUE2ZHJBLU9ORGZsQVhqQXFzUEdtdVVIQTc3MDZWN1l3Mm5icERka0loVFNNNG1MaV9lSW9QVFAtSzVNMF9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wNXBDSlByV0JvaWZmel9HcnhtYW9IbGxORVFMUnN1d3BRYlRqN1RJdllfRUtGY1d2N0pidEhuSjFnZWZ4Nm53UDRvc0EzWTVqbTRRc2dMbTZjc28?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -1401,7 +1417,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGxyZWZNc2xnbHdlTEk2TnlqSGFhbXNNVjNDSzJELTMyOTVIamFEMHY1cllMV0hMN3ZORHNaMXhWSlE0WjR1STZvTm5oVjlHaklfQVJSRlpJbEhNNXpmV3RDMnZuSlEteUpVVVR1QXZSTzljRmFzM2NJSWh1b3paWjVva1MyWUxJQU1FY1hIZ19MQklESDdBRy1HVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42OGZ5XzVrdUl5cnhiV2dHR0ZtaEtMc19FYkZqVVFXdTJrc1lxTkJXaEdseHY3NGNrUkNrc29BbUpDSUNGY0piN3c4dHdEZnVPdVJWWmRONEFpS0pOclVLdGE0dk5oa0FvNjhpeThuV1gzMGVVWlE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -1977,6 +1993,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d8263a48c14df46d0623",
+      "title": "建物が損傷しているイオンモール熊本=29日、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:43:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUU5QnBnd1NfdEJRc3hGa01RX2FIZkRXZ0pJSXdESGpsaElIU2FTZWNEYUEtcUFPYUx5X3AzaHZ1MEJBUnBuTjhaT1BMUkk3X016TmowTHpua21vaklZRzU5c3Rhb0gwS0ZWckdwVmZoMDdaU3BIRVpoaDcyd1FuVUVHT2NGVXVHd3BPa3U1dHJrVUR2NE0wNUFyRF9XT1Qxc2c?oc=5",
+      "first_seen": "2026-07-30T01:00:49Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -6844,7 +6874,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45UmpVaGY2SUpGalhkbVpsd2NTLVgtWGwxTXJtSXJUUlUtSVl1aXJFOXloS0tGTmRuTVk5MWpoSTdfU2wwZ0pneG5DY2QwcnZPeXdtUXVSOWZSV19jODlZMEQ3czdva3liRkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxRXduUnlMUVlMWGJkOC1RSUdFNy1NRno4dnF1SmE5OVBNYlM0cXRrX2VsLXhPWmRWVWFibmpOb0FLRXl0bW82Z05JSmNCdVRfdXR5UUUwVmQ3eEtUdkxIT2d2R2lLLV9yUFE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
