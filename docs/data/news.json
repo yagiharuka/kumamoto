@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T20:30:17Z",
-  "updated_at_jst": "2026/07/31 05:30 JST",
+  "updated_at": "2026-07-30T20:31:02Z",
+  "updated_at_jst": "2026/07/31 05:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 540,
@@ -272,23 +272,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "118064b03e1e0c55c9a9",
-      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T14:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
-      "first_seen": "2026-07-30T12:00:10Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -735,6 +718,23 @@
       ]
     },
     {
+      "id": "118064b03e1e0c55c9a9",
+      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T11:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRHdzY2UzRGJfMHY2QXNYNkVxSW02c1hfeDJmbmhLTnNnVjVmRWxEbkxDNnRxOWtCMEViclRVWnNTVGM0X1lQYXlHRjY3eTJBT0F5VWxWc1k3bjYzQnZIeHlpTQ?oc=5",
+      "first_seen": "2026-07-30T12:00:10Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f0d4a14fe0126187b0e2",
       "title": "イオンモール熊本の現場調査開始と経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -884,7 +884,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRl9FLUUxZXhyUzdMYml4d3RTRkdhc1h0NzUwSFdoMHN1bXNQd2ExYXFKLUR4NmdiZlR5ZndqcFNqZHgtV2VuaTlqT2JJckRkNUxxT0x6ZGlzMDV4aHVteGRTbllmX19RSGJRaDRWMTUwZlcwOHc1WTZjNjUwUUJaOGt4c1o0ei12VHAwT3ZpTDRrNEd1OHptQ09n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxTUFg5aWVlb0VQR2tVTS1ScDF3c0g3Mlg5YzV5eVhoUmVybk93WS1pQUxURnM5M1hkYmo5R2EtdFpBOGpjeWs2d3hXWENLaWZVMUJnZ3FMNGRLNnd3NkRBam9oRkFheFc0T1dWQTRnN21xSXJhbkZ0TngzWUtRNVhMUHhDSzFjelRqMEw4R2hUTGIyTnNHbmtB?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
