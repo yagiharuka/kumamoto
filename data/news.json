@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-29T23:30:54Z",
-  "updated_at_jst": "2026/07/30 08:30 JST",
+  "updated_at": "2026-07-30T00:00:52Z",
+  "updated_at_jst": "2026/07/30 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 417,
+  "article_count": 420,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,10 +50,10 @@
   ],
   "source_counts": {
     "nhk": 28,
-    "kumanichi": 72,
+    "kumanichi": 73,
     "mainichi": 53,
     "nikkei": 26,
-    "yomiuri": 43,
+    "yomiuri": 45,
     "asahi": 51,
     "sankei": 85,
     "jiji": 59
@@ -76,8 +76,8 @@
     }
   ],
   "category_counts": {
-    "aeon": 329,
-    "power": 61,
+    "aeon": 331,
+    "power": 62,
     "paper": 35
   },
   "items": [
@@ -147,7 +147,7 @@
     },
     {
       "id": "81d272b280d4904e357a",
-      "title": "熊本地震で停電2万戸超 生活インフラ被災、30日は予想最高気温35度",
+      "title": "熊本地震で停電2万戸超 生活インフラ被災、30日も35度の猛暑日予想",
       "source": "日本経済新聞",
       "source_id": "nikkei",
       "source_group": "全国紙",
@@ -293,6 +293,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "19512c10de0a4b69236e",
+      "title": "【リアルタイム速報】地震による停電、九電「31日までに全て復旧」",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T17:21:45Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83THVxMG9CMU9ISlo5YWh5UTl6b1FvNGEzYVdYSmNfczRpeHlVTkt1Q0RDalBiMVppU25oeXMtS0xTakNfeFVqc0tPcVg2eFE?oc=5",
+      "first_seen": "2026-07-30T00:00:52Z",
+      "focus": [
+        "停電状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -671,7 +688,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yakFXUGU0WkwwQXZJbkE0WXRvRG83bkNqMGVPeTdIdXJobVlDQmdSNHR0RkpsS0dsV2ZSdldxWU5pUUNBc2xvTGhjQmZENkJkeGFIVERjeG9HMWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRlRfbTV4Wjl6WEF3aVo4X3hXNEE0MzM5LUVVVUVxbzZrVmtOR2RZY3BvLThGMWNwNDNXSmRyOWEwMnZPQVRhd0ZkNUFNQ2tFQ004?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -759,6 +776,23 @@
       ]
     },
     {
+      "id": "8090464f7c89aff42f60",
+      "title": "熊本地震で爆発事故、イオン吉田社長「想定しきれなかった」「従業員が館内に戻った理由わからない」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T11:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xMndDNk9SYXRXWUJQRWM0c1lrZ0dPTE9LREpJYWlJa29DdnRQWk9Pb3VyTzBHc3BCMklqbmFmeFduZUZDcTZ6NUc1U2NucUdteDdFVUstelJaWnhhMTZSUnl2V01Yak56VXc?oc=5",
+      "first_seen": "2026-07-30T00:00:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "fbf451ad28d02a0529d1",
       "title": "熊本地震で爆発事故、イオン吉田社長「想定しきれなかった」「従業員が館内に戻った理由わからない」",
       "source": "読売新聞",
@@ -782,7 +816,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wNXBDSlByV0JvaWZmel9HcnhtYW9IbGxORVFMUnN1d3BRYlRqN1RJdllfRUtGY1d2N0pidEhuSjFnZWZ4Nm53UDRvc0EzWTVqbTRRc2dMbTZjc28?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVRDRnMEF0OGN3NzNvU0NEdUE2ZHJBLU9ORGZsQVhqQXFzUEdtdVVIQTc3MDZWN1l3Mm5icERka0loVFNNNG1MaV9lSW9QVFAtSzVNMF9B?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -3532,6 +3566,20 @@
       ]
     },
     {
+      "id": "c014406a6e244cdd13b9",
+      "title": "熊本地震 「イオンモール熊本」付近の道路にはがれきが散乱(28日)",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T01:55:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMnB1YV93c2Fub1NNRnVNaHRMa3o0MG9DeEt1OFpOMnRIZWFTNXJncmk3SElwN1czZWNPWUNoVzlBSWhSR042NkprdGExa1g0YS1n?oc=5",
+      "first_seen": "2026-07-30T00:00:52Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "368d619acc75d6a00a05",
       "title": "イオン周辺、がれき散乱=知人の無事願う人も―熊本・嘉島町",
       "source": "時事通信",
@@ -5945,7 +5993,7 @@
     },
     {
       "id": "fb1effe6adc756cd7a78",
-      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も | NHKニュース | 令和8年熊本地震、熊本県、地震",
+      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -6144,7 +6192,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-28T10:31:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odVdDczA1bW9RajlCU2Y1S09RLW1uak1MVFduVF9Tdk9jOS0ta0dhd2t1TnI1SHplRng3a3hlWW5zUzdxX2lvN3VzeWV4X3BRZlpTRlVTNXptelUzV0YyX21qR1JSSkQxMm9yTFY5dmtaS1JMNkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3c0dUVXb1RUOWhuT3owaFVwMTk2OFBJdktFeGRvS0U5c1NiM1hPcHVfWTZ5ZHJXRm1kcWUtakxQNS04QUNRSkIzZVkxZ0xsY0pfal9qeW5DWHU0LVpWaHh6ZDgydG9FcFZqSDNId1JZck5KRGRSaFNYUUdzalJDRk9KOERocHVESC1JVXdrcExpOWhZdHNLZmZqdw?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "停電状況"
@@ -6651,7 +6699,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGJuWFIteEsxazc0bDBhUkdJRE5UeHkwV0Fncl8tVFJ4YjVSNG9HYXhnNFAydGJkZGhqREV6TnpGaGh4a292YWxkZU5kUEpTQmtORkYxaGNKZjk1Zm9HOW9BTzJyVEI0QW1JQXd3UmVzdTZIQk1DdDNtRDRBVE91RENjUTQ1UVRWd1VHS3dR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFMMElWTGxaYmhVcTNsRUNzVGNGdzlrVG5CblM2N3gwM0U1bjliSFdlaHFqMjYwNlNOZHRjVmlWWDM2Z19ER1p0bjFDUTFScVNVbnk4Y2tCaXJLaWlpNG5QblZUVG9mNU9pd3FGQzVBLVFWN0xzRDhfbDJsVkpwdkJBdUh2aHAwMHdfdU53?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
@@ -6764,7 +6812,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxRXduUnlMUVlMWGJkOC1RSUdFNy1NRno4dnF1SmE5OVBNYlM0cXRrX2VsLXhPWmRWVWFibmpOb0FLRXl0bW82Z05JSmNCdVRfdXR5UUUwVmQ3eEtUdkxIT2d2R2lLLV9yUFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45UmpVaGY2SUpGalhkbVpsd2NTLVgtWGwxTXJtSXJUUlUtSVl1aXJFOXloS0tGTmRuTVk5MWpoSTdfU2wwZ0pneG5DY2QwcnZPeXdtUXVSOWZSV19jODlZMEQ3czdva3liRkE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
