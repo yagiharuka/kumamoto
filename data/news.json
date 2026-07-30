@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T14:30:14Z",
-  "updated_at_jst": "2026/07/30 23:30 JST",
+  "updated_at": "2026-07-30T15:00:18Z",
+  "updated_at_jst": "2026/07/31 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 523,
+  "article_count": 525,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 107,
     "jiji": 79,
     "nikkei": 35,
     "kumanichi": 87,
     "nhk": 37,
     "asahi": 59,
-    "sankei": 105,
     "yomiuri": 59,
     "mainichi": 62
   },
@@ -76,11 +76,29 @@
     }
   ],
   "category_counts": {
-    "aeon": 409,
+    "aeon": 410,
     "power": 81,
-    "paper": 45
+    "paper": 46
   },
   "items": [
+    {
+      "id": "dd4ee72f122837cb7558",
+      "title": "オンワード従業員1人死亡 熊本地震、爆発イオンモール熊本に勤務 他2人の安否も確認中",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T14:49:49Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhZm1MOXZSVTJYeTNsZU1XTjE1eVpXLTVQRExEYjI3OG1EdmJvRnFwenBVQXhKUHV1Z1A1UUhhcTRxaEpZNjFjREN5NmN2RDFJLWlibnBRZHNFb2tjcTlLMGt1aExvX1pEaEF1am1PNlRUcmtTYmc?oc=5",
+      "first_seen": "2026-07-30T15:00:18Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "50d600ee50434afd7bde",
       "title": "画像・写真:イオンモール熊本で続く救助活動:時事ドットコム",
@@ -189,6 +207,23 @@
       "first_seen": "2026-07-30T13:30:10Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "8e34f98b3f27a733f6a1",
+      "title": "地震で複数の煙突が折れ、犠牲者が出た日本製紙八代工場=30日午後3時、熊本県八代市(ドローンから)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T13:03:24Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSG85QmJiNzZiVXhzTl9FLUp5bDdiWE0yV05ZZ2FjMml4Wi1xcHhqNTdpc0xsQlVTYW9wcDZ4VXJwQzVOZGN0ZTU5aXZMZHFtQzNNaFk3R2NWSkVHTHd3d2wxVWlYeXY1WkxDR0lSeVBCY3BtaVM2SjZGVmpDZ0hiUGNIaS1tVUg5OS1yQ19hUnFrZm4tNWxEQ3h1bVJ6OUVuYkE?oc=5",
+      "first_seen": "2026-07-30T15:00:18Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
@@ -340,7 +375,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1l6Sl9iNHVHWkNtWUZBQ2RRd3FoYmk1d0dQeE1pSWFmUVlsc1dKa3lGMjNoWDF2NWVkMXFQcXY4ZzZ3dm1QX01RNTFrOFdvMG1TX1dmeGxqWlcxWWJmYVlXQjJ2RGxlcGNTcTRPUVRVRy0tTDZNQlhhTTZLa25iVmVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hNlBLLW4zMkJMWDdUZlRYd1o2RFFMeEtyRkNSeWM1eFVxMTZKeEpYZHdRMTE4OVZKS1JJbktSUGpKLTJRcTdOVUMwQ001anZ4U2dmaE91aG96MnJDNjRwb1dtSQ?oc=5",
       "first_seen": "2026-07-30T02:00:47Z",
       "focus": [
         "救助・安否",
@@ -430,6 +465,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "c6f053089c084d2cf019",
+      "title": "熊本地震、死者34人と県発表 イオンモール熊本では従業員7人死亡",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T11:42:39Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UHVYX0pEMGRmTWR3Mm1jbzhwX1JMcUt2NG1CbjdzTmRsMnJfTC0yejZESmp6ZmJxYTNTbWtpcEdxYUdtd25XMFUwelJaTXRCYW55VzFwbjhFY2ZBN2FoX2RRbWdTdzNZVm1kNjJR?oc=5",
+      "first_seen": "2026-07-30T14:30:14Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -606,23 +658,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdF9KOENwS0dlUUJwTWxTQXdSVHVzVFAzOXNPdVBEVDRyNzE5WTdXdV9fQjM4YS1mWDFOR3ktZDZMWjhRMWhGbHU0bHRwYVpCdjVnVWFuSGZ2MElQQlItRzFjai1FQ2ZsTlRoTGtVanJOb0tWbWctdzRjYzU0OFh1QlVLcGdjS2tqMzU0VUxOSDRrZUtrUkNZYktoTQ?oc=5",
       "first_seen": "2026-07-30T10:30:19Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c6f053089c084d2cf019",
-      "title": "熊本地震、死者34人と県発表 イオンモール熊本では従業員7人死亡",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxTUFg5aWVlb0VQR2tVTS1ScDF3c0g3Mlg5YzV5eVhoUmVybk93WS1pQUxURnM5M1hkYmo5R2EtdFpBOGpjeWs2d3hXWENLaWZVMUJnZ3FMNGRLNnd3NkRBam9oRkFheFc0T1dWQTRnN21xSXJhbkZ0TngzWUtRNVhMUHhDSzFjelRqMEw4R2hUTGIyTnNHbmtB?oc=5",
-      "first_seen": "2026-07-30T14:30:14Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -2487,20 +2522,6 @@
       ]
     },
     {
-      "id": "4e70601109e3ba761ab5",
-      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T10:29:01Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
-      "first_seen": "2026-07-29T10:01:09Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "40bcb110421c53ffefd3",
       "title": "イオン爆発事故の原因究明へ=ガス引火の可能性で経産省―熊本震度7",
       "source": "時事通信",
@@ -2705,6 +2726,20 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "4e70601109e3ba761ab5",
+      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T09:40:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sWWFnSXR1a29fUW1OZjZTRExfNEc1clZaVkpESUFIU2gxZUtibTZERUlMOHFSUVFHTGNRbUM4c29jLThlLTVDeTVkY0U2WEo5cXc0?oc=5",
+      "first_seen": "2026-07-29T10:01:09Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -8198,7 +8233,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
