@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T21:00:13Z",
-  "updated_at_jst": "2026/07/31 06:00 JST",
+  "updated_at": "2026-07-30T21:31:00Z",
+  "updated_at_jst": "2026/07/31 06:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 555,
+  "article_count": 556,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "mainichi": 67,
     "jiji": 93,
     "yomiuri": 60,
-    "mainichi": 66,
-    "asahi": 62,
     "nikkei": 36,
+    "asahi": 62,
     "nhk": 39,
     "sankei": 112,
     "kumanichi": 87
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 434,
+    "aeon": 435,
     "power": 84,
     "paper": 49
   },
   "items": [
+    {
+      "id": "7f44110de2c7cfa858ef",
+      "title": "毎小ニュース:災害 熊本地震 イオン社長が爆発謝罪",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T21:02:11Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90ck45VUFhbUgyLUlCS1VuQzJ6SG5ISEdNMlVKWWRLRkFFUVhCaW1qMXE0WGJYemh3VXpLLUZoQzRwelJ0TzQwdEJCbl9sNmVmSXdrY243dG80amZzUXE4SVZybEdJZEdRNENPTVhlWUxfdw?oc=5",
+      "first_seen": "2026-07-30T21:31:00Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "279fbf5416e01e3fbb53",
       "title": "損傷したイオンモール熊本 地震の発生...:熊本地震(2026年7月) 写真特集:時事ドットコム",
@@ -188,6 +204,22 @@
       ]
     },
     {
+      "id": "a0c2bb021bdfdd59ef26",
+      "title": "イオンモール爆発を写真で読み解く 熊本地震、衝撃の現場",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T20:01:29Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "3fd184bcfa636b67ef75",
       "title": "熊本地震 イオン熊本で不明者の捜索 県警援助隊派遣 /広島",
       "source": "毎日新聞",
@@ -244,22 +276,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QUpmY1k5NEFnOW1Ma0pfajJVT21DU2ZsTkphbnNXY2RxTDNQbFhibzBESXhzb2hSV0oyUDcyS1Jid1ByUjlGVUNGS1BoeGU2LUlXdlZCZEZfNnZYQXhBWWlfZmRJMUU?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a0c2bb021bdfdd59ef26",
-      "title": "イオンモール爆発を写真で読み解く 熊本地震、衝撃の現場",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
@@ -1057,7 +1073,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -1773,23 +1789,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "bc1ad5ebcc18d938379c",
-      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T01:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXNjemY5RWpUVGRYRFlfM2xxRHhfM19jblRCd3dJZUk3bW9pYWpwTmp4YXVDVllFaVU2dmJsZlFGQUlZREZlRFZVeWh5NU05enp3cTdSWXZBaF9id3I2Z3hoczVVc0hGM09aSF9SRWd4dHB2dENGYlIzcjBDcTFmclJRTHJ4LWkwODZyWGRibFg5X0w1UWFHZF8zVFB4NWZNLUE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -2814,20 +2813,6 @@
       ]
     },
     {
-      "id": "4e70601109e3ba761ab5",
-      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T10:29:01Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
-      "first_seen": "2026-07-29T10:01:09Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "40bcb110421c53ffefd3",
       "title": "イオン爆発事故の原因究明へ=ガス引火の可能性で経産省―熊本震度7",
       "source": "時事通信",
@@ -3032,6 +3017,20 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "4e70601109e3ba761ab5",
+      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T09:40:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sWWFnSXR1a29fUW1OZjZTRExfNEc1clZaVkpESUFIU2gxZUtibTZERUlMOHFSUVFHTGNRbUM4c29jLThlLTVDeTVkY0U2WEo5cXc0?oc=5",
+      "first_seen": "2026-07-29T10:01:09Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -3972,7 +3971,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT04wVVNYbVBkdW84d2NnaENpdTd3b21DMnFrSDlSTG1qUWpZY1JNd0NZaWxfYVRNS2tGeDQxNFVoWTdGZWtTVUR1UF8yZTFiaHNkX3VKd3g2b1dsbFJxRTF1YXd5bUpxLWI5VWtVVGd0eUREcFE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -5362,6 +5361,23 @@
       "first_seen": "2026-07-29T05:28:44Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "bc1ad5ebcc18d938379c",
+      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T02:58:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWJLRzg3VG9USlN0MEptNVpzdHV0UWZlOXRaZHlOdEVVNlFwQ1ZXV2tmTkU3dzdpUG1BQlc5WWhiYlR2dTZKRm5lcTlSRHZVOWkxc0F3aE1JWXk4aFJEVlNUOWJOc0Job1BnOGktYjBMc1VLZ1JSQ29wNkRDV0xLbWRpRG55bFp5ZXRQdkRzaHA3aTRpaDd4bW81Zy16R3pDdkE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
@@ -8668,7 +8684,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
