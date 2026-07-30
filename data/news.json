@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T22:05:54Z",
-  "updated_at_jst": "2026/07/31 07:05 JST",
+  "updated_at": "2026-07-30T22:30:53Z",
+  "updated_at_jst": "2026/07/31 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 560,
+  "article_count": 562,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 61,
+    "nhk": 40,
     "mainichi": 67,
     "jiji": 97,
-    "yomiuri": 60,
     "asahi": 62,
     "nikkei": 36,
-    "nhk": 39,
     "sankei": 112,
     "kumanichi": 87
   },
@@ -76,11 +76,41 @@
     }
   ],
   "category_counts": {
-    "aeon": 439,
+    "aeon": 441,
     "power": 84,
     "paper": 49
   },
   "items": [
+    {
+      "id": "1c66c88c0bb4a1cb0fc1",
+      "title": "オンワードHD、イオンモール熊本で勤務していた従業員1人死亡...ほか2人の従業員と連絡取れず",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T22:18:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OeWdaSnk1UkFtRm00OVo0Q3YyaEhqa25IUjNGNC1zS0FXYUMtdURTXzF4VXdGSndPSEkxdUpweEU3TDJ2OVdTbFhUX0pwV25kUmZfU0hkZnFtN0hhZmllakh4YlJXdw?oc=5",
+      "first_seen": "2026-07-30T22:30:53Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8f65f9315495dc671ab1",
+      "title": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-30T22:10:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JaTZ4VjZEQUotajhuMGlUd004OHZBaGMxamR1Q2lPay1PTnRILXU1Z1lSTmN2UFV1akZ6c3VSTnAtSW9yVWl4WHRhaFRnUkVmM2ZucmxHbnNlLUI3Y3hV?oc=5",
+      "first_seen": "2026-07-30T22:30:53Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "7f44110de2c7cfa858ef",
       "title": "毎小ニュース:災害 熊本地震 イオン社長が爆発謝罪",
@@ -746,22 +776,6 @@
       ]
     },
     {
-      "id": "5dbb86723900d74f9c2b",
-      "title": "2026年熊本地震>迫る「72時間」、懸命の捜索活動 イオン、日本製紙、倒壊家屋...見守る親族ら「どんな形でも見つかれば」",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T12:05:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZ3cxYVY1b3FId2xjb0RBVmxmbmVkQW1VTDl4ZFIzVGs1Q3gwYUl3LXQyWFdpNnRZQmFKbm9CWV9BQ0RYQUdXVkV1cTFHZnc?oc=5",
-      "first_seen": "2026-07-30T12:30:12Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "fab8c17bba8fadc4434e",
       "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
       "source": "朝日新聞",
@@ -1073,7 +1087,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -1691,7 +1705,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -2829,6 +2843,23 @@
       ]
     },
     {
+      "id": "4ad172a19fe1a0e2032a",
+      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T10:42:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW9DY3JZRWFRb29mRlZfcmh2YllXOGxZRnBJOGRjZGIydGY1Y01uWnRLUjhNdF9nZ1pjOXZLMXVPUmZYU3NGRVRNQXZkck5DQW1WMTExVlRYaHo3bDlhRGVhMnFGN005dTdfM0w5dE5jU1NnRTBFTzNEd3YyMmNkYVdn?oc=5",
+      "first_seen": "2026-07-28T23:30:22Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "40bcb110421c53ffefd3",
       "title": "イオン爆発事故の原因究明へ=ガス引火の可能性で経産省―熊本震度7",
       "source": "時事通信",
@@ -3630,23 +3661,6 @@
       ]
     },
     {
-      "id": "4ad172a19fe1a0e2032a",
-      "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVm04eF9zYnktR0Z3MkhleHpVNW5UdXY1VTdhZE44QnZkd1ViZU5kYXpVTnJia0Z5OEhsbUM0Vk9lV2dQTDg1SHNlUVluY09IMkZKdnVoaGhSekhIMlp0NUNNWWVhdkRGX0llSVJuNFJudG5mNGZ1eUJLbkR4Vzd0cUhR?oc=5",
-      "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "99ae68389686aadd5123",
       "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
       "source": "時事通信",
@@ -3987,7 +4001,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT04wVVNYbVBkdW84d2NnaENpdTd3b21DMnFrSDlSTG1qUWpZY1JNd0NZaWxfYVRNS2tGeDQxNFVoWTdGZWtTVUR1UF8yZTFiaHNkX3VKd3g2b1dsbFJxRTF1YXd5bUpxLWI5VWtVVGd0eUREcFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -4163,6 +4177,22 @@
       "focus": [
         "救助・安否",
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "5dbb86723900d74f9c2b",
+      "title": "2026年熊本地震>迫る「72時間」、懸命の捜索活動 イオン、日本製紙、倒壊家屋...見守る親族ら「どんな形でも見つかれば」",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZ3cxYVY1b3FId2xjb0RBVmxmbmVkQW1VTDl4ZFIzVGs1Q3gwYUl3LXQyWFdpNnRZQmFKbm9CWV9BQ0RYQUdXVkV1cTFHZnc?oc=5",
+      "first_seen": "2026-07-30T12:30:12Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
