@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T02:00:47Z",
-  "updated_at_jst": "2026/07/30 11:00 JST",
+  "updated_at": "2026-07-30T02:30:50Z",
+  "updated_at_jst": "2026/07/30 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 430,
+  "article_count": 434,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "sankei": 88,
+    "jiji": 62,
     "yomiuri": 49,
     "asahi": 51,
-    "jiji": 61,
-    "sankei": 87,
-    "nhk": 30,
+    "nhk": 31,
+    "kumanichi": 74,
     "nikkei": 26,
-    "kumanichi": 73,
     "mainichi": 53
   },
   "tracked_categories": [
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 338,
+    "aeon": 341,
     "power": 64,
-    "paper": 38
+    "paper": 39
   },
   "items": [
+    {
+      "id": "c20162390be63997ac40",
+      "title": "イオンモール熊本の猫カフェから25匹救出、広島の店舗へ ペットショップの犬と猫も避難",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T02:05:29Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQ05IUWtla1FGdncySWJJbk9aanRYWWlDZDlkYV9yV3RScWR6N1l6Ym5ZZW9MZllpQlU0SUtod285bzN2X1lBNU1OTU96NjQzNnkxX085bHYyYzNLbklLeUR0UHJaUnZ1bjBzNUlJRHNObWE0elE?oc=5",
+      "first_seen": "2026-07-30T02:30:50Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "50d600ee50434afd7bde",
+      "title": "画像・写真:イオンモール熊本で続く救助活動:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T01:55:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FSzJuUmNqYVh6LUpoWUx6bXd3ZHgzajBVQUtnQnl3ZEwwWkcydlhTNU5jNXdqZE1jbEdETWVUcXcya1JVMmxkZV82d3lQcjFXeGpZSndiZUE2ckJpeV9OMENnZmU?oc=5",
+      "first_seen": "2026-07-30T02:30:50Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "ceb2de989aed59a5c649",
       "title": "熊本地震で65医療機関が停電や断水など被害、通常の診療が困難に...「病院間搬送」も相次ぐ:地域ニュース",
@@ -165,6 +197,22 @@
       ]
     },
     {
+      "id": "f0a9b2ab661efd142aab",
+      "title": "熊本県 “日本製紙八代工場で8人死亡 1人安否不明”",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-30T01:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tbXpJd2ZBRkFRb0FocVZBUFdzX3NlMzVaRzRvT0tyNUlHOC1pQjJtcFlESEpxTVFQSzFIYjVaYU9SOVJUeHRsdVNVRzJRbkY4N3B1LWZ3cGw?oc=5",
+      "first_seen": "2026-07-30T02:30:50Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "fabf348a0068a82147fe",
       "title": "イオンモール熊本 5人死亡 1人心肺停止 5人がけが 熊本県",
       "source": "NHK",
@@ -209,6 +257,22 @@
         "原因・検証",
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e8c496a2174351f43aef",
+      "title": "死者はイオンで5人、日本製紙で8人 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T00:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMaERpWHlfNVNtUDNpQVEtQ01Wb1JpRGV3eldZRl9RcmN3NjUySDdPbnlCNV9qOWZhOFdZOUM1aVMxYVpqY0xqMGlEalNLYTQ?oc=5",
+      "first_seen": "2026-07-30T02:30:50Z",
+      "focus": [
+        "救助・安否"
       ],
       "category_ids": [
         "aeon"
@@ -331,7 +395,7 @@
       "source_id": "kumanichi",
       "source_group": "地元紙",
       "published_at": "2026-07-29T21:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByc0dZNW5FY2N2NVpHVVJoTE91R2V6UndPRXZrX2FfbWh3NlFxOU8xVE0xMnhUNnNuLUlidE41NEdrNTZhNks2cWN2Yl80WjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tUkxrbEtxM05PUHFBRjRZSWJ1YU5fMTEzNHBhNXpLd01SSTFrUFFUNUVlSTQ4dnhucEhsY3dkcXlmYlhFaDZGamVZTGtiNWxGaTZBcA?oc=5",
       "first_seen": "2026-07-29T21:30:49Z",
       "focus": [
         "停電状況",
@@ -1513,7 +1577,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGxyZWZNc2xnbHdlTEk2TnlqSGFhbXNNVjNDSzJELTMyOTVIamFEMHY1cllMV0hMN3ZORHNaMXhWSlE0WjR1STZvTm5oVjlHaklfQVJSRlpJbEhNNXpmV3RDMnZuSlEteUpVVVR1QXZSTzljRmFzM2NJSWh1b3paWjVva1MyWUxJQU1FY1hIZ19MQklESDdBRy1HVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42OGZ5XzVrdUl5cnhiV2dHR0ZtaEtMc19FYkZqVVFXdTJrc1lxTkJXaEdseHY3NGNrUkNrc29BbUpDSUNGY0piN3c4dHdEZnVPdVJWWmRONEFpS0pOclVLdGE0dk5oa0FvNjhpeThuV1gzMGVVWlE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -6860,7 +6924,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzFMMElWTGxaYmhVcTNsRUNzVGNGdzlrVG5CblM2N3gwM0U1bjliSFdlaHFqMjYwNlNOZHRjVmlWWDM2Z19ER1p0bjFDUTFScVNVbnk4Y2tCaXJLaWlpNG5QblZUVG9mNU9pd3FGQzVBLVFWN0xzRDhfbDJsVkpwdkJBdUh2aHAwMHdfdU53?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGJuWFIteEsxazc0bDBhUkdJRE5UeHkwV0Fncl8tVFJ4YjVSNG9HYXhnNFAydGJkZGhqREV6TnpGaGh4a292YWxkZU5kUEpTQmtORkYxaGNKZjk1Zm9HOW9BTzJyVEI0QW1JQXd3UmVzdTZIQk1DdDNtRDRBVE91RENjUTQ1UVRWd1VHS3dR?oc=5",
       "first_seen": "2026-07-28T13:50:41Z",
       "focus": [
         "現場状況"
