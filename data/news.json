@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T05:30:47Z",
-  "updated_at_jst": "2026/07/30 14:30 JST",
+  "updated_at": "2026-07-30T06:00:50Z",
+  "updated_at_jst": "2026/07/30 15:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 453,
+  "article_count": 455,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nikkei": 28,
     "asahi": 53,
     "sankei": 91,
     "kumanichi": 76,
     "yomiuri": 52,
-    "nikkei": 27,
     "jiji": 67,
     "nhk": 33,
-    "mainichi": 54
+    "mainichi": 55
   },
   "tracked_categories": [
     {
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 357,
+    "aeon": 359,
     "power": 67,
     "paper": 40
   },
   "items": [
+    {
+      "id": "2ef11e0a7fb74684301b",
+      "title": "決算:イオン、熊本地震の業績影響「現在精査中」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T05:57:50Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU0UydFZQLUhvZXlaZV9OczFHWnRjSXVxeUk2aDR0YjkyUWVmRzR4Q19XMVpLZzR2bUtaLTlwamRUYkFXNzgtbzl1OE9jbnQ0RzZ3OFdnV1M2NXVYVU5wSEJmQktfUndGdE8zUQ?oc=5",
+      "first_seen": "2026-07-30T06:00:50Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "f603166d0f8ca279d2c1",
       "title": "【29日の動き】イオン爆発で犠牲者 社長会見「深く深くおわび」 [2026年熊本地震]",
@@ -217,7 +231,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T04:01:08Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Mazg1Ny14UjQxMDdITG1CMnF5SFZRWkNqY0hjWTdQdWJHS3dkSlhvUmhBWElDWEk1VmNkVWRqUlJtZ1o3U21jQUd2NExuSG5Pd2xrTENmR1g0a1F6dEdLeGN2bTJpRDlKT2pmbDBUckVjN2RIM3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaExiS1g4eFJVanJhZGRCREdpbHVtTVpVbmZqckUwUElMRVJ1Y3pRQ3N0cGVlRHVoUFFnU0JHUFRmLVllYW9seGlnMlhxV05FM0tvcVFMeTlYamVvZGd0TUI4RzRlMHh3T1cwMDM0a21nT0RFeElLUi1iXzREMVlFb2RGM3ZvS0c4VERFczFyYzZrYmc2ZDZKdjV1TQ?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [],
       "category_ids": [
@@ -5601,23 +5615,6 @@
       ]
     },
     {
-      "id": "b303f966f6fcaa15df84",
-      "title": "◎イオンモールで爆発=日本製紙、工場の煙突倒壊―トヨタ・ホンダ、工場停止―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T14:32:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UNlVzX19RNV9KLW9WR1VzV1R0X2w5NWM0dnhiUW5WVmJXZExVRE5JRk1hM3ZKWmY1dFVHRVNUQjZVTGJ0R0Zad1FUOURTb1BCYVpjZGJZSU9iaWVWaXc?oc=5",
-      "first_seen": "2026-07-30T00:30:50Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ef5f861826d0f1ad3d5f",
       "title": "イオンモール爆発はガス漏れ原因か (共同通信)",
       "source": "熊本日日新聞",
@@ -6484,6 +6481,23 @@
       ]
     },
     {
+      "id": "b303f966f6fcaa15df84",
+      "title": "◎イオンモールで爆発=日本製紙、工場の煙突倒壊―トヨタ・ホンダ、工場停止―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T11:24:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRzNVMklzeXgtaUxwQW0zaGpJZFdLUHR0MU5MQndGN3pyNjZsd3lIeXZ5TlJUOWZVSXZCdGFBaG0tcnVaMGJIOGxrVFFRcGxNYmNwYQ?oc=5",
+      "first_seen": "2026-07-30T00:30:50Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "4290739009427bce0339",
       "title": "「イオンモール熊本」で爆発 閉じ込め多数か 救助活動は難航",
       "source": "NHK",
@@ -6838,6 +6852,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1ef19c28206561c62af7",
+      "title": "熊本で震度7 熊本城やイオンモール熊本などで被害 [写真特集5/21]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T10:11:46Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlgyb0JUYmxQOFZtYlR5dGhBNUpoN1FINVpfTDdIaklJdGJMaUcwN3d0UXdZbEk0UVRJTnRFN2NhVWxyNWZxcExTMGoyZ2JCVXdtYTFFR0RRLTVaSjVPc0tiZE1IaHVIM2JoMHVwSzFIZVE0LS00YWZGaUduV21DeTFjZXJlMEE?oc=5",
+      "first_seen": "2026-07-30T06:00:50Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
