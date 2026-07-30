@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T04:00:49Z",
-  "updated_at_jst": "2026/07/30 13:00 JST",
+  "updated_at": "2026-07-30T04:30:49Z",
+  "updated_at_jst": "2026/07/30 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 442,
+  "article_count": 450,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "jiji": 65,
-    "yomiuri": 51,
+    "kumanichi": 76,
+    "yomiuri": 52,
+    "sankei": 90,
+    "nikkei": 27,
+    "jiji": 66,
     "nhk": 33,
-    "asahi": 52,
-    "sankei": 88,
-    "mainichi": 53,
-    "kumanichi": 74,
-    "nikkei": 26
+    "mainichi": 54,
+    "asahi": 52
   },
   "tracked_categories": [
     {
@@ -76,11 +76,106 @@
     }
   ],
   "category_counts": {
-    "aeon": 348,
-    "power": 65,
+    "aeon": 354,
+    "power": 67,
     "paper": 40
   },
   "items": [
+    {
+      "id": "ae1a1d1b7d51a149909b",
+      "title": "【速報】イオンモール熊本の死者6人に 熊本県発表",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T04:24:32Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9idE45dmpiS2RzN3JhbU9YeHc0TV9YT3l6a0Z4c0E1aGRtV2l3MkJSVWpqNWFWNnJsRjRkSWFrZG01OVdSM29INWtVRU5qR0E?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "00c2ae519d81cc892956",
+      "title": "イオンモール熊本の爆発、新たに1人の死亡確認...死者は計6人に",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T04:21:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Zb25fRVY2ZzRpcHpFTGxaVHc2V1o1MkZaYVhqTWdmNnBQckRTYmhRa2JJY3l2bkhPM2pmeFdJajN5VVVuT3FSUmoxWWZFRjBRcTRObTAzd1VtUXhOUTRpSm14bEJWUQ?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1f2d21c4322adce1d47a",
+      "title": "<速報>熊本地震でイオンモールでの死者が1人に増え計6人に 熊本県が発表",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T04:16:19Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjaFZ5VnZRSGNDRlFEczF3MW1RRi1MU1FsYTBMbXlYRDN3RllhbUJtR25fanVvSExuU1dTNEQyMDVjelV4VmlXb01oek5WM0NxTzlxdkR3NDAyUzF0OXFrdDdfUEFWNnZzOHp2dl93aGJjRGxyT1E?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2844a9489598e3fd36be",
+      "title": "熊本地震の被災地、停電・断水なお広範囲 余震も絶えず遠い日常",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T04:07:21Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQU91NHZTazRRUTJiTGoxc2ljTkxSZE90TjZtbUdaZ2tSeEpvdzV2c0pvM3FWS2lheE1Qb20tc3lnNW42dk9RQlZuYTNpWUpEV1ZSczVJcFQ4OTV0T0tTVWpveWVsbmdjdEc0bg?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "d6f65efe62925a57b3fc",
+      "title": "イオンモール熊本、死者計6人に (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T04:07:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWFI5S1owODlmdHpsSHVIU2FYX3FSWUtnUUJTVWFfUFNFQWtSeTJvWjFzQmdySmxubGpONFUtM29pd3NHTWtsX0tvZFNWdms?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f3573ddf348616e1d5ef",
+      "title": "イオンモール熊本の猫カフェ「MOFF」から救出された猫25頭、広島店舗に到着 現在の様子を報告【令和8年熊本地震】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T04:01:08Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Mazg1Ny14UjQxMDdITG1CMnF5SFZRWkNqY0hjWTdQdWJHS3dkSlhvUmhBWElDWEk1VmNkVWRqUlJtZ1o3U21jQUd2NExuSG5Pd2xrTENmR1g0a1F6dEdLeGN2bTJpRDlKT2pmbDBUckVjN2RIM3c?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "44a2b2d97475aa5f5586",
       "title": "◎イオンモール熊本で続く救助活動",
@@ -130,13 +225,27 @@
       ]
     },
     {
+      "id": "5318d0748625b7eab206",
+      "title": "イオンモール熊本の猫カフェ「MOFF」から救出された猫25頭、広島店舗に到着 現在の様子を報告[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T03:05:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUmotb0NOZGlRUFJwTHpWRG44dUhJbUNrc0tLdHNsdTQ3WnR4b1ZlUTI0NWViNGJ5bmJ0WUNKdWJ3Um1GSURieUNLUGY3YVRlcXpmZWg5LUpYS0VLZkVMOTl1dDYxR3pl?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d0d2374978942fee24d2",
       "title": "死者17人に、捜索続く 心肺停止6人、重症5人―断水・停電、1万人が避難・熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T03:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOW5DTWRDYmpHYzFnVHBrcUQ2VGgtYzl1UFUxeWp2SlRSVUxicVRaeGM1amd4NWhkSTh3VVprREtjRV8zQTBxbDBhc0xCR1JJSGh4Zk1CTlJhSGl1NTJ5SzBWNkZkOFEtODBneU5GVldQamoxc3hfVk56c3Y2Z0ZTOTln?oc=5",
       "first_seen": "2026-07-30T02:00:47Z",
       "focus": [
         "救助・安否",
@@ -173,6 +282,23 @@
       "published_at": "2026-07-30T02:29:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "1787ff0b5695151309b4",
+      "title": "「断水・停電、いつまで」=避難生活、疲労の色濃く―熊本地震被災地",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T02:28:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV1pvbG1rTS1LWkhkYm4yQ21ubXBnQ1RzMzhaNndFTy1WVlhQcnBtLXRhYmN5cUhCeEd4VWhyQmRQODBWMncta1oyNzBsb3pSY2FOMQ?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
         "停電状況"
@@ -4615,7 +4741,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T20:50:54Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWJSSF9pM1RqSE1ramFoUjhacGgwLWVKVTJRSWJMM0JCOWdWYlJQVUJod2p6TEIwbjNzS0txaklDSy16RENPeWx5ZGRBa3M3TmM4UDBkNzJxeWMzMzFnYzVyZXZyV0I1TUIyOURyTVVIVVFMNnI3ekFKQmUxckNILXdMQWNWSWZPRGtCX21n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -6366,7 +6492,7 @@
     },
     {
       "id": "fb1effe6adc756cd7a78",
-      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も | NHKニュース | 令和8年熊本地震、熊本県、地震",
+      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -7072,7 +7198,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nUXJVcWdBLTRJb2hHeFdlcEVDLXBfN050X3c5MU5OUFM0eFEwVm5lWTVuamozZnJtOUx6NmNPdV9oY2Voc0JhUllHMHdzT3JaZGNXZThMNjZfdXJkZ1JDNXdVdmZ6SkJzSnExQ053?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxNjhiczB3Y2xJbmxqXzliU29NVzh2TmEzQ2lpNmp6WFJQa0JTVHJGY3QxRWpyTUFNSzNZWHZlOUkxelUxaHEtUGp4ZF8tZThhZXJtaWZ4WVJRLVRDaG5uZnNIaGM4VDZScHpSTWx3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
