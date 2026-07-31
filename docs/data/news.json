@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T14:00:59Z",
-  "updated_at_jst": "2026/07/31 23:00 JST",
+  "updated_at": "2026-07-31T14:30:54Z",
+  "updated_at_jst": "2026/07/31 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 636,
@@ -119,7 +119,7 @@
     },
     {
       "id": "cd9d445c789e0a4cae80",
-      "title": "取り残された人はいないか... 地震発生から「72時間」 イオンでは800人規模で捜索",
+      "title": "2026熊本地震>取り残された人はいないか... 地震発生から「72時間」 イオンでは800人規模で捜索",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -1465,6 +1465,24 @@
       ]
     },
     {
+      "id": "e8e89400f33e82e3edcc",
+      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T13:01:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "925e288c009d00b5eddb",
       "title": "イオンモール熊本前で重機を用いて行われた捜索活動=7月30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -1672,24 +1690,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "e8e89400f33e82e3edcc",
-      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1l6Sl9iNHVHWkNtWUZBQ2RRd3FoYmk1d0dQeE1pSWFmUVlsc1dKa3lGMjNoWDF2NWVkMXFQcXY4ZzZ3dm1QX01RNTFrOFdvMG1TX1dmeGxqWlcxWWJmYVlXQjJ2RGxlcGNTcTRPUVRVRy0tTDZNQlhhTTZLa25iVmVR?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -3599,7 +3599,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRlRfbTV4Wjl6WEF3aVo4X3hXNEE0MzM5LUVVVUVxbzZrVmtOR2RZY3BvLThGMWNwNDNXSmRyOWEwMnZPQVRhd0ZkNUFNQ2tFQ004?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vZmZoQ0kwU2lodl9HcjhrU3dCaVJydzdORXJkLVF2TGVWMFloajhZdEg1d0pRVDBTUGR4SkJSZElfUm9ha2JsMG1IZnk2U0FlUFJ3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -5326,7 +5326,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43YzlSb1g2cTA0WGoyUlIxWGhBNlozXzlrcThJc3h4VGZRcExNYVo0eFlxYjNOUC1qQzE3cFR2OTFWMjRlVXJaQjdabmFvQ2JTcXNTOG41ZUU5cEx1emtSUjJZV0dmdk85TDkxU3VzQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xZ0dBLUxqQTdYZF9QcTdDTy1XNjBsb2pFMU5EUW1Tb21rSVhyTFZTcW9qdGJ0c0lHSEFQYllub2FzY1ZUcW02OEhSTXRVRXktVTY0bV90eDIwMVhPTjcyNjkzMU5qMTllZHVDN3djWQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -5688,7 +5688,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T06:20:04Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fYlVlajV1NWhrLS12QmV2ekl3MTRxTlp2bUhYXzQ4aUdBNmI2MWtMS1ZUOV9rVHcySW41Mk5WZGpUTnQ0cWNkNTJQNFJrZ3VUX004dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Tld1VnR3bXRZRTdGQlVqQ1hqSjdjWGR1VFB0WFhGOGhZaEpWQlJwSUNwT0FzZkdPY25EcThrQXduWHQyRXcxVjlacUFtSXFZYk5vc0lR?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -7477,7 +7477,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T21:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRUNYcmloYkRvcjc5UEJnOUNBV2p3Q1FGTUxaa05fRENIT3g1dDNiYlhPVUlsVllNbVZzSXRMdjBrcWNiWXlkU1NBRy15UERRWWdz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hYzN3QzhYWWl6al96U09kLXdDSjhIbnBHb094bi1jYzZKQ01GQUI3V3k4a3B0eFNGR0FYeVI4eXJucThJRkpzLTJXdzBkaWdLeU9r?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
