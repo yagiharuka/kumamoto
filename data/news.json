@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T12:00:51Z",
-  "updated_at_jst": "2026/07/31 21:00 JST",
+  "updated_at": "2026-07-31T12:30:51Z",
+  "updated_at_jst": "2026/07/31 21:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 631,
+  "article_count": 634,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "jiji": 113,
+    "yomiuri": 74,
+    "jiji": 114,
     "nikkei": 40,
     "sankei": 116,
     "kumanichi": 97,
     "asahi": 69,
     "mainichi": 75,
-    "nhk": 48,
-    "yomiuri": 73
+    "nhk": 49
   },
   "tracked_categories": [
     {
@@ -76,11 +76,47 @@
     }
   ],
   "category_counts": {
-    "aeon": 486,
-    "power": 93,
+    "aeon": 487,
+    "power": 95,
     "paper": 64
   },
   "items": [
+    {
+      "id": "7e4a95f6ea79b701358f",
+      "title": "熊本地震の住宅被害1526棟、9532人避難...死者36人・停電おおむね解消",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T12:18:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9weEVNZFI0a0Zncjgxb2h5X1RYOVdQcUUyeFVuRFVzRmY0UjhVVm9ZNndNRFgxWUpGdGc1NE5PeEFIQjdaVndUbnJkand1UVJwcm9EZFVfckloUVJMWi13ZnlENDdqdw?oc=5",
+      "first_seen": "2026-07-31T12:30:51Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "8682ef002108c04388c1",
+      "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T11:53:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWlrdm9ETlB1b0s0ZkhLdFVucHE4RE9XNFdYMXo2cVpvSExCVlJ1ODNTSzg2cVpIYXFLSFFuLXFCbUpXNTJnREY3ZE9xTGZ4M3h0VHZOTlBrd0U2X1RUYXFlenp4cE5pRlhLd2lFX3JpZVpaemt5TFFyNW9kbUUtY05n?oc=5",
+      "first_seen": "2026-07-31T12:30:51Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "cb0b4298b55dacd3c963",
       "title": "猛暑の捜索続く、72時間経過 死者35人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
@@ -376,6 +412,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "3e6ef819dc6309d2e2f3",
+      "title": "オンワード イオンモール熊本で新たに2人死亡 犠牲者3人に",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T05:24:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIazhQVG1lMU8wODZnMlBLUHUzZUFTRzhVbXpvUjN6cXYtb0hFTjdpbm5mVjJpLWlpbm9LMlVGOGs5WnpzbDVueFB3MWhkNVZnSFN6VGszakU?oc=5",
+      "first_seen": "2026-07-31T12:30:51Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -2842,6 +2892,22 @@
       ]
     },
     {
+      "id": "4f850ef30c5bd42621e7",
+      "title": "【更新中】熊本地震の最新情報 死者35人に イオンモール熊本では12人救出、7人死亡",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T23:35:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQzZKeWhpSExuV3JlM3pTVS0zRmJRZE1hOGJ2RTRkNFBxSm02emhUVUZ0aTVwcmNHaWRhNnptb2twa3RZTFByTWxwZ0NfN0I0MDV2bVJxS0dReFFMYkFVUDAwQ2RUMlpL?oc=5",
+      "first_seen": "2026-07-29T17:00:13Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "18a009c45b5075f5542a",
       "title": "イオンモール熊本 夜通しで がれきの撤去と捜索続く 嘉島町",
       "source": "NHK",
@@ -2964,7 +3030,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GVUplLXk3ZDBvMG1WT3NoTUJLSlhubVRMU2RMZno3MndRRnFWVUg5R1QyVnJuTnpTeUV4SUdmUDZqenFyZmhuZHFDd2VwbTNCbTVmZy1LRjRHdk9ocUNYT0F0VHRfZDY0azZkVkt3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1packx2THdIT005dGdqbkFycHdOMDlsaEFfMm1mNVAxNjdRMkxrc3VpVjJtNDZHYUVRcG5tV3g2RGZ0YzBiUHEzSXZmeC1tU3MzRWZDaWJhTkFUQmpKYUZieV9HRTVCeEdQYVBjMkx2MzFIUkh0M0VwYlZkSGxOOF9ZMFFfdmlzdWJTSkJ6M0NrTDQ2MS1ldEE3ejlNcDJFdWdSeQ?oc=5",
       "first_seen": "2026-07-30T04:00:49Z",
       "focus": [
         "避難状況",
@@ -4525,7 +4591,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T08:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sZXVIcEdWdnhqZlRmQUN5Z01iZ0pyUVpPX3BaVjIxdzB2V3NlbC04WG9HUTFYNVU0RGVzYk1oU25DbElJRndSZ3Z2M0RiUUlYZnVILW5GYmkwaTRmRHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TRGRpWEdhVkFtMkd0SjlEYlZvdkNWTDhOTjZhd3RLYTVXUERKNVlxOHk4Y0lJcHRSN2p2NEJCUE5TRmgwRzVqU2xJVmNDWGlhcDBlUA?oc=5",
       "first_seen": "2026-07-29T08:31:04Z",
       "focus": [
         "避難状況",
@@ -4901,23 +4967,6 @@
       ]
     },
     {
-      "id": "4b53352266a572124345",
-      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RWNnUkNDRGhtMTFXNnZiWGxzX2wzckxpZDMyellxSlpLekd2cWlkMVBiMVp1dUdWcE1aMkhZcXl6OEw1V2FEakJOVUNTT1NFQjRkT0NOMlBaT2dSVU85YWlUbHlHaTlo?oc=5",
-      "first_seen": "2026-07-29T08:01:00Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "b368b611353bc40e632c",
       "title": "「ワンちゃんネコちゃん達は無事です!」 イオンモール熊本内のペットショップが報告",
       "source": "産経新聞",
@@ -4992,6 +5041,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4b53352266a572124345",
+      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:20:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RWNnUkNDRGhtMTFXNnZiWGxzX2wzckxpZDMyellxSlpLekd2cWlkMVBiMVp1dUdWcE1aMkhZcXl6OEw1V2FEakJOVUNTT1NFQjRkT0NOMlBaT2dSVU85YWlUbHlHaTlo?oc=5",
+      "first_seen": "2026-07-29T08:01:00Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -5622,7 +5688,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T06:20:04Z",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Tld1VnR3bXRZRTdGQlVqQ1hqSjdjWGR1VFB0WFhGOGhZaEpWQlJwSUNwT0FzZkdPY25EcThrQXduWHQyRXcxVjlacUFtSXFZYk5vc0lR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fYlVlajV1NWhrLS12QmV2ekl3MTRxTlp2bUhYXzQ4aUdBNmI2MWtMS1ZUOV9rVHcySW41Mk5WZGpUTnQ0cWNkNTJQNFJrZ3VUX004dw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -5710,22 +5776,6 @@
       "first_seen": "2026-07-29T07:00:21Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4f850ef30c5bd42621e7",
-      "title": "【更新中】熊本地震の最新情報 死者35人に イオンモール熊本では12人救出、7人死亡",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T05:58:53Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQzZKeWhpSExuV3JlM3pTVS0zRmJRZE1hOGJ2RTRkNFBxSm02emhUVUZ0aTVwcmNHaWRhNnptb2twa3RZTFByTWxwZ0NfN0I0MDV2bVJxS0dReFFMYkFVUDAwQ2RUMlpL?oc=5",
-      "first_seen": "2026-07-29T17:00:13Z",
-      "focus": [
-        "救助・安否"
       ],
       "category_ids": [
         "aeon"
@@ -7047,22 +7097,6 @@
       ]
     },
     {
-      "id": "940ca5a61b2abe67b034",
-      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T00:22:36Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "829ceb98964eed66d971",
       "title": "令和8年熊本地震 停電・断水時に役立つ情報まとめ",
       "source": "読売新聞",
@@ -7523,7 +7557,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T20:50:54Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS09oa2JxaVJBV0JFTGxFMmNQb1RfY1hUdkJIVUhDME1rNi1zM2JRRDlpdlBVTDNGUFRSMVFaQnZZNW01TTkwS0NKdFN6bFpFZkNPRTcyWkxmZHB3Wi1CN1lHM1JKa2NTSkJGNEpMNTNCY2VUWjRiWWFKN2l5SVlUc19TQlctbUI5d19xamRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWJSSF9pM1RqSE1ramFoUjhacGgwLWVKVTJRSWJMM0JCOWdWYlJQVUJod2p6TEIwbjNzS0txaklDSy16RENPeWx5ZGRBa3M3TmM4UDBkNzJxeWMzMzFnYzVyZXZyV0I1TUIyOURyTVVIVVFMNnI3ekFKQmUxckNILXdMQWNWSWZPRGtCX21n?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -9135,6 +9169,22 @@
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "940ca5a61b2abe67b034",
+      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T11:58:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
