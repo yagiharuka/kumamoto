@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T03:00:53Z",
-  "updated_at_jst": "2026/07/31 12:00 JST",
+  "updated_at": "2026-07-31T03:30:51Z",
+  "updated_at_jst": "2026/07/31 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 591,
+  "article_count": 596,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "nhk": 44,
+    "kumanichi": 93,
+    "yomiuri": 64,
     "mainichi": 69,
-    "kumanichi": 91,
-    "nhk": 43,
-    "jiji": 108,
+    "jiji": 109,
     "nikkei": 38,
-    "yomiuri": 63,
     "asahi": 66,
     "sankei": 113
   },
@@ -76,11 +76,74 @@
     }
   ],
   "category_counts": {
-    "aeon": 462,
-    "power": 84,
-    "paper": 57
+    "aeon": 465,
+    "power": 85,
+    "paper": 58
   },
   "items": [
+    {
+      "id": "bf850dd58802eb79883f",
+      "title": "7人死亡のイオンモール熊本 取り残された人いないか捜索続く",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T03:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBneFVTaGR4Uk5NbWhvQ3hSNG41U1Fldy1tRHlaN3pYejV4cGtjanlxQTV3S3ktVzVMNV9lX0tiZG8yUDU4Vi13ZUViS3AzTTlhWlUzMXRlXzc?oc=5",
+      "first_seen": "2026-07-31T03:30:51Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f4dc99cebb47695c7385",
+      "title": "熊本地震救助、イオン除き終了と官房長官 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T03:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YejB2NnUxTkoxNzIzNEFlNXFVWk84bDB3TE5KdC1vNFZnejBqRTlUZ2cxNkVuY3BQaUVXSUtfZFpKcDNwMllNb0M5ME40UTQ?oc=5",
+      "first_seen": "2026-07-31T03:30:51Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "043f1d7d1b3012922be8",
+      "title": "熊本県内死者「35人」に 日本製紙八代工場は9人死亡 2026年熊本地震",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T03:00:46Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16S253Ym1oeFg1VW5JbVUtMFJkaktEelhLQUM1V253VS0yZjdsRW9HSF9ISkZaUjVQbDZDdnJzOUtOay1TNkVhWXJ1czFpTUU?oc=5",
+      "first_seen": "2026-07-31T03:30:51Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "57922df64b24fe8cbd0f",
+      "title": "熊本地震で派遣された福岡市消防局の隊員ら、爆発したイオンモールで捜索・救助...公式SNSで活動伝える",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T02:45:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xNjJ1eVo1ZUFONVpiZjNEalJCT2RjVTB4X3dXakJpMzhOb2RZQ1JvbVowN0FNOVF0RVJjRVpTMVBEc29Wb1FfS2JXTnNwQ3FScGtOd2ZjT2JhTllQUlRBcHdldGk1UUZJcjJVLUtSZW9mQQ?oc=5",
+      "first_seen": "2026-07-31T03:30:51Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "8c3b1e615fb2b735aa03",
       "title": "イオンモール熊本の爆発 「オンワード」従業員3人の死亡確認",
@@ -3226,6 +3289,20 @@
       ]
     },
     {
+      "id": "4e70601109e3ba761ab5",
+      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T10:29:01Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
+      "first_seen": "2026-07-29T10:01:09Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "40bcb110421c53ffefd3",
       "title": "イオン爆発事故の原因究明へ=ガス引火の可能性で経産省―熊本震度7",
       "source": "時事通信",
@@ -3430,20 +3507,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "4e70601109e3ba761ab5",
-      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T09:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sWWFnSXR1a29fUW1OZjZTRExfNEc1clZaVkpESUFIU2gxZUtibTZERUlMOHFSUVFHTGNRbUM4c29jLThlLTVDeTVkY0U2WEo5cXc0?oc=5",
-      "first_seen": "2026-07-29T10:01:09Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -4367,7 +4430,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT04wVVNYbVBkdW84d2NnaENpdTd3b21DMnFrSDlSTG1qUWpZY1JNd0NZaWxfYVRNS2tGeDQxNFVoWTdGZWtTVUR1UF8yZTFiaHNkX3VKd3g2b1dsbFJxRTF1YXd5bUpxLWI5VWtVVGd0eUREcFE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -6008,6 +6071,23 @@
       "published_at": "2026-07-29T02:36:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQktzX3IwazgyT0o4NUxpSnJDSk1NNmdxNnR1YnBObVE3QTNHbkpUeFRhaEZ6dFdfYXFpWjluem1tanNaYkhrSWFrQllMcG90eFo3dg?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "7a3c12dfb22ffb1ed68c",
+      "title": "停電、断水も避難者続々 医療機関、夜通し対応―熊本地震被災地",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T02:36:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pMmZZZGgxYnFuTGVwZXpwSzZSdU5EY2trS0hCV09QUWY4bTd1TURCTHRGU3ZyYzBNdW9QRFVYYzJZRy1nTTctZlR4N0wya3BNemc5UVd5R1pMa05YTjVjOTVtOA?oc=5",
+      "first_seen": "2026-07-31T03:30:51Z",
       "focus": [
         "避難状況",
         "停電状況"
