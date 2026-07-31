@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T21:01:05Z",
-  "updated_at_jst": "2026/08/01 06:01 JST",
+  "updated_at": "2026-07-31T21:30:54Z",
+  "updated_at_jst": "2026/08/01 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 639,
+  "article_count": 640,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "jiji": 115,
+    "jiji": 116,
     "kumanichi": 99,
     "yomiuri": 74,
     "nikkei": 40,
@@ -77,7 +77,7 @@
   ],
   "category_counts": {
     "aeon": 490,
-    "power": 96,
+    "power": 97,
     "paper": 65
   },
   "items": [
@@ -90,6 +90,24 @@
       "published_at": "2026-07-31T13:32:00Z",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzJHeHdTRUVoNDJuSVFsOExYOGVGQ19iVVgyVGFhSUdTakJjRzhub0twWkhKQkxGa3JDVEYxLUh3eURZc09hYXpmRW5OUkJwVWoxWjJGVXBPOXRpWlRCMmRrMWlPcC1RSGZ3a1lzRExEZ0U5ZW0tUVk5RWV2Z29rMEZB?oc=5",
       "first_seen": "2026-07-31T12:30:51Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "cb0b4298b55dacd3c963",
+      "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T13:32:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3dGY5WEpTYS1xb1Z0WVdicWFKbWRZT1podnJnTWN3c1FwR3RPa0hyNUYyNW9Ja0gwcUFlLXpHQV9XbkNlUmlfcDNSLXJkRGFCSnhPZ2tNNHlCc1AwQUJLbGFpOA?oc=5",
+      "first_seen": "2026-07-31T10:30:54Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -141,24 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vQkNnSzJSTzgzVE16U2poQnVCem13bmxwTkx2LU5xd0pOczBfOXlUYWdpTmRZRkJMQ1hXUGZkVHRYV3FLZ1N1Qk5OeXRTRnc?oc=5",
       "first_seen": "2026-07-31T13:00:56Z",
       "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "cb0b4298b55dacd3c963",
-      "title": "猛暑の捜索続く、72時間経過 死者35人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T10:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3dGY5WEpTYS1xb1Z0WVdicWFKbWRZT1podnJnTWN3c1FwR3RPa0hyNUYyNW9Ja0gwcUFlLXpHQV9XbkNlUmlfcDNSLXJkRGFCSnhPZ2tNNHlCc1AwQUJLbGFpOA?oc=5",
-      "first_seen": "2026-07-31T10:30:54Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
         "停電状況"
       ],
       "category_ids": [
@@ -753,7 +753,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90aWhUeHBkTkxObHZ3MlRnNnZnbVhhX0NyMHQ3a1p3bG0xZHY5Z3ZvN01XMkZydGpvdFhlZmtsQmc2bklMQzlzWGY3LTRaUzhKUGxxQg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dy11OFpkUnI3aXBpY3FqNU9Ha21nQzR0N0dRUUpJZmpoc0t3M2JIU3hfbTRHd213RVRkRzNqRlBUcnFKTVVEUmJ2bDZJX1Zaa0Q4Mg?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -4062,7 +4062,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxMWYzYWRabEU3OGNiWngxdnRPemc5YkYwQXFoaVVuZzBaQlN5M2NDSEUtdlUzUVV1alB3cU5WUG9WOVRWaHlpUVhIVkJadmlSVV9Z?oc=5",
       "first_seen": "2026-07-29T10:01:09Z",
       "focus": [],
       "category_ids": [
@@ -4581,6 +4581,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "53dd7f2bde94fea48790",
+      "title": "続く断水、給水車に列=停電も、厳しい避難生活―熊本地震被災地",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T08:12:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GeF9qa0xwQkJNeHF3ZlRIb3dtWVJHWEJIVjBqT3BWSlk2WXNjOVhnTGlKZU9OMHFNemJaaFY3Vlo2bFQ2Mjk1RWN2czMxS2x5Z0ZCYkhZTjBUYzJnbVE?oc=5",
+      "first_seen": "2026-07-31T21:30:54Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -7177,6 +7194,22 @@
       ]
     },
     {
+      "id": "940ca5a61b2abe67b034",
+      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T00:22:36Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "829ceb98964eed66d971",
       "title": "令和8年熊本地震 停電・断水時に役立つ情報まとめ",
       "source": "読売新聞",
@@ -9253,22 +9286,6 @@
       ]
     },
     {
-      "id": "940ca5a61b2abe67b034",
-      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T11:58:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1b19409b0b9e773d9a0a",
       "title": "爆発のイオンモールから4人搬送、意識あり (共同通信)",
       "source": "熊本日日新聞",
@@ -9308,7 +9325,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T11:46:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40b1RnS3BpX0c4SkZfcWhpMkgycE1VSThrNjFRN3dtazJFOTVQRnByXzNTRG1YcnlCbmhjTmF4RnJIRi1VZm1qQWhHanpYOXFtZ1dZVA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4waERGWWlJSlBGSkZBRHI5Ni1sRTFQekh1R3dLR2dPcWFPQXdwMmlWeWotNjY4clNkNE1nZl9vV1ZsZEk1TlV6MVdhREJXSjVzVU5KRw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "目撃証言",
@@ -10174,7 +10191,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxNjhiczB3Y2xJbmxqXzliU29NVzh2TmEzQ2lpNmp6WFJQa0JTVHJGY3QxRWpyTUFNSzNZWHZlOUkxelUxaHEtUGp4ZF8tZThhZXJtaWZ4WVJRLVRDaG5uZnNIaGM4VDZScHpSTWx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUktFRFNaOFlNMzVJS3VodE1LQWZQSHB1bU56a3V1Rk5naTdqUTF6aUJxRHRRS2E1NTN4cF9OaVJQNlVJV3NDZ1ozNGFDRVZ1SHZGQ3Rhc1lib1NxOUt5Z0RnV1hXeC1XbmNJNDhvTjJaTUJXaVFGVjhROXFJRXdpMkJXWkdxc25ZemtrMTh2S0E5ZzJUNElGYlVR?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
