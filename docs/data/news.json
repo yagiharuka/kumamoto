@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T22:00:52Z",
-  "updated_at_jst": "2026/08/01 07:00 JST",
+  "updated_at": "2026-07-31T22:30:51Z",
+  "updated_at_jst": "2026/08/01 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 640,
+  "article_count": 643,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
-    "jiji": 116,
+    "jiji": 117,
+    "nhk": 51,
     "kumanichi": 99,
-    "yomiuri": 74,
+    "yomiuri": 75,
     "nikkei": 40,
     "sankei": 116,
     "asahi": 70,
-    "nhk": 50,
     "mainichi": 75
   },
   "tracked_categories": [
@@ -76,11 +76,39 @@
     }
   ],
   "category_counts": {
-    "aeon": 490,
+    "aeon": 493,
     "power": 97,
     "paper": 65
   },
   "items": [
+    {
+      "id": "bf2661e58e9079666848",
+      "title": "イオンモール熊本に集まる消防車など ...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T22:15:12Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UWg1WVhpaVRzdGFEZHpHN0VTSjhEYmRYOTVEbFFRQ3Q2UVhCRlBBalgtX2xIS1FCWjZjc1o5UVpSeGQwN05kcml3RWRfUXVYQkpBX0R1M0FsdEtDdklNc3NOQnB3a2FXNENCblhtYw?oc=5",
+      "first_seen": "2026-07-31T22:30:51Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a5fa4df2b05501a84398",
+      "title": "熊本地震 イオンモール熊本での捜索活動の映像公開 兵庫県警",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T21:57:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9obnFRQ1hJZGh1MF93a3V3MHBPUHRPeFJHM0ZQd1g1UGgtRmNHUDZqbDVLR1ZfNTJZdFRKUW50ZVZmM3RYVV9kNlp6OEN2TW5qRWNBWTFlS1I?oc=5",
+      "first_seen": "2026-07-31T22:30:51Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "8682ef002108c04388c1",
       "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
@@ -1404,7 +1432,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T13:16:21Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2ZyV3RqTzdMNTUtTFFJbUdPVTFaYlNvU3E2QlFGeWV2ZE5LSjhHSzZKVEpRN0Zub0ROd3Rmd2RSbFFUdGdQVzlYa050NlFxMlhIYXB1RTR5NFBLeVVscHBObWVXdUdSVW85V0VZTXc5QU9JZlV4V1JSTzlGUG5URk41Y2Vuc3k4VEUwNmx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDJtYUgzMnBNamFtTU4yQS1ZcUxUZkZBbjByN1lBT0p5VzJNLTlNeWhRM2R2eDNuWUZObUdvVVI1Z1BKZnFfNWFHYTZRUmJZM0xNWTZralVaZmFFWXlMdW4zbkFGbkdBNEttdTlDc0xRNEZmd1JTdjkyalZZbk1tYzRsTDVLYVp0bHh6V2NBZzRGeEoyenJKZHlB?oc=5",
       "first_seen": "2026-07-31T00:00:53Z",
       "focus": [
         "避難状況",
@@ -2945,7 +2973,7 @@
       "source_id": "kumanichi",
       "source_group": "地元紙",
       "published_at": "2026-07-29T21:37:13Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5veElvcklCQndYU2JSbGVWd3dPRm9VSVJvQTctZE1ZWFppc3hjTmlFVEhianVvTmVWN0p4TTVlczVfd19PT25wdTBLNmtLdmM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95eEZGaFlQLWhtcVNDSG1jRk4zcFkxbzhldUp4UUpLd0hibVd5Nm5YODBsMFhlSU1LTXdPci1JR3J2b2x2Z2QwMWF5cF9JcFpqeWprXw?oc=5",
       "first_seen": "2026-07-29T22:00:47Z",
       "focus": [
         "停電状況",
@@ -2999,6 +3027,23 @@
       "first_seen": "2026-07-30T03:30:55Z",
       "focus": [
         "原因・検証",
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1b5900a16d65eb23664f",
+      "title": "変わり果てた店 熊本地震 イオン爆発 続く捜索 祈る無事 日本製紙工場 死者5人",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jMUxnTTNYSUcxa3ZfNTRkUXdXa2NuMzJoak82RW50N09UZFhOZVdwZk14TjVWQkxYYVJnTmt6SzJZbDhsa0NjdlVOQ1BoejM5UUZsX1lTZ0kwZUZkQlJ3aW00aw?oc=5",
+      "first_seen": "2026-07-31T22:30:51Z",
+      "focus": [
         "救助・安否",
         "現場状況"
       ],
@@ -7558,7 +7603,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T21:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRUNYcmloYkRvcjc5UEJnOUNBV2p3Q1FGTUxaa05fRENIT3g1dDNiYlhPVUlsVllNbVZzSXRMdjBrcWNiWXlkU1NBRy15UERRWWdz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hYzN3QzhYWWl6al96U09kLXdDSjhIbnBHb094bi1jYzZKQ01GQUI3V3k4a3B0eFNGR0FYeVI4eXJucThJRkpzLTJXdzBkaWdLeU9r?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
