@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T23:31:01Z",
-  "updated_at_jst": "2026/07/31 08:31 JST",
+  "updated_at": "2026-07-31T00:00:53Z",
+  "updated_at_jst": "2026/07/31 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 568,
+  "article_count": 570,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "asahi": 62,
+    "kumanichi": 88,
+    "asahi": 63,
     "yomiuri": 61,
     "nhk": 40,
     "mainichi": 67,
     "jiji": 103,
     "nikkei": 36,
-    "sankei": 112,
-    "kumanichi": 87
+    "sankei": 112
   },
   "tracked_categories": [
     {
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 447,
+    "aeon": 449,
     "power": 84,
     "paper": 49
   },
   "items": [
+    {
+      "id": "2640564f60bac8141293",
+      "title": "警察約230人が大規模捜索 爆発のイオンモール熊本 「72時間」前に取り残された人の有無確認",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T23:28:45Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RaEs2MlI2M1dYNXZsZ2hUTDhMX3Nab3JURlNMSFNGYk4yRFY3WVZiZm9qTG12NmxtZmgzVXRZdzdrc3hwc2xDaVk5bzNCajg?oc=5",
+      "first_seen": "2026-07-31T00:00:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "0aa02a29b9e68e7bfdaa",
       "title": "イオンモールの爆発、駐車場で遭遇 ドラレコに映る瞬間、逃げる人々 [2026年熊本地震]",
@@ -486,6 +502,23 @@
       "published_at": "2026-07-30T13:16:21Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTmFCUzc2MVp6dUJmbDBlVnR2d3JncllpTWtrWFJkeUxBaUowcDlTQk1CWTcwdDhnZ0daX0dPbzhKejVBaWVVRDA4VTVnTlBfbG1sbWJmc2lNeGFQbkpITlVTTlRwbG8?oc=5",
       "first_seen": "2026-07-30T14:00:11Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fb2b46f2b712d9da0781",
+      "title": "イオンモール熊本、避難や爆発の状況は 当時の様子をまとめて解説",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T13:16:21Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDJtYUgzMnBNamFtTU4yQS1ZcUxUZkZBbjByN1lBT0p5VzJNLTlNeWhRM2R2eDNuWUZObUdvVVI1Z1BKZnFfNWFHYTZRUmJZM0xNWTZralVaZmFFWXlMdW4zbkFGbkdBNEttdTlDc0xRNEZmd1JTdjkyalZZbk1tYzRsTDVLYVp0bHh6V2NBZzRGeEoyenJKZHlB?oc=5",
+      "first_seen": "2026-07-31T00:00:53Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -1085,7 +1118,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -2673,7 +2706,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vZmZoQ0kwU2lodl9HcjhrU3dCaVJydzdORXJkLVF2TGVWMFloajhZdEg1d0pRVDBTUGR4SkJSZElfUm9ha2JsMG1IZnk2U0FlUFJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRlRfbTV4Wjl6WEF3aVo4X3hXNEE0MzM5LUVVVUVxbzZrVmtOR2RZY3BvLThGMWNwNDNXSmRyOWEwMnZPQVRhd0ZkNUFNQ2tFQ004?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -2871,20 +2904,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "4e70601109e3ba761ab5",
-      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T10:29:01Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RWNGMmVHQzE1eDNCdzB0Ti1Jc1d0ZGhrWHV6OGtnZjRkaHlnMG1laUVLZFNZV3JNalJ1U0E1TXRVdU9SUUtJWWFYM1kwRno5YXp4S1JiS1hnaXc?oc=5",
-      "first_seen": "2026-07-29T10:01:09Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -3092,6 +3111,20 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "4e70601109e3ba761ab5",
+      "title": "熊本地震 日本製紙八代工場の捜索映像...警察庁提供",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T09:40:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YTzluaVN3QlpjcjVRbHlGcUdJam5SZ1lYMXVhdk1xR2ZpRGV5c1V1MEtjQ2pzMURzTlhJZlljOWE5V3hYUmNuMk56ZzdtNzhKQS1IOHp3?oc=5",
+      "first_seen": "2026-07-29T10:01:09Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -4015,7 +4048,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT04wVVNYbVBkdW84d2NnaENpdTd3b21DMnFrSDlSTG1qUWpZY1JNd0NZaWxfYVRNS2tGeDQxNFVoWTdGZWtTVUR1UF8yZTFiaHNkX3VKd3g2b1dsbFJxRTF1YXd5bUpxLWI5VWtVVGd0eUREcFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -6399,7 +6432,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T21:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hYzN3QzhYWWl6al96U09kLXdDSjhIbnBHb094bi1jYzZKQ01GQUI3V3k4a3B0eFNGR0FYeVI4eXJucThJRkpzLTJXdzBkaWdLeU9r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRUNYcmloYkRvcjc5UEJnOUNBV2p3Q1FGTUxaa05fRENIT3g1dDNiYlhPVUlsVllNbVZzSXRMdjBrcWNiWXlkU1NBRy15UERRWWdz?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -7703,6 +7736,23 @@
       ]
     },
     {
+      "id": "7fcb057c4dea32599ddb",
+      "title": "爆発情報のイオンモール熊本、従業員多数が施設に残されている可能性",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T12:51:26Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFZ0X1RwXy1JY21NRWw3TnU0cHFrMG9ydmhma0Fsa19LNGQ5Nm03aEoyYjRSbXgtLWV6M0xvT184aFAxQk11cnZZVHNraTVGbWdmODVpd0FIbkMxekpKRjByYjk3M1JHZkJmNXpQNHFSUzZYa2hWbkUwdzNhUlNPZzc1X2JhYlgzbDQ3RTRHY0hEMEdac1hjNkJB?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2010914fb323bfbf625b",
       "title": "日本製紙八代工場に8人程度の要救助者 (共同通信)",
       "source": "熊本日日新聞",
@@ -7716,23 +7766,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "7fcb057c4dea32599ddb",
-      "title": "爆発情報のイオンモール熊本、従業員多数が施設に残されている可能性",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T12:44:23Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzVTeGsyX1ZSdGVPTDRicEptajJJcllzWmQwZlFhYVhVMDg0X0lGdDBuM0lydmJ0cU5HeTdaZjN6VXk4RXo4OXBOQlVhbFU0cnBpcXhIejlxNnZJRVhZZWhMOW13cmRWRHg4ZDZaQ1paMklLd2xTY2FjMGNwcjRFaklhdjZYX3Z5WUMxXzFB?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -8082,7 +8115,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T12:01:45Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkRCVFVTeHNPMU1lakliS2dvUDVLNlQyOFpESmJFUmlHdmhuSXFZLXl6ZGlMeUNtelVvX0hScF9FUGJZbHo3T3NqWXZKN210STZ0NThoenIyMm44LVlBRkFkNjZZaXVIZGRBZUN2WXJ6TzhJRVhvQXI4cFpBVl9JLUtGS001YjZhZjV1X3dOLUJBLVBSS0tNeFV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGozaENDeTZEd3dVUGstMXNvZUlWeVJ4Z3hXWHQzTkpjN19waHFwbDBWa2JqMHBjQXN5eS1CR2R1Q3NhYkpHVlgwQ2xEbUM2ODhsWE5ra1U2M3liU2p2MlBJS3FvdnJiSk5KUGdLWUlxV3FJczFHRlVUNEZuSHVrQ09peE1fWjFua0YtNjJMTDhwWlR5VGk1R1lR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
