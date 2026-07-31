@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T20:30:57Z",
-  "updated_at_jst": "2026/08/01 05:30 JST",
+  "updated_at": "2026-07-31T21:01:05Z",
+  "updated_at_jst": "2026/08/01 06:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 638,
+  "article_count": 639,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "yomiuri": 74,
     "nikkei": 40,
     "sankei": 116,
-    "asahi": 69,
+    "asahi": 70,
     "nhk": 50,
     "mainichi": 75
   },
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 489,
+    "aeon": 490,
     "power": 96,
     "paper": 65
   },
@@ -88,7 +88,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T13:32:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTM3UlQ3c3BFYllOSE1YZXNVX2FjMHo1SnktSk5CZHpqS01teWwzN1NFZTEtV3kxZG9TOUsxSk5KUUt0enVpdVlOUlhTU24xemJUQWFLd3BkNnVWYWFpMFViRkk1ZHM5MWxGTkExZWxLU0c1eC10VXpOd3Mxb3JRM3FB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzJHeHdTRUVoNDJuSVFsOExYOGVGQ19iVVgyVGFhSUdTakJjRzhub0twWkhKQkxGa3JDVEYxLUh3eURZc09hYXpmRW5OUkJwVWoxWjJGVXBPOXRpWlRCMmRrMWlPcC1RSGZ3a1lzRExEZ0U5ZW0tUVk5RWV2Z29rMEZB?oc=5",
       "first_seen": "2026-07-31T12:30:51Z",
       "focus": [
         "救助・安否",
@@ -1238,7 +1238,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ba1BTTW56ZVZoSUhQUGdjVV84emtuWktfeHdHYUI4ZTd6Ml8wdDhNTHNMSzdUVS1PM0VGRG9vNC1HZG1UMmR0Ri1ETXptb0tTUmt0MXZzck1OZG9sTnN1SkI0VmI1QTd0dnZZZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
@@ -2027,7 +2027,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -2812,7 +2812,7 @@
     },
     {
       "id": "fabf348a0068a82147fe",
-      "title": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "title": "【熊本 地震 30日】イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -5198,6 +5198,23 @@
       "focus": [
         "救助・安否",
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "869d731b1d604f3af940",
+      "title": "「真っ暗で煙吸った」 崩落のイオンモール、途絶えた彼女のLINE=公開停止 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8taTlUQzlXYzhzdWJrZFZ0OFc1bVNWVFhVb21Ibkd1d3l3SmtKY2tDZmlicVlQN0JrX3lHeVcyMWYyeWJJTzN1d0FpVlFpRnRIRnQ4Mk5JX09WZWlfaEZudGdsa0NYbm8?oc=5",
+      "first_seen": "2026-07-31T21:01:05Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
