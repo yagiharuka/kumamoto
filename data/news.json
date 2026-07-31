@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T03:30:51Z",
-  "updated_at_jst": "2026/07/31 12:30 JST",
+  "updated_at": "2026-07-31T04:00:53Z",
+  "updated_at_jst": "2026/07/31 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 596,
+  "article_count": 598,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 65,
+    "sankei": 114,
+    "mainichi": 69,
     "nhk": 44,
     "kumanichi": 93,
-    "yomiuri": 64,
-    "mainichi": 69,
     "jiji": 109,
     "nikkei": 38,
-    "asahi": 66,
-    "sankei": 113
+    "asahi": 66
   },
   "tracked_categories": [
     {
@@ -76,11 +76,60 @@
     }
   ],
   "category_counts": {
-    "aeon": 465,
+    "aeon": 466,
     "power": 85,
-    "paper": 58
+    "paper": 59
   },
   "items": [
+    {
+      "id": "37bbc98c437ad756b1ca",
+      "title": "日本製紙八代工場が被災し操業停止、製紙各社が新聞用紙の供給支援へ",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T03:53:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JcW9NdWpVWDZWcDJYWjRiWVdmYmJyODdrc2x1YUhQVXFMQnZrdVV5d2JZOWVhS2xza1BBUFlMUy1NVWRxeEszVzRMeHF4X2tNRno2MEtTUUNwZHliYXVOaEZ2QXRuZw?oc=5",
+      "first_seen": "2026-07-31T04:00:53Z",
+      "focus": [
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "780cf1a9cdd3e67d4a2a",
+      "title": "ガス爆発事故は減少傾向、イオンモール熊本で起きた爆発の原因は...ガス事業者の注目集まる",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T03:27:23Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTVFTUEJJMXdqWFplMjVaenJEZWVBTm8xSDljWWdlYWxXV2hGVXk3ZE9wYWVLRzhrNkttaGZiY1R0X0F1cFBhaDlaNWZpZjN1RnNqanVUbnk1T2ZqbHV5ak8tUlJWdTdtY0RndlhWRFdUVmpUT1E?oc=5",
+      "first_seen": "2026-07-31T04:00:53Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f9cfa9885ef4cea15ed6",
+      "title": "熊本地震 家屋被害 全容つかめず 厳しい暑さの中、断水、停電も /熊本",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T03:17:14Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdm1PMnB3QWM4bzJJQUhrSjBsOFlhRU1UQ0dVSzdfVER1bkMzcFNfQTdtbUhMMEtCMm54OTZPZ05TZ29CMU94VGQ4QkVKV2VMWHVZemtlaUtVbW9PS1ZqdUU4aVJOcUNz?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "bf850dd58802eb79883f",
       "title": "7人死亡のイオンモール熊本 取り残された人いないか捜索続く",
@@ -578,22 +627,6 @@
       ]
     },
     {
-      "id": "f9cfa9885ef4cea15ed6",
-      "title": "熊本地震 家屋被害 全容つかめず 厳しい暑さの中、断水、停電も /熊本",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:02:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdm1PMnB3QWM4bzJJQUhrSjBsOFlhRU1UQ0dVSzdfVER1bkMzcFNfQTdtbUhMMEtCMm54OTZPZ05TZ29CMU94VGQ4QkVKV2VMWHVZemtlaUtVbW9PS1ZqdUU4aVJOcUNz?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "3fd184bcfa636b67ef75",
       "title": "熊本地震 イオン熊本で不明者の捜索 県警援助隊派遣 /広島",
       "source": "毎日新聞",
@@ -665,7 +698,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ba1BTTW56ZVZoSUhQUGdjVV84emtuWktfeHdHYUI4ZTd6Ml8wdDhNTHNMSzdUVS1PM0VGRG9vNC1HZG1UMmR0Ri1ETXptb0tTUmt0MXZzck1OZG9sTnN1SkI0VmI1QTd0dnZZZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
@@ -1371,7 +1404,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2JacTBhM21fVHdMX1NmeGpEdVYxOTJVckhETTNLR1JOU1JLMUZ5aGxic243MVVPenhjSjZtbi1aaklaMWQ3VldnR3pOSHhVc2FYa1ZoVFFsa3pRT0RYb2cyMUIzRk8zdU1MU3RDNm03dHotZ1ROQS01b1FHYmJIVXlmcXZfTmxTY1VuRXltTk9vQVhBdWN2aTVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRl9FLUUxZXhyUzdMYml4d3RTRkdhc1h0NzUwSFdoMHN1bXNQd2ExYXFKLUR4NmdiZlR5ZndqcFNqZHgtV2VuaTlqT2JJckRkNUxxT0x6ZGlzMDV4aHVteGRTbllmX19RSGJRaDRWMTUwZlcwOHc1WTZjNjUwUUJaOGt4c1o0ei12VHAwT3ZpTDRrNEd1OHptQ09n?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -1484,7 +1517,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -2418,7 +2451,7 @@
       "source_id": "kumanichi",
       "source_group": "地元紙",
       "published_at": "2026-07-29T21:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByc0dZNW5FY2N2NVpHVVJoTE91R2V6UndPRXZrX2FfbWh3NlFxOU8xVE0xMnhUNnNuLUlidE41NEdrNTZhNks2cWN2Yl80WjA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tUkxrbEtxM05PUHFBRjRZSWJ1YU5fMTEzNHBhNXpLd01SSTFrUFFUNUVlSTQ4dnhucEhsY3dkcXlmYlhFaDZGamVZTGtiNWxGaTZBcA?oc=5",
       "first_seen": "2026-07-29T21:30:49Z",
       "focus": [
         "停電状況",
@@ -4430,7 +4463,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NT04wVVNYbVBkdW84d2NnaENpdTd3b21DMnFrSDlSTG1qUWpZY1JNd0NZaWxfYVRNS2tGeDQxNFVoWTdGZWtTVUR1UF8yZTFiaHNkX3VKd3g2b1dsbFJxRTF1YXd5bUpxLWI5VWtVVGd0eUREcFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -5864,7 +5897,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T03:13:39Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cb1VFRlBzS2FoLWFpNHFObnVhU3h2Q1YzTG5VSlVxbHNaOG9Nd2dEMWx6R05KWHRsNHdxaWpVM3JDZ0hLMjVqLTM2dHVKdHBhTW1MRzQ3NUg2WmpYQ3VrZTJ2WnBUckdiOC1pbzdjRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUZRbkJlc1dTSmlWMDd6UTFuNzdqOHVFU3lrTUxxdXB0ZnoybkZpTGJWM0dZNVg2WDFUR0xXZ0JKdlhNOVRaTGxBWC0wUld0REFPeFlVZ0FOZU1qYlp3QS03TndpYkdRU1BXRWpEUFNHbXNLUUl0LVZkTk51MGVXOGxRYzVGc1JXUHlWbS0tZmd4a2pqMHh3ZlBNOUlab2o1UzBWaQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
