@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T19:00:52Z",
-  "updated_at_jst": "2026/08/01 04:00 JST",
+  "updated_at": "2026-07-31T19:31:02Z",
+  "updated_at_jst": "2026/08/01 04:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 638,
@@ -753,7 +753,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dy11OFpkUnI3aXBpY3FqNU9Ha21nQzR0N0dRUUpJZmpoc0t3M2JIU3hfbTRHd213RVRkRzNqRlBUcnFKTVVEUmJ2bDZJX1Zaa0Q4Mg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90aWhUeHBkTkxObHZ3MlRnNnZnbVhhX0NyMHQ3a1p3bG0xZHY5Z3ZvN01XMkZydGpvdFhlZmtsQmc2bklMQzlzWGY3LTRaUzhKUGxxQg?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -5347,7 +5347,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iVjNadWtybjZnMlZkR05teHlTR3NreTBzQzRacHZUdnRsc2JlbGw1QUJXWDhtczlVRG1yWC1OOC1XQ0NfUFhROVJOMlU0ZzlDbzNtRTdjV3dxV0Z2cmpoZ0dQVDczelRhRXpXYW1OQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43ZDJENk5FRGJoZklLblFDNGdvcGpOTXRleUZnQS1CTW05MlJCeUt5enhsLTYtZGo1X2VyQ3ptZVdWbXVqcXZjUnBrWlp3MW1DazlxOGlLeEVmenlhTG12cjRiSDFibmE3b2NmT09xNA?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -7157,6 +7157,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "940ca5a61b2abe67b034",
+      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T00:22:36Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -9236,22 +9252,6 @@
       ]
     },
     {
-      "id": "940ca5a61b2abe67b034",
-      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T11:58:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1b19409b0b9e773d9a0a",
       "title": "爆発のイオンモールから4人搬送、意識あり (共同通信)",
       "source": "熊本日日新聞",
@@ -10157,7 +10157,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxNjhiczB3Y2xJbmxqXzliU29NVzh2TmEzQ2lpNmp6WFJQa0JTVHJGY3QxRWpyTUFNSzNZWHZlOUkxelUxaHEtUGp4ZF8tZThhZXJtaWZ4WVJRLVRDaG5uZnNIaGM4VDZScHpSTWx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUktFRFNaOFlNMzVJS3VodE1LQWZQSHB1bU56a3V1Rk5naTdqUTF6aUJxRHRRS2E1NTN4cF9OaVJQNlVJV3NDZ1ozNGFDRVZ1SHZGQ3Rhc1lib1NxOUt5Z0RnV1hXeC1XbmNJNDhvTjJaTUJXaVFGVjhROXFJRXdpMkJXWkdxc25ZemtrMTh2S0E5ZzJUNElGYlVR?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
