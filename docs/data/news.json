@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T19:00:15Z",
-  "updated_at_jst": "2026/08/02 04:00 JST",
+  "updated_at": "2026-08-01T19:30:17Z",
+  "updated_at_jst": "2026/08/02 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 666,
@@ -2191,7 +2191,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T10:06:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01ckpMdnNUOHNDS0xCRm5aUmdHcE5HTzJRYjdBZVlnN3NJN25PR19nTWNzR2RaYlBVZjg5US1nY0hEd2Zvelp1QUNkdTMtQ1lIN1Y3OQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
@@ -2369,7 +2369,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -3470,7 +3470,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUS12VWZHMjZCdkd3RWtObUtHZVk2S0VZa2hDS0hXVm5JZjdkOUptQlJDaGpRWWFQcDlUT2U0Q3FNLXowUzA2YlV2LTdLakpxeUYzVUhRbEYyS0N0T202SktXWmZzMHVUblp6bU9QZXhKN0NoXzAzaVQ5OG5CQ21TdVh0dVhUM2VFV1d3Rkhtbll6aEoxVHBnOFhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFg5bnBhWnc5RURTQ0w2d3dzMWhHbzVFdjFYYmpjSDJ0WWNVU25yRlI2bWwtUVFUb09sMkNaekNrYWtGUEtkeGJaTW9YWHhvYUlmUWt0S2R0QkNOcEREc2JiUjNVZ1JoclczV05VOUI5alpidmc1NnIwMlNfUjg4SzZxVWp1TmJSTjFlcXh3?oc=5",
       "first_seen": "2026-07-30T04:00:49Z",
       "focus": [
         "避難状況",
@@ -3643,6 +3643,23 @@
       "first_seen": "2026-07-29T17:30:12Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ceec8a3bdc2570301aef",
+      "title": "イオンモール爆発事故、死者は5人に 新たに2人死亡確認 熊本地震",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T15:51:35Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczFvbHREdlR0Z09lcWF6SHYyTFBNYjNGNlNCQ1pWckFscXFkUVBTNUJNZFgxbEgwemxURU5JZ2dNS19IOWVQeG9RWU5QVWd2cjgyNkVPeE5rLTBYTjREWTBXU2N4LVdEZWhEM1RORkZXc3ppRnhMSjBiWHQyUThEbG1mLVNSejhKY1NTaktJaw?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否",
         "現場状況"
       ],
       "category_ids": [
@@ -4093,23 +4110,6 @@
       ]
     },
     {
-      "id": "d59bea51ae05eda415b1",
-      "title": "3人死亡、「深くおわび」=当日3000人利用、客全員避難―爆発巡りイオン社長会見・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T11:11:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vYkFqbHlRc005OGpiTERaZ0xBcW5sY29fVzlOcjZGRmY0TE1KSTJGd1VMWnp3Y0lNR0xrT0RMZHdVNldXQmVjTWM3U19hVzdPT1ZheTVhMTVMMEdjenc?oc=5",
-      "first_seen": "2026-07-29T18:00:14Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "0ee9bc9224f48d097e92",
       "title": "3人死亡、「深くおわび」 当日3000人利用、客全員避難―爆発巡りイオン社長会見・熊本震度7",
       "source": "時事通信",
@@ -4531,6 +4531,23 @@
       "published_at": "2026-07-29T09:28:40Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V1FRVzlwenJoNnVya0JHVW9MWG55djBuZncxeVJESm5iVHN2cTNreFYyTW1qX3JONXNhUmt0QWlmQk43dTdac2ZFOHphY1RBMjZKN2JwVnBGVXVzQjh1SjlDVF9VM25v?oc=5",
       "first_seen": "2026-07-29T11:01:02Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d59bea51ae05eda415b1",
+      "title": "3人死亡、「深くおわび」=当日3000人利用、客全員避難―爆発巡りイオン社長会見・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T09:26:37Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vTHFEWlJPZWJmeWJfQlBvM2ZPQzRaMlNRYm5SZHFmVkFCS0FJVnIxZzRBMmstNTRrellaalVjNWFoY2MwMjVoR0pvZXdZcGxsM0g1YQ?oc=5",
+      "first_seen": "2026-07-29T18:00:14Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -7781,23 +7798,6 @@
       "published_at": "2026-07-28T22:58:02Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XVzZZUHZEcVVCYkJYanhHQzUzaUFWNzREUXkyTzl1N0U0aHpMN0tTM0JiSm5jbTZvWEhUZUdJbVliRUtvU014SlhqRHM4eGp2bzNEclQwTkV2SnBxRDBQQlFVN1dEVWY0?oc=5",
       "first_seen": "2026-07-28T23:30:22Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "ceec8a3bdc2570301aef",
-      "title": "イオンモール爆発事故、死者は5人に 新たに2人死亡確認 熊本地震",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0VtdDh0WC0xY2VEZ3IyNEI4UHFaeTVrQlA5d1ZVNWlvUTlWYzlWdnp3THlGbVU5VmluRS1WQVp3Qk1ZRk9hYlVON1drWnU3b010QTJzT2RPUzU2aEQ2OUcwdEhCVVFrc2Nicmg1V21UMC1SOVM2OTlyeDZoTVhScmNGRFptdzdteXhxNlZ3?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "救助・安否",
         "現場状況"
