@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T02:00:51Z",
-  "updated_at_jst": "2026/08/01 11:00 JST",
+  "updated_at": "2026-08-01T02:30:52Z",
+  "updated_at_jst": "2026/08/01 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 647,
@@ -852,7 +852,7 @@
     },
     {
       "id": "a75383b9826343e2640c",
-      "title": "日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -5236,6 +5236,20 @@
       ]
     },
     {
+      "id": "89b098498bf739882b4d",
+      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:12:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Nei11VmJzZjN3YzUwSkxlTkdLM2ZFZWhDbkZWaUhJUmtjaTZTQW0zVjBvVThrSXE2UklFQVIwdXVybm5mTW1CRVhXcUNDU3dhVWF4WXRTOU1iLV9VUkR5Ni1FejU?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8bc5906f353516e980ea",
       "title": "【動画】イオンモール熊本の内部をドローン撮影 陸上自衛隊 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -5323,7 +5337,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92d0pOVU5xZFRMWTB6VnQ0M0l1VVVoR1pBcjViX1ZYTkZzaHFUTzdQel95elo4VEdSZzRuVDNDc2o2azhmUVkzNEhXb29ZQld5TjBvbk1nWExmM1ZkZG9RWlE5amw2TFRKUVZnd193?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2tBU3d4eHBWakdzLWd5cWRVQTVZdTl6WHd4YkpaMXUwNjRCbmNtRUlqRkxTVG5USFZkVWNOOGJ1R3o3dVg4TkIxeFZQUmVIWnZfRWlzMXFyb1dtWEVDUWhzMGZIamJndk9SZmRRLUNxbXd3cTU2MWM2TXJNbE1Tb3pPNm1Fb1VNTkF3aWJJYk94R2hjMGVTVGF3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "目撃証言",
@@ -7274,6 +7288,22 @@
       ]
     },
     {
+      "id": "0a2d8c87b4cc5221b745",
+      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T00:14:59Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHNhS3pvaG84Q3F0SzdSLWJ5OHlpNlZ4RzRLem5oYWNpb2pqR1NfVjBvaXdDNGZyb2phNlllcXd4N1FkTi1CR09lMllhZ0p3NFdSNWkwa0kyUjVxVy1VdEc1ZWtfTmRIalNrdlFqV2RlZmVkVkk5bTltYUlubTdDWXhqZlBmUmVBSUpVaERR?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "829ceb98964eed66d971",
       "title": "令和8年熊本地震 停電・断水時に役立つ情報まとめ",
       "source": "読売新聞",
@@ -7287,20 +7317,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "89b098498bf739882b4d",
-      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T00:05:59Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLRG52TEFaa1R2X3FOZWQ2b1JDaElLNnA1Nkh2eUdQRVU3VmR0eGlmVGxzbjBRRENqalBDai14bldtb292a1I5RUxlNGZiUGI1aEtxWUZnSXFsX29CczQxTlBWX2U?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -9596,23 +9612,6 @@
       ]
     },
     {
-      "id": "c639c09740249f9bf11d",
-      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始める",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T11:12:10Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RLNlhyUjV2WTA5U0FuZGhSQXl2aVJsRGhvNnhaMkFVc09YQjNYWnJpOTI5ZnhJYWlOZkZPSm5uRDY5OE1YWmtlTUxsUF9wcUNmOVZxOWp1UDNmWG16NkR0TkdzZjgwN2FnMkxyQ0lvX1BhODUzWXRSMnVuRk1BbWJ3NXUycndKMlU4VFF3?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a7d48744083b66d225c6",
       "title": "ライフラインへの影響(電気 ガス 水道など)【7月29日】",
       "source": "NHK",
@@ -10279,16 +10278,17 @@
       ]
     },
     {
-      "id": "0a2d8c87b4cc5221b745",
-      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
+      "id": "c639c09740249f9bf11d",
+      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始める",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUktFRFNaOFlNMzVJS3VodE1LQWZQSHB1bU56a3V1Rk5naTdqUTF6aUJxRHRRS2E1NTN4cF9OaVJQNlVJV3NDZ1ozNGFDRVZ1SHZGQ3Rhc1lib1NxOUt5Z0RnV1hXeC1XbmNJNDhvTjJaTUJXaVFGVjhROXFJRXdpMkJXWkdxc25ZemtrMTh2S0E5ZzJUNElGYlVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHFoQlQyUlZZUDNpd0lpaFN3b09pb0JTTERINWxUeUhycFpiSDI4VVVtMEQ4NGswMm1XTmE5QW9VQjBNRzBqRDRiekdzdVZLSE5HbWg1eUVxLU5tWlNwMm12NnVNQ2QwdEQwSUtrN0ZJX2J5dFVKWVVkVDFoUHlPY3YzMVk5Tk5tWXpYVll3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
-        "救助・安否"
+        "救助・安否",
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
