@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T01:30:51Z",
-  "updated_at_jst": "2026/08/01 10:30 JST",
+  "updated_at": "2026-08-01T02:00:51Z",
+  "updated_at_jst": "2026/08/01 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 647,
@@ -4938,7 +4938,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -5589,7 +5589,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FVW41d2dsN0o1OVRtM3VNT1pyQ0g0LXRaNFh6NFBfQjFFTGMzQ01EbWdiYk5BeVhBUF9IanpoWnF3YWkycXpmak13bTgtMm5hdkNmSlhBY0N3UGFmcDR0TVBDbUVTR2dnLUZnQUNWaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -6829,20 +6829,6 @@
         "救助・安否",
         "避難状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c3f3bacee49ff176a3a9",
-      "title": "画像・写真:損傷したイオンモール熊本:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T02:32:54Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lYWlBNTV4LUZsMmJuUlptZTNoR2V6dWpENTNJakZFYWVjaVR0MDJxdnhWRDNkVFdoLTUzNjh5Tzd2SnR6VGlWMlYzeFFHdVVZQXNVNFNoaGQ5TjJEbWxLVm9zVXI?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -9610,6 +9596,23 @@
       ]
     },
     {
+      "id": "c639c09740249f9bf11d",
+      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始める",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T11:12:10Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RLNlhyUjV2WTA5U0FuZGhSQXl2aVJsRGhvNnhaMkFVc09YQjNYWnJpOTI5ZnhJYWlOZkZPSm5uRDY5OE1YWmtlTUxsUF9wcUNmOVZxOWp1UDNmWG16NkR0TkdzZjgwN2FnMkxyQ0lvX1BhODUzWXRSMnVuRk1BbWJ3NXUycndKMlU4VFF3?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a7d48744083b66d225c6",
       "title": "ライフラインへの影響(電気 ガス 水道など)【7月29日】",
       "source": "NHK",
@@ -10292,23 +10295,6 @@
       ]
     },
     {
-      "id": "c639c09740249f9bf11d",
-      "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始める",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T08:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHFoQlQyUlZZUDNpd0lpaFN3b09pb0JTTERINWxUeUhycFpiSDI4VVVtMEQ4NGswMm1XTmE5QW9VQjBNRzBqRDRiekdzdVZLSE5HbWg1eUVxLU5tWlNwMm12NnVNQ2QwdEQwSUtrN0ZJX2J5dFVKWVVkVDFoUHlPY3YzMVk5Tk5tWXpYVll3?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1f335762f1e2d8e6edf5",
       "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -10435,6 +10421,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c3f3bacee49ff176a3a9",
+      "title": "画像・写真:損傷したイオンモール熊本:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lYWlBNTV4LUZsMmJuUlptZTNoR2V6dWpENTNJakZFYWVjaVR0MDJxdnhWRDNkVFdoLTUzNjh5Tzd2SnR6VGlWMlYzeFFHdVVZQXNVNFNoaGQ5TjJEbWxLVm9zVXI?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
