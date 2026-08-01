@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T18:30:12Z",
-  "updated_at_jst": "2026/08/02 03:30 JST",
+  "updated_at": "2026-08-01T19:00:15Z",
+  "updated_at_jst": "2026/08/02 04:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 664,
+  "article_count": 666,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "nhk": 55,
     "sankei": 118,
     "nikkei": 41,
-    "mainichi": 79,
+    "mainichi": 81,
     "kumanichi": 100,
     "jiji": 118
   },
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 512,
+    "aeon": 514,
     "power": 97,
     "paper": 67
   },
@@ -807,6 +807,22 @@
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZzZ2NxWDhFSXhRbmFwY1IxeVVwRjNCZ0tfZ0hKS05USGRVemExUWw2VG92dVFUeFB4QnVZTHhURFB3em4wWE5wY0ZQR2lVR0NSMVFwRzFtNm1YNWgtcDc1dDlmMEhkWWxyLWtpNDE5Ny0zdHFqb08zSVQ2Y1kwVXJTX3JaSHM?oc=5",
       "first_seen": "2026-08-01T17:30:17Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f31f2d2a2210213d82e5",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集25/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T04:11:58Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXhWRVE5SC1NYWVuaVNORW1IY1BpaVVZVkhwamRjNDh6aUFIMEI1OXlIcTZKWGhFZ09PVExReXBvTWpOeXljYzdiajlwMEp2UkJKb25KRmVxSlRFOE83UklvOFp6N2t0QW8yN2daUERGbF9lcUZIQm1mWEpMR0hWMEpRYXRGeFE?oc=5",
+      "first_seen": "2026-08-01T19:00:15Z",
       "focus": [
         "現場状況"
       ],
@@ -2299,6 +2315,23 @@
       ]
     },
     {
+      "id": "fc7780428104476b74f1",
+      "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集11/9]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T09:26:16Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjF5R3ROZER3eGpvRndUb3owcXIzcVhQTUExX0xjNUY0anZKalFiSHNWMi1wcWdnU1pka0F0OGRFUG1BWXlYeGJFUUVwaTZaTDF4ZmRkbnY5ZFVzajJMWUxsOG53Y055RE5hUmJIMFBaUmZFN0daak14TXRIaGNNZnV6bWRmbTA?oc=5",
+      "first_seen": "2026-08-01T19:00:15Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "cbe615658eb8937fcca6",
       "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集1/9]",
       "source": "毎日新聞",
@@ -2336,7 +2369,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
