@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T04:30:52Z",
-  "updated_at_jst": "2026/08/01 13:30 JST",
+  "updated_at": "2026-08-01T05:00:53Z",
+  "updated_at_jst": "2026/08/01 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 650,
@@ -1095,7 +1095,7 @@
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:51Z",
+      "published_at": "2026-07-30T20:47:52Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUnN3Rmo4aHNCMzZhSjFhZmRDV0RwUTRQajd4Y2p1blRVSkQydDFpalBldFp6c1VBOG1PQktNUkhtLTFubkk3ak5QQzY5c09TUS1BUTdzRjlqMUU5ajRWcFZUNTAyblVGNlFhajhCMA?oc=5",
       "first_seen": "2026-07-31T02:00:57Z",
       "focus": [
@@ -1661,7 +1661,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T12:27:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12eEszQ2RQUkp6SExJNm5iOVR6YWFXdmF2WU1wOElsRlNhdUpvR2d3aTRuU3dlUjNRREdCRkNXeXlsSkVCWG54RDJuem9zOVJOaWlVcmNpVzNEVWFaRnRBZ3AyVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVd1elJrTHdTYTNrMkliS2Q5T1BtZGdsSXV5X2NkQ3ZGNHR2VTVpWmtpdEtPZ3U0emZEU1hoT2QwdzNEb0l3VVMwQmFxZUxMTW9PNVM0N1JUX0pqVEpWUzJ0bVNpOE1jSnF2QXQ1TklvaURyRnl6Y1RLVy16VG1fYlJ3?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "救助・安否",
@@ -2050,23 +2050,6 @@
       ]
     },
     {
-      "id": "43eb18d642f1a4046908",
-      "title": "懸命の救助活動続く=イオンモールや製紙工場、倒壊民家で―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T09:30:38Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZXpTZV8xemhSR2sydUtJcWpjS0xJMzZJNkpST2R6TzRObUtOWk5CcUU2ZHYydTFnZHFubm5NZTJkNXdtYURwaHdRWW5aM3EyTEhaVU9veldFcWlnX2c?oc=5",
-      "first_seen": "2026-07-31T18:00:53Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d0d2374978942fee24d2",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
@@ -2139,9 +2122,26 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "43eb18d642f1a4046908",
+      "title": "懸命の救助活動続く=イオンモールや製紙工場、倒壊民家で―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T08:46:30Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yR0NaajZPWV95MFJpdVZFTzBhRFlROERjZFZ5cWcwcUtoeHVkYnpta3JhVi03QkFpT3JWY0RBYTQxT2gyVFhsVURkN3ZsUm10YlhzQw?oc=5",
+      "first_seen": "2026-07-31T18:00:53Z",
+      "focus": [
+        "救助・安否",
         "現場状況"
       ],
       "category_ids": [
@@ -5287,20 +5287,6 @@
       ]
     },
     {
-      "id": "89b098498bf739882b4d",
-      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:12:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Nei11VmJzZjN3YzUwSkxlTkdLM2ZFZWhDbkZWaUhJUmtjaTZTQW0zVjBvVThrSXE2UklFQVIwdXVybm5mTW1CRVhXcUNDU3dhVWF4WXRTOU1iLV9VUkR5Ni1FejU?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "8bc5906f353516e980ea",
       "title": "【動画】イオンモール熊本の内部をドローン撮影 陸上自衛隊 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -7371,6 +7357,20 @@
       ]
     },
     {
+      "id": "89b098498bf739882b4d",
+      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T00:05:59Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLRG52TEFaa1R2X3FOZWQ2b1JDaElLNnA1Nkh2eUdQRVU3VmR0eGlmVGxzbjBRRENqalBDai14bldtb292a1I5RUxlNGZiUGI1aEtxWUZnSXFsX29CczQxTlBWX2U?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "3b7456e307d229019e1a",
       "title": "イオンモール熊本の位置 : 【速報中】熊本地震、イオンモールで2人死亡を確認...発災から一夜明けて被害の状況は:写真",
       "source": "読売新聞",
@@ -7386,7 +7386,7 @@
     },
     {
       "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
@@ -8650,7 +8650,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T14:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
