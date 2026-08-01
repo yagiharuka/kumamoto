@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T14:30:13Z",
-  "updated_at_jst": "2026/08/01 23:30 JST",
+  "updated_at": "2026-08-01T15:00:13Z",
+  "updated_at_jst": "2026/08/02 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 660,
@@ -1050,7 +1050,7 @@
     },
     {
       "id": "a75383b9826343e2640c",
-      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -2518,6 +2518,22 @@
       "first_seen": "2026-07-30T07:30:11Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aff0ae86adc5acebaba9",
+      "title": "写真と映像で追う熊本地震 イオンモール爆発・傾く住宅・橋や石垣崩落",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOHhabWJsWnBGNmVBNjFmUE5aUkJzT216WmVxU0dZdlg4dENKSjIya29mZloxMTFMd1RubVRfb0tMRV81T0k1ZnhITjA3em9naGNhS1ZRR1hqWUVmNS1ibGRQbzBzbnVCSlhEeg?oc=5",
+      "first_seen": "2026-07-29T02:00:21Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -5730,7 +5746,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5SzRmV1FRNk9rTDBwVG5DVXdTQ1JkS05yOHllY0N2dlFIMU9Sek1XWHQ4QUJfYUhsOFdVT0d4X3p2OXJTdi1STGpyNVI1VzRSbGpZQVoyblRtclNzdUhtRFdTSGNVa1IydDlYRE9oaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85Y2xBNmdiMHpoZXd5U05VU2Z5TXFoRm9ET2VBZUVQSzYyeDNaSzY0Z3ZDSXhVUVRtU3N3RzM3SkNwekdmM0Y4ODFSWVhCeDA2QkZnYk1mM21EZDFJT0xxME1GV0RGNnVkcDd4OFUycw?oc=5",
       "first_seen": "2026-07-31T02:00:57Z",
       "focus": [],
       "category_ids": [
@@ -8379,22 +8395,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "aff0ae86adc5acebaba9",
-      "title": "写真と映像で追う熊本地震 イオンモール爆発・傾く住宅・橋や石垣崩落",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T15:51:03Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOHhabWJsWnBGNmVBNjFmUE5aUkJzT216WmVxU0dZdlg4dENKSjIya29mZloxMTFMd1RubVRfb0tMRV81T0k1ZnhITjA3em9naGNhS1ZRR1hqWUVmNS1ibGRQbzBzbnVCSlhEeg?oc=5",
-      "first_seen": "2026-07-29T02:00:21Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
