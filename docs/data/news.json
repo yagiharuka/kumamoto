@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T11:01:00Z",
-  "updated_at_jst": "2026/08/01 20:01 JST",
+  "updated_at": "2026-08-01T11:30:54Z",
+  "updated_at_jst": "2026/08/01 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 654,
+  "article_count": 655,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "nhk": 54,
     "sankei": 117,
-    "nhk": 53,
     "mainichi": 77,
     "kumanichi": 100,
     "yomiuri": 79,
@@ -76,14 +76,31 @@
     }
   ],
   "category_counts": {
-    "aeon": 502,
+    "aeon": 503,
     "power": 97,
     "paper": 67
   },
   "items": [
     {
+      "id": "670845b3b80231babe11",
+      "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-01T11:23:03Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSllOejJ0cU1kXy0wMzJpTDVOOHZfc295NExZTXVDX3BKSm5qZkRRNnhxRDFYRjJ0QVBnR05rSXVseS1sek9GWlFvU1hmbm1GTTUxZEdkLU9Ma0c3VWM4?oc=5",
+      "first_seen": "2026-08-01T11:30:54Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c052a33d2cb269100cd6",
-      "title": "イオンモール熊本の救助活動終了 熊本県",
+      "title": "イオンモール熊本の救助活動終了 熊本地震、爆発事故で7人死亡",
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
@@ -91,7 +108,8 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40Yi1zZWJxSG45OFc0UmhEX1liYmdZMDJjeG1SR0FHUGx6RGZqdWN4eTRHYm5tY0ZEcHRUSzZXdnluMEQwZFgzRXdqWGItbGlJMmNXT0d4bGRUYlZPNGJUYWlMN2YwM3J1NS1PV1pGNklMZTR2ZHc?oc=5",
       "first_seen": "2026-08-01T11:01:00Z",
       "focus": [
-        "救助・安否"
+        "救助・安否",
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -103,7 +121,7 @@
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-01T09:11:56Z",
+      "published_at": "2026-08-01T10:31:54Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oQlFUTUsteld5UVpqZFZHS1BhalQxY21CNzktOE05UV9pVzd3MHQ0c01sbnk4Vk1pN0o4VHNHNzUzNG5sVU1rS0gwTHh5aHJEQ3NMMGZxVGNDazd6OWNF?oc=5",
       "first_seen": "2026-08-01T10:30:51Z",
       "focus": [
@@ -7558,6 +7576,22 @@
       ]
     },
     {
+      "id": "0a2d8c87b4cc5221b745",
+      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:01:27Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcC1UNWVEdnkyd2lPOW4yMkl4VUk3dndmVXNYN1hfdkhlY29QaXF4Z1pxTUstRE95MjFCSHJ5R1dBYVMzLVNUdVZmOWdoU2UwMmMwNVNuLUVWY2dmMkRTcHU0ZzBFQTN4bHNGVVdYb19VTGhUZG1BN0I0QXFvR1lsR3paeXF5RGZjSlRpVkN3?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8427d2fe6e64a363292a",
       "title": "イオンモール熊本の爆発 2人が死亡、1人心肺停止 県発表",
       "source": "毎日新聞",
@@ -7569,22 +7603,6 @@
       "focus": [
         "救助・安否",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "0a2d8c87b4cc5221b745",
-      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:51:10Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHdSc0drTGhYS1A2TThuWGdmUkZVOGgyeC1ocE9yeVlIc0s4V1cxV1lnVFZRZk55bXhFYXF6SF9XZEhkZF9oQWJ2QmlDZ2NKWXFLQTlTM0FKdUJud3FYU25YQktycTZoS2JrcXp4RFY0VjMwOXlub0Q0dGI4dmxoR0FmMUpkNXI3dWhlREYxYzFaR0lGTlcwNFlR?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否"
       ],
       "category_ids": [
         "aeon"
