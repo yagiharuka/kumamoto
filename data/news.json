@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T22:30:14Z",
-  "updated_at_jst": "2026/08/02 07:30 JST",
+  "updated_at": "2026-08-01T23:00:13Z",
+  "updated_at_jst": "2026/08/02 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 669,
@@ -1590,22 +1590,6 @@
       ]
     },
     {
-      "id": "d36c2520389c38c19778",
-      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T15:22:16Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMW1mUDdvWDRIdEYtM0hHSzVqSTVvaEV1VDJtUmkxYlVENERtSHFGaENHdzhLSkk4MU5va1hOQWF0S3FkeEpYU0dGTnVKMWxYMmZFRFRacjFJRVMwdlRFLXV3UWtJRFJfM2t4Z3FMZ0VxX09GaE5J?oc=5",
-      "first_seen": "2026-07-31T07:00:51Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -2668,6 +2652,22 @@
       "first_seen": "2026-07-30T07:30:11Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d36c2520389c38c19778",
+      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T06:56:24Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMW1mUDdvWDRIdEYtM0hHSzVqSTVvaEV1VDJtUmkxYlVENERtSHFGaENHdzhLSkk4MU5va1hOQWF0S3FkeEpYU0dGTnVKMWxYMmZFRFRacjFJRVMwdlRFLXV3UWtJRFJfM2t4Z3FMZ0VxX09GaE5J?oc=5",
+      "first_seen": "2026-07-31T07:00:51Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -5972,7 +5972,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FVW41d2dsN0o1OVRtM3VNT1pyQ0g0LXRaNFh6NFBfQjFFTGMzQ01EbWdiYk5BeVhBUF9IanpoWnF3YWkycXpmak13bTgtMm5hdkNmSlhBY0N3UGFmcDR0TVBDbUVTR2dnLUZnQUNWaw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
