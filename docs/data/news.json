@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T02:30:52Z",
-  "updated_at_jst": "2026/08/01 11:30 JST",
+  "updated_at": "2026-08-01T03:00:59Z",
+  "updated_at_jst": "2026/08/01 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 647,
@@ -1282,7 +1282,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ba1BTTW56ZVZoSUhQUGdjVV84emtuWktfeHdHYUI4ZTd6Ml8wdDhNTHNMSzdUVS1PM0VGRG9vNC1HZG1UMmR0Ri1ETXptb0tTUmt0MXZzck1OZG9sTnN1SkI0VmI1QTd0dnZZZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
@@ -4938,7 +4938,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -7288,22 +7288,6 @@
       ]
     },
     {
-      "id": "0a2d8c87b4cc5221b745",
-      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T00:14:59Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHNhS3pvaG84Q3F0SzdSLWJ5OHlpNlZ4RzRLem5oYWNpb2pqR1NfVjBvaXdDNGZyb2phNlllcXd4N1FkTi1CR09lMllhZ0p3NFdSNWkwa0kyUjVxVy1VdEc1ZWtfTmRIalNrdlFqV2RlZmVkVkk5bTltYUlubTdDWXhqZlBmUmVBSUpVaERR?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "829ceb98964eed66d971",
       "title": "令和8年熊本地震 停電・断水時に役立つ情報まとめ",
       "source": "読売新聞",
@@ -7454,6 +7438,22 @@
       "focus": [
         "救助・安否",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "0a2d8c87b4cc5221b745",
+      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T22:51:10Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHdSc0drTGhYS1A2TThuWGdmUkZVOGgyeC1ocE9yeVlIc0s4V1cxV1lnVFZRZk55bXhFYXF6SF9XZEhkZF9oQWJ2QmlDZ2NKWXFLQTlTM0FKdUJud3FYU25YQktycTZoS2JrcXp4RFY0VjMwOXlub0Q0dGI4dmxoR0FmMUpkNXI3dWhlREYxYzFaR0lGTlcwNFlR?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否"
       ],
       "category_ids": [
         "aeon"
