@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T05:00:53Z",
-  "updated_at_jst": "2026/08/01 14:00 JST",
+  "updated_at": "2026-08-01T05:30:53Z",
+  "updated_at_jst": "2026/08/01 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 650,
@@ -832,7 +832,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dy11OFpkUnI3aXBpY3FqNU9Ha21nQzR0N0dRUUpJZmpoc0t3M2JIU3hfbTRHd213RVRkRzNqRlBUcnFKTVVEUmJ2bDZJX1Zaa0Q4Mg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90aWhUeHBkTkxObHZ3MlRnNnZnbVhhX0NyMHQ3a1p3bG0xZHY5Z3ZvN01XMkZydGpvdFhlZmtsQmc2bklMQzlzWGY3LTRaUzhKUGxxQg?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -4810,22 +4810,6 @@
       ]
     },
     {
-      "id": "99ae68389686aadd5123",
-      "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T08:02:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUEsyMkNESGxNSktTRVdpRlhRbjktRjVCMjdHYTdrTFFJWU96UUdBeS1FZXMxSlNBWldtRTE5WkUwaXRELTh4aVR0N0d1WTZudHpxVg?oc=5",
-      "first_seen": "2026-07-29T15:30:19Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "026f12ca1e284e079acb",
       "title": "「無事に救助、願うしか」 イオン周辺、涙ぐむ人も―熊本・嘉島町",
       "source": "時事通信",
@@ -5284,6 +5268,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "89b098498bf739882b4d",
+      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:12:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Nei11VmJzZjN3YzUwSkxlTkdLM2ZFZWhDbkZWaUhJUmtjaTZTQW0zVjBvVThrSXE2UklFQVIwdXVybm5mTW1CRVhXcUNDU3dhVWF4WXRTOU1iLV9VUkR5Ni1FejU?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -7043,6 +7041,22 @@
       ]
     },
     {
+      "id": "99ae68389686aadd5123",
+      "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T02:01:35Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQkRiSkVxV0k5LVJSdzlGeVlMYXgwTTJaRHdrR0VqVm5feFJENEVXclI5SVlhN3IyNEh1Q28xN1BTLXJqUG9JbTNubnFreHBhZUJyOV9fZFVJbU80UGc?oc=5",
+      "first_seen": "2026-07-29T15:30:19Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6241084706ecb661b555",
       "title": "熊本地震、負傷者は多数 避難者9800人超 3万7000戸が停電 県は被害把握急ぐ",
       "source": "産経新聞",
@@ -7354,20 +7368,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "89b098498bf739882b4d",
-      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T00:05:59Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLRG52TEFaa1R2X3FOZWQ2b1JDaElLNnA1Nkh2eUdQRVU3VmR0eGlmVGxzbjBRRENqalBDai14bldtb292a1I5RUxlNGZiUGI1aEtxWUZnSXFsX29CczQxTlBWX2U?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
