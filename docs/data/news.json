@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T14:00:12Z",
-  "updated_at_jst": "2026/08/01 23:00 JST",
+  "updated_at": "2026-08-01T14:30:13Z",
+  "updated_at_jst": "2026/08/01 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 659,
+  "article_count": 660,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "yomiuri": 81,
     "nhk": 54,
     "sankei": 118,
-    "mainichi": 77,
+    "mainichi": 78,
     "kumanichi": 100,
     "jiji": 118,
     "nikkei": 40
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 507,
+    "aeon": 508,
     "power": 97,
     "paper": 67
   },
@@ -763,6 +763,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "52bab5eaffe1fbc19daa",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集17/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T04:11:58Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlVmLWlLOUpoTE9GT0hiSmtYNXM0c1hfeENaRC1LTnJPNjJ5Y29ZWDNqQnlsdFBXb3E2XzQzMTJHRjdfUXo1UDZjOFo1eGpING9PMEd4bVp6R1liS3JNZVhGbzlmUEgxZk11OHRpMG5sYUlZbmJDMDIzcHh1NzE4dlZydDJpTms?oc=5",
+      "first_seen": "2026-08-01T14:30:13Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -4577,6 +4593,23 @@
       ]
     },
     {
+      "id": "0f204a632a747eaa9acf",
+      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T08:49:20Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnZ6WGswRWhlZ1JxWGtIWjROT1A2cDMyazc3U090YTliZEg5Mm1ReEhld1BKUGZzUkpoTkJiWFYtQ0VhYXpfWjJyMldrTnJiT1NNSVVOY3BNUGtzcTdUSHpnZkktbFFZVXlFSm5WeEFvWFBkaDJrb00zeUh0Mk5oWlhLczk3TVBGZjlCLU0wYlZ1RVluNDZ3eUp3?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "3546d79ca6c3b7912bec",
       "title": "熊本地震 イオンモール 熊本城:被害の様子を3D化",
       "source": "読売新聞",
@@ -5120,7 +5153,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -5288,23 +5321,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "0f204a632a747eaa9acf",
-      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:34:03Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnJrajBIMnVCUEl3dW84eUZIVHYzWkEzMkRpcmQ0NF9NN1ZlU3o5MjU5Y2JXS1FRa3pwcTBWU3B5dEY0S25jZWNHSk5VZkExSUVUWGljaU5YTGswT2hMVmVZNF9yMEdodUE4bUJHMjBSUlk5emZSYV93UHNWaDVGaXJqTUszdy1UUWZabWxJOFFJbDBpamh0SEdn?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -5788,7 +5804,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FVW41d2dsN0o1OVRtM3VNT1pyQ0g0LXRaNFh6NFBfQjFFTGMzQ01EbWdiYk5BeVhBUF9IanpoWnF3YWkycXpmak13bTgtMm5hdkNmSlhBY0N3UGFmcDR0TVBDbUVTR2dnLUZnQUNWaw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
