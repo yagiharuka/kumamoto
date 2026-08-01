@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T08:00:51Z",
-  "updated_at_jst": "2026/08/01 17:00 JST",
+  "updated_at": "2026-08-01T08:30:53Z",
+  "updated_at_jst": "2026/08/01 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 652,
@@ -1693,7 +1693,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T12:27:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVd1elJrTHdTYTNrMkliS2Q5T1BtZGdsSXV5X2NkQ3ZGNHR2VTVpWmtpdEtPZ3U0emZEU1hoT2QwdzNEb0l3VVMwQmFxZUxMTW9PNVM0N1JUX0pqVEpWUzJ0bVNpOE1jSnF2QXQ1TklvaURyRnl6Y1RLVy16VG1fYlJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12eEszQ2RQUkp6SExJNm5iOVR6YWFXdmF2WU1wOElsRlNhdUpvR2d3aTRuU3dlUjNRREdCRkNXeXlsSkVCWG54RDJuem9zOVJOaWlVcmNpVzNEVWFaRnRBZ3AyVQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "救助・安否",
@@ -2154,7 +2154,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -5687,7 +5687,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FVW41d2dsN0o1OVRtM3VNT1pyQ0g0LXRaNFh6NFBfQjFFTGMzQ01EbWdiYk5BeVhBUF9IanpoWnF3YWkycXpmak13bTgtMm5hdkNmSlhBY0N3UGFmcDR0TVBDbUVTR2dnLUZnQUNWaw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -9463,7 +9463,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T12:01:45Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGozaENDeTZEd3dVUGstMXNvZUlWeVJ4Z3hXWHQzTkpjN19waHFwbDBWa2JqMHBjQXN5eS1CR2R1Q3NhYkpHVlgwQ2xEbUM2ODhsWE5ra1U2M3liU2p2MlBJS3FvdnJiSk5KUGdLWUlxV3FJczFHRlVUNEZuSHVrQ09peE1fWjFua0YtNjJMTDhwWlR5VGk1R1lR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzdPYVdacVRHX21lTG5rNTRiYXA0RjRVcXpDYmYwTXhmNnB2MlRfZEFtNUJMUk9oRWNUdkNGaG1hN2MtT2lDQXpGcWI5SGFvbDF1WkpSZHBjaVZQRHRvcGVuNmFfejRFaEhKUXNCV2pkbVoxOGFhUTIwWGRKOHBXc0dkQXI3S3FEWHZYalpGdXQwQkVVNVg2UkY2SVJ1dmI2LVJLMQ?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
