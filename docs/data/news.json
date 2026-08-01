@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-01T09:00:51Z",
-  "updated_at_jst": "2026/08/01 18:00 JST",
+  "updated_at": "2026-08-01T09:31:01Z",
+  "updated_at_jst": "2026/08/01 18:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 652,
@@ -1365,7 +1365,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ba1BTTW56ZVZoSUhQUGdjVV84emtuWktfeHdHYUI4ZTd6Ml8wdDhNTHNMSzdUVS1PM0VGRG9vNC1HZG1UMmR0Ri1ETXptb0tTUmt0MXZzck1OZG9sTnN1SkI0VmI1QTd0dnZZZw?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
@@ -1423,23 +1423,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "118064b03e1e0c55c9a9",
-      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T14:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
-      "first_seen": "2026-07-30T12:00:10Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -1889,6 +1872,23 @@
       ]
     },
     {
+      "id": "118064b03e1e0c55c9a9",
+      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T11:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwRHdzY2UzRGJfMHY2QXNYNkVxSW02c1hfeDJmbmhLTnNnVjVmRWxEbkxDNnRxOWtCMEViclRVWnNTVGM0X1lQYXlHRjY3eTJBT0F5VWxWc1k3bjYzQnZIeHlpTQ?oc=5",
+      "first_seen": "2026-07-30T12:00:10Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f0d4a14fe0126187b0e2",
       "title": "イオンモール熊本の現場調査開始と経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -2154,7 +2154,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RN3dEM242TWxEb1hjU1Y3QjI3aXRVdEN5OE1xVHFWTHFNR0dWeE1mZE1HUzlJMTMtRElXNjRfZWJCUW92SFRWcG5ZbHpLSnBtQURjeFBKLVA2WWxvZUJnV1hLMUc3Q0RHeXhMQWZrX2dybGVxNGc?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "現場状況"
@@ -7526,6 +7526,22 @@
       ]
     },
     {
+      "id": "0a2d8c87b4cc5221b745",
+      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:01:27Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcC1UNWVEdnkyd2lPOW4yMkl4VUk3dndmVXNYN1hfdkhlY29QaXF4Z1pxTUstRE95MjFCSHJ5R1dBYVMzLVNUdVZmOWdoU2UwMmMwNVNuLUVWY2dmMkRTcHU0ZzBFQTN4bHNGVVdYb19VTGhUZG1BN0I0QXFvR1lsR3paeXF5RGZjSlRpVkN3?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8427d2fe6e64a363292a",
       "title": "イオンモール熊本の爆発 2人が死亡、1人心肺停止 県発表",
       "source": "毎日新聞",
@@ -7537,22 +7553,6 @@
       "focus": [
         "救助・安否",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "0a2d8c87b4cc5221b745",
-      "title": "熊本地震 イオンモールで2人死亡、日本製紙工場で2人が心肺停止",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:51:10Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHdSc0drTGhYS1A2TThuWGdmUkZVOGgyeC1ocE9yeVlIc0s4V1cxV1lnVFZRZk55bXhFYXF6SF9XZEhkZF9oQWJ2QmlDZ2NKWXFLQTlTM0FKdUJud3FYU25YQktycTZoS2JrcXp4RFY0VjMwOXlub0Q0dGI4dmxoR0FmMUpkNXI3dWhlREYxYzFaR0lGTlcwNFlR?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否"
       ],
       "category_ids": [
         "aeon"
