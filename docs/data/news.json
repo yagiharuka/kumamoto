@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T15:30:23Z",
-  "updated_at_jst": "2026/08/03 00:30 JST",
+  "updated_at": "2026-08-02T16:00:21Z",
+  "updated_at_jst": "2026/08/03 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 688,
+  "article_count": 690,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,10 +52,10 @@
     "nikkei": 43,
     "kumanichi": 104,
     "sankei": 120,
-    "asahi": 76,
+    "asahi": 77,
     "yomiuri": 88,
     "nhk": 55,
-    "mainichi": 83,
+    "mainichi": 84,
     "jiji": 119
   },
   "tracked_categories": [
@@ -76,8 +76,8 @@
     }
   ],
   "category_counts": {
-    "aeon": 532,
-    "power": 102,
+    "aeon": 533,
+    "power": 103,
     "paper": 68
   },
   "items": [
@@ -170,6 +170,22 @@
       "published_at": "2026-08-02T09:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84Q0FRU1hfUFp5VHMydko2WVZaN0dyZDk4dTROd3ByYXZ2RksyS2REU2xkTmlZdnpsTHIzM0c1eGU2ckU1cmFsTm00aGFXX3hNSzJvVkN0VGEtNmFmRGFWMWlrRkktTUU?oc=5",
       "first_seen": "2026-08-02T09:30:21Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "4bcecb3508bac3cf8ff1",
+      "title": "断水、停電・・・8人で患者担ぎ6階へ 病院も被災、葛藤の医療現場 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T09:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXVSd0txLW5TTjBqbXNmc3RUUnZXX05WSy11dlpIRWV6MkNZMTZCM3NCTmFReTAzUlRIaUxLR0ItODAycnBPVmdicE5XeFFWdlNxYzdVZmpKYTI3WWFOaVhPaGdPbjZheFpPTzRVZmpJOXFWeTViT0JETnFrQnJCWG1fOGFKM25aSVZQY283eW4zZHdfdm5BYXhR?oc=5",
+      "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
       ],
@@ -2508,7 +2524,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxTUFg5aWVlb0VQR2tVTS1ScDF3c0g3Mlg5YzV5eVhoUmVybk93WS1pQUxURnM5M1hkYmo5R2EtdFpBOGpjeWs2d3hXWENLaWZVMUJnZ3FMNGRLNnd3NkRBam9oRkFheFc0T1dWQTRnN21xSXJhbkZ0TngzWUtRNVhMUHhDSzFjelRqMEw4R2hUTGIyTnNHbmtB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRl9FLUUxZXhyUzdMYml4d3RTRkdhc1h0NzUwSFdoMHN1bXNQd2ExYXFKLUR4NmdiZlR5ZndqcFNqZHgtV2VuaTlqT2JJckRkNUxxT0x6ZGlzMDV4aHVteGRTbllmX19RSGJRaDRWMTUwZlcwOHc1WTZjNjUwUUJaOGt4c1o0ei12VHAwT3ZpTDRrNEd1OHptQ09n?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -2574,6 +2590,23 @@
       "published_at": "2026-07-30T09:26:16Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWm81eDg3QlFDN2xwdGllTWtCN2hTcGRmWS1aTzViX0RoNmhnWGdCcTlLVlB3bTJjb2h6blRXUlJrd1RKdE1WVUZsOV83NUdrWVREWS1ud3BYamdSVnJRVXpDdnNMODB0ek5PWWJ6T05GZjNUTk5HNWxYQTdsZGhWNG9VekdXU0U?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f7989cf7622d6c808a69",
+      "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集2/9]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T09:26:16Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0U5TXNTalNCT2lxQTVIcUhFLUxTQTJLcXl3VEg0Y2pTWGlzdVk4ZW1IbmQwZXMxUmlHOTlvZmNqUHFsU2tBYVBkeUtrRVFDQldHOEh4Y1JjdFNjV2c1ZzZrWHdhZk1YUlY3c2gzUWV0NnF2ZGdNNW95YjBTZ3hab21GbFNYSEE?oc=5",
+      "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "救助・安否",
         "現場状況"
@@ -6420,7 +6453,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T06:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ISUtUTTdUMm0zLV9YeFJtODJneHdpTEFQWC1rUXh5bjhjaG9XOWJLel9wTVpxT0owZ1BWZ1VRTVRlTFdJc21TT2VrcDI3ajNrOGNmQWQ2MkZSTVV5TWNudy0xbWdhVmlOZm9NWUF1NXJwWGYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wNUFBeWtMdXVLTU5SQ1dTcTV2OGFCYW10Q3BLc3N5TzJGU1lEV3VZazdscXJmYU5WQThJSUZNaUZXd3BzNnFQd1p1X3dHb280MTRDVXI3RzNTMkRmaXdIb2xzM0t6WjllTzA2UmJhVVIxU2E3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否",
