@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T23:01:06Z",
-  "updated_at_jst": "2026/08/03 08:01 JST",
+  "updated_at": "2026-08-02T23:31:12Z",
+  "updated_at_jst": "2026/08/03 08:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 702,
@@ -300,7 +300,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFhfbDNseHZ2bjhRM1pKaVFsd05FMzc4czA4aFREOHJMOENRRWhXOWdhQXhQd1Q1SWJOZGdGVmJsNWZfNjU3c3pVMl9WY1lZNm52Sk1LOUFDM1VKMVI5UlQtc1lkWjN3OXFCUWFYdUR6NVgyR1d6cURkcTN6eFpDNGgyTVhxRXh1OG41Z1Nn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1c2bVRrOVE3aGlxem1waUp6SjFUOVI0bnZubnJoNWdXWkMwUHFoS3dHUElhREtWaTFuS09IVEpWZFNSajRlazhpZTBzYjFpdGRmQ0lOWEV3Y29HNDd1S1RXdWR2bDZIU183bW1jMkxJblFybmVhWEtNS3NBSmRTWW85YzQzbXNFMTJKRXBKdTdfT3Y2ZXB0Zm1jOGFFa01ZMG50UA?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -782,7 +782,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-31T10:10:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UW9WQnY5WFU3MEFjaDRldEJIZUsxMVdSOEttUXFpMFRuSk1naXJHUGVOekxFdzdhWVBfcThIZTUyVC1fSVdid29hd1NTTU9JcGZNaTBZRy00eG1tb1dBOWNGNWNRY3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1RYQlF0YUdHU0J1czZuYW9qTGJnZ0E0S0JDZXlPbXNJejdONFlodlVpYXJFb2JJcDg4S0U3enMzc0R0R1lBcGwyYmdkTUdMd3NPOFBmdXUzd3NBM3NBMGlwQlk0bVlKcEdKYjU0ZmhyYWU1THdCQ2JyekNqNkxsbmxDTm1pYU92cU94UW9kQmU?oc=5",
       "first_seen": "2026-07-31T10:30:54Z",
       "focus": [
         "原因・検証",
@@ -1760,6 +1760,20 @@
       ]
     },
     {
+      "id": "b5d9a6dd5c687abbfdf0",
+      "title": "崩れた日本製紙八代工場内の建物 地震...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:47:52Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5SzRmV1FRNk9rTDBwVG5DVXdTQ1JkS05yOHllY0N2dlFIMU9Sek1XWHQ4QUJfYUhsOFdVT0d4X3p2OXJTdi1STGpyNVI1VzRSbGpZQVoyblRtclNzdUhtRFdTSGNVa1IydDlYRE9oaw?oc=5",
+      "first_seen": "2026-07-31T02:00:57Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "ab89e737a6c66be1ceff",
       "title": "会見するイオン社長ら 地震の発生後に...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -2235,7 +2249,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T13:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXJkczIxWm9PLTBfN0k2bWtqVVo4UGJPZkF2eGRHTnZnNkdmZC1OX3hoM29qTFN3Vlo2WVRMeHV6azQzQ2JEMVljYkpnWVYyRzBTdzlfcDM2c2xTOGNFUTZZM3lTUzFsNzU0LTNjVTBHSjVoWlVRUExZcU91UENxRVdSQ2Z1OGZHTnV2R2pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNalpSaWpBUDhZNU5JQXpvdUJhZWFPSmxwRzM1S3libE5jTmFOV0ZxUEw0NnJBQTRsNURMSjFjdEZpNVNJUW42RWpnb1czSkVfci1kVGZPZUx6aUJXZVhHTC14YUJyT2VNMnR5YWxsaGwyT3pVWU1VSFo5Qm5jN3FZSnNRcjFSRHhRWHJGcFV3?oc=5",
       "first_seen": "2026-08-01T22:30:14Z",
       "focus": [
         "避難状況",
@@ -5924,7 +5938,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:39:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -6319,20 +6333,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "b5d9a6dd5c687abbfdf0",
-      "title": "崩れた日本製紙八代工場内の建物 地震...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85Y2xBNmdiMHpoZXd5U05VU2Z5TXFoRm9ET2VBZUVQSzYyeDNaSzY0Z3ZDSXhVUVRtU3N3RzM3SkNwekdmM0Y4ODFSWVhCeDA2QkZnYk1mM21EZDFJT0xxME1GV0RGNnVkcDd4OFUycw?oc=5",
-      "first_seen": "2026-07-31T02:00:57Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
