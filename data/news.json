@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T22:01:09Z",
-  "updated_at_jst": "2026/08/03 07:01 JST",
+  "updated_at": "2026-08-02T22:31:06Z",
+  "updated_at_jst": "2026/08/03 07:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 700,
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 120,
     "asahi": 79,
     "mainichi": 90,
     "yomiuri": 90,
     "kumanichi": 104,
     "nikkei": 43,
-    "sankei": 120,
     "nhk": 55,
     "jiji": 119
   },
@@ -81,6 +81,20 @@
     "paper": 69
   },
   "items": [
+    {
+      "id": "16e456f46b6427b45658",
+      "title": "「命に代えるものではなかった」館内戻るよう指示 イオン熊本のテナント会社、通夜で謝罪",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T21:47:41Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQ0h1Sk1BQVZXSFRkcVJiQkt3cm92Z2p5X3kxVE0wR0JfUTVIbFM4ZGRwTzc2Yk43ODlmNnRKUHRiWVlhczRZQTFLbS1CTFNOUUExbi1LVXZ4bDg3eUdRWkhRVWhfeWhwU0lXOGlPQS1oM0ZKTWc?oc=5",
+      "first_seen": "2026-08-02T13:30:22Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "480337365fceaa5ace94",
       "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 遺族は会社に憤り [熊本県] [2026年熊本地震]",
@@ -231,20 +245,6 @@
       ]
     },
     {
-      "id": "16e456f46b6427b45658",
-      "title": "「命に代えるものではなかった」館内戻るよう指示 イオン熊本のテナント会社、通夜で謝罪",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-02T13:09:05Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQ0h1Sk1BQVZXSFRkcVJiQkt3cm92Z2p5X3kxVE0wR0JfUTVIbFM4ZGRwTzc2Yk43ODlmNnRKUHRiWVlhczRZQTFLbS1CTFNOUUExbi1LVXZ4bDg3eUdRWkhRVWhfeWhwU0lXOGlPQS1oM0ZKTWc?oc=5",
-      "first_seen": "2026-08-02T13:30:22Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "71f67e6aa4eda97c1433",
       "title": "イオン爆発、一時避難後館内に戻るよう要求 (共同通信)",
       "source": "熊本日日新聞",
@@ -284,7 +284,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1c2bVRrOVE3aGlxem1waUp6SjFUOVI0bnZubnJoNWdXWkMwUHFoS3dHUElhREtWaTFuS09IVEpWZFNSajRlazhpZTBzYjFpdGRmQ0lOWEV3Y29HNDd1S1RXdWR2bDZIU183bW1jMkxJblFybmVhWEtNS3NBSmRTWW85YzQzbXNFMTJKRXBKdTdfT3Y2ZXB0Zm1jOGFFa01ZMG50UA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFhfbDNseHZ2bjhRM1pKaVFsd05FMzc4czA4aFREOHJMOENRRWhXOWdhQXhQd1Q1SWJOZGdGVmJsNWZfNjU3c3pVMl9WY1lZNm52Sk1LOUFDM1VKMVI5UlQtc1lkWjN3OXFCUWFYdUR6NVgyR1d6cURkcTN6eFpDNGgyTVhxRXh1OG41Z1Nn?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -996,7 +996,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-31T05:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVlhDdmZRNTZDNFdjcXNaNF9vZXluaWEyR2NUeC1iTjM4dnQzN3lUREcyMnVIVUhSWDR1dW9MMVdrYTl0d2tYUUpQd3lZeHdua3BsZWhNMmhIblZqcHdkamd2ZWFQcGZNV1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12V2Jtb0pabk0wSVBfcVFmc3FVLWwwNUx0WnI4a2JsS0lSdF9qRHdNQVIzYlRzQW5JaXJwNDBZUTFFNkF3T25XUS1GbVRMQXAyU1FNNHNCVjJQbkM1aVF4RkY2cG5oX2VyMmc?oc=5",
       "first_seen": "2026-08-02T05:30:12Z",
       "focus": [
         "救助・安否",
