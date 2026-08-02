@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T09:00:22Z",
-  "updated_at_jst": "2026/08/02 18:00 JST",
+  "updated_at": "2026-08-02T09:30:21Z",
+  "updated_at_jst": "2026/08/02 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 676,
+  "article_count": 679,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "asahi": 75,
     "nikkei": 42,
-    "yomiuri": 85,
+    "yomiuri": 87,
     "kumanichi": 101,
-    "asahi": 74,
     "nhk": 55,
     "sankei": 118,
     "mainichi": 82,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 521,
-    "power": 100,
+    "aeon": 522,
+    "power": 102,
     "paper": 67
   },
   "items": [
+    {
+      "id": "cd8b545e5ce39f3924ba",
+      "title": "断水、停電・・・8人で患者担ぎ6階へ 病院も被災、葛藤の医療現場 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T09:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84Q0FRU1hfUFp5VHMydko2WVZaN0dyZDk4dTROd3ByYXZ2RksyS2REU2xkTmlZdnpsTHIzM0c1eGU2ckU1cmFsTm00aGFXX3hNSzJvVkN0VGEtNmFmRGFWMWlrRkktTUU?oc=5",
+      "first_seen": "2026-08-02T09:30:21Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "9eb8396dc9b845851461",
       "title": "イオンモール熊本内部をドローンで調査 : 映像",
@@ -1884,7 +1900,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T13:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXJkczIxWm9PLTBfN0k2bWtqVVo4UGJPZkF2eGRHTnZnNkdmZC1OX3hoM29qTFN3Vlo2WVRMeHV6azQzQ2JEMVljYkpnWVYyRzBTdzlfcDM2c2xTOGNFUTZZM3lTUzFsNzU0LTNjVTBHSjVoWlVRUExZcU91UENxRVdSQ2Z1OGZHTnV2R2pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNalpSaWpBUDhZNU5JQXpvdUJhZWFPSmxwRzM1S3libE5jTmFOV0ZxUEw0NnJBQTRsNURMSjFjdEZpNVNJUW42RWpnb1czSkVfci1kVGZPZUx6aUJXZVhHTC14YUJyT2VNMnR5YWxsaGwyT3pVWU1VSFo5Qm5jN3FZSnNRcjFSRHhRWHJGcFV3?oc=5",
       "first_seen": "2026-08-01T22:30:14Z",
       "focus": [
         "避難状況",
@@ -2378,7 +2394,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxTUFg5aWVlb0VQR2tVTS1ScDF3c0g3Mlg5YzV5eVhoUmVybk93WS1pQUxURnM5M1hkYmo5R2EtdFpBOGpjeWs2d3hXWENLaWZVMUJnZ3FMNGRLNnd3NkRBam9oRkFheFc0T1dWQTRnN21xSXJhbkZ0TngzWUtRNVhMUHhDSzFjelRqMEw4R2hUTGIyTnNHbmtB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRl9FLUUxZXhyUzdMYml4d3RTRkdhc1h0NzUwSFdoMHN1bXNQd2ExYXFKLUR4NmdiZlR5ZndqcFNqZHgtV2VuaTlqT2JJckRkNUxxT0x6ZGlzMDV4aHVteGRTbllmX19RSGJRaDRWMTUwZlcwOHc1WTZjNjUwUUJaOGt4c1o0ei12VHAwT3ZpTDRrNEd1OHptQ09n?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -3340,6 +3356,23 @@
       ]
     },
     {
+      "id": "d2ad2265c40764941259",
+      "title": "九州新幹線 : 【詳報】熊本地震の死者は35人に、イオンモールではオンワード従業員3人の死亡確認:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T01:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KZ2FzSkRpUzlFZGZGOWtTZV81OGUzUGFlbkJwM0xoR0N3MEVoY0EySmhxNmRKaUQ4NTczdk5LNEUxektQX1lBMHFDallvZm9EYVREbGlKQUVKSGI0NVE3U3ZqSUZhLXREbkE?oc=5",
+      "first_seen": "2026-08-02T09:30:21Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "3fa5655eb5b00eb166c1",
       "title": "【速報中】イオンモールの死者は6人、アルバイトが証言した緊迫の現場...熊本地震の死者は30人に:写真",
       "source": "読売新聞",
@@ -3468,20 +3501,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T22:57:39Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUThyYjFyaTUzZ1ZjSWZtWHhLUjFrNjVvTzk1aFpXVU05anhYUlRrcHdjek9wNzNycWNzcWJmXzNlcHoxQ1RIY0xIZElnS1YxMWxnT19GN0FUVDVablp0OXhxV3NyUFRLMi0tNzZ4Q2NWakR1RHJ2ckJsNENPeUYtanEwWEtUZHktYmRGUjB3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -5424,7 +5443,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -5595,6 +5614,23 @@
       ]
     },
     {
+      "id": "0f204a632a747eaa9acf",
+      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:34:03Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHZmT1E2SXN1N1ViQ3JNREZOa3RCVW44V0l3WjIxeDB2MXduZVFsb1oyRE1NcFJXRTJ2a0NrQnJscWhTQk9SSm1Vam5VUnhTMGFueGZZT2ItYjFiSXF2QzZVWV95T1BwRVVPZFlSalUwclVQa1pfQ3d2Vmh3MjJOZ2VlYXhfWVA2UmpRVkJB?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "4b53352266a572124345",
       "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
       "source": "毎日新聞",
@@ -5733,23 +5769,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "0f204a632a747eaa9acf",
-      "title": "熊本地震 猛暑、停電、断水... 避難生活で気を付けたいポイント",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:04:48Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2b21weENzQVZIbEFlY2Z4T0MxVE1SbXkwVWZ1Ql9ZLTVSeVh0Ym9UMjB6R3laM3NIcDRqTUY5RmluWFVsU2otd2FuUzVMSG45ejJDX3pBWDVzaVBuakJrN3FMa25QTm5SR0FkX3dB?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -6912,6 +6931,24 @@
       ]
     },
     {
+      "id": "1b8ddfb2274d659ab32e",
+      "title": "主な被災状況 : 熊本地震、イオンで2人死亡・製紙工場で2人心肺停止...1万人が避難・停電や交通への影響続く:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T04:37:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUVc2SmlHckplQnoyd21RWTFjN1EwOVNrUjNUTkI0NTRlVU9ST1lQeUVpVTAtZ3pXZy0zYkpLSG93TkFQVVB3YzctZFd0UFBhSmJaVVdVYWtocmY0UFZ6VG9qOVBlbXItTmc?oc=5",
+      "first_seen": "2026-08-02T09:30:21Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "8f7d91fa8876c96ef8c0",
       "title": "<2026年熊本地震>イオン爆発「原因は調査中」 木原官房長官",
       "source": "熊本日日新聞",
@@ -7367,6 +7404,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の動き】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T02:22:27Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -8267,7 +8318,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T20:50:54Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWJSSF9pM1RqSE1ramFoUjhacGgwLWVKVTJRSWJMM0JCOWdWYlJQVUJod2p6TEIwbjNzS0txaklDSy16RENPeWx5ZGRBa3M3TmM4UDBkNzJxeWMzMzFnYzVyZXZyV0I1TUIyOURyTVVIVVFMNnI3ekFKQmUxckNILXdMQWNWSWZPRGtCX21n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
