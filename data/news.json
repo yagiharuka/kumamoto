@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T17:00:25Z",
-  "updated_at_jst": "2026/08/03 02:00 JST",
+  "updated_at": "2026-08-02T17:30:25Z",
+  "updated_at_jst": "2026/08/03 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 690,
+  "article_count": 691,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "mainichi": 85,
     "nikkei": 43,
     "kumanichi": 104,
     "sankei": 120,
     "asahi": 77,
     "yomiuri": 88,
     "nhk": 55,
-    "mainichi": 84,
     "jiji": 119
   },
   "tracked_categories": [
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 533,
+    "aeon": 534,
     "power": 103,
     "paper": 68
   },
   "items": [
+    {
+      "id": "9dc9c44832264b7cb24c",
+      "title": "熊本地震 イオン爆発、犠牲なぜ(その1)",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T17:04:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWTI4QUhDbTlfQVlJeUx2VzdreWFlUEZQdjhFeEVJSVFDRFgteW9CWGxTb0M5d0NWOUJGNnlIYzhKbHBGSlJkYWFtb2l6Wk9UU1BsTld4V2gxMmNYQkt0dlNzODlQSG90?oc=5",
+      "first_seen": "2026-08-02T17:30:25Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "462961dfede3e535992f",
       "title": "爆発前、従業員に館内戻るよう指示 イオンモール熊本のテナント会社",
@@ -1521,6 +1537,22 @@
       ]
     },
     {
+      "id": "58f7a86c97953dd8861c",
+      "title": "日本製紙八代工場での救助活動 地震で...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:47:52Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUnN3Rmo4aHNCMzZhSjFhZmRDV0RwUTRQajd4Y2p1blRVSkQydDFpalBldFp6c1VBOG1PQktNUkhtLTFubkk3ak5QQzY5c09TUS1BUTdzRjlqMUU5ajRWcFZUNTAyblVGNlFhajhCMA?oc=5",
+      "first_seen": "2026-07-31T02:00:57Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "ab89e737a6c66be1ceff",
       "title": "会見するイオン社長ら 地震の発生後に...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -1546,22 +1578,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "58f7a86c97953dd8861c",
-      "title": "日本製紙八代工場での救助活動 地震で...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:51Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxcnpJWjJzdXpkQ1ZWcVR0LUJOaXJzVWhXcXRrTFdGZFRrcVRjYkY3czlSeXFTU19XOC0wU1h0Y2dhaHJiX2Yta1ZvUmN0b3NCQ1dzMG5DclM3OUpXY204a2ZNdlNTc1RQbGVNY0J1NA?oc=5",
-      "first_seen": "2026-07-31T02:00:57Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -3223,7 +3239,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T03:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NYXdTeHZUeDBxbnV3a1pNdFd6TTd4ZDMxYlh1RE9lc2JOMFRnTXZTcExrcHp3WllJSG1lRnNIQmM1MkEzTTR0M3lQNDVHRnJfYW1xTXFqb3ZYeC1XN3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SQkRpcHp0YWVWbmRFZHkwQkZYWUIzSXh3MHNHTVRiRlZ3MmdaN0p0N1BvQk9KanRTUTBVbk1ONlc4eGN2WDZ2VEg2Z3IwZXBBalFIOQ?oc=5",
       "first_seen": "2026-07-30T04:00:49Z",
       "focus": [
         "救助・安否"
@@ -3630,20 +3646,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T22:57:39Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUThyYjFyaTUzZ1ZjSWZtWHhLUjFrNjVvTzk1aFpXVU05anhYUlRrcHdjek9wNzNycWNzcWJmXzNlcHoxQ1RIY0xIZElnS1YxMWxnT19GN0FUVDVablp0OXhxV3NyUFRLMi0tNzZ4Q2NWakR1RHJ2ckJsNENPeUYtanEwWEtUZHktYmRGUjB3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -7550,6 +7552,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の動き】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T02:22:27Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
