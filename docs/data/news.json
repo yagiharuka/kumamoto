@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T12:00:21Z",
-  "updated_at_jst": "2026/08/02 21:00 JST",
+  "updated_at": "2026-08-02T12:30:24Z",
+  "updated_at_jst": "2026/08/02 21:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 682,
+  "article_count": 684,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 102,
+    "kumanichi": 104,
     "asahi": 75,
     "nikkei": 42,
     "yomiuri": 88,
@@ -76,11 +76,44 @@
     }
   ],
   "category_counts": {
-    "aeon": 526,
+    "aeon": 528,
     "power": 102,
     "paper": 68
   },
   "items": [
+    {
+      "id": "d719c8494b7e6a46f6f7",
+      "title": "爆発前、館内へ戻るよう指示 イオン熊本のテナント会社(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-02T12:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xeE0xc19yRlI0WkNtRHprZ2hoT3dyREZScnpYNUpYYjZKVkZmMDZpOTJTeXBndldqNFhWRjNUeE1LZlJiX2o4Nnp6bm01WjA?oc=5",
+      "first_seen": "2026-08-02T12:30:24Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "71f67e6aa4eda97c1433",
+      "title": "イオン爆発、一時避難後館内に戻るよう要求 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-02T12:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tb19ieVBtSXZ4OHFSRkZZbWd3OGpxZTUtOHJpVEMtb0Y0NTNvaC1ZdmNRdmdRbkVqdjR4SkdXc1M1cU5Pb0lpUDhIampKLVk?oc=5",
+      "first_seen": "2026-08-02T12:30:24Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "9e6d83d6ce7b7db90ccb",
       "title": "「責任感強い子だった」 イオンモール爆発で犠牲の大竹さん通夜 一度退避、遺族対応に疑問 同僚女性の葬儀も",
@@ -3206,7 +3239,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
