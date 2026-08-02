@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T00:00:11Z",
-  "updated_at_jst": "2026/08/02 09:00 JST",
+  "updated_at": "2026-08-02T00:30:18Z",
+  "updated_at_jst": "2026/08/02 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 669,
+  "article_count": 670,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 82,
+    "yomiuri": 83,
     "asahi": 73,
     "nhk": 55,
     "sankei": 118,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 517,
+    "aeon": 518,
     "power": 97,
     "paper": 67
   },
@@ -87,12 +87,26 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-01T12:08:00Z",
+      "published_at": "2026-08-01T23:50:40Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrTGxXQkdTOVFFdW4zTFAwV1ZTc1RYMldrNlVhZzZFa1BUOWJXZFc1ZGx3YXo3WWhqMVNiMEFYVGtFZlNhWHI2UGZqaHF5ZmRiMEZOWk1iU05DTVB0Q1doVWkzNmRvUQ?oc=5",
       "first_seen": "2026-08-01T12:30:14Z",
       "focus": [
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4024ce58e5aa5c3e1c59",
+      "title": "熊本地震 イオン捜索終了 被災3649棟 生活再建に軸足",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kNHJKeGlmdW9TUlRNUkI2eWJIMWxWWE1JVFN2LWNIWnVIR3RpZTlwV1hxREczNzAwLVE5emNtWGRFWFk1aExXa0RqMGtSdEZ4N0F1VFo1UEdvMWZfSVZfRlIwSQ?oc=5",
+      "first_seen": "2026-08-02T00:30:18Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -1590,6 +1604,22 @@
       ]
     },
     {
+      "id": "d36c2520389c38c19778",
+      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T15:22:16Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMW1mUDdvWDRIdEYtM0hHSzVqSTVvaEV1VDJtUmkxYlVENERtSHFGaENHdzhLSkk4MU5va1hOQWF0S3FkeEpYU0dGTnVKMWxYMmZFRFRacjFJRVMwdlRFLXV3UWtJRFJfM2t4Z3FMZ0VxX09GaE5J?oc=5",
+      "first_seen": "2026-07-31T07:00:51Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -1728,7 +1758,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T13:16:21Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2ZyV3RqTzdMNTUtTFFJbUdPVTFaYlNvU3E2QlFGeWV2ZE5LSjhHSzZKVEpRN0Zub0ROd3Rmd2RSbFFUdGdQVzlYa050NlFxMlhIYXB1RTR5NFBLeVVscHBObWVXdUdSVW85V0VZTXc5QU9JZlV4V1JSTzlGUG5URk41Y2Vuc3k4VEUwNmx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDJtYUgzMnBNamFtTU4yQS1ZcUxUZkZBbjByN1lBT0p5VzJNLTlNeWhRM2R2eDNuWUZObUdvVVI1Z1BKZnFfNWFHYTZRUmJZM0xNWTZralVaZmFFWXlMdW4zbkFGbkdBNEttdTlDc0xRNEZmd1JTdjkyalZZbk1tYzRsTDVLYVp0bHh6V2NBZzRGeEoyenJKZHlB?oc=5",
       "first_seen": "2026-07-31T00:00:53Z",
       "focus": [
         "避難状況",
@@ -1763,7 +1793,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T13:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXJkczIxWm9PLTBfN0k2bWtqVVo4UGJPZkF2eGRHTnZnNkdmZC1OX3hoM29qTFN3Vlo2WVRMeHV6azQzQ2JEMVljYkpnWVYyRzBTdzlfcDM2c2xTOGNFUTZZM3lTUzFsNzU0LTNjVTBHSjVoWlVRUExZcU91UENxRVdSQ2Z1OGZHTnV2R2pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNalpSaWpBUDhZNU5JQXpvdUJhZWFPSmxwRzM1S3libE5jTmFOV0ZxUEw0NnJBQTRsNURMSjFjdEZpNVNJUW42RWpnb1czSkVfci1kVGZPZUx6aUJXZVhHTC14YUJyT2VNMnR5YWxsaGwyT3pVWU1VSFo5Qm5jN3FZSnNRcjFSRHhRWHJGcFV3?oc=5",
       "first_seen": "2026-08-01T22:30:14Z",
       "focus": [
         "避難状況",
@@ -2176,7 +2206,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T10:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkIyWE9NNFY3OGRaQ0hKRm9HVEU5OVlwVzZoNm93Wkw4d241Z05CbXVGWmJiUFNTZllGRU56aFBHMERVSU1DVE9Na0d5Yl9mODF3cWJtUnhNMUt6SWpDWTYwZ0U4WGRxU3NUYUdIbFVXMU5nek9LcFdsWWZlcTJLd0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTlNZODdBTGt4UnVDUlkyeDM4X3V0TVRTaU9HWWlXTlp4UVJTOWhCQVM3YlZEVndkMDlsRjZXcFk5MkhUOFBxMFA5M0h2U0ZOUDJvVzlzMi0xcG9qbG1Ca20wOA?oc=5",
       "first_seen": "2026-07-30T11:30:10Z",
       "focus": [
         "救助・安否",
@@ -2658,22 +2688,6 @@
       ]
     },
     {
-      "id": "d36c2520389c38c19778",
-      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T06:56:24Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mMW1mUDdvWDRIdEYtM0hHSzVqSTVvaEV1VDJtUmkxYlVENERtSHFGaENHdzhLSkk4MU5va1hOQWF0S3FkeEpYU0dGTnVKMWxYMmZFRFRacjFJRVMwdlRFLXV3UWtJRFJfM2t4Z3FMZ0VxX09GaE5J?oc=5",
-      "first_seen": "2026-07-31T07:00:51Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e08e8fda853f86323e8c",
       "title": "イオン九州、CM全て「公共広告」に差し替え 熊本での惨事受け「適切ではないと判断」",
       "source": "産経新聞",
@@ -3053,7 +3067,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -5972,7 +5986,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FVW41d2dsN0o1OVRtM3VNT1pyQ0g0LXRaNFh6NFBfQjFFTGMzQ01EbWdiYk5BeVhBUF9IanpoWnF3YWkycXpmak13bTgtMm5hdkNmSlhBY0N3UGFmcDR0TVBDbUVTR2dnLUZnQUNWaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -7116,20 +7130,6 @@
       ]
     },
     {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T02:46:03Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "672ab43c11b148ad3cf7",
       "title": "イオンモール捜索時にガス臭と官房長官 (共同通信)",
       "source": "熊本日日新聞",
@@ -7289,6 +7289,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の動き】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T02:22:27Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
