@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T20:31:15Z",
-  "updated_at_jst": "2026/08/03 05:31 JST",
+  "updated_at": "2026-08-02T21:01:05Z",
+  "updated_at_jst": "2026/08/03 06:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 698,
+  "article_count": 699,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "mainichi": 89,
+    "mainichi": 90,
     "yomiuri": 90,
     "kumanichi": 104,
     "nikkei": 43,
@@ -76,11 +76,29 @@
     }
   ],
   "category_counts": {
-    "aeon": 540,
+    "aeon": 541,
     "power": 103,
     "paper": 69
   },
   "items": [
+    {
+      "id": "0e46521f243004ece8a1",
+      "title": "なぜ7人は店内に? イオンモール熊本爆発 数々の証言から検証",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T20:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FdkpHQkdqTnY5d1loZEVRLWVfdGNMTkpRZjl6dE1zbEU2dURHUHUtYlVsV2lreG0xQ2Q3RktvUl9fUk9tWllKb0s4ME9GazNpWlg4UkVTR0hfZ3l6SE5veE9MdDd6UVJu?oc=5",
+      "first_seen": "2026-08-02T21:01:05Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "9dc9c44832264b7cb24c",
       "title": "熊本地震 イオン爆発、犠牲なぜ(その1)",
@@ -1649,6 +1667,23 @@
       ]
     },
     {
+      "id": "fa1a47708c1ffb44f4e2",
+      "title": "損壊した日本製紙八代工場 地震で煙突...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:50:13Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xNFpsUVgwN3NVaGdKUG1KMC1KWHhURkNVa1BNbTdFenpTZGxjcGpON3Q4Vm13Vm03cl9PNUpfQmhpZXBUcHNVYW8zWDA5VjIwRDdvVmRtenRrNG5qaHFYeDhEcGV5Z0NSWG11VDRWcw?oc=5",
+      "first_seen": "2026-07-31T02:00:57Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "58f7a86c97953dd8861c",
       "title": "日本製紙八代工場での救助活動 地震で...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -2154,7 +2189,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T13:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXJkczIxWm9PLTBfN0k2bWtqVVo4UGJPZkF2eGRHTnZnNkdmZC1OX3hoM29qTFN3Vlo2WVRMeHV6azQzQ2JEMVljYkpnWVYyRzBTdzlfcDM2c2xTOGNFUTZZM3lTUzFsNzU0LTNjVTBHSjVoWlVRUExZcU91UENxRVdSQ2Z1OGZHTnV2R2pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNalpSaWpBUDhZNU5JQXpvdUJhZWFPSmxwRzM1S3libE5jTmFOV0ZxUEw0NnJBQTRsNURMSjFjdEZpNVNJUW42RWpnb1czSkVfci1kVGZPZUx6aUJXZVhHTC14YUJyT2VNMnR5YWxsaGwyT3pVWU1VSFo5Qm5jN3FZSnNRcjFSRHhRWHJGcFV3?oc=5",
       "first_seen": "2026-08-01T22:30:14Z",
       "focus": [
         "避難状況",
@@ -2585,7 +2620,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T10:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTlNZODdBTGt4UnVDUlkyeDM4X3V0TVRTaU9HWWlXTlp4UVJTOWhCQVM3YlZEVndkMDlsRjZXcFk5MkhUOFBxMFA5M0h2U0ZOUDJvVzlzMi0xcG9qbG1Ca20wOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTFRWVzJDa0t6bWc1ZUwtQnBzN0xxbk1LRUppaUthZGE2UXBfOFVoX2dtZEtodGNLRExrRXl0aHNNZF9lODVaM253cF9OZ25BNDcyTWFrMWNzQUlXdmZyclJ6am0wTHVGU2RHQUhraEs4ZjJlbUQyUVBVb05mQlo4RTNB?oc=5",
       "first_seen": "2026-07-30T11:30:10Z",
       "focus": [
         "救助・安否",
@@ -6134,23 +6169,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ySE5GTlB6OEhkQ1hsN1JSYjRoWlVtWUFCU0JJR3hvT2hPc0luRUNodUh1aHFiWnU0ZUpsMENFdXk4a3BpS2Zzd3QzNkczMTh4ZVo2dExtdThaVHhIZElRVEFvZlE5czlOdW84MERaRQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "fa1a47708c1ffb44f4e2",
-      "title": "損壊した日本製紙八代工場 地震で煙突...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VdGlYTFJfZ2Y3Wi1md1pTY2hxUllZU28wNURkQlBqU19jcFBVek9nRTMxX2ZmOHNLYjloLVFUcTY5emM4ckt4N250MHVzdDlWM2d1d3RLSG1tM181MElsMGhUazhVeGxSZndZR25zQQ?oc=5",
-      "first_seen": "2026-07-31T02:00:57Z",
-      "focus": [
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
