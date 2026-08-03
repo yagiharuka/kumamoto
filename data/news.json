@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T10:31:11Z",
-  "updated_at_jst": "2026/08/03 19:31 JST",
+  "updated_at": "2026-08-03T11:01:13Z",
+  "updated_at_jst": "2026/08/03 20:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 729,
@@ -216,8 +216,8 @@
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-08-03T09:10:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GcDFXajZSSF9sZ25DSHdDUkhHVV84WjBjbUtJNUprVkhVVXl6Q3ZIa1RxZXV4MG9DRnJhMnAycXlaaUZ6czZGZTVvQk52T1A1LU5SUzF0akV0amV3Sk5rM3l2WQ?oc=5",
+      "published_at": "2026-08-03T09:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -284,6 +284,22 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwODVPR2dSdGlmUU1uRGRVbGlnc015LUlZOXB0T0ZhZmQ5S3FyZzM2OEFsa1djT2tGQVdHaGRoR3l2T3RybDJOQXItSEtHelBIZklyU3hxT3VCcWY1MkNlekJQWHpheDc0S09ySVhEdHY1dDlLc0E?oc=5",
       "first_seen": "2026-08-03T06:31:15Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "22b54f073ad1dfaeaaf1",
+      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T03:28:29Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
+      "first_seen": "2026-08-02T23:01:06Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -408,22 +424,6 @@
       "published_at": "2026-08-02T21:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnlyc1dvZTI3N2tIVmo3eWt1N0ZEOEN4cHQxSVJJQjFTX3VUZUFwblN2dFN5S0dhZDBCdUVvNXNsb2dkWS0zU2V6WU41V3Z4SU9zM1pINDNpMVNjYTJ1d0JZT2dwNFE2cDhKU1ZiTnF1M0pDbFdhSzlnNE13cWlxUEdJaHk4dXJEcFFZaEdRdXVoSGdPSENvTXFB?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "22b54f073ad1dfaeaaf1",
-      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-02T21:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFBHUGxqd0djWmpkY2lIaG5VYmtYUnBKWXZ3RXJWU3FPU04tN1gwVDVwSW9UdldoN3Biem9UdHN6emN2eGRYWXJDQ3hJVXNvNGtCeGJ1SmM2a1A0dlhXODVyV2lqVWg3VVJVUnI5RVA5a2xtaS1yVUotdWpBc2dJSWM0dXFxaXZaNkpRV2pn?oc=5",
-      "first_seen": "2026-08-02T23:01:06Z",
       "focus": [
         "現場状況"
       ],
@@ -6366,7 +6366,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:39:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTQ1NWxfeERhdDlGSlJmODZ6Wm9pVERXbUdLTGp1VUlxdXNmYVRKYXFHMjZYbWhLNld5X1JiSG52dDVYbGhPRlpfN3JEWFByc19jZkhkc1ptYW1aaE9KNjlOelhITDJlNXc1WGRIRWxnRWNnZWhFU0h4WDJkR3NzNWFSVWRrblpna2V2NUhB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -9880,7 +9880,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T14:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
