@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-02T23:31:12Z",
-  "updated_at_jst": "2026/08/03 08:31 JST",
+  "updated_at": "2026-08-03T00:01:08Z",
+  "updated_at_jst": "2026/08/03 09:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 702,
+  "article_count": 704,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,10 +51,10 @@
   "source_counts": {
     "asahi": 80,
     "mainichi": 91,
-    "yomiuri": 90,
+    "yomiuri": 91,
     "kumanichi": 104,
     "nikkei": 43,
-    "sankei": 120,
+    "sankei": 121,
     "nhk": 55,
     "jiji": 119
   },
@@ -76,9 +76,9 @@
     }
   ],
   "category_counts": {
-    "aeon": 544,
+    "aeon": 545,
     "power": 103,
-    "paper": 69
+    "paper": 70
   },
   "items": [
     {
@@ -256,6 +256,22 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkQ0h1Sk1BQVZXSFRkcVJiQkt3cm92Z2p5X3kxVE0wR0JfUTVIbFM4ZGRwTzc2Yk43ODlmNnRKUHRiWVlhczRZQTFLbS1CTFNOUUExbi1LVXZ4bDg3eUdRWkhRVWhfeWhwU0lXOGlPQS1oM0ZKTWc?oc=5",
       "first_seen": "2026-08-02T13:30:22Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4ee0143c6e8c72442806",
+      "title": "爆発前、売上金移すため館内に戻るよう指示 イオン熊本のテナント会社幹部、遺族に謝罪",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T12:20:36Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iMDdzakNkaFZ2NjZPdlN1UmNkcEYzWk1RVXFQMUprSXU0eVlsZXlpSnUzOVVSeTNnT3J0Q1hic2NiSlU1OTVaVXZFV2p6VU9aNnY4c0ZUZ0k2NkdVN2MzVW43VnRraC13RkpiYVJUc2tTQjFES3c?oc=5",
+      "first_seen": "2026-08-03T00:01:08Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -1100,6 +1116,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "d233b7313235bae68900",
+      "title": "熊本地震で甚大な被害の日本製紙八代工場、大きな横揺れで体が浮く...工場勤務者「まさか煙突も折れるなんて」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T04:47:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54bTBiWEVhbGRCS0Q4ZGdZa2pJSENHX1RZR0YxSHVwRDNiUHJCUkVfVVlUcmRfeUYtRjkzUTVaNGc4M2MwbXR5U09GTDc3X3pmSE1hMzdPOUVmcWxDZnNTS3R0QXRpSldpS0E?oc=5",
+      "first_seen": "2026-08-03T00:01:08Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
