@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T12:01:13Z",
-  "updated_at_jst": "2026/08/03 21:01 JST",
+  "updated_at": "2026-08-03T12:31:11Z",
+  "updated_at_jst": "2026/08/03 21:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 730,
+  "article_count": 731,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "asahi": 87,
+    "asahi": 88,
     "kumanichi": 107,
     "sankei": 125,
     "nikkei": 45,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 570,
+    "aeon": 571,
     "power": 103,
     "paper": 71
   },
@@ -87,7 +87,7 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-03T10:59:58Z",
+      "published_at": "2026-08-03T12:03:05Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ydl9peHlTWXIzaVF5VDd2bkVSZVJCSm11TUFLZGItWVBncjI3SVJ0VjlaaU5CelJlSHM4VS1IeExQenJ6cGczVWNNMjJONjZRbzZVeXhNUnAwMDMybUpSaXlBRmN6VWM?oc=5",
       "first_seen": "2026-08-03T03:31:06Z",
       "focus": [
@@ -249,7 +249,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T09:13:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUJoc1NSZHptd2lYUFNyYmpPTkJoMXM5eHpCWkpka1k5VXJSbWRBVmF3SC0wN2pMeER5NWtxd1RvZVhuZlJEcUxkT19wb3NYM2tCM0pnakctRXBGSVJiVm12U1B4RDc4bGJKbHVPRy1HdlQ2QWhmS1RhZW9MMXM1RDNB?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -7839,7 +7839,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T03:13:39Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cb1VFRlBzS2FoLWFpNHFObnVhU3h2Q1YzTG5VSlVxbHNaOG9Nd2dEMWx6R05KWHRsNHdxaWpVM3JDZ0hLMjVqLTM2dHVKdHBhTW1MRzQ3NUg2WmpYQ3VrZTJ2WnBUckdiOC1pbzdjRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUZRbkJlc1dTSmlWMDd6UTFuNzdqOHVFU3lrTUxxdXB0ZnoybkZpTGJWM0dZNVg2WDFUR0xXZ0JKdlhNOVRaTGxBWC0wUld0REFPeFlVZ0FOZU1qYlp3QS03TndpYkdRU1BXRWpEUFNHbXNLUUl0LVZkTk51MGVXOGxRYzVGc1JXUHlWbS0tZmd4a2pqMHh3ZlBNOUlab2o1UzBWaQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -8594,6 +8594,20 @@
       "published_at": "2026-07-28T23:52:00Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3FBY2U4ZnRCSWVhTk9pUUxFWXZYWTF0TlZpTGFUdEhrRFZYSFl6SjdycXo4MW5CbS1pY2lpSm9CMExCeFBqVWJhYlhuME5qTDQ1X19vSEpvUFV5WTBzY3VTOFN6bUlqOTlvRnRIUXh2UXNtTXhPMXZPQ3JVYnZjMGxXYlBJdWRsdFlQb0tR?oc=5",
       "first_seen": "2026-08-02T04:30:17Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RlZENjZ2VDRtLXcwVjdhM2txSWNRZFNKeFBoU3JURjE3UXFuRUF6cy1GMXJuLWFIMVVWaEEwUU81SFRES3RyU3dVWVdyRFU4cUVGRmppZUdTWExwRnVPN3A2RlFvSVk?oc=5",
+      "first_seen": "2026-08-03T12:31:11Z",
       "focus": [],
       "category_ids": [
         "aeon"
