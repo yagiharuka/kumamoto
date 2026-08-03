@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T00:31:04Z",
-  "updated_at_jst": "2026/08/03 09:31 JST",
+  "updated_at": "2026-08-03T01:01:05Z",
+  "updated_at_jst": "2026/08/03 10:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 705,
@@ -83,11 +83,11 @@
   "items": [
     {
       "id": "480337365fceaa5ace94",
-      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 遺族は会社に憤り [熊本県] [2026年熊本地震]",
+      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-02T21:00:00Z",
+      "published_at": "2026-08-03T00:48:51Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oR1YxQktYWlFZM2pZTjIxQzVpWl93bmZKekdfZDdKU2FhZzZyUnJDcm9sY0diMHNyTE5TR0VaR012X0JZNFVVOThHSmk3SHkxNVRVWUNLdzVQd0xraWczdUtZQnYtTFk?oc=5",
       "first_seen": "2026-08-02T22:01:09Z",
       "focus": [
@@ -1533,7 +1533,7 @@
     },
     {
       "id": "a75383b9826343e2640c",
-      "title": "日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
