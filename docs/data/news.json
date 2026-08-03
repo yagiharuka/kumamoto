@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T13:01:23Z",
-  "updated_at_jst": "2026/08/03 22:01 JST",
+  "updated_at": "2026-08-03T13:31:10Z",
+  "updated_at_jst": "2026/08/03 22:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 733,
+  "article_count": 735,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 109,
     "asahi": 88,
-    "kumanichi": 108,
+    "nhk": 58,
     "sankei": 126,
     "nikkei": 45,
     "jiji": 120,
-    "nhk": 57,
     "yomiuri": 96,
     "mainichi": 93
   },
@@ -76,11 +76,44 @@
     }
   ],
   "category_counts": {
-    "aeon": 573,
+    "aeon": 575,
     "power": 103,
     "paper": 71
   },
   "items": [
+    {
+      "id": "be10cb4f420b8bfd1e2b",
+      "title": "【電子版限定】<2026年熊本地震>「『帰りなさい』と伝えていれば」 イオンモール熊本爆発事故 「ハビタ」役員との一問一答",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-03T13:01:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55aTI4d0gxU0c4YXJpUzQ0cktfMEI1cEtDWHB3ZW5PZmVMMlMwdV9vWFFwTEE1TktVNGdPWXlGSl9zck9aYVhsQUFhY2hldGc?oc=5",
+      "first_seen": "2026-08-03T13:31:10Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9a10fc7ec062e6384c81",
+      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T12:55:20Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
+      "first_seen": "2026-08-03T10:31:11Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "480337365fceaa5ace94",
       "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県] [2026年熊本地震]",
@@ -131,6 +164,22 @@
       ]
     },
     {
+      "id": "1e6e1d820546067d898e",
+      "title": "「イオンモール熊本」爆発事故 経産省が警察などと現場で調査",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-03T10:27:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90UGRhc0ZteG1OdzR6c3RCRjFsRHFja0xyR0hkV0NSa1BrRXE2X0FKdWtHWkwybnE0M0R5TExYRTdrSHFVV3pLNkE1bEViTktxelJka3NaWFQ?oc=5",
+      "first_seen": "2026-08-03T13:31:10Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2fa6da620161360cca0f",
       "title": "令和8年熊本地震 がれきが散乱したままのイオンモール熊本=8月3日午後5時1分、熊本県嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -156,23 +205,6 @@
       "focus": [
         "原因・検証",
         "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "9a10fc7ec062e6384c81",
-      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
-      "first_seen": "2026-08-03T10:31:11Z",
-      "focus": [
-        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -374,7 +406,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T03:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGlORFVPY3I0NXhISXN6SW9kbWYtcHlEQ21waE52RjlRWlUyQU9odXBJaVRiXzBqR1dGQkJ4QnJXRU11Rmo0VWFYeVJybTA1OHRPNmxGcDdfOC1oNnU0UU5JQjBwdnJIazBQbXJvU2daVTdYbGtUTURJT09yWFFSdUQ4Z0liREZwSUxQSHNZMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ydl9peHlTWXIzaVF5VDd2bkVSZVJCSm11TUFLZGItWVBncjI3SVJ0VjlaaU5CelJlSHM4VS1IeExQenJ6cGczVWNNMjJONjZRbzZVeXhNUnAwMDMybUpSaXlBRmN6VWM?oc=5",
       "first_seen": "2026-08-03T03:31:06Z",
       "focus": [
         "現場状況"
@@ -3603,22 +3635,6 @@
       ]
     },
     {
-      "id": "0fc86118e07c407a40ac",
-      "title": "爆発が起き、捜索が続く「イオンモール熊本」に集まる消防隊員=30日午前7時15分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:29:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJNdVYwa0IyQ0dBVks3ZGR6VzFtdjdYQ24tcW5xZnBmeVhuTEZndGNSekVDcS1DVHhLUGtwSklqZDFUaV9RU2V1RG1QQ29Ka1dDWHBzVU5teWFWeHNOSDl1RkRBSzMzNGVqZkx4QnVIVW8wdE1zb3IyX1p2eGRMMWVja1h4SkZxOS1VQzhLSm5vMzhScjZMWkRIbHJoak5xR0E?oc=5",
-      "first_seen": "2026-07-30T07:30:11Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "39dd73425e187c65a770",
       "title": "<速報>熊本地震の死者数は関連調査中を含め計34人に イオンモール熊本は7人",
       "source": "産経新聞",
@@ -3859,6 +3875,22 @@
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "0fc86118e07c407a40ac",
+      "title": "爆発が起き、捜索が続く「イオンモール熊本」に集まる消防隊員=30日午前7時15分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T04:16:19Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi03MXpxTDl4WVRLNk11UGNibno3ZXhQTzVvMEgzOTZWME13VjJzQTFkS0JZeHprY19iSXNzbk1iSUlUYjJBVWhQNkFZcHJrMjNFV09KYjN1V3BPQjJYSmJFZEg2WGt4VVJ5MjhkekdNa2NJQjlyNDlzSlJjaHBsY0dqb0lqQUJRUkJXZmZFWmViQ1hLamVzRlo4TDdoY2E4ZVE?oc=5",
+      "first_seen": "2026-07-30T07:30:11Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
