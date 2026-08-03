@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T11:31:06Z",
-  "updated_at_jst": "2026/08/03 20:31 JST",
+  "updated_at": "2026-08-03T12:01:13Z",
+  "updated_at_jst": "2026/08/03 21:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 730,
@@ -249,7 +249,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T09:13:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -957,6 +957,22 @@
       "published_at": "2026-08-01T02:47:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBdVBPN0Uwb09LVDdkVkhseFIwY3l6Q3N0Q0ZHV1FEZmc3UUZyMDBBM1dKNGw2Q05WNWZPR0xYZVV6a0NTVEtiWGZnUWhJOExUeGZyMGYybjVCWGEzdUxVcG03LTZ3RWFDR2xzVjRHTWQ1Zw?oc=5",
       "first_seen": "2026-08-01T03:30:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a0c2bb021bdfdd59ef26",
+      "title": "イオンモール爆発を写真で読み解く 熊本地震、衝撃の現場",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T00:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
       ],
@@ -2443,22 +2459,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QUpmY1k5NEFnOW1Ma0pfajJVT21DU2ZsTkphbnNXY2RxTDNQbFhibzBESXhzb2hSV0oyUDcyS1Jid1ByUjlGVUNGS1BoeGU2LUlXdlZCZEZfNnZYQXhBWWlfZmRJMUU?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a0c2bb021bdfdd59ef26",
-      "title": "イオンモール爆発を写真で読み解く 熊本地震、衝撃の現場",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNjh3RDZpRDJxSllZeVFSUXJhOFJYQU1UbjVRZExrN0pfUzMzUWZQTUpGc0Rnc2E0Q0VtV3EySWxrSHRGa0tnSGlzQmoxT2hiSkZDTmpnTkJHTWEyOXZYUDVtOE1WYlpKRHdZXw?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "現場状況"
@@ -7839,7 +7839,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T03:13:39Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUZRbkJlc1dTSmlWMDd6UTFuNzdqOHVFU3lrTUxxdXB0ZnoybkZpTGJWM0dZNVg2WDFUR0xXZ0JKdlhNOVRaTGxBWC0wUld0REFPeFlVZ0FOZU1qYlp3QS03TndpYkdRU1BXRWpEUFNHbXNLUUl0LVZkTk51MGVXOGxRYzVGc1JXUHlWbS0tZmd4a2pqMHh3ZlBNOUlab2o1UzBWaQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cb1VFRlBzS2FoLWFpNHFObnVhU3h2Q1YzTG5VSlVxbHNaOG9Nd2dEMWx6R05KWHRsNHdxaWpVM3JDZ0hLMjVqLTM2dHVKdHBhTW1MRzQ3NUg2WmpYQ3VrZTJ2WnBUckdiOC1pbzdjRQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
