@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T06:31:15Z",
-  "updated_at_jst": "2026/08/03 15:31 JST",
+  "updated_at": "2026-08-03T07:01:14Z",
+  "updated_at_jst": "2026/08/03 16:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 717,
@@ -50,8 +50,8 @@
   ],
   "source_counts": {
     "sankei": 122,
-    "asahi": 85,
     "nhk": 57,
+    "asahi": 85,
     "yomiuri": 94,
     "mainichi": 93,
     "kumanichi": 104,
@@ -96,38 +96,6 @@
       ]
     },
     {
-      "id": "1d692c3d4f4858dffd59",
-      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T06:06:37Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ydl9peHlTWXIzaVF5VDd2bkVSZVJCSm11TUFLZGItWVBncjI3SVJ0VjlaaU5CelJlSHM4VS1IeExQenJ6cGczVWNNMjJONjZRbzZVeXhNUnAwMDMybUpSaXlBRmN6VWM?oc=5",
-      "first_seen": "2026-08-03T03:31:06Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "22b54f073ad1dfaeaaf1",
-      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T03:28:29Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
-      "first_seen": "2026-08-03T02:31:06Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "eff1c842c0db82ee795d",
       "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
       "source": "NHK",
@@ -136,6 +104,22 @@
       "published_at": "2026-08-03T03:27:15Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDVS1CTnVPbk85Z0pkYVgzR3hNVndTOFoyakFTZjVjcFVNOVRmYmYyVVdRNDJWdjdpY25Cc211cFFuT01hMUdaNjMtVVo1NFFqUmw1bmlrRGVQTFl5ejU4?oc=5",
       "first_seen": "2026-08-03T06:31:15Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1d692c3d4f4858dffd59",
+      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T03:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ydl9peHlTWXIzaVF5VDd2bkVSZVJCSm11TUFLZGItWVBncjI3SVJ0VjlaaU5CelJlSHM4VS1IeExQenJ6cGczVWNNMjJONjZRbzZVeXhNUnAwMDMybUpSaXlBRmN6VWM?oc=5",
+      "first_seen": "2026-08-03T03:31:06Z",
       "focus": [
         "現場状況"
       ],
@@ -247,6 +231,22 @@
       "published_at": "2026-08-02T21:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oR1YxQktYWlFZM2pZTjIxQzVpWl93bmZKekdfZDdKU2FhZzZyUnJDcm9sY0diMHNyTE5TR0VaR012X0JZNFVVOThHSmk3SHkxNVRVWUNLdzVQd0xraWczdUtZQnYtTFk?oc=5",
       "first_seen": "2026-08-02T22:01:09Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "22b54f073ad1dfaeaaf1",
+      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T21:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
+      "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
         "現場状況"
       ],
@@ -985,7 +985,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-31T10:10:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UW9WQnY5WFU3MEFjaDRldEJIZUsxMVdSOEttUXFpMFRuSk1naXJHUGVOekxFdzdhWVBfcThIZTUyVC1fSVdid29hd1NTTU9JcGZNaTBZRy00eG1tb1dBOWNGNWNRY3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1RYQlF0YUdHU0J1czZuYW9qTGJnZ0E0S0JDZXlPbXNJejdONFlodlVpYXJFb2JJcDg4S0U3enMzc0R0R1lBcGwyYmdkTUdMd3NPOFBmdXUzd3NBM3NBMGlwQlk0bVlKcEdKYjU0ZmhyYWU1THdCQ2JyekNqNkxsbmxDTm1pYU92cU94UW9kQmU?oc=5",
       "first_seen": "2026-07-31T10:30:54Z",
       "focus": [
         "原因・検証",
@@ -10612,6 +10612,23 @@
       ]
     },
     {
+      "id": "89a5b615afb00bd01961",
+      "title": "イオンモールで爆発=日本製紙、工場の煙突倒壊―トヨタ・ホンダ、工場停止―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T11:22:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wazRjbUZ3ZHB5STZKRFMyZnVOa0liem0wcWt4MUZmT3J5dkhOYi04WTJEX3NtdHNYY1QtckJlOXdkT2Z0bkpMQ2d3VC1PaXlrUnlVRg?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "4290739009427bce0339",
       "title": "「イオンモール熊本」で爆発 閉じ込め多数か 救助活動は難航",
       "source": "NHK",
@@ -10622,23 +10639,6 @@
       "first_seen": "2026-07-28T14:56:22Z",
       "focus": [
         "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "89a5b615afb00bd01961",
-      "title": "日本製紙、工場の煙突倒壊=イオン、モールの被害確認急ぐ―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T11:18:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wazRjbUZ3ZHB5STZKRFMyZnVOa0liem0wcWt4MUZmT3J5dkhOYi04WTJEX3NtdHNYY1QtckJlOXdkT2Z0bkpMQ2d3VC1PaXlrUnlVRg?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
