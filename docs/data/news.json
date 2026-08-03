@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T02:31:06Z",
-  "updated_at_jst": "2026/08/03 11:31 JST",
+  "updated_at": "2026-08-03T03:01:14Z",
+  "updated_at_jst": "2026/08/03 12:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 709,
@@ -532,7 +532,7 @@
     },
     {
       "id": "611e542b413a3340b87c",
-      "title": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -844,7 +844,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-31T10:10:48Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1RYQlF0YUdHU0J1czZuYW9qTGJnZ0E0S0JDZXlPbXNJejdONFlodlVpYXJFb2JJcDg4S0U3enMzc0R0R1lBcGwyYmdkTUdMd3NPOFBmdXUzd3NBM3NBMGlwQlk0bVlKcEdKYjU0ZmhyYWU1THdCQ2JyekNqNkxsbmxDTm1pYU92cU94UW9kQmU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UW9WQnY5WFU3MEFjaDRldEJIZUsxMVdSOEttUXFpMFRuSk1naXJHUGVOekxFdzdhWVBfcThIZTUyVC1fSVdid29hd1NTTU9JcGZNaTBZRy00eG1tb1dBOWNGNWNRY3c?oc=5",
       "first_seen": "2026-07-31T10:30:54Z",
       "focus": [
         "原因・検証",
@@ -5905,7 +5905,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
