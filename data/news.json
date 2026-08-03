@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T06:01:18Z",
-  "updated_at_jst": "2026/08/03 15:01 JST",
+  "updated_at": "2026-08-03T06:31:15Z",
+  "updated_at_jst": "2026/08/03 15:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 715,
+  "article_count": 717,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "sankei": 122,
     "asahi": 85,
-    "nhk": 56,
+    "nhk": 57,
     "yomiuri": 94,
     "mainichi": 93,
     "kumanichi": 104,
     "nikkei": 43,
-    "sankei": 121,
     "jiji": 119
   },
   "tracked_categories": [
@@ -76,11 +76,41 @@
     }
   ],
   "category_counts": {
-    "aeon": 555,
+    "aeon": 557,
     "power": 103,
     "paper": 71
   },
   "items": [
+    {
+      "id": "179eaac5330c48033e4d",
+      "title": "イオンモール熊本で2人死亡「ハビタ」が公式HPに謝罪文 館内戻る指示など詳細に触れず",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T06:11:50Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwODVPR2dSdGlmUU1uRGRVbGlnc015LUlZOXB0T0ZhZmQ5S3FyZzM2OEFsa1djT2tGQVdHaGRoR3l2T3RybDJOQXItSEtHelBIZklyU3hxT3VCcWY1MkNlekJQWHpheDc0S09ySVhEdHY1dDlLc0E?oc=5",
+      "first_seen": "2026-08-03T06:31:15Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1d692c3d4f4858dffd59",
+      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T06:06:37Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ydl9peHlTWXIzaVF5VDd2bkVSZVJCSm11TUFLZGItWVBncjI3SVJ0VjlaaU5CelJlSHM4VS1IeExQenJ6cGczVWNNMjJONjZRbzZVeXhNUnAwMDMybUpSaXlBRmN6VWM?oc=5",
+      "first_seen": "2026-08-03T03:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "22b54f073ad1dfaeaaf1",
       "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
@@ -98,14 +128,14 @@
       ]
     },
     {
-      "id": "1d692c3d4f4858dffd59",
-      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T03:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ydl9peHlTWXIzaVF5VDd2bkVSZVJCSm11TUFLZGItWVBncjI3SVJ0VjlaaU5CelJlSHM4VS1IeExQenJ6cGczVWNNMjJONjZRbzZVeXhNUnAwMDMybUpSaXlBRmN6VWM?oc=5",
-      "first_seen": "2026-08-03T03:31:06Z",
+      "id": "eff1c842c0db82ee795d",
+      "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-03T03:27:15Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDVS1CTnVPbk85Z0pkYVgzR3hNVndTOFoyakFTZjVjcFVNOVRmYmYyVVdRNDJWdjdpY25Cc211cFFuT01hMUdaNjMtVVo1NFFqUmw1bmlrRGVQTFl5ejU4?oc=5",
+      "first_seen": "2026-08-03T06:31:15Z",
       "focus": [
         "現場状況"
       ],
@@ -427,7 +457,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1c2bVRrOVE3aGlxem1waUp6SjFUOVI0bnZubnJoNWdXWkMwUHFoS3dHUElhREtWaTFuS09IVEpWZFNSajRlazhpZTBzYjFpdGRmQ0lOWEV3Y29HNDd1S1RXdWR2bDZIU183bW1jMkxJblFybmVhWEtNS3NBSmRTWW85YzQzbXNFMTJKRXBKdTdfT3Y2ZXB0Zm1jOGFFa01ZMG50UA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFhfbDNseHZ2bjhRM1pKaVFsd05FMzc4czA4aFREOHJMOENRRWhXOWdhQXhQd1Q1SWJOZGdGVmJsNWZfNjU3c3pVMl9WY1lZNm52Sk1LOUFDM1VKMVI5UlQtc1lkWjN3OXFCUWFYdUR6NVgyR1d6cURkcTN6eFpDNGgyTVhxRXh1OG41Z1Nn?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -1449,6 +1479,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e72cb72831e461fa90e5",
+      "title": "イオンモール熊本のドローン映像 地震...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T04:11:18Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yUTRZYWMzV3lPVkxadS1NWF9QNTR0aDJldmhROUVtYlBoOHpYV2NiQVQwOVV4aEpzZmJTb1pfTTdOQzZ4d0YtakE1WXAtak9CS3o3bDNKR0x1Q0t5WmEtTXVPMjNyQ0dxMVFDbVk2aw?oc=5",
+      "first_seen": "2026-07-30T23:31:01Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -3762,7 +3806,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbVNoQ1VGeHBmRW0yeG44RjRCZURHUzBfWmFWc3hBMVR5Z2hxOUdCbnowbldaUzNZYXU1OEg0NndzTHY0SmpFZVdBQ1Y4TVZ1Q08wdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -6016,7 +6060,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -6599,20 +6643,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "e72cb72831e461fa90e5",
-      "title": "イオンモール熊本のドローン映像 地震...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51WnVTOTlWN3RmMHFDUUZqeVc4TGNPU3BZSzRxUlZ6VVNBVTcxcDRHdXh6US16cHY4S2QzUkJ1cUFiTW4zRTJOVzRPZHIwQjVNdUhSWllyeXgyaWk3VzJQUmQ4R2RKZVdpWUpSRmhLRQ?oc=5",
-      "first_seen": "2026-07-30T23:31:01Z",
       "focus": [],
       "category_ids": [
         "aeon"
