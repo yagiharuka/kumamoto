@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T05:31:05Z",
-  "updated_at_jst": "2026/08/03 14:31 JST",
+  "updated_at": "2026-08-03T06:01:18Z",
+  "updated_at_jst": "2026/08/03 15:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 712,
+  "article_count": 715,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
-    "asahi": 83,
+    "asahi": 85,
+    "nhk": 56,
     "yomiuri": 94,
     "mainichi": 93,
     "kumanichi": 104,
     "nikkei": 43,
     "sankei": 121,
-    "nhk": 55,
     "jiji": 119
   },
   "tracked_categories": [
@@ -76,9 +76,9 @@
     }
   ],
   "category_counts": {
-    "aeon": 553,
+    "aeon": 555,
     "power": 103,
-    "paper": 70
+    "paper": 71
   },
   "items": [
     {
@@ -111,6 +111,39 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "96ed96cc4470402b2992",
+      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T03:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BOFRHMXVEMmJpVGFYM3ROZWNHYUFyNWtrR0xZTUt2NXlDdkR5djZEbl9ta3pvSnNPT29zM2tJcmZzMmN5cDlFQVg2WW92MHBDR1pDNzJ6THNTZ3Vua1dJRkdLTjVpVGRVakRNblFR?oc=5",
+      "first_seen": "2026-08-03T06:01:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a5e895450ce60846ead7",
+      "title": "煙突倒壊の日本製紙八代工場 社員が証言「恐怖を感じた」",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-03T02:26:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kWmJSMXRla18tZWlKbHVtcVNBc3pTQmM0cWo2VEFDcU93RjJjaFdpLTZMMlA5WTViWGxpbTk3THRkdjRfXy1UYmtaWDloQzBxa0tsYjJ4d3I?oc=5",
+      "first_seen": "2026-08-03T06:01:18Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -737,6 +770,22 @@
       ]
     },
     {
+      "id": "99e76ca8007e1a104ef1",
+      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T13:56:20Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzdEJUamNrVjlaQTJ0enp4cnhlNzFHU1AybFpvS2JXR25ZUjBKbU1tSXEwVDVlVVdnc19YeUZfSWRvbHhtOUdmck9vQ0kyUmdudDU4eTU3MUlCZHgwSU9FTkwwWVBhVXo3SHFXS1Z3?oc=5",
+      "first_seen": "2026-08-03T06:01:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8682ef002108c04388c1",
       "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
       "source": "時事通信",
@@ -774,7 +823,7 @@
     },
     {
       "id": "cd9d445c789e0a4cae80",
-      "title": "2026熊本地震>取り残された人はいないか... 地震発生から「72時間」 イオンでは800人規模で捜索",
+      "title": "2026年熊本地震>取り残された人はいないか... 地震発生から「72時間」 イオンでは800人規模で捜索",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -1570,7 +1619,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dy11OFpkUnI3aXBpY3FqNU9Ha21nQzR0N0dRUUpJZmpoc0t3M2JIU3hfbTRHd213RVRkRzNqRlBUcnFKTVVEUmJ2bDZJX1Zaa0Q4Mg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTmdUQWM5bTlYbTZXdk81VUZITV9HZjBNcENqd2xfanhwOVBrbE9mdkpkUFVMX0pGY1N6QXBOc3VuOXdJd0ZSZ3VpVXFhX3FWemJCZ2JiRHBoMi1pOUE?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -1677,7 +1726,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-07-31T01:21:18Z",
+      "published_at": "2026-07-31T01:23:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41ZkhydkRLdzFzcklrbGg4SnEyRzY5ZnY0R0s0eWg4akttQ2d5RjBlMmUtdUQ0WTZqSDNlZ3pGek9UWEhGYmlPR1FrWEFlcUk?oc=5",
       "first_seen": "2026-07-31T01:30:52Z",
       "focus": [
@@ -3713,7 +3762,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbVNoQ1VGeHBmRW0yeG44RjRCZURHUzBfWmFWc3hBMVR5Z2hxOUdCbnowbldaUzNZYXU1OEg0NndzTHY0SmpFZVdBQ1Y4TVZ1Q08wdA?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -5967,7 +6016,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
