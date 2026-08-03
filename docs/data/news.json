@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T19:01:14Z",
-  "updated_at_jst": "2026/08/04 04:01 JST",
+  "updated_at": "2026-08-03T19:31:08Z",
+  "updated_at_jst": "2026/08/04 04:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 739,
@@ -407,7 +407,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T04:57:43Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEVVR05FRzZoU2JlNllyT1dmb0k1R2hrWmZCdVpDa0tGb28tb2ZoSHd4LTJNejRyc2FZLXdnZFhKN2sxVnZtOGdLdmhINkNiQlZ4N2FQM2tiRnYtd1llZWgybmIzY2ppRVRUN2hyU0xQX0Z2RFUwY0xlX05kY0g4MU1SSVZta2YtSUs3bnBtQVE5Zld5NzNoczZYeU9aRG9YLUF4YkEwZG1XUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkFXQzE4WXNvN1gwd0NZU0EwNEZNbjhXanBLM09YUFRXTkdQSnVXOFFSWnpDaVhNQWNoeVV5ckU1OG1YTEw0WGM1SkwwZlAyczZkc3pGRmF4QnpZUnpHZGFYbDZHdmFJRzRSaWV2dlhMQ3ZJY1RMNFkxdjVMeDgzSTRheTZzRlFwUWF6MnZQM1c3UQ?oc=5",
       "first_seen": "2026-07-31T07:00:51Z",
       "focus": [
         "現場状況"
@@ -778,7 +778,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVwMExyMlF4Uk1pbHAycVlkWk1CR1JhN2xWeTZwanJyUmtQNmFXc2puWDFDSmFiRXJaOS1BdlNRWTFibjhaOXViVzNpbXF3M2daWnV2RnpacHJOT0NDUVpmdDNYbGstZkRUb2N3TDZoeF9yRkpMMzBMQ2lOQzZ5ZDk4SGJhUzhOMkx5bUJpUnlkdXZzYUJ5ajdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFhfbDNseHZ2bjhRM1pKaVFsd05FMzc4czA4aFREOHJMOENRRWhXOWdhQXhQd1Q1SWJOZGdGVmJsNWZfNjU3c3pVMl9WY1lZNm52Sk1LOUFDM1VKMVI5UlQtc1lkWjN3OXFCUWFYdUR6NVgyR1d6cURkcTN6eFpDNGgyTVhxRXh1OG41Z1Nn?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -1061,20 +1061,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T03:31:25Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KWWRrem4zS3YwUV90WTFwN0Q0TDJ3WjYzN0dQMUI5M3BlNXlDUERicTVETFFLTmNua25fRFJwc3A3Sng5UzhBWTk5RmhlVm9iVHdCd2wzdmlzbkFhM3ZFOV9NTUFwcVIyOU9PaEl3?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -1991,6 +1977,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "05dcd8044abe212bc268",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T02:16:09Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxNUXlueVlaci02UzNCaW8zM3B6eVEzNmJyXzZHYjkyRHRPNF9Wb3FNRWZxNFhFUUx0UXczT3BMeTBEVC1SQmtZNjQ1TWxFU3E5R1BsaC1Wa2UxdUgtN1RLZGY5eUp2TEd3ZVp6Q1V6MkN4MS1ra21HemR6SVFpNUwtcTZfOTl5QlI0c0t5NzZkX1Jtb1NKS0FB?oc=5",
+      "first_seen": "2026-08-02T04:30:17Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -3179,7 +3179,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T12:10:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMDdicmxOS1Y0Q1BFaS1fUVByWUY4bC1ONHk4cVY5cmdsdGFINVVTTi12Y2xITHFBY09vUEtTa3gyU3dBamlWdW1Ca2lMUEk4TjBEamlKSUtFM2ZORnBpMW5mcVBPRmQ5dDJlcl9B?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -3376,7 +3376,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUk0dXVVNmVrMVhLbTFDTlJkblRpNm1ZUnFXRUo3bkJLYjRpX2hMQU9Lb0NLSzVpUmM0OHZPT2VZRFpMbUZXLVBRd3BpMlRXXzVQQkN5aTBJVjVkeDFSNDhYWGxRNkdtcldpX3FaaThWSnpiVlg4cUZtQlA3andMOGpjZUhvSzVJWW1HdHJyYW9JLU52b0VnN0dB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxTUFg5aWVlb0VQR2tVTS1ScDF3c0g3Mlg5YzV5eVhoUmVybk93WS1pQUxURnM5M1hkYmo5R2EtdFpBOGpjeWs2d3hXWENLaWZVMUJnZ3FMNGRLNnd3NkRBam9oRkFheFc0T1dWQTRnN21xSXJhbkZ0TngzWUtRNVhMUHhDSzFjelRqMEw4R2hUTGIyTnNHbmtB?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -3611,6 +3611,20 @@
         "目撃証言",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T08:23:52Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xNFd2Ym53bENSR2dNSkZGbVJ1VDVWQnYxWW1yQU5CS0VlMGlnbWFQYWRSV3FiQjg3akVnUFZtTkl4UTFnOW84aGZTV19jOC1YaXdJYWtlcEJEUmhDcmNZNnlJeUNrTU9jTTNEb2dB?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -4466,20 +4480,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T22:57:39Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUThyYjFyaTUzZ1ZjSWZtWHhLUjFrNjVvTzk1aFpXVU05anhYUlRrcHdjek9wNzNycWNzcWJmXzNlcHoxQ1RIY0xIZElnS1YxMWxnT19GN0FUVDVablp0OXhxV3NyUFRLMi0tNzZ4Q2NWakR1RHJ2ckJsNENPeUYtanEwWEtUZHktYmRGUjB3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -5747,7 +5747,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:23:38Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUl6VTZabGdJT2R3Q0NrajlLdmpJTktNazJ1ZnAwX2xrSDhmcERqc3pXdjdCbzZZby1NWmpmb01QUFQtbUVsOHdMWGgxbXJRVkpsUHNiTlVCaWxaZ2d6d1lrYl9PN3laMjBMUHJxZnJvSkRNY1k4ZWJWV2ZzWHBDWGdjd0RjTC05ZTZIWTZXc0x2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVNjWl9oZVpkOWIzNXFGY0I0cDcxeE5TQ2lMQ2RjQ0VxdEhuRzdYS051Y2VlM2g5dWt3QW93dmRsT3ZfN0VsREw3NGczd0p3YWJKTUJfcTFvdzZwRUZHS2NBa0JiZnhkckpQQm9fWGVhNjR6VmhsZE5hUnVaa2Vmd3hKOE1fSGg1Q1BFSE4yMUM?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -8716,20 +8716,6 @@
       ]
     },
     {
-      "id": "05dcd8044abe212bc268",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T23:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3FBY2U4ZnRCSWVhTk9pUUxFWXZYWTF0TlZpTGFUdEhrRFZYSFl6SjdycXo4MW5CbS1pY2lpSm9CMExCeFBqVWJhYlhuME5qTDQ1X19vSEpvUFV5WTBzY3VTOFN6bUlqOTlvRnRIUXh2UXNtTXhPMXZPQ3JVYnZjMGxXYlBJdWRsdFlQb0tR?oc=5",
-      "first_seen": "2026-08-02T04:30:17Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "fab8c17bba8fadc4434e",
       "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
       "source": "朝日新聞",
@@ -9157,7 +9143,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T20:50:54Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjBsenREUkhMUWxlWjAxSXZwU2tFZWVSajI1MlNoSXcxcjVlUHJlME9nT3haZEFIV3FCZFo0bEZoTWRsUHhqdllTWDZfZ1BxUDdPRHpINjhkWldUX0RRbk1oLUd5b2dCWUxEakhOSHo1ek82SVp0MjFZbUI2TG1sQzZWWEgxRW9YVHZNRjluTjhkYWVhenNSaWlB?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -9382,6 +9368,20 @@
       "published_at": "2026-07-28T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIVWNMWUdOU2owMTF3dEpjMXBZR0RIRnh2WndGZVRaMlY0eEJocDl6WTRqcXBacUFYMDI3V18xSGl0MkhCVE5NVVh1cnRfNFZGc0JFUzBiQXVDUV8tQUxLSWhxMXpDUzQ?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
         "aeon"
