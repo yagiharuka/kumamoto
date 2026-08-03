@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T13:31:10Z",
-  "updated_at_jst": "2026/08/03 22:31 JST",
+  "updated_at": "2026-08-03T14:01:18Z",
+  "updated_at_jst": "2026/08/03 23:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 735,
+  "article_count": 737,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,11 +50,11 @@
   ],
   "source_counts": {
     "kumanichi": 109,
+    "jiji": 121,
     "asahi": 88,
+    "sankei": 127,
     "nhk": 58,
-    "sankei": 126,
     "nikkei": 45,
-    "jiji": 120,
     "yomiuri": 96,
     "mainichi": 93
   },
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 575,
+    "aeon": 577,
     "power": 103,
     "paper": 71
   },
@@ -98,17 +98,16 @@
       ]
     },
     {
-      "id": "9a10fc7ec062e6384c81",
-      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T12:55:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
-      "first_seen": "2026-08-03T10:31:11Z",
+      "id": "f693721c802a36d4396a",
+      "title": "避難後の従業員に戻るよう指示 イオン...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T12:50:15Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbjU4VmdUXzBJLVQ4MWltR1dUOU1LNERwY01WWDdEOWRGUzYxRi1RZ2ttM25wQUpuSmZZZGRkSEpab08xZjdxUTlkUUVFckI3R0p3UzFLNWlxVFRicl9vbzUzTDF2dDJWZFpJYmRFSQ?oc=5",
+      "first_seen": "2026-08-03T14:01:18Z",
       "focus": [
-        "原因・検証",
-        "現場状況"
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -141,6 +140,22 @@
       "first_seen": "2026-08-03T13:01:23Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "32bd48d7557dcc099fe5",
+      "title": "<独自>イオン爆発で2人が死亡した「ハビタ」 ほかの3店舗でも売上金の金庫保管を指示",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T11:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IcnpMZmJIOEFYVGR6Y3ZWcFpHcGo5Y0R2eUFZb0dUZDhrb3NCWDE2WTcyUGc1ZjJtUHFMdGlyZ0pVcFBjQ181UXFVUWYyTXZlWWo2Qnl5NXA1UllvcXVfRFlkQl9Vanh3cWYzUS0yZUJhRFh3SVE?oc=5",
+      "first_seen": "2026-08-03T14:01:18Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -205,6 +220,23 @@
       "focus": [
         "原因・検証",
         "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9a10fc7ec062e6384c81",
+      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T10:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
+      "first_seen": "2026-08-03T10:31:11Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -7902,7 +7934,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T03:13:39Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cb1VFRlBzS2FoLWFpNHFObnVhU3h2Q1YzTG5VSlVxbHNaOG9Nd2dEMWx6R05KWHRsNHdxaWpVM3JDZ0hLMjVqLTM2dHVKdHBhTW1MRzQ3NUg2WmpYQ3VrZTJ2WnBUckdiOC1pbzdjRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUZRbkJlc1dTSmlWMDd6UTFuNzdqOHVFU3lrTUxxdXB0ZnoybkZpTGJWM0dZNVg2WDFUR0xXZ0JKdlhNOVRaTGxBWC0wUld0REFPeFlVZ0FOZU1qYlp3QS03TndpYkdRU1BXRWpEUFNHbXNLUUl0LVZkTk51MGVXOGxRYzVGc1JXUHlWbS0tZmd4a2pqMHh3ZlBNOUlab2o1UzBWaQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -10185,7 +10217,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T13:46:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04cURzanVfcDd4RXFWSU9RdWJ3SUNueDB3NmVZT2xYR1R4eFZsYkItS2paSFZfSk1yc3pmS3ZWZVFwZnZhMERiVkhVb3FyMlJTWWdsb3dqSms0STRRUzNheHZ2TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2Q2M1Z6NG9wXzYwVGh3a3V3QUFfQ3h3YXc0MlhNT0ZwNVozVGp0U3piZmpNWm1XS0RxV3FjaDFjaUdHemFfU1JCMHFYeS1ZTjdMWXpvRDJwMDBUemtzZnBnMGtSc2NmMUphVmtXVmhyZ1BnUWNVZEZHSkFxbklPdXNB?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
