@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T09:02:12Z",
-  "updated_at_jst": "2026/08/03 18:02 JST",
+  "updated_at": "2026-08-03T09:31:12Z",
+  "updated_at_jst": "2026/08/03 18:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 721,
+  "article_count": 724,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "sankei": 123,
+    "nikkei": 44,
+    "sankei": 124,
+    "jiji": 120,
     "asahi": 86,
     "nhk": 57,
     "yomiuri": 96,
     "mainichi": 93,
-    "kumanichi": 104,
-    "nikkei": 43,
-    "jiji": 119
+    "kumanichi": 104
   },
   "tracked_categories": [
     {
@@ -76,11 +76,59 @@
     }
   ],
   "category_counts": {
-    "aeon": 561,
+    "aeon": 564,
     "power": 103,
     "paper": 71
   },
   "items": [
+    {
+      "id": "2cd3c9df8d034d060e7d",
+      "title": "福岡市、熊本地震の支援職員が帰庁報告 イオン事故「経験ない現場」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T09:27:10Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWkhvUVR4VTdkMWx0UUl2SHpnaHB1WTJYY1lnNXJqVGxFMEEzc1lCaXNyeEVxX0ktNVdIakxDY1UyZW1rako5NzdvbzRCd1RITGNQTWxhQ0Z2VEtmdVUwQzJlUU91eXd2UTBkeQ?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "12c40d797df962553730",
+      "title": "イオンモール熊本爆発 「オンワードHD」が従業員3人死亡で追悼「心よりお悔み」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T09:18:29Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYWZWeFFoSkJfZ1JFTnZ5NmUzUHhxaUp1bEpYd3R4RHRnWFpfalc3RzJhZmxhY0FVQkFMa01VTWQ4Vkp6a0REdnhNdUJYTHRTNHZmbEtTdUFqVmtxQ09tanZ1ZTJHZFlReFZINURnYlh5eFZ2WWc?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4fdefa9b63cde1146fc4",
+      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T09:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "bcce575335f43a2b67d8",
       "title": "高市首相、熊本の被災地上空で幾度も合掌 イオンモール熊本、日本製紙八代など犠牲者悼む",
@@ -1801,7 +1849,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-07-31T01:23:00Z",
+      "published_at": "2026-07-31T01:21:18Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41ZkhydkRLdzFzcklrbGg4SnEyRzY5ZnY0R0s0eWg4akttQ2d5RjBlMmUtdUQ0WTZqSDNlZ3pGek9UWEhGYmlPR1FrWEFlcUk?oc=5",
       "first_seen": "2026-07-31T01:30:52Z",
       "focus": [
