@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T01:30:32Z",
-  "updated_at_jst": "2026/08/04 10:30 JST",
+  "updated_at": "2026-08-04T02:00:29Z",
+  "updated_at_jst": "2026/08/04 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 750,
+  "article_count": 752,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 128,
     "yomiuri": 99,
     "kumanichi": 110,
     "asahi": 93,
-    "mainichi": 96,
+    "mainichi": 97,
     "jiji": 122,
-    "sankei": 127,
     "nhk": 58,
     "nikkei": 45
   },
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 588,
+    "aeon": 590,
     "power": 103,
     "paper": 73
   },
   "items": [
+    {
+      "id": "a3e72607483878499dc0",
+      "title": "イオンモール熊本にコージェネない 経産省が一部SNS情報を否定、ガスは調理などに利用",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T01:50:24Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLRlBjdkJRTUFUaU1XeXA4cHRiVXZaa0FDSUFIODZDSFpveFhvdFJGVDF3SmFIR1hJa2lKSjlVOXktNHVHU0RJdDBaMWxpNDhPLXpUNFRyY1hvSkVaNkFYY1g1RjJCdXYwazdwWWtnNHFYZEdEUlE?oc=5",
+      "first_seen": "2026-08-04T02:00:29Z",
+      "focus": [
+        "原因・検証"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "4d8a1fbde3aca7683111",
       "title": "日本製紙八代工場の救助活動「余震で倒壊の危険がある中、酷暑で困難を極めた」...帰還した福岡市の消防署長",
@@ -1881,6 +1897,22 @@
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXhWRVE5SC1NYWVuaVNORW1IY1BpaVVZVkhwamRjNDh6aUFIMEI1OXlIcTZKWGhFZ09PVExReXBvTWpOeXljYzdiajlwMEp2UkJKb25KRmVxSlRFOE83UklvOFp6N2t0QW8yN2daUERGbF9lcUZIQm1mWEpMR0hWMEpRYXRGeFE?oc=5",
       "first_seen": "2026-08-01T19:00:15Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "47dea3603c4390192349",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集22/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T04:11:58Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2tpNzNfLWVxSVluNzN2d19mVl9tZXg0a0laZlBWSXQ2UmQzaFRkZVlBSzU1a0JDWmpqT1BEbThXZUVGU1g1T2JRMnJWaVhrd01fcDFHZVhDbXhiZGQwZ1ZITU11dlJKSXRLMjQyWEtWQnFTU0otSHFlMWNIOHhuMW5zRDdOcXc?oc=5",
+      "first_seen": "2026-08-04T02:00:29Z",
       "focus": [
         "現場状況"
       ],
