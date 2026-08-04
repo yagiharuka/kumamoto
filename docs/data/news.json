@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T09:31:05Z",
-  "updated_at_jst": "2026/08/04 18:31 JST",
+  "updated_at": "2026-08-04T10:01:06Z",
+  "updated_at_jst": "2026/08/04 19:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 777,
+  "article_count": 779,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "sankei": 133,
     "nikkei": 47,
-    "sankei": 132,
+    "jiji": 125,
     "kumanichi": 113,
     "mainichi": 102,
     "nhk": 60,
     "asahi": 98,
-    "jiji": 124,
     "yomiuri": 101
   },
   "tracked_categories": [
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 613,
+    "aeon": 615,
     "power": 103,
     "paper": 75
   },
   "items": [
+    {
+      "id": "87dd9fd3d372c35cd2ed",
+      "title": "ガス遮断弁は作動したのか イオンモール熊本の惨劇 「想定外」の爆発と法的責任の行方",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T09:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JS1M2WC1GVUxvdDNNMVFhSzZHQVpQTW9LSlU2OE1vRHhxTzU0NEZEWVJ6VTJzdy1jUjlmOG9sWS0xZlpXdkctWVYxSVlPREJTUnlCX3hFZTJ4R2cxMk01Tjg5MDlfZWRhS01qdGtYYjFXU2Etdnc?oc=5",
+      "first_seen": "2026-08-04T10:01:06Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "e94b5f9aed46e8ba00a5",
       "title": "東京都、LPガス供給設備を点検 イオンモール熊本爆発事故受け",
@@ -92,6 +109,22 @@
       "first_seen": "2026-08-04T09:31:05Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aeddbba8e11ba200dce4",
+      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T09:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX2VwRmNBakFpOVhRNlJUN1h0UWFsSTRpNGx4bmhWOUpoVTZLMUFIeXd2REZSSXJpaEdUYW5iV1E2MzhkQnUtZXN1NHoyZV9Yc0l4SlFzNzN3YnVsSTJfWFBNTQ?oc=5",
+      "first_seen": "2026-08-04T10:01:06Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
