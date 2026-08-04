@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T12:31:04Z",
-  "updated_at_jst": "2026/08/04 21:31 JST",
+  "updated_at": "2026-08-04T13:01:04Z",
+  "updated_at_jst": "2026/08/04 22:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 787,
@@ -1751,20 +1751,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "bf2661e58e9079666848",
-      "title": "イオンモール熊本に集まる消防車など ...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T22:15:12Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UWg1WVhpaVRzdGFEZHpHN0VTSjhEYmRYOTVEbFFRQ3Q2UVhCRlBBalgtX2xIS1FCWjZjc1o5UVpSeGQwN05kcml3RWRfUXVYQkpBX0R1M0FsdEtDdklNc3NOQnB3a2FXNENCblhtYw?oc=5",
-      "first_seen": "2026-07-31T22:30:51Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -7716,6 +7702,20 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVDBBM3NGNUtscGdhUjc3Q25Dd3RYM3JvNlA3b0dQczFBY1FsbWt6dXlxRm16M0o0alZlRGhRTlpPS0ZhbnduRmVOVElFQjZUTHhkX2JlTXI0cy1OVWFKU3hxdGhqN2lnVXo0NENKYw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "bf2661e58e9079666848",
+      "title": "イオンモール熊本に集まる消防車など ...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UWg1WVhpaVRzdGFEZHpHN0VTSjhEYmRYOTVEbFFRQ3Q2UVhCRlBBalgtX2xIS1FCWjZjc1o5UVpSeGQwN05kcml3RWRfUXVYQkpBX0R1M0FsdEtDdklNc3NOQnB3a2FXNENCblhtYw?oc=5",
+      "first_seen": "2026-07-31T22:30:51Z",
       "focus": [],
       "category_ids": [
         "aeon"
