@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-03T23:30:25Z",
-  "updated_at_jst": "2026/08/04 08:30 JST",
+  "updated_at": "2026-08-04T00:00:32Z",
+  "updated_at_jst": "2026/08/04 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 744,
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "asahi": 91,
     "mainichi": 94,
     "yomiuri": 98,
-    "asahi": 91,
     "kumanichi": 109,
     "jiji": 122,
     "sankei": 127,
@@ -81,6 +81,23 @@
     "paper": 72
   },
   "items": [
+    {
+      "id": "9a10fc7ec062e6384c81",
+      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T22:30:17Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
+      "first_seen": "2026-08-03T10:31:11Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "12c86bb178dab8296a23",
       "title": "熊本地震 「絶対救出 強く思い任務」 イオン熊本で活動 県警・大隊長 /広島",
@@ -323,23 +340,6 @@
       ]
     },
     {
-      "id": "9a10fc7ec062e6384c81",
-      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
-      "first_seen": "2026-08-03T10:31:11Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a8ee8915707351d7f228",
       "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
       "source": "時事通信",
@@ -512,7 +512,7 @@
     },
     {
       "id": "eff1c842c0db82ee795d",
-      "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
+      "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -2361,6 +2361,22 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIbmI5NVprcldqOW1vWHl6ZFAxN0xYZThPUjBMVnFmcGZCT29KZ3JzbXh3emh5b1RhczJCMThHdWpZU3NZcU5ILUdOZ1hlcGJJSmt0ZUtULUZ2d1lqUm9JRnVrLWFxVGliMDUyVE4xcw?oc=5",
       "first_seen": "2026-07-30T22:05:54Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "0b1d167be5f6aedc3bd2",
+      "title": "イオンモール熊本の内部 爆発で建物が...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:50:14Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dnQ0LTRnZFdlN3ZpX1I5YUhsXzFIU21PWnFpZUZfakV2em5QWEtXNnJMdDlNMUdEYW1wXzZFZ0NNZHZqR0tYTU5WZ2VvbU5fOWVIblFNRzRKanF6MHJQMDNncmJJVlBOcVVvTmRJdw?oc=5",
+      "first_seen": "2026-07-30T23:31:01Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -7024,22 +7040,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWkVHalU5d2FhX2JXcXZCb3VIUERydExaQnA5dDAwWlhmempCVXJ4cjRqaEM2WEl6Ni1qNkR6LTlZNFpWRzVVLTFPZlRqdjA3NXpYN2hIQXM4RUhiSWRRU2ozaF9QWXRQVDVwS0JuSQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "0b1d167be5f6aedc3bd2",
-      "title": "イオンモール熊本の内部 爆発で建物が...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LSUxidGN0YVZxQVk1UXlscHlualUyazRyajk1U18yTTAyaFdaaHAzVlMzcVhsaGhFOW85a0RIQ3g1eC1EaGpNcjZwS1pIdmtmdHpLdEFtTE5YeG9xMUpTNHpsUkpzRWppZ2ZYVVpSSQ?oc=5",
-      "first_seen": "2026-07-30T23:31:01Z",
       "focus": [
         "現場状況"
       ],
@@ -11943,7 +11943,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T08:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtZVhaMi1iTmhvRGhQdXNKR0xvWDdxRkxTY0NQbnZOcUlUTXh5MXFHVGlkRmhodGo2ZWptZEZ4YWFUUnQ4NmxKQV81aG1FZzVLbVp6ODhtandTeFAtUUt6alB0aUFCQ2ZwMVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UWpCRzRabktRRUhOUzVaRGRoc2NvOVlPQWJLM3liWVFmUGc2THBsSTZXUHdmcmxpUTNHLU5XRUlEeEI4cmlCbk1sWWlFNkpaMHllbnI3cVJHd3ZkeUdMdVM1VWYya1g4dnc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
