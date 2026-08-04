@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T08:31:05Z",
-  "updated_at_jst": "2026/08/04 17:31 JST",
+  "updated_at": "2026-08-04T09:01:12Z",
+  "updated_at_jst": "2026/08/04 18:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 770,
+  "article_count": 775,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "sankei": 132,
     "kumanichi": 113,
+    "mainichi": 102,
     "nhk": 60,
-    "sankei": 130,
     "nikkei": 46,
-    "asahi": 96,
+    "asahi": 98,
     "jiji": 123,
-    "yomiuri": 101,
-    "mainichi": 101
+    "yomiuri": 101
   },
   "tracked_categories": [
     {
@@ -76,11 +76,41 @@
     }
   ],
   "category_counts": {
-    "aeon": 606,
+    "aeon": 611,
     "power": 103,
     "paper": 75
   },
   "items": [
+    {
+      "id": "0b0b1450e1a936625cc1",
+      "title": "イオンモール熊本「爆発」一部犠牲者の具体的な“被災経緯”が明らかに オンワードHDが時系列で公表【全文】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T08:31:11Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FX3VYMmpXWDI1TG5zcUk3U2dGejc1N1h3dU9UZTU1d3dyV2ZpbEZ3VzJ5Qk5BdlFvU3RoQklOZmJ0eGxZQlBJNkU2WUEzLWNTQ2xEdF9nWHpIRW1icGJrY3lMeWFrZ3l1bmR4TUxXUEY1M0F1M3c?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "be8cb615a5ca07b75f5d",
+      "title": "骨太の方針は「ばくち」、 イオンモール熊本にサブウェイも入店 渡邉美樹 経営者目線",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T08:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWLXNTUGNMR0wtV3I3b2RldEpYZG4tdjRPby14c1VNVmdWNVRkdVVxRGttMHhlZFlJU0g5OUNLekFRdmFTNXQ5dTA1SmppWnp0VUtkcXpfQlh4c0xUMldIVHUxblc3Q2RUUEgzLV8xR2xwbk42Q2c?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "0bdcbfec3de99cbb3a6d",
       "title": "<2026年熊本地震>イオンモール熊本の「水春」再開 「足伸ばして安らいで」 被災者は無料で入浴可",
@@ -91,6 +121,22 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KS1FlM1djYlVKTWNDZEt0XzU1QnRDYzhWVHdhbWFSNGdQZHBTWU9jdVYxZjZfWi1aZzM0OUxVbF96VjBrajFBWU5oOG9Yc28?oc=5",
       "first_seen": "2026-08-04T08:31:05Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "df526de1f4bbccd59b94",
+      "title": "オリコンニュース:イオンモール熊本「爆発」一部犠牲者の具体的な“被災経緯”が明らかに オンワードHDが時系列で公表[全文]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:44:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ySjYza1hTOXVTT1F6UUtTRV9hQTlnczBoTHJ1X3JrZkNDalV1dk5ITC1ua2hVdWF0QmxEQVZPUVhjQi0xS3pRQjJyc1loOVlUTmswQTdEU1o4aUJMY2pGWVRQSnVaeDhM?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -205,6 +251,20 @@
       ]
     },
     {
+      "id": "1682189b07edb737297a",
+      "title": "イオンモール前に花束や色紙 手を合わせる人も 熊本地震1週間",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T03:50:43Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sd0RFc0RRQ1dyMzRBUm9jazVhUnlwRktzTU0yNE92QnNld0w3SWdwT0RWZUtXR18xbzMwSWd0WmloQVlsR0ZuQ3h5VlJWa2N4cG5oaFVabjJTQzMxOXVEXzU5ZmF2SG9SQ2k4WU5R?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "49b4ec7019439846e3e8",
       "title": "7人犠牲のイオンモール熊本に手を合わせる人々の姿、色紙には「いつどんな時も忘れないよ」",
       "source": "読売新聞",
@@ -224,7 +284,7 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-04T03:33:45Z",
+      "published_at": "2026-08-04T03:35:01Z",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlNSbnhWUTBpRHA3Nnl1STQ0VVBUSVlVLVd0ZDFGQmFRU2RyMG1EVGhraHY2SmJ1UGNXRl82cU5rWTRuWV96MVhTbFl6SUlIUUhic0xmZ0dISG5CcS1YUkZhSlJ5WlhJOGJJMTFjREV4Qy1QbmtkTXFFWHZyajQwS3ZkZFFUM1l3LWppRkpiLVM?oc=5",
       "first_seen": "2026-07-30T18:00:10Z",
       "focus": [
@@ -662,6 +722,23 @@
       "published_at": "2026-08-03T10:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
       "first_seen": "2026-08-03T10:31:11Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a58f436b1e1a026d7d2d",
+      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T10:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02OEdsR20tYkI5ZXg4VXc5MFFJRl9oQ0hwSUxZSzd0allHbGVYYkUtWk93eGJ0WC1wT1U0SHpiRmF1NXZucklrN1MwTG9ORjQyLWlPSjZIRzZucVp5M3JWM0g1dW53SlgtS0h0S2NB?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
       "focus": [
         "原因・検証",
         "現場状況"
@@ -1203,7 +1280,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-02T08:45:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcTRZMkREVTFTcEI1WVd6UUQxMXhaSU5SSkZhQ2x6cXFIWWFrNVpQM0t5NjZ4QjVXNHVySTVNWXFnXzJfNE9MYWtmS1VVSm5oTm56REFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UU3Z4Rm82M284a1lCZ2h3bDlLT0tZNHltV3U1QzAyMUFxQlNOcVdmMUdnS2N6REQ1d1FISXNGQVYwa29yTmNxaDQ4bl9HWVhwUldEcQ?oc=5",
       "first_seen": "2026-08-02T09:00:22Z",
       "focus": [],
       "category_ids": [
@@ -11311,7 +11388,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T12:01:45Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzdPYVdacVRHX21lTG5rNTRiYXA0RjRVcXpDYmYwTXhmNnB2MlRfZEFtNUJMUk9oRWNUdkNGaG1hN2MtT2lDQXpGcWI5SGFvbDF1WkpSZHBjaVZQRHRvcGVuNmFfejRFaEhKUXNCV2pkbVoxOGFhUTIwWGRKOHBXc0dkQXI3S3FEWHZYalpGdXQwQkVVNVg2UkY2SVJ1dmI2LVJLMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnIxTzN6VEdZRUNKajR5V01reFMwTVNzNDJJdDdmMkg4RXFjenNMcVMzM2t0RW1PUGJval9UQzliSnAxMVBHczMzdVBFTVU1WDd0NDVoYy1zeHRqekhDOW1sZWFmRjR5MmNyeTFtY0tRVkRTZjUxSFBfVGx5aWYwRUplRl93SndKVjA5bkFwbw?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
