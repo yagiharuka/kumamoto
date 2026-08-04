@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T21:30:34Z",
-  "updated_at_jst": "2026/08/05 06:30 JST",
+  "updated_at": "2026-08-04T22:00:43Z",
+  "updated_at_jst": "2026/08/05 07:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 797,
@@ -522,7 +522,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T05:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -911,6 +911,40 @@
       ]
     },
     {
+      "id": "a8ee8915707351d7f228",
+      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T11:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4fdefa9b63cde1146fc4",
+      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T11:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "32bd48d7557dcc099fe5",
       "title": "<独自>イオン爆発で2人が死亡した「ハビタ」 ほかの3店舗でも売上金の金庫保管を指示",
       "source": "産経新聞",
@@ -1042,23 +1076,6 @@
       ]
     },
     {
-      "id": "a8ee8915707351d7f228",
-      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T09:56:29Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c0c81e9cdd8a3f4fc361",
       "title": "イオンモール熊本爆発事故、建屋の現地調査開始 経産省や警察など",
       "source": "日本経済新聞",
@@ -1110,23 +1127,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-03T09:18:29Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYWZWeFFoSkJfZ1JFTnZ5NmUzUHhxaUp1bEpYd3R4RHRnWFpfalc3RzJhZmxhY0FVQkFMa01VTWQ4Vkp6a0REdnhNdUJYTHRTNHZmbEtTdUFqVmtxQ09tanZ1ZTJHZFlReFZINURnYlh5eFZ2WWc?oc=5",
-      "first_seen": "2026-08-03T09:31:12Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4fdefa9b63cde1146fc4",
-      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T09:10:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GcDFXajZSSF9sZ25DSHdDUkhHVV84WjBjbUtJNUprVkhVVXl6Q3ZIa1RxZXV4MG9DRnJhMnAycXlaaUZ6czZGZTVvQk52T1A1LU5SUzF0akV0amV3Sk5rM3l2WQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -3906,6 +3906,20 @@
       ]
     },
     {
+      "id": "89b098498bf739882b4d",
+      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T12:30:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Rbm4zWS1FLTJVSnNscGNPdVdsWWVDVVZGQkdia2dqdnI0TkVDMkU3dGEyb0xGeXp5SlZvLVZySnFkalBzM0NRLWhiSmo1RXZRZVREYVBqU2FFZ2VBSXJIUUx2Nm0?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "deeed6007bdd6da06c13",
       "title": "熊本地震 イオンモール熊本内部を警察犬が捜索...30日午後",
       "source": "読売新聞",
@@ -3964,20 +3978,6 @@
       "focus": [],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "89b098498bf739882b4d",
-      "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T12:23:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SdHZzb3lQNmFaZTdkTklxbEpBVzVWUEotOEctVElMa05DSmlEb0hHYm8tWEp3b0xCdFZKOGV0V1JpS0VtcjViaTB3Y1luU211WnUxOEJreURvZjJXakcxWmpLV0Q?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -4969,7 +4969,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T03:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NYXdTeHZUeDBxbnV3a1pNdFd6TTd4ZDMxYlh1RE9lc2JOMFRnTXZTcExrcHp3WllJSG1lRnNIQmM1MkEzTTR0M3lQNDVHRnJfYW1xTXFqb3ZYeC1XN3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SQkRpcHp0YWVWbmRFZHkwQkZYWUIzSXh3MHNHTVRiRlZ3MmdaN0p0N1BvQk9KanRTUTBVbk1ONlc4eGN2WDZ2VEg2Z3IwZXBBalFIOQ?oc=5",
       "first_seen": "2026-07-30T04:00:49Z",
       "focus": [
         "救助・安否"
@@ -6167,7 +6167,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-07-29T11:11:08Z",
+      "published_at": "2026-07-29T11:13:28Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyRFBLMmNiS0ZFUmxtb1JsaWFaTU5XcGJiWXdHY1p0Qjlma2RKVF9hVjZlVmxRenVjbGpHd3hoU3l2WFJtTlM2V0RjaG1nODA?oc=5",
       "first_seen": "2026-07-29T12:31:06Z",
       "focus": [],
