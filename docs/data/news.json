@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T19:01:03Z",
-  "updated_at_jst": "2026/08/05 04:01 JST",
+  "updated_at": "2026-08-04T20:01:07Z",
+  "updated_at_jst": "2026/08/05 05:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 796,
+  "article_count": 797,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "kumanichi": 115,
     "sankei": 140,
     "nikkei": 47,
-    "mainichi": 103,
+    "mainichi": 104,
     "asahi": 99,
     "yomiuri": 101
   },
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 628,
+    "aeon": 629,
     "power": 104,
     "paper": 78
   },
@@ -911,6 +911,23 @@
       ]
     },
     {
+      "id": "a8ee8915707351d7f228",
+      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T11:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "32bd48d7557dcc099fe5",
       "title": "<独自>イオン爆発で2人が死亡した「ハビタ」 ほかの3店舗でも売上金の金庫保管を指示",
       "source": "産経新聞",
@@ -1035,23 +1052,6 @@
       "first_seen": "2026-08-04T09:01:12Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a8ee8915707351d7f228",
-      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T09:56:29Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -3825,7 +3825,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T13:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFo2ZkMwQU95aG9iaVZjQVJkRFlOSG81MkdNRUhmUlhLXzZPNktaWDJqcXlGZGlQc0FoZjVSV2V1UGlidV9aMjM2SXpsbzc5OVZ4S3hwMTlnUkNfQjVJT0FfQV9LTms5WXgxdHJmREgtalRoSzZNYzdyV2RLaXBMZnJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmJTQlJrTFZSOFctQXdMeDZUQ1lCV2hYeWxwM2NsWUd4b3BBcEwzZmJnaVNRVHpUUXIwLU9RZkNhdHJrWWROWUJaRV9iOFh1cE9PRW5aVUlUMmRibFBwdVZQNFJIR25aQlZDZDZFNFlwdlBjbXI1VjBSVWw4SThhTU5n?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "救助・安否",
@@ -5009,6 +5009,22 @@
       ]
     },
     {
+      "id": "61d803c37e1e08146955",
+      "title": "爆発で5人死亡のイオンモール熊本 救出活動続く内部の映像新たに公開",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T03:25:48Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pRW9GamgxYVBKSUgwYm5uRFViTlQ5RTNNT2xnMXN0Ul9iRllTNlRIOE5KSXRjR010QTk0NC1fbjRBODB5UTF0RjZoRUFGckVxaVZHdnAtLWNVQ1N1aGc?oc=5",
+      "first_seen": "2026-08-04T20:01:07Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "96ebf6008fca2b6e750d",
       "title": "熊本 日本製紙八代工場 新たに3人死亡確認 救助活動続く",
       "source": "NHK",
@@ -5063,7 +5079,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -5080,7 +5096,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
