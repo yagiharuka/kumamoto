@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T02:00:29Z",
-  "updated_at_jst": "2026/08/04 11:00 JST",
+  "updated_at": "2026-08-04T02:30:35Z",
+  "updated_at_jst": "2026/08/04 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 752,
+  "article_count": 754,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "mainichi": 99,
+    "asahi": 93,
     "sankei": 128,
     "yomiuri": 99,
     "kumanichi": 110,
-    "asahi": 93,
-    "mainichi": 97,
     "jiji": 122,
     "nhk": 58,
     "nikkei": 45
@@ -76,11 +76,41 @@
     }
   ],
   "category_counts": {
-    "aeon": 590,
+    "aeon": 592,
     "power": 103,
     "paper": 73
   },
   "items": [
+    {
+      "id": "005f04065bdf392d2f6c",
+      "title": "イオンモール熊本前に花束や色紙「またね」 「危機一髪」語る人も",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T02:15:37Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KWHgyMUJIOXAxQkN5R3IxWUpsdDNHdXQ1WEhVQmNRVW1acTg1N2ZYUmh6dnVTVS1GYU9XYkFBOTl4NWh6dEQyeTFsXzNCWHN1N0c4QTMwX1hrWllxM28tNWE2MUdUem5L?oc=5",
+      "first_seen": "2026-08-04T02:30:35Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "03df5ea8e0afc87fdadb",
+      "title": "イオン熊本の爆発、暗闇で極限の捜索 バックヤード周辺に犠牲者多数 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T02:03:44Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xakV5ZnB1ZnFsQS1ST2pUZlJteERGalFLa01jU2tfVnFaa1IzamJxWFhTb3FxQUt0OXU2SGE2WlZjN0U5Ul9iVmt3dDhpczJOemE3TER5VlZwNjVfekdYZ3RYZnlvTm8?oc=5",
+      "first_seen": "2026-08-03T20:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "a3e72607483878499dc0",
       "title": "イオンモール熊本にコージェネない 経産省が一部SNS情報を否定、ガスは調理などに利用",
@@ -148,39 +178,6 @@
       ]
     },
     {
-      "id": "2fab59471e83b81599c3",
-      "title": "イオン爆発「中へ戻っていい」 社長説明と異なる複数人の動き再現 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T00:08:07Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yWEdCam9vLVVCVi13TnVkajFJSWprc1VqOEFHS2h0YXZxb0drNUNqU29waFMzcWdfMVg3QWpwY0JDcFdYRDhXeFpXWjFzWXh5U1hiZlR6SUFHTzFkTmVFaXlpRk1aQm8?oc=5",
-      "first_seen": "2026-08-04T01:00:38Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "9a10fc7ec062e6384c81",
-      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T22:30:17Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
-      "first_seen": "2026-08-03T10:31:11Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d36c2520389c38c19778",
       "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
       "source": "朝日新聞",
@@ -228,6 +225,22 @@
     },
     {
       "id": "2fab59471e83b81599c3",
+      "title": "イオン避難後「中へ戻っていい」 社長説明と異なる複数人の動き再現 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yWEdCam9vLVVCVi13TnVkajFJSWprc1VqOEFHS2h0YXZxb0drNUNqU29waFMzcWdfMVg3QWpwY0JDcFdYRDhXeFpXWjFzWXh5U1hiZlR6SUFHTzFkTmVFaXlpRk1aQm8?oc=5",
+      "first_seen": "2026-08-04T01:00:38Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2fab59471e83b81599c3",
       "title": "イオン爆発後「中へ戻っていい」 社長説明と異なる複数人の動き再現 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
       "source_id": "asahi",
@@ -251,22 +264,6 @@
       "published_at": "2026-08-03T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0VWdzFfY2wxdGRFQ1lyZmxGdGkyY1R0Z1NTRGMybHNpV0Y3X2w0VzZ3aUhYcXZ1RVo3cGRFM1MycFZnYWVQaFVpRmVxTDNJcUljMlFlMU15VVVDZ0ZQcjlFRTN5NTltczluX0luMGpfblJQVGxNY0J5T05GNnI3blRMeU03ZXZxdWNZZTdn?oc=5",
       "first_seen": "2026-08-03T21:30:26Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "03df5ea8e0afc87fdadb",
-      "title": "イオン熊本の爆発、暗闇で極限の捜索 バックヤード周辺に犠牲者多数 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xakV5ZnB1ZnFsQS1ST2pUZlJteERGalFLa01jU2tfVnFaa1IzamJxWFhTb3FxQUt0OXU2SGE2WlZjN0U5Ul9iVmt3dDhpczJOemE3TER5VlZwNjVfekdYZ3RYZnlvTm8?oc=5",
-      "first_seen": "2026-08-03T20:31:06Z",
       "focus": [
         "現場状況"
       ],
@@ -428,6 +425,23 @@
       "source_group": "地元紙",
       "published_at": "2026-08-03T10:02:09Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45Vk5WQnBFNDd5am85ZEc1Mk8yZl95aVQwQ1dwQ0t2VUZ2M2RBNUlHczM2QmQxVDFUelhFLUNEZzU2alJlTFpqZzk4enJGUjQ?oc=5",
+      "first_seen": "2026-08-03T10:31:11Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9a10fc7ec062e6384c81",
+      "title": "爆発のイオン 経産省「ガスコジェネはない」 SNSで原因の見方も [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T10:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RM1l6NXRqLVZSeGRYOGdGZ1l0cmduYnNiUGt0UUdLQWgteVVjd2ZHQTZ0ZzJmQjUzdEgxNUFKeU82REg3N2tES1dZQ1l4eG5razVpZmVWdnJZeWdlWkpWS21YaWVYTWM?oc=5",
       "first_seen": "2026-08-03T10:31:11Z",
       "focus": [
         "原因・検証",
@@ -1969,6 +1983,22 @@
       ]
     },
     {
+      "id": "003f848d34f57b098ab8",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集15/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T04:11:58Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVFxMnlOeTYzY2lOcGVkVng4NWlhd1ozTzgwRUZKS3NtQmJNczZaZGtvZ1kzd3U2VUNVTlRUYzFvc0dmOTMxZ0k2MmpjU3RNVVVaSWxmdl96RjhGZ2xzcEFPRmRXakdYQ1VxTTRrd0paMWhqa3hDUGpnZU9Hdm50aXFzWDBHd00?oc=5",
+      "first_seen": "2026-08-04T02:30:35Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "70b84d1cc1081558c6e9",
       "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集14/20]",
       "source": "毎日新聞",
@@ -2055,6 +2085,20 @@
       "published_at": "2026-07-31T04:08:44Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Va01Ec0Q3aDZkWDhfbzFJbVBsbm9obGFfZzFMZjFWRkllc0xnRzJLb0l5VG5UOGRSLTVRV2dpQUswZTZWem10QVVZYWFJWHBtV2g5aFA1ODMxT3Itd2VPZWk2MnkxNmpoc0NqYQ?oc=5",
       "first_seen": "2026-07-31T04:30:52Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T04:05:47Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3dDRWw5VGdzWWdHOVZHLVZrS290QWpId3FQR3BPcVg1SWVvQ1BQazRRUnUwb012eW1JZW5xaHc5d1p4NVdMOEJxb0FnVnM1WUpNUmJ3X0x5c1daNUl3QVgyUFJLUjFoOUpJYjY2UDN4NUZtNWdaM3ZybDZ2ZlRSNmlrR2ZiaVhYNVNYYUdXR0hzWWh2MXdPY293?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -3834,20 +3878,6 @@
         "目撃証言",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T08:23:52Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xNFd2Ym53bENSR2dNSkZGbVJ1VDVWQnYxWW1yQU5CS0VlMGlnbWFQYWRSV3FiQjg3akVnUFZtTkl4UTFnOW84aGZTV19jOC1YaXdJYWtlcEJEUmhDcmNZNnlJeUNrTU9jTTNEb2dB?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
