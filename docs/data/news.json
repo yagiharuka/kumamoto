@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T00:00:32Z",
-  "updated_at_jst": "2026/08/04 09:00 JST",
+  "updated_at": "2026-08-04T00:30:33Z",
+  "updated_at_jst": "2026/08/04 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 744,
@@ -135,7 +135,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yWEdCam9vLVVCVi13TnVkajFJSWprc1VqOEFHS2h0YXZxb0drNUNqU29waFMzcWdfMVg3QWpwY0JDcFdYRDhXeFpXWjFzWXh5U1hiZlR6SUFHTzFkTmVFaXlpRk1aQm8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VOFp6UWM0OFdiRGNXWUpGWTBIajVZZGlQeVMyazlYQmhPQkdJUDVLd250a3BEMC1mamxUR2YxX2tNWFE0TGZJcE0teWFhdEVaaTRveXVGSU0zOC01RkJFV2dPSk5kNjZyQWR3QTM3SUtjNnRfUENnTDNR?oc=5",
       "first_seen": "2026-08-03T20:31:06Z",
       "focus": [
         "現場状況"
@@ -151,7 +151,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45MHZTTnRzbjZrT0JHLTQzQ1V6VVY4TVhUc19XOTExN3RBZlhXckNuakg2ZWVpWkFmLVAtQ1hZazg0TlVkTTEyM3RIOExGeWszWnhOdUREbmEwZGtYSFRqTmlIWXlUSGNKendoX0J3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0VWdzFfY2wxdGRFQ1lyZmxGdGkyY1R0Z1NTRGMybHNpV0Y3X2w0VzZ3aUhYcXZ1RVo3cGRFM1MycFZnYWVQaFVpRmVxTDNJcUljMlFlMU15VVVDZ0ZQcjlFRTN5NTltczluX0luMGpfblJQVGxNY0J5T05GNnI3blRMeU03ZXZxdWNZZTdn?oc=5",
       "first_seen": "2026-08-03T21:30:26Z",
       "focus": [
         "現場状況"
@@ -474,6 +474,22 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwODVPR2dSdGlmUU1uRGRVbGlnc015LUlZOXB0T0ZhZmQ5S3FyZzM2OEFsa1djT2tGQVdHaGRoR3l2T3RybDJOQXItSEtHelBIZklyU3hxT3VCcWY1MkNlekJQWHpheDc0S09ySVhEdHY1dDlLc0E?oc=5",
       "first_seen": "2026-08-03T06:31:15Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1c2c7213736c6fb4b807",
+      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T04:57:43Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN01YZDJfR19CX0tSSnNDRnJHck9yZ3NMa0JmNGFBX1JFTWFXby1yZXNjVWFRTWJuQlhsWnI2YkFIa3ZzYjUyWmQtTzJNTWotZ2VhU1NLY2YxQTRCclBCTGdYRldLRzY5QXIyQ092WXlQeGg1RWYtaTQ0SkNDNTZyV3ZiaE51OFAwWWJWZVcwcldLZw?oc=5",
+      "first_seen": "2026-07-30T18:00:10Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -1915,20 +1931,6 @@
       ]
     },
     {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:05:47Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3dDRWw5VGdzWWdHOVZHLVZrS290QWpId3FQR3BPcVg1SWVvQ1BQazRRUnUwb012eW1JZW5xaHc5d1p4NVdMOEJxb0FnVnM1WUpNUmJ3X0x5c1daNUl3QVgyUFJLUjFoOUpJYjY2UDN4NUZtNWdaM3ZybDZ2ZlRSNmlrR2ZiaVhYNVNYYUdXR0hzWWh2MXdPY293?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "37bbc98c437ad756b1ca",
       "title": "日本製紙八代工場が被災し操業停止、製紙各社が新聞用紙の供給支援へ",
       "source": "読売新聞",
@@ -3287,7 +3289,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T12:10:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMDdicmxOS1Y0Q1BFaS1fUVByWUY4bC1ONHk4cVY5cmdsdGFINVVTTi12Y2xITHFBY09vUEtTa3gyU3dBamlWdW1Ca2lMUEk4TjBEamlKSUtFM2ZORnBpMW5mcVBPRmQ5dDJlcl9B?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -3484,7 +3486,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T09:58:14Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUk0dXVVNmVrMVhLbTFDTlJkblRpNm1ZUnFXRUo3bkJLYjRpX2hMQU9Lb0NLSzVpUmM0OHZPT2VZRFpMbUZXLVBRd3BpMlRXXzVQQkN5aTBJVjVkeDFSNDhYWGxRNkdtcldpX3FaaThWSnpiVlg4cUZtQlA3andMOGpjZUhvSzVJWW1HdHJyYW9JLU52b0VnN0dB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWxTUFg5aWVlb0VQR2tVTS1ScDF3c0g3Mlg5YzV5eVhoUmVybk93WS1pQUxURnM5M1hkYmo5R2EtdFpBOGpjeWs2d3hXWENLaWZVMUJnZ3FMNGRLNnd3NkRBam9oRkFheFc0T1dWQTRnN21xSXJhbkZ0TngzWUtRNVhMUHhDSzFjelRqMEw4R2hUTGIyTnNHbmtB?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -3719,6 +3721,20 @@
         "目撃証言",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、経済、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T08:23:52Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xNFd2Ym53bENSR2dNSkZGbVJ1VDVWQnYxWW1yQU5CS0VlMGlnbWFQYWRSV3FiQjg3akVnUFZtTkl4UTFnOW84aGZTV19jOC1YaXdJYWtlcEJEUmhDcmNZNnlJeUNrTU9jTTNEb2dB?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -6168,22 +6184,6 @@
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "1c2c7213736c6fb4b807",
-      "title": "【動画で見る熊本地震】爆発したイオンモール、脱線など各地で被害 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVBFbFgzeTVNZ2U0bmxLN3Q5U3BlMEtJTG9KS3BaLUhCT29XYmlUQ3VYSkI4T1JEYnVEOUVVNXM4Z3dEOUkxSXEzNnd2ZWwyN2JzYUFPekM4ZmpEUkw4bTBQSVRLdGY3eUNCYmJ2cmdCSkZjN2ZZaDk3TUh4NlNKS2V1QlhiczQ?oc=5",
-      "first_seen": "2026-07-30T18:00:10Z",
-      "focus": [
-        "現場状況"
       ],
       "category_ids": [
         "aeon"
