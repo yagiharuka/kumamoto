@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T12:01:05Z",
-  "updated_at_jst": "2026/08/04 21:01 JST",
+  "updated_at": "2026-08-04T12:31:04Z",
+  "updated_at_jst": "2026/08/04 21:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 787,
@@ -269,6 +269,22 @@
       ]
     },
     {
+      "id": "4f043b7b792476483db5",
+      "title": "オンワード「指導不徹底で反省」 イオン爆発死亡、貴重品取り戻る(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T07:48:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZQ0QzMEVOdUpuUmI0WkFLcTVaUHF5ZTAyTXkyNTg1RWFUcW5jVHZBRk9WREJYR0hYYVVwZDhGTFJTUjM0Nmt1Q0VmRUJEVGc?oc=5",
+      "first_seen": "2026-08-04T06:31:09Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "df526de1f4bbccd59b94",
       "title": "オリコンニュース:イオンモール熊本「爆発」一部犠牲者の具体的な“被災経緯”が明らかに オンワードHDが時系列で公表[全文]",
       "source": "毎日新聞",
@@ -332,28 +348,12 @@
       ]
     },
     {
-      "id": "4f043b7b792476483db5",
-      "title": "オンワード「指導不徹底で反省」 イオン爆発死亡、貴重品取り戻る(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-04T06:19:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZQ0QzMEVOdUpuUmI0WkFLcTVaUHF5ZTAyTXkyNTg1RWFUcW5jVHZBRk9WREJYR0hYYVVwZDhGTFJTUjM0Nmt1Q0VmRUJEVGc?oc=5",
-      "first_seen": "2026-08-04T06:31:09Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "95d227e367408113b0ef",
       "title": "イオンテナント会社の責任は 熊本地震、専門家「業過致死も」(共同通信)",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-08-04T06:04:00Z",
+      "published_at": "2026-08-04T06:11:24Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XQk94U1BPdmRHWno3LUljeTlFRElOQWJEUm40U2V6Unl5ZXBqMGpVTEpMdzdoUVBJX1g4M09xc1VzTDFRX2lpZ1VfM05FdUU?oc=5",
       "first_seen": "2026-08-04T06:31:09Z",
       "focus": [],
@@ -773,6 +773,23 @@
       ]
     },
     {
+      "id": "4fdefa9b63cde1146fc4",
+      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T11:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "32bd48d7557dcc099fe5",
       "title": "<独自>イオン爆発で2人が死亡した「ハビタ」 ほかの3店舗でも売上金の金庫保管を指示",
       "source": "産経新聞",
@@ -972,23 +989,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-03T09:18:29Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYWZWeFFoSkJfZ1JFTnZ5NmUzUHhxaUp1bEpYd3R4RHRnWFpfalc3RzJhZmxhY0FVQkFMa01VTWQ4Vkp6a0REdnhNdUJYTHRTNHZmbEtTdUFqVmtxQ09tanZ1ZTJHZFlReFZINURnYlh5eFZ2WWc?oc=5",
-      "first_seen": "2026-08-03T09:31:12Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4fdefa9b63cde1146fc4",
-      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T09:10:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GcDFXajZSSF9sZ25DSHdDUkhHVV84WjBjbUtJNUprVkhVVXl6Q3ZIa1RxZXV4MG9DRnJhMnAycXlaaUZ6czZGZTVvQk52T1A1LU5SUzF0akV0amV3Sk5rM3l2WQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -1453,7 +1453,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-02T08:45:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcTRZMkREVTFTcEI1WVd6UUQxMXhaSU5SSkZhQ2x6cXFIWWFrNVpQM0t5NjZ4QjVXNHVySTVNWXFnXzJfNE9MYWtmS1VVSm5oTm56REFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UU3Z4Rm82M284a1lCZ2h3bDlLT0tZNHltV3U1QzAyMUFxQlNOcVdmMUdnS2N6REQ1d1FISXNGQVYwa29yTmNxaDQ4bl9HWVhwUldEcQ?oc=5",
       "first_seen": "2026-08-02T09:00:22Z",
       "focus": [],
       "category_ids": [
