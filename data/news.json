@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T08:01:05Z",
-  "updated_at_jst": "2026/08/04 17:01 JST",
+  "updated_at": "2026-08-04T08:31:05Z",
+  "updated_at_jst": "2026/08/04 17:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 769,
+  "article_count": 770,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 113,
     "nhk": 60,
     "sankei": 130,
     "nikkei": 46,
-    "kumanichi": 112,
     "asahi": 96,
     "jiji": 123,
     "yomiuri": 101,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 605,
+    "aeon": 606,
     "power": 103,
     "paper": 75
   },
   "items": [
+    {
+      "id": "0bdcbfec3de99cbb3a6d",
+      "title": "<2026年熊本地震>イオンモール熊本の「水春」再開 「足伸ばして安らいで」 被災者は無料で入浴可",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T07:58:27Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KS1FlM1djYlVKTWNDZEt0XzU1QnRDYzhWVHdhbWFSNGdQZHBTWU9jdVYxZjZfWi1aZzM0OUxVbF96VjBrajFBWU5oOG9Yc28?oc=5",
+      "first_seen": "2026-08-04T08:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "6baaf7ed5ca92f6c179a",
       "title": "イオンモール熊本で活動の医師「残念でなんともいえない」",
@@ -7080,6 +7094,23 @@
       ]
     },
     {
+      "id": "4b53352266a572124345",
+      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:34:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RWNnUkNDRGhtMTFXNnZiWGxzX2wzckxpZDMyellxSlpLekd2cWlkMVBiMVp1dUdWcE1aMkhZcXl6OEw1V2FEakJOVUNTT1NFQjRkT0NOMlBaT2dSVU85YWlUbHlHaTlo?oc=5",
+      "first_seen": "2026-07-29T08:01:00Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b368b611353bc40e632c",
       "title": "「ワンちゃんネコちゃん達は無事です!」 イオンモール熊本内のペットショップが報告",
       "source": "産経新聞",
@@ -7154,23 +7185,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "4b53352266a572124345",
-      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:20:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RWNnUkNDRGhtMTFXNnZiWGxzX2wzckxpZDMyellxSlpLekd2cWlkMVBiMVp1dUdWcE1aMkhZcXl6OEw1V2FEakJOVUNTT1NFQjRkT0NOMlBaT2dSVU85YWlUbHlHaTlo?oc=5",
-      "first_seen": "2026-07-29T08:01:00Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
