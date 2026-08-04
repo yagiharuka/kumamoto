@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T03:30:28Z",
-  "updated_at_jst": "2026/08/04 12:30 JST",
+  "updated_at": "2026-08-04T04:00:29Z",
+  "updated_at_jst": "2026/08/04 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 755,
+  "article_count": 757,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 100,
+    "yomiuri": 101,
     "mainichi": 99,
-    "asahi": 93,
-    "sankei": 128,
+    "sankei": 129,
     "kumanichi": 110,
     "jiji": 122,
+    "asahi": 93,
     "nhk": 58,
     "nikkei": 45
   },
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 592,
+    "aeon": 594,
     "power": 103,
     "paper": 74
   },
   "items": [
+    {
+      "id": "49b4ec7019439846e3e8",
+      "title": "7人犠牲のイオンモール熊本に手を合わせる人々の姿、色紙には「いつどんな時も忘れないよ」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T03:49:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5od0RFby1MWlA0MU5NMHpCbGtVMGN3T3hQcE56QnlOeW8xZU5EdWlBcTJYaU9VRGI0bDAyRHlFaWUtQ2hyZjhVUVZGeXlzckIwU0lBeU1XRXpJa0NSNlRGcnVpYUtJdw?oc=5",
+      "first_seen": "2026-08-04T04:00:29Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "4930083338a89af28da5",
       "title": "「言葉にならんばい」煙突が折れた日本製紙八代工場内にいた男性は...熊本地震ルポ",
@@ -113,14 +127,14 @@
       ]
     },
     {
-      "id": "03df5ea8e0afc87fdadb",
-      "title": "イオン熊本の爆発、暗闇で極限の捜索 バックヤード周辺に犠牲者多数 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
+      "id": "80b4e90c1a21053da44e",
+      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-08-04T02:03:44Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xakV5ZnB1ZnFsQS1ST2pUZlJteERGalFLa01jU2tfVnFaa1IzamJxWFhTb3FxQUt0OXU2SGE2WlZjN0U5Ul9iVmt3dDhpczJOemE3TER5VlZwNjVfekdYZ3RYZnlvTm8?oc=5",
-      "first_seen": "2026-08-03T20:31:06Z",
+      "published_at": "2026-08-04T01:50:24Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGtweUZseWdGVnhoWlRwLTBtWUJUMy1yMGNSVEpBWVZaT3pzcWVUV0toSmViWmRVcHo2YkdqZGo5aG1Ecld0TTBkTFJ3d3hTT3dXRFJzMkZkc25lV1ZiMTdTelZjYzc2dHBpbW9sR0ctWndiRmpkOW9BVXo2YTlsaS1ZdVpyMnJhSXgzbF9xZjZVNF8xaDlkTGk2aXBlcXRWNnc?oc=5",
+      "first_seen": "2026-08-04T04:00:29Z",
       "focus": [
         "現場状況"
       ],
@@ -297,6 +311,22 @@
       "published_at": "2026-08-03T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQldlRmVFcDV1clIzY0hTbXdrb0NrajRXeVlKMFVRTzh3ZlhlbkFraWhyal92b0I1WVFHb2F4a29fZjJMa3hsSzFiTW4wMlhvVEg3WWtPbVZyT19FVVNYU3hWaTNtMktRYjdjdmFjRkJkUDBmSEJhMHpMTW5JWWtHMVJUS3ZGNzlNNU1uWm81ZUNxblo0SXRONXJB?oc=5",
       "first_seen": "2026-08-03T21:30:26Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "03df5ea8e0afc87fdadb",
+      "title": "イオン熊本の爆発、暗闇で極限の捜索 バックヤード周辺に犠牲者多数 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xakV5ZnB1ZnFsQS1ST2pUZlJteERGalFLa01jU2tfVnFaa1IzamJxWFhTb3FxQUt0OXU2SGE2WlZjN0U5Ul9iVmt3dDhpczJOemE3TER5VlZwNjVfekdYZ3RYZnlvTm8?oc=5",
+      "first_seen": "2026-08-03T20:31:06Z",
       "focus": [
         "現場状況"
       ],
@@ -6017,7 +6047,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:23:38Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjFPcHdicDJScDdxYm9qS0RoY3JyeDVYR1FXUkFfTjhrM3Q5NlRQQUlMRWg0RHpiQnF3bGZWRGdUSV80R1JBWUVvVktpeG4wQ3NrRTBTVGRKSE9MRFZ1VjNNbmtnaWxydEM1aXBaVXZick1UV29kM255R0V5c2lpdVphUktHT2NfRmZmWHlueXY0NEVS?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYW1iRzJ6S29zOFl3V3ZGRFFzdkl3MmNaUGI3ZERVdnUydmZIS2lnMktIYngyd0hIMTVmc3FjRVNFVDJQNkQ1cERnWElsdjZDNHI3MWFrSGZMalBNeVdSSmt0ZHMwUEZoYmU4U2Q3Z2UyUVhuclp0WC1tX3ZhS1B2ejRDVkNrUnNIXzJiZnp0NDI?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
