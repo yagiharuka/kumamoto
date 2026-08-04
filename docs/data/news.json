@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T17:31:04Z",
-  "updated_at_jst": "2026/08/05 02:31 JST",
+  "updated_at": "2026-08-04T18:01:11Z",
+  "updated_at_jst": "2026/08/05 03:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 795,
+  "article_count": 796,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "jiji": 129,
+    "jiji": 130,
     "nhk": 61,
     "kumanichi": 115,
     "sankei": 140,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 627,
+    "aeon": 628,
     "power": 104,
     "paper": 78
   },
@@ -227,7 +227,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T09:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeWI3cDk3MEE3d2VzckRvY1gybjdPVUV6WFlJSFlEY2JxeS1EaUN2bHpwREhGYzV6a3h4VGtfQkxWWnNkZEZGUGhWeUM4cFc0ck12TlJpUTExQ3hwVDlYaWVVNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekJiZjVYb1pGeDd0dDZSS3FDYTBxc243enV3U2dVcFpyU0RTT1RXYzhVQzBUMjljU1dxZFVGWHEtMDJfdXJzOWFpLU5ENXZpd29WSnhzaUxiSl9FQV90RjBsMFd1b2psc1ZfZEY3ZXg3NWlXb3BETExKaDhvMnB5MQ?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -296,6 +296,22 @@
       "first_seen": "2026-08-04T11:01:04Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1403e2161f3077e085b8",
+      "title": "死亡3人、14分前「ちょうど店出る」=オンワード「痛恨の極み」―イオン爆発事故・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T09:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tLW9RbzAyS3VzMWM5YWRwRGJDQWlibFRhUk1DMHV0dXlCWUV3aVM0OEU3NTJudVNvdHV4dVBDeVhoX0M3d2lFOEt4cFhxY1hESkZSZw?oc=5",
+      "first_seen": "2026-08-04T18:01:11Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -506,7 +522,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T05:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -3803,6 +3819,24 @@
       ]
     },
     {
+      "id": "e8e89400f33e82e3edcc",
+      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T13:01:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmJTQlJrTFZSOFctQXdMeDZUQ1lCV2hYeWxwM2NsWUd4b3BBcEwzZmJnaVNRVHpUUXIwLU9RZkNhdHJrWWROWUJaRV9iOFh1cE9PRW5aVUlUMmRibFBwdVZQNFJIR25aQlZDZDZFNFlwdlBjbXI1VjBSVWw4SThhTU5n?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "d0d2374978942fee24d2",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
@@ -3829,24 +3863,6 @@
       "published_at": "2026-07-30T13:01:00Z",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1l6Sl9iNHVHWkNtWUZBQ2RRd3FoYmk1d0dQeE1pSWFmUVlsc1dKa3lGMjNoWDF2NWVkMXFQcXY4ZzZ3dm1QX01RNTFrOFdvMG1TX1dmeGxqWlcxWWJmYVlXQjJ2RGxlcGNTcTRPUVRVRy0tTDZNQlhhTTZLa25iVmVR?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "e8e89400f33e82e3edcc",
-      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T13:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -4967,7 +4983,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T03:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SQkRpcHp0YWVWbmRFZHkwQkZYWUIzSXh3MHNHTVRiRlZ3MmdaN0p0N1BvQk9KanRTUTBVbk1ONlc4eGN2WDZ2VEg2Z3IwZXBBalFIOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NYXdTeHZUeDBxbnV3a1pNdFd6TTd4ZDMxYlh1RE9lc2JOMFRnTXZTcExrcHp3WllJSG1lRnNIQmM1MkEzTTR0M3lQNDVHRnJfYW1xTXFqb3ZYeC1XN3c?oc=5",
       "first_seen": "2026-07-30T04:00:49Z",
       "focus": [
         "救助・安否"
@@ -7038,14 +7054,14 @@
       ]
     },
     {
-      "id": "eb28e0d6a16607b0d492",
+      "id": "4d420731e0ef3eded542",
       "title": "続く断水、給水車に列 停電も、厳しい避難生活―熊本地震被災地",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T08:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkw2MVZXRWdEMDNTZmZWb0M2a2RocTV4VjRLZTlTZVZfV195MXZhMEdTU05nSXE0dS12UEF3SEUySGhNamEtZFRUUGMtbV84UVN4d2lKNDBzZUE5NUJaWGk0d29zMUJ6TU14ZVc4RDl4QkVkdDItOWhaZ0JLRU41WU53?oc=5",
-      "first_seen": "2026-07-29T09:01:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRElxc3VRblktZUhKTXhHWXZWYWJ6aHZqZUgwVGREekxFZGFkUkd3OTZOOVVicUVUUXBDQVV0c2doTW56RmVLZmVMRmN6ZUh6V193LXNnNUM5SlR2OXZWc0lVUzJMOGxxMDlCU2ZxbEZDNkl0d3dBaG9FRkNDeWh2TV93?oc=5",
+      "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
         "停電状況"
@@ -7055,14 +7071,14 @@
       ]
     },
     {
-      "id": "4d420731e0ef3eded542",
+      "id": "eb28e0d6a16607b0d492",
       "title": "続く断水、給水車に列 停電も、厳しい避難生活―熊本地震被災地",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T08:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
-      "first_seen": "2026-07-29T03:00:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkw2MVZXRWdEMDNTZmZWb0M2a2RocTV4VjRLZTlTZVZfV195MXZhMEdTU05nSXE0dS12UEF3SEUySGhNamEtZFRUUGMtbV84UVN4d2lKNDBzZUE5NUJaWGk0d29zMUJ6TU14ZVc4RDl4QkVkdDItOWhaZ0JLRU41WU53?oc=5",
+      "first_seen": "2026-07-29T09:01:08Z",
       "focus": [
         "避難状況",
         "停電状況"
