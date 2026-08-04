@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T02:30:35Z",
-  "updated_at_jst": "2026/08/04 11:30 JST",
+  "updated_at": "2026-08-04T03:00:36Z",
+  "updated_at_jst": "2026/08/04 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 754,
+  "article_count": 755,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 100,
     "mainichi": 99,
     "asahi": 93,
     "sankei": 128,
-    "yomiuri": 99,
     "kumanichi": 110,
     "jiji": 122,
     "nhk": 58,
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 592,
     "power": 103,
-    "paper": 73
+    "paper": 74
   },
   "items": [
+    {
+      "id": "4930083338a89af28da5",
+      "title": "「言葉にならんばい」煙突が折れた日本製紙八代工場内にいた男性は...熊本地震ルポ",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T02:29:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zd2ZXcGtFdGw2aFFXeGU5MGI1Z3NyOHlXaGRGbWVkMEtueVhVSnZhTGtiMjViOXBBb0FXMEZaai04amFQRldXVmtUc3p2bDVzRFppS0hCWHR1NTFDRkdYSm9VUUJMLTVTZ3paWmp5ZGxzdw?oc=5",
+      "first_seen": "2026-08-04T03:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "005f04065bdf392d2f6c",
       "title": "イオンモール熊本前に花束や色紙「またね」 「危機一髪」語る人も",
@@ -162,13 +179,29 @@
       ]
     },
     {
+      "id": "f693721c802a36d4396a",
+      "title": "避難後の従業員に戻るよう指示 イオン...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T00:56:15Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12cnF6U1Y4Z3JacmJpOXV0d1hIWWFwUGhXMTRoLVB4aHJKcHRkYURNT3NNNHhLQzFDQWNWdDNyOE5NT0o1cnpPV0RfSUd1VUI5UmFMc0I1WFY3VnpFcW5VZENfLV9jbFNrMmtpX1pXVQ?oc=5",
+      "first_seen": "2026-08-03T14:01:18Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f638eff145c7c0b0412a",
       "title": "イオン避難後「中へ戻っていい」 社長説明と異なる複数人の動き再現 [熊本県]",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-04T00:44:32Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45MHZTTnRzbjZrT0JHLTQzQ1V6VVY4TVhUc19XOTExN3RBZlhXckNuakg2ZWVpWkFmLVAtQ1hZazg0TlVkTTEyM3RIOExGeWszWnhOdUREbmEwZGtYSFRqTmlIWXlUSGNKendoX0J3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3l1bXM1RDl3dGJWYnVjZVZlUV93YUEyTzlMa2M0RnRheDlMcHBrMlNyelM0S0t0X3lpMENxSk1yR25zNnI0RGxPTnFvV2VLN0oyMzE1MWU3aURsUVZCU2x0MjRIdDhaOFBRWU42Nl9KVElZSEwtZThfd2VleFptb0QwRW5lRlBkalBEX2lR?oc=5",
       "first_seen": "2026-08-04T01:30:32Z",
       "focus": [
         "避難状況"
@@ -262,7 +295,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0VWdzFfY2wxdGRFQ1lyZmxGdGkyY1R0Z1NTRGMybHNpV0Y3X2w0VzZ3aUhYcXZ1RVo3cGRFM1MycFZnYWVQaFVpRmVxTDNJcUljMlFlMU15VVVDZ0ZQcjlFRTN5NTltczluX0luMGpfblJQVGxNY0J5T05GNnI3blRMeU03ZXZxdWNZZTdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQldlRmVFcDV1clIzY0hTbXdrb0NrajRXeVlKMFVRTzh3ZlhlbkFraWhyal92b0I1WVFHb2F4a29fZjJMa3hsSzFiTW4wMlhvVEg3WWtPbVZyT19FVVNYU3hWaTNtMktRYjdjdmFjRkJkUDBmSEJhMHpMTW5JWWtHMVJUS3ZGNzlNNU1uWm81ZUNxblo0SXRONXJB?oc=5",
       "first_seen": "2026-08-03T21:30:26Z",
       "focus": [
         "現場状況"
@@ -282,22 +315,6 @@
       "first_seen": "2026-08-03T13:31:10Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "f693721c802a36d4396a",
-      "title": "避難後の従業員に戻るよう指示 イオン...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T12:50:15Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DbjU4VmdUXzBJLVQ4MWltR1dUOU1LNERwY01WWDdEOWRGUzYxRi1RZ2ttM25wQUpuSmZZZGRkSEpab08xZjdxUTlkUUVFckI3R0p3UzFLNWlxVFRicl9vbzUzTDF2dDJWZFpJYmRFSQ?oc=5",
-      "first_seen": "2026-08-03T14:01:18Z",
-      "focus": [
-        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -3446,7 +3463,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T12:10:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMDdicmxOS1Y0Q1BFaS1fUVByWUY4bC1ONHk4cVY5cmdsdGFINVVTTi12Y2xITHFBY09vUEtTa3gyU3dBamlWdW1Ca2lMUEk4TjBEamlKSUtFM2ZORnBpMW5mcVBPRmQ5dDJlcl9B?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -6000,7 +6017,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T09:23:38Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVNjWl9oZVpkOWIzNXFGY0I0cDcxeE5TQ2lMQ2RjQ0VxdEhuRzdYS051Y2VlM2g5dWt3QW93dmRsT3ZfN0VsREw3NGczd0p3YWJKTUJfcTFvdzZwRUZHS2NBa0JiZnhkckpQQm9fWGVhNjR6VmhsZE5hUnVaa2Vmd3hKOE1fSGg1Q1BFSE4yMUM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjFPcHdicDJScDdxYm9qS0RoY3JyeDVYR1FXUkFfTjhrM3Q5NlRQQUlMRWg0RHpiQnF3bGZWRGdUSV80R1JBWUVvVktpeG4wQ3NrRTBTVGRKSE9MRFZ1VjNNbmtnaWxydEM1aXBaVXZick1UV29kM255R0V5c2lpdVphUktHT2NfRmZmWHlueXY0NEVS?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -6481,22 +6498,6 @@
       ]
     },
     {
-      "id": "99ae68389686aadd5123",
-      "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T08:02:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vbE1qN2xad19GNzN6YXk1azhSU3kteTEtZ2VkQlJBZ1BGS2pJMXBncU9aclNUaHZJT0R0SGVQRUlGOU1JVjQzOXlUSmlPX2ZEUWJ1clM4dzBETC1YU1E?oc=5",
-      "first_seen": "2026-07-29T15:30:19Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "026f12ca1e284e079acb",
       "title": "「無事に救助、願うしか」 イオン周辺、涙ぐむ人も―熊本・嘉島町",
       "source": "時事通信",
@@ -6660,7 +6661,7 @@
     },
     {
       "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -8623,6 +8624,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "99ae68389686aadd5123",
+      "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T01:57:35Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQkRiSkVxV0k5LVJSdzlGeVlMYXgwTTJaRHdrR0VqVm5feFJENEVXclI5SVlhN3IyNEh1Q28xN1BTLXJqUG9JbTNubnFreHBhZUJyOV9fZFVJbU80UGc?oc=5",
+      "first_seen": "2026-07-29T15:30:19Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
