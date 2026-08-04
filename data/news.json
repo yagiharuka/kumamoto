@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T11:31:05Z",
-  "updated_at_jst": "2026/08/04 20:31 JST",
+  "updated_at": "2026-08-04T12:01:05Z",
+  "updated_at_jst": "2026/08/04 21:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 785,
+  "article_count": 787,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "nhk": 61,
+    "jiji": 129,
     "kumanichi": 114,
-    "jiji": 128,
     "sankei": 134,
     "nikkei": 47,
     "mainichi": 102,
-    "nhk": 60,
     "asahi": 99,
     "yomiuri": 101
   },
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 618,
+    "aeon": 620,
     "power": 104,
     "paper": 77
   },
   "items": [
+    {
+      "id": "2ea06160415521d1a6f5",
+      "title": "イオンモール熊本で働く男性 爆発が起きた時の状況を話す",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-04T11:47:20Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTGppZ2lycmR3VmVLcXVBYlNGbV8yZVYyTTFDNVlMcF8tTV82TXV5YjhKTjgwV0dNOTBCeERTNUE0MlFsY0czUVh2QVlkWEgyNkF3clBPZzhrZ3pWNjdB?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4ae20395792cbcf5b9e9",
+      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T11:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "11bcd6ae2d60b8eae4f6",
       "title": "<2026年熊本地震>「退避指導 徹底できず」 イオン爆発で3人犠牲の衣料店 貴重品取りに戻ったか",
@@ -4907,7 +4939,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -4924,7 +4956,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
