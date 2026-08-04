@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T10:31:04Z",
-  "updated_at_jst": "2026/08/04 19:31 JST",
+  "updated_at": "2026-08-04T11:01:04Z",
+  "updated_at_jst": "2026/08/04 20:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 779,
+  "article_count": 781,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
-    "sankei": 133,
+    "sankei": 134,
     "nikkei": 47,
     "jiji": 125,
     "kumanichi": 113,
     "mainichi": 102,
     "nhk": 60,
-    "asahi": 98,
+    "asahi": 99,
     "yomiuri": 101
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 615,
+    "aeon": 617,
     "power": 103,
     "paper": 75
   },
@@ -109,6 +109,23 @@
       "first_seen": "2026-08-04T09:31:05Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b6c0cb454774e4785888",
+      "title": "「あなたがいたから笑い楽しめた」色紙 熊本・爆発イオン、訪れた人が女性従業員ら追悼",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T09:24:44Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BOXJmbVVnNlBBUXpHbVAzT1dyd2RYY1NWZXpSUHRQRzVBb0RweUo2U3NqZTJ4eDcyZktzS01MSnpKNzlJMUVyR2pBXy1YalRlc244UUpObEdJZGlqQWZMX1JTWlhEcGVsS1dSVGtyMjlGOU1fWFE?oc=5",
+      "first_seen": "2026-08-04T11:01:04Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -296,6 +313,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e6f80db874ab7d557859",
+      "title": "【動画で見る熊本地震】発生1週間 被害状況、イオン、抜けた水道管 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T04:13:22Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSnpkNXpMN040TU1WdFBMQ0FsSVBuOEpjZzNXNk90SWhGdVNaTF9TOGx6NGNlV3dZeXVKbnVMSTQtS3RESFhWTnJHc1VQOFMyYzlnbW1fTmVnWWZWOVNkODVRTHZ0MTV1Q3BJYjBMQmZXZTlRZXFrMnc2aW43T3ljRWpyZU1YdW8yNVhnTzJxMDE1N1N1bW85SF80NnNSX193c01UdUgzYw?oc=5",
+      "first_seen": "2026-08-04T11:01:04Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -4814,7 +4845,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -4831,7 +4862,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
