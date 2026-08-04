@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T21:00:39Z",
-  "updated_at_jst": "2026/08/05 06:00 JST",
+  "updated_at": "2026-08-04T21:30:34Z",
+  "updated_at_jst": "2026/08/05 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 797,
@@ -124,6 +124,23 @@
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T11:04:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -1151,23 +1168,6 @@
       ]
     },
     {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "179eaac5330c48033e4d",
       "title": "イオンモール熊本で2人死亡「ハビタ」が公式HPに謝罪文 館内戻る指示など詳細に触れず",
       "source": "産経新聞",
@@ -1575,7 +1575,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-02T08:45:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UU3Z4Rm82M284a1lCZ2h3bDlLT0tZNHltV3U1QzAyMUFxQlNOcVdmMUdnS2N6REQ1d1FISXNGQVYwa29yTmNxaDQ4bl9HWVhwUldEcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcTRZMkREVTFTcEI1WVd6UUQxMXhaSU5SSkZhQ2x6cXFIWWFrNVpQM0t5NjZ4QjVXNHVySTVNWXFnXzJfNE9MYWtmS1VVSm5oTm56REFR?oc=5",
       "first_seen": "2026-08-02T09:00:22Z",
       "focus": [],
       "category_ids": [
@@ -2872,20 +2872,6 @@
       "focus": [
         "救助・安否"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "05dcd8044abe212bc268",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T02:16:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxNUXlueVlaci02UzNCaW8zM3B6eVEzNmJyXzZHYjkyRHRPNF9Wb3FNRWZxNFhFUUx0UXczT3BMeTBEVC1SQmtZNjQ1TWxFU3E5R1BsaC1Wa2UxdUgtN1RLZGY5eUp2TEd3ZVp6Q1V6MkN4MS1ra21HemR6SVFpNUwtcTZfOTl5QlI0c0t5NzZkX1Jtb1NKS0FB?oc=5",
-      "first_seen": "2026-08-02T04:30:17Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -9604,6 +9590,20 @@
       "published_at": "2026-07-29T00:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhT0luNWpDektBQmZvMkpFY0RCTE5XVVNvWEtMcmRHTkxOSFlEaVNHRExRUU1RYklKVTVkSWdGU1dLbW5hc1RCMkhPUXF0OTVxdllVOWJjSERNbnNSWjlkUnVfNVI2ZjN5ZXc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "05dcd8044abe212bc268",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzJuLUZDaUhIelI0SWgteU41OFRsM1VuVkxzWkdoRlJNRDd4Q3VFdVQxYUg4UzJkTWZjekJkX1AwVy1fMlFLYlRpdmlfVXhDc20wVGo1Zk5CeDkyaW9YWVROUEsxYzhueWh5eGR5NDRIWkRtSkZFQjQ1dkxNZWh1emxWcjc1QkR2WkRaTUtR?oc=5",
+      "first_seen": "2026-08-02T04:30:17Z",
       "focus": [],
       "category_ids": [
         "aeon"
