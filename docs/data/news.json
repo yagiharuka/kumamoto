@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T23:30:36Z",
-  "updated_at_jst": "2026/08/05 08:30 JST",
+  "updated_at": "2026-08-05T00:30:39Z",
+  "updated_at_jst": "2026/08/05 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 798,
+  "article_count": 799,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "jiji": 130,
     "nhk": 61,
     "kumanichi": 115,
-    "sankei": 140,
+    "sankei": 141,
     "nikkei": 47,
     "mainichi": 104,
     "asahi": 99
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 630,
+    "aeon": 631,
     "power": 104,
     "paper": 78
   },
@@ -87,7 +87,7 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-04T22:48:17Z",
+      "published_at": "2026-08-04T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJal9kNEVZbzc0ZUtMODRuTTNmZzgzWkF3WVNtV25kRFdVMEJvMWdHc0tlRW1sdmFtMU5xcGIxcU1WM0xpZldKWm9LM09uMko0azlVS2ZkdjMwTVZyOHJ2Nk5UMmxuZw?oc=5",
       "first_seen": "2026-08-04T23:30:36Z",
       "focus": [
@@ -538,7 +538,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T05:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -4476,6 +4476,22 @@
       ]
     },
     {
+      "id": "4522d668168a123dbc90",
+      "title": "爆発したイオンモール熊本(熊本県嘉島町)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T08:32:48Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXdmNTVDVWlYcXVxVjdXLWhRYUVUTmd0UHpwUGJsMEFvMVlWLVNmdTNnQndUS1ZnR1pydVdhczVzcEQtelRiaE9iOWtxQ1d3WllaTjcycmlzcHZ5ZjJyTllGS1Z2WUNxOXJWc05xZkV3V2hUekRVQTZ6eHEzUUdIWktXbnJoTTQ0VnpBUGVfWEhORWlmUU82VkRGcmkzUXRkU3c?oc=5",
+      "first_seen": "2026-08-05T00:30:39Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b980fb951df43d2aff43",
       "title": "イオン入店のミスド、従業員は無事 ダスキン、モップなど洗浄の工場稼働停止 熊本地震",
       "source": "産経新聞",
@@ -5098,7 +5114,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
@@ -8102,7 +8118,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T06:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ISUtUTTdUMm0zLV9YeFJtODJneHdpTEFQWC1rUXh5bjhjaG9XOWJLel9wTVpxT0owZ1BWZ1VRTVRlTFdJc21TT2VrcDI3ajNrOGNmQWQ2MkZSTVV5TWNudy0xbWdhVmlOZm9NWUF1NXJwWGYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wNUFBeWtMdXVLTU5SQ1dTcTV2OGFCYW10Q3BLc3N5TzJGU1lEV3VZazdscXJmYU5WQThJSUZNaUZXd3BzNnFQd1p1X3dHb280MTRDVXI3RzNTMkRmaXdIb2xzM0t6WjllTzA2UmJhVVIxU2E3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否",
