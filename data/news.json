@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-05T04:30:41Z",
-  "updated_at_jst": "2026/08/05 13:30 JST",
+  "updated_at": "2026-08-05T05:00:38Z",
+  "updated_at_jst": "2026/08/05 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 806,
@@ -1016,40 +1016,6 @@
       ]
     },
     {
-      "id": "a8ee8915707351d7f228",
-      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T11:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4fdefa9b63cde1146fc4",
-      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T11:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
-      "first_seen": "2026-08-03T09:31:12Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "32bd48d7557dcc099fe5",
       "title": "<独自>イオン爆発で2人が死亡した「ハビタ」 ほかの3店舗でも売上金の金庫保管を指示",
       "source": "産経新聞",
@@ -1181,6 +1147,23 @@
       ]
     },
     {
+      "id": "a8ee8915707351d7f228",
+      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T09:56:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c0c81e9cdd8a3f4fc361",
       "title": "イオンモール熊本爆発事故、建屋の現地調査開始 経産省や警察など",
       "source": "日本経済新聞",
@@ -1232,6 +1215,23 @@
       "source_group": "全国紙",
       "published_at": "2026-08-03T09:18:29Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYWZWeFFoSkJfZ1JFTnZ5NmUzUHhxaUp1bEpYd3R4RHRnWFpfalc3RzJhZmxhY0FVQkFMa01VTWQ4Vkp6a0REdnhNdUJYTHRTNHZmbEtTdUFqVmtxQ09tanZ1ZTJHZFlReFZINURnYlh5eFZ2WWc?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4fdefa9b63cde1146fc4",
+      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T09:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GcDFXajZSSF9sZ25DSHdDUkhHVV84WjBjbUtJNUprVkhVVXl6Q3ZIa1RxZXV4MG9DRnJhMnAycXlaaUZ6czZGZTVvQk52T1A1LU5SUzF0akV0amV3Sk5rM3l2WQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -2977,6 +2977,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "05dcd8044abe212bc268",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T02:16:09Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxNUXlueVlaci02UzNCaW8zM3B6eVEzNmJyXzZHYjkyRHRPNF9Wb3FNRWZxNFhFUUx0UXczT3BMeTBEVC1SQmtZNjQ1TWxFU3E5R1BsaC1Wa2UxdUgtN1RLZGY5eUp2TEd3ZVp6Q1V6MkN4MS1ra21HemR6SVFpNUwtcTZfOTl5QlI0c0t5NzZkX1Jtb1NKS0FB?oc=5",
+      "first_seen": "2026-08-02T04:30:17Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -9728,20 +9742,6 @@
       "published_at": "2026-07-29T00:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhT0luNWpDektBQmZvMkpFY0RCTE5XVVNvWEtMcmRHTkxOSFlEaVNHRExRUU1RYklKVTVkSWdGU1dLbW5hc1RCMkhPUXF0OTVxdllVOWJjSERNbnNSWjlkUnVfNVI2ZjN5ZXc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "05dcd8044abe212bc268",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T23:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzJuLUZDaUhIelI0SWgteU41OFRsM1VuVkxzWkdoRlJNRDd4Q3VFdVQxYUg4UzJkTWZjekJkX1AwVy1fMlFLYlRpdmlfVXhDc20wVGo1Zk5CeDkyaW9YWVROUEsxYzhueWh5eGR5NDRIWkRtSkZFQjQ1dkxNZWh1emxWcjc1QkR2WkRaTUtR?oc=5",
-      "first_seen": "2026-08-02T04:30:17Z",
       "focus": [],
       "category_ids": [
         "aeon"
