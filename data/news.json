@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-05T02:00:38Z",
-  "updated_at_jst": "2026/08/05 11:00 JST",
+  "updated_at": "2026-08-05T02:30:37Z",
+  "updated_at_jst": "2026/08/05 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 800,
@@ -927,23 +927,6 @@
       ]
     },
     {
-      "id": "a8ee8915707351d7f228",
-      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T11:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4fdefa9b63cde1146fc4",
       "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
       "source": "時事通信",
@@ -1085,6 +1068,23 @@
       "first_seen": "2026-08-04T09:01:12Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a8ee8915707351d7f228",
+      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T09:56:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -5113,7 +5113,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
