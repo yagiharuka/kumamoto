@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-05T03:00:40Z",
-  "updated_at_jst": "2026/08/05 12:00 JST",
+  "updated_at": "2026-08-05T03:30:37Z",
+  "updated_at_jst": "2026/08/05 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 805,
@@ -954,6 +954,20 @@
       ]
     },
     {
+      "id": "d36c2520389c38c19778",
+      "title": "【動画で見る熊本地震】発生1週間 被害状況、イオン、抜けた水道管 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T13:22:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEVVR05FRzZoU2JlNllyT1dmb0k1R2hrWmZCdVpDa0tGb28tb2ZoSHd4LTJNejRyc2FZLXdnZFhKN2sxVnZtOGdLdmhINkNiQlZ4N2FQM2tiRnYtd1llZWgybmIzY2ppRVRUN2hyU0xQX0Z2RFUwY0xlX05kY0g4MU1SSVZta2YtSUs3bnBtQVE5Zld5NzNoczZYeU9aRG9YLUF4YkEwZG1XUQ?oc=5",
+      "first_seen": "2026-07-31T07:00:51Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "be10cb4f420b8bfd1e2b",
       "title": "【電子版限定】<2026年熊本地震>「『帰りなさい』と伝えていれば」 イオンモール熊本爆発事故 「ハビタ」役員との一問一答",
       "source": "熊本日日新聞",
@@ -1274,22 +1288,6 @@
       ]
     },
     {
-      "id": "d36c2520389c38c19778",
-      "title": "【動画で見る熊本地震】爆発のイオンモール、割れる地面 各地で被害 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T04:57:43Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdEVVR05FRzZoU2JlNllyT1dmb0k1R2hrWmZCdVpDa0tGb28tb2ZoSHd4LTJNejRyc2FZLXdnZFhKN2sxVnZtOGdLdmhINkNiQlZ4N2FQM2tiRnYtd1llZWgybmIzY2ppRVRUN2hyU0xQX0Z2RFUwY0xlX05kY0g4MU1SSVZta2YtSUs3bnBtQVE5Zld5NzNoczZYeU9aRG9YLUF4YkEwZG1XUQ?oc=5",
-      "first_seen": "2026-07-31T07:00:51Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "22b54f073ad1dfaeaaf1",
       "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
       "source": "朝日新聞",
@@ -1407,7 +1405,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T21:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Um1PSGw5WlFka0o2d3lHdkdYUWZVNjQyRXliN2VqM28zNFNYcXBhWENGTEZyY1B1d2hSTlpvRFRVYm5zZ2xXUGJqbkNIZHhDZ3BrcGEtVWR1d0J1a29Td2RHNlNvUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1pENTNKdUpMOWpobFQ4Z09kT1ZKaGZ6S0FCdDZ5YW5QVmUyU2poRFhLSnllemcxdFZIa21qSjRHWEs4elZrTWZOU2N5bWpOeHNRSUdYN0pfZmhKUGxZdXdoeHQ0Y0lJQzUzbk0tLTRzUDhUT2pPd1hNaWwtaHRMTGVhT3RfMTE2c0lTeGpTa0s?oc=5",
       "first_seen": "2026-08-03T04:31:07Z",
       "focus": [
         "現場状況"
@@ -2964,6 +2962,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "05dcd8044abe212bc268",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T02:16:09Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxNUXlueVlaci02UzNCaW8zM3B6eVEzNmJyXzZHYjkyRHRPNF9Wb3FNRWZxNFhFUUx0UXczT3BMeTBEVC1SQmtZNjQ1TWxFU3E5R1BsaC1Wa2UxdUgtN1RLZGY5eUp2TEd3ZVp6Q1V6MkN4MS1ra21HemR6SVFpNUwtcTZfOTl5QlI0c0t5NzZkX1Jtb1NKS0FB?oc=5",
+      "first_seen": "2026-08-02T04:30:17Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -9715,20 +9727,6 @@
       "published_at": "2026-07-29T00:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhT0luNWpDektBQmZvMkpFY0RCTE5XVVNvWEtMcmRHTkxOSFlEaVNHRExRUU1RYklKVTVkSWdGU1dLbW5hc1RCMkhPUXF0OTVxdllVOWJjSERNbnNSWjlkUnVfNVI2ZjN5ZXc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "05dcd8044abe212bc268",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、震源、交通や経済は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T23:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzJuLUZDaUhIelI0SWgteU41OFRsM1VuVkxzWkdoRlJNRDd4Q3VFdVQxYUg4UzJkTWZjekJkX1AwVy1fMlFLYlRpdmlfVXhDc20wVGo1Zk5CeDkyaW9YWVROUEsxYzhueWh5eGR5NDRIWkRtSkZFQjQ1dkxNZWh1emxWcjc1QkR2WkRaTUtR?oc=5",
-      "first_seen": "2026-08-02T04:30:17Z",
       "focus": [],
       "category_ids": [
         "aeon"
