@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-05T00:30:39Z",
-  "updated_at_jst": "2026/08/05 09:30 JST",
+  "updated_at": "2026-08-05T01:00:36Z",
+  "updated_at_jst": "2026/08/05 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 799,
+  "article_count": 800,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "yomiuri": 102,
     "jiji": 130,
-    "nhk": 61,
+    "nhk": 62,
     "kumanichi": 115,
     "sankei": 141,
     "nikkei": 47,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 631,
+    "aeon": 632,
     "power": 104,
     "paper": 78
   },
@@ -87,7 +87,7 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-04T20:00:00Z",
+      "published_at": "2026-08-05T00:27:37Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJal9kNEVZbzc0ZUtMODRuTTNmZzgzWkF3WVNtV25kRFdVMEJvMWdHc0tlRW1sdmFtMU5xcGIxcU1WM0xpZldKWm9LM09uMko0azlVS2ZkdjMwTVZyOHJ2Nk5UMmxuZw?oc=5",
       "first_seen": "2026-08-04T23:30:36Z",
       "focus": [
@@ -351,6 +351,22 @@
       ]
     },
     {
+      "id": "4a3372a9be536ba30227",
+      "title": "イオンモール爆発 3人死亡のオンワードHDが被災経緯を公表",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-04T08:46:22Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83ekFIU1h3Q0NCZXo1cHAwSnBoNXMzaWpLMktZYlRSenNQSUlPbzVUOF9VMnhxMHJwaUYzbHdkRkNDazZmZWpGWlp2X3pNQTlwZXRLZ0RUTklHeWFkWHNF?oc=5",
+      "first_seen": "2026-08-05T01:00:36Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "0b0b1450e1a936625cc1",
       "title": "イオンモール熊本「爆発」一部犠牲者の具体的な“被災経緯”が明らかに オンワードHDが時系列で公表【全文】",
       "source": "産経新聞",
@@ -538,7 +554,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T05:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -927,40 +943,6 @@
       ]
     },
     {
-      "id": "a8ee8915707351d7f228",
-      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T11:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4fdefa9b63cde1146fc4",
-      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T11:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
-      "first_seen": "2026-08-03T09:31:12Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "32bd48d7557dcc099fe5",
       "title": "<独自>イオン爆発で2人が死亡した「ハビタ」 ほかの3店舗でも売上金の金庫保管を指示",
       "source": "産経新聞",
@@ -1092,6 +1074,23 @@
       ]
     },
     {
+      "id": "a8ee8915707351d7f228",
+      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T09:56:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c0c81e9cdd8a3f4fc361",
       "title": "イオンモール熊本爆発事故、建屋の現地調査開始 経産省や警察など",
       "source": "日本経済新聞",
@@ -1143,6 +1142,23 @@
       "source_group": "全国紙",
       "published_at": "2026-08-03T09:18:29Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BYWZWeFFoSkJfZ1JFTnZ5NmUzUHhxaUp1bEpYd3R4RHRnWFpfalc3RzJhZmxhY0FVQkFMa01VTWQ4Vkp6a0REdnhNdUJYTHRTNHZmbEtTdUFqVmtxQ09tanZ1ZTJHZFlReFZINURnYlh5eFZ2WWc?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4fdefa9b63cde1146fc4",
+      "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T09:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GcDFXajZSSF9sZ25DSHdDUkhHVV84WjBjbUtJNUprVkhVVXl6Q3ZIa1RxZXV4MG9DRnJhMnAycXlaaUZ6czZGZTVvQk52T1A1LU5SUzF0akV0amV3Sk5rM3l2WQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -1591,7 +1607,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-02T08:45:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcTRZMkREVTFTcEI1WVd6UUQxMXhaSU5SSkZhQ2x6cXFIWWFrNVpQM0t5NjZ4QjVXNHVySTVNWXFnXzJfNE9MYWtmS1VVSm5oTm56REFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UU3Z4Rm82M284a1lCZ2h3bDlLT0tZNHltV3U1QzAyMUFxQlNOcVdmMUdnS2N6REQ1d1FISXNGQVYwa29yTmNxaDQ4bl9HWVhwUldEcQ?oc=5",
       "first_seen": "2026-08-02T09:00:22Z",
       "focus": [],
       "category_ids": [
@@ -3621,7 +3637,7 @@
     },
     {
       "id": "7ec6d4c3e0808a87e7b4",
-      "title": "【熊本 地震 30日】日本製紙 八代工場 残る1人を救助 容体不明 捜索活動終了 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "日本製紙 八代工場 残る1人救助 容体不明 捜索活動が終了",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
