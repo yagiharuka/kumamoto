@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-06T22:00:31Z",
-  "updated_at_jst": "2026/08/07 07:00 JST",
+  "updated_at": "2026-08-06T22:30:27Z",
+  "updated_at_jst": "2026/08/07 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 872,
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 127,
     "yomiuri": 115,
     "sankei": 156,
+    "kumanichi": 127,
     "nhk": 68,
     "jiji": 141,
     "nikkei": 50,
@@ -81,23 +81,6 @@
     "paper": 87
   },
   "items": [
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-06T15:49:55Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
     {
       "id": "cb8768dd7e88777e8379",
       "title": "「イオンモール熊本」にLPガス提供会社、爆発事故「重く受け止める」...安全装置の作動「調査中」",
@@ -1033,6 +1016,23 @@
       ]
     },
     {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T11:04:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "897d42a95d92e4439c28",
       "title": "爆発が起きたイオンモール熊本で、手を合わせる親子=4日午後4時12分、嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -1917,6 +1917,23 @@
       ]
     },
     {
+      "id": "a8ee8915707351d7f228",
+      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-03T11:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "4fdefa9b63cde1146fc4",
       "title": "避難後、戻るように指示 イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
       "source": "時事通信",
@@ -2058,23 +2075,6 @@
       "first_seen": "2026-08-04T09:01:12Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a8ee8915707351d7f228",
-      "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-03T09:56:29Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -4508,22 +4508,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CUDRuS0pGa3BhZTBEVUlOd0JBY0M0RHZUWU90c0E2TlBVSWVacThwYmdNWktBdkZQRVpjMDRmMGZHdi14TDlRNUQ2aUJFbkFJUGJSTlFudG5ENnU5TnJ2eC1UdDdqYnYzTjc2U19QWQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "9601985314389f74e4f1",
-      "title": "イオンモール熊本内部の映像 爆発が起...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:45:47Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWkVHalU5d2FhX2JXcXZCb3VIUERydExaQnA5dDAwWlhmempCVXJ4cjRqaEM2WEl6Ni1qNkR6LTlZNFpWRzVVLTFPZlRqdjA3NXpYN2hIQXM4RUhiSWRRU2ozaF9QWXRQVDVwS0JuSQ?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -7624,22 +7608,6 @@
       ]
     },
     {
-      "id": "d3428a0268ba5e441b08",
-      "title": "日本製紙八代工場で5人死亡 閉じ込められた4人の安否確認急ぐ",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T10:07:49Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVE5zU2VYVk1PRmtYZHotT2tkV2NSV3p0R0NTSHZ2WDhaeVp6bG5oaFVHZlhFRTM0U1ljMENuc1NDOHR3NVEzWUlhdXJSVFd3Wk9INnl1SE1PX1dvdEptRDN5bFcxdVFq?oc=5",
-      "first_seen": "2026-07-29T10:31:10Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "14ef38df6a495f7064f6",
       "title": "爆発時、館内に従業員8人を把握とイオン (共同通信)",
       "source": "熊本日日新聞",
@@ -8675,23 +8643,6 @@
       ]
     },
     {
-      "id": "4b53352266a572124345",
-      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:20:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RWNnUkNDRGhtMTFXNnZiWGxzX2wzckxpZDMyellxSlpLekd2cWlkMVBiMVp1dUdWcE1aMkhZcXl6OEw1V2FEakJOVUNTT1NFQjRkT0NOMlBaT2dSVU85YWlUbHlHaTlo?oc=5",
-      "first_seen": "2026-07-29T08:01:00Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "0fd440b9250fbf0ddebe",
       "title": "【動画】死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場 9800人避難・熊本震度7",
       "source": "時事通信",
@@ -9066,6 +9017,39 @@
       ]
     },
     {
+      "id": "d3428a0268ba5e441b08",
+      "title": "日本製紙八代工場で5人死亡 閉じ込められた4人の安否確認急ぐ",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVE5zU2VYVk1PRmtYZHotT2tkV2NSV3p0R0NTSHZ2WDhaeVp6bG5oaFVHZlhFRTM0U1ljMENuc1NDOHR3NVEzWUlhdXJSVFd3Wk9INnl1SE1PX1dvdEptRDN5bFcxdVFq?oc=5",
+      "first_seen": "2026-07-29T10:31:10Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "4b53352266a572124345",
+      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RWNnUkNDRGhtMTFXNnZiWGxzX2wzckxpZDMyellxSlpLekd2cWlkMVBiMVp1dUdWcE1aMkhZcXl6OEw1V2FEakJOVUNTT1NFQjRkT0NOMlBaT2dSVU85YWlUbHlHaTlo?oc=5",
+      "first_seen": "2026-07-29T08:01:00Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d29557c1c241da7db03a",
       "title": "「中に戻っていく人いた、心配」 店員語るイオンモール熊本爆発",
       "source": "毎日新聞",
@@ -9231,6 +9215,22 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3a0JKV1o1aE14Rjk0OHNEd0djcVE5U0hwODI0SFFBbElmc3FRc1dURUd4NzNpSDR4Yml0R2VGWmRqSXp5UTY3QTdWakM3Z1REY1hwN25hT1FjOGN4ckFJU04wQzdYX1B0LUdlN1lwRQ?oc=5",
       "first_seen": "2026-07-30T23:31:01Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9601985314389f74e4f1",
+      "title": "イオンモール熊本内部の映像 爆発が起...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWkVHalU5d2FhX2JXcXZCb3VIUERydExaQnA5dDAwWlhmempCVXJ4cjRqaEM2WEl6Ni1qNkR6LTlZNFpWRzVVLTFPZlRqdjA3NXpYN2hIQXM4RUhiSWRRU2ozaF9QWXRQVDVwS0JuSQ?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
       "focus": [
         "現場状況"
       ],
