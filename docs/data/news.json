@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-06T15:00:41Z",
-  "updated_at_jst": "2026/08/07 00:00 JST",
+  "updated_at": "2026-08-06T19:00:39Z",
+  "updated_at_jst": "2026/08/07 04:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 868,
+  "article_count": 869,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "yomiuri": 114,
     "sankei": 156,
     "kumanichi": 127,
-    "nhk": 67,
+    "nhk": 68,
     "jiji": 139,
     "nikkei": 50,
     "mainichi": 112,
@@ -76,8 +76,8 @@
     }
   ],
   "category_counts": {
-    "aeon": 689,
-    "power": 108,
+    "aeon": 690,
+    "power": 109,
     "paper": 87
   },
   "items": [
@@ -176,6 +176,22 @@
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "74d441b2106eb927070a",
+      "title": "イオンモール熊本の大規模爆発 福岡酸素「調査に全面協力」",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-06T07:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zTGNDNjV6YnhNcmVKa01lczBKUU1xN0xyaXp0TVYwUDF4SUhsVFN6OWRNUlBPT3M5cm1KVVFaaXRGUk8tazhpTjRYOThzVkNLSjI0VGxoOUY?oc=5",
+      "first_seen": "2026-08-06T19:00:39Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -5183,7 +5199,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T12:10:20Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMDdicmxOS1Y0Q1BFaS1fUVByWUY4bC1ONHk4cVY5cmdsdGFINVVTTi12Y2xITHFBY09vUEtTa3gyU3dBamlWdW1Ca2lMUEk4TjBEamlKSUtFM2ZORnBpMW5mcVBPRmQ5dDJlcl9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeklIZzFrSjRiSTZrZEVSR3NFREQ4T3ZzcEYzYnJlSXN6V0RVMVFtWFFudHFOS051SlhwWnlHdHcxdkd6bW9QU0ZubXJVdXpab0taSWRpWF8yVmpKcDA5TUw3X2VrUWF2c3lJZ1hTWnFPeXRmcWZwT3ZldnZyb3dMMXg3dUFSX3N3OFJMQnlB?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -7017,24 +7033,6 @@
       ]
     },
     {
-      "id": "575a005d94cea1bd81e8",
-      "title": "「ありえない」専門家も悩むイオンモール熊本爆発の謎 黒煙あがらず 地震でガス管破損か",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T13:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51Qk1zemNhYy1aWU5Sa0VlcVNFSkd2X0tTNG91c3B2YW1NVElHNUFxWDZQN29LemFUalNoS3kwX0tfY1lLVURFdW5XdllpX3l1R09tU2t3UTU3NlRqcWx4alprcVE5bG1UakRpVE1PQjltRGNDWHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "6e5f7198f8793ac2031c",
       "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
       "source": "産経新聞",
@@ -7652,7 +7650,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -8839,6 +8837,22 @@
       ]
     },
     {
+      "id": "762e8a6fc4c96c33b4a5",
+      "title": "福山通運の車両、イオンモール熊本での爆発事故に巻き込まれる ドライバー負傷",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oMldBd2Z1cGRsbUJMMExRYVJoWVFMYWM1NGxWNjhDVU9kRGhnWld6Z19vcVdmVE5UVDNRamRTdkI5bE1sVjgya0F1YTNIQWFDUHNEQUNlcXNJa3JjXzEtTnNyWkFOaFVqMmNFWDF2ZTdUNnBWM3c?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "360fb48db827e7aaff73",
       "title": "会見速報>死亡の専門店従業員、避難後に館内に戻ったか イオン社長「認識していない」 熊本地震・イオン社長会見(2)",
       "source": "産経新聞",
@@ -8869,6 +8883,42 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "575a005d94cea1bd81e8",
+      "title": "「ありえない」専門家も悩むイオンモール熊本爆発の謎 黒煙あがらず 地震でガス管破損か",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51Qk1zemNhYy1aWU5Sa0VlcVNFSkd2X0tTNG91c3B2YW1NVElHNUFxWDZQN29LemFUalNoS3kwX0tfY1lLVURFdW5XdllpX3l1R09tU2t3UTU3NlRqcWx4alprcVE5bG1UakRpVE1PQjltRGNDWHc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "786fd3aa818844d84f0c",
+      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集39/34]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnVHRWZ1NzAzX3VFeWpnVUU5NWlxMEdVd2lSbGNTVEduWWlFczRtdUF1bV9pekl5RXJpaFVneGJ4NmNuX2UzRXpWX2lmNWxkTndMdUUxZVJWMXhoYlo4T2E1bXFDQ1p2X0ctSEdGYldYSlVtSF82TnhnLTdvWm8wbnJQMnBFUWs?oc=5",
+      "first_seen": "2026-07-29T14:00:12Z",
+      "focus": [
+        "現場状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "aeon",
+        "power"
       ]
     },
     {
@@ -9021,7 +9071,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wSUMxUzhTVkpzamlVa0RfSDR1WU9Pd3NMX0NqanJmcDJWUXpsZklFZEhWX3B0WE8xQnozbzA5VVVfUFJVUXJjek9XYXVsakRkM0t1Z2hwWk1udGJRZ1ZiLWRkS1p1em9JV19wSW1paw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43YzlSb1g2cTA0WGoyUlIxWGhBNlozXzlrcThJc3h4VGZRcExNYVo0eFlxYjNOUC1qQzE3cFR2OTFWMjRlVXJaQjdabmFvQ2JTcXNTOG41ZUU5cEx1emtSUjJZV0dmdk85TDkxU3VzQQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -9864,22 +9914,6 @@
       "first_seen": "2026-07-29T06:00:27Z",
       "focus": [
         "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "762e8a6fc4c96c33b4a5",
-      "title": "福山通運の車両、イオンモール熊本での爆発事故に巻き込まれる ドライバー負傷",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T04:53:55Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oMldBd2Z1cGRsbUJMMExRYVJoWVFMYWM1NGxWNjhDVU9kRGhnWld6Z19vcVdmVE5UVDNRamRTdkI5bE1sVjgya0F1YTNIQWFDUHNEQUNlcXNJa3JjXzEtTnNyWkFOaFVqMmNFWDF2ZTdUNnBWM3c?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -10766,7 +10800,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T23:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RlZENjZ2VDRtLXcwVjdhM2txSWNRZFNKeFBoU3JURjE3UXFuRUF6cy1GMXJuLWFIMVVWaEEwUU81SFRES3RyU3dVWVdyRFU4cUVGRmppZUdTWExwRnVPN3A2RlFvSVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3FWUWV6dnZ3TllBMTRmYjY2MnltUXRiRzBxcEdOcmZPc29iYUR4TEJHNXBpY3daLTQzdHIxOE1jQTMzYjc1QTFIcU41YzJ4RS01MzZmTW1aTXNJajN5VmJBbkZzY2JPdWxNYTZkdl9sRGpzX05kRVBWcjZEVXlscmU4VEhMWXBiZkFsbk5B?oc=5",
       "first_seen": "2026-08-03T12:31:11Z",
       "focus": [],
       "category_ids": [
@@ -10922,24 +10956,6 @@
       ]
     },
     {
-      "id": "786fd3aa818844d84f0c",
-      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集39/34]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:46:42Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnVHRWZ1NzAzX3VFeWpnVUU5NWlxMEdVd2lSbGNTVEduWWlFczRtdUF1bV9pekl5RXJpaFVneGJ4NmNuX2UzRXpWX2lmNWxkTndMdUUxZVJWMXhoYlo4T2E1bXFDQ1p2X0ctSEdGYldYSlVtSF82TnhnLTdvWm8wbnJQMnBFUWs?oc=5",
-      "first_seen": "2026-07-29T14:00:12Z",
-      "focus": [
-        "現場状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "aeon",
-        "power"
-      ]
-    },
-    {
       "id": "2ec68069f4054e1f7e28",
       "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集2/34]",
       "source": "毎日新聞",
@@ -10971,7 +10987,8 @@
         "停電状況"
       ],
       "category_ids": [
-        "aeon"
+        "aeon",
+        "power"
       ]
     },
     {
