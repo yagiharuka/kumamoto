@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-06T23:00:32Z",
-  "updated_at_jst": "2026/08/07 08:00 JST",
+  "updated_at": "2026-08-06T23:30:36Z",
+  "updated_at_jst": "2026/08/07 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 872,
@@ -4513,6 +4513,22 @@
       ]
     },
     {
+      "id": "9601985314389f74e4f1",
+      "title": "イオンモール熊本内部の映像 爆発が起...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:45:47Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWkVHalU5d2FhX2JXcXZCb3VIUERydExaQnA5dDAwWlhmempCVXJ4cjRqaEM2WEl6Ni1qNkR6LTlZNFpWRzVVLTFPZlRqdjA3NXpYN2hIQXM4RUhiSWRRU2ozaF9QWXRQVDVwS0JuSQ?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a9ab46020179850fb032",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も 動画",
       "source": "朝日新聞",
@@ -7614,7 +7630,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -9229,22 +9245,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3a0JKV1o1aE14Rjk0OHNEd0djcVE5U0hwODI0SFFBbElmc3FRc1dURUd4NzNpSDR4Yml0R2VGWmRqSXp5UTY3QTdWakM3Z1REY1hwN25hT1FjOGN4ckFJU04wQzdYX1B0LUdlN1lwRQ?oc=5",
       "first_seen": "2026-07-30T23:31:01Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "9601985314389f74e4f1",
-      "title": "イオンモール熊本内部の映像 爆発が起...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSWkVHalU5d2FhX2JXcXZCb3VIUERydExaQnA5dDAwWlhmempCVXJ4cjRqaEM2WEl6Ni1qNkR6LTlZNFpWRzVVLTFPZlRqdjA3NXpYN2hIQXM4RUhiSWRRU2ozaF9QWXRQVDVwS0JuSQ?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
       "focus": [
         "現場状況"
       ],
