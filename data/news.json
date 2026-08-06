@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-06T19:00:39Z",
-  "updated_at_jst": "2026/08/07 04:00 JST",
+  "updated_at": "2026-08-06T19:30:35Z",
+  "updated_at_jst": "2026/08/07 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 869,
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 114,
     "sankei": 156,
     "kumanichi": 127,
+    "yomiuri": 114,
     "nhk": 68,
     "jiji": 139,
     "nikkei": 50,
@@ -81,6 +81,40 @@
     "paper": 87
   },
   "items": [
+    {
+      "id": "a3f87493702a7cebc76c",
+      "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T18:51:14Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQ2hCb0ItS29iMXV3ekhlemdZRFVHV0x0cVZTNHJtOGNRVzBVTVoydE1PWlltbWwyQXZyM2pxVHZBM3hacGZIQTh0cFRISXlVY1pBMXpEMVdaWkNQdmFVN0tsWDBQY0JWa2l3aXJSYm5XSE1GNHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-06T15:49:55Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "cb8768dd7e88777e8379",
       "title": "「イオンモール熊本」にLPガス提供会社、爆発事故「重く受け止める」...安全装置の作動「調査中」",
@@ -122,23 +156,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-06T08:44:11Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1lFNmtsSFFTMER4Qjl5VE1PM056bW1zS0RhUnVnelZSWXBlTUNPUUdIaVdkUzlnWXpIR2JVd1JIR0VfZ0JMYXZfak1WRi12aHFaYkdPTExaRmt5X0stVDNWc0N6VTRWYjVQaVFwZnVzem9MWG81M1U3U3c2M0ktd0hCN2RuMDlwT0dpRDJJVTlzUzBZVFZJOThvWnFKLU9SR1E?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a3f87493702a7cebc76c",
-      "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T08:44:11Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kQ2hCb0ItS29iMXV3ekhlemdZRFVHV0x0cVZTNHJtOGNRVzBVTVoydE1PWlltbWwyQXZyM2pxVHZBM3hacGZIQTh0cFRISXlVY1pBMXpEMVdaWkNQdmFVN0tsWDBQY0JWa2l3aXJSYm5XSE1GNHc?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -1010,23 +1027,6 @@
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-04T11:04:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -7446,22 +7446,6 @@
       ]
     },
     {
-      "id": "a7d20f5c3e95ef52d1f9",
-      "title": "<2026年熊本地震>医療機関被災、入院患者転院も 建物損傷や医療機器破損、断水、停電...",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T10:51:05Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CY0xOQmE3ZmwwYXB4WEdjWGhURVA4am02Vm9qMThnVlkyektXZXBUYlBMYWJHQV9MYXRTV0ZFWGZlNFVSR3BWaElEdTJQLTQ?oc=5",
-      "first_seen": "2026-07-29T11:31:03Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "4ad172a19fe1a0e2032a",
       "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8800人避難・熊本震度7",
       "source": "時事通信",
@@ -8901,6 +8885,38 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "0baf15c7e882dcb41ac8",
+      "title": "【速報】熊本県内で3・5万戸停電 九電が公表",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaWdGbjFTdG5uS2RJYV9QaDE0SEJuSXVwdHdXUUM3TmtQMnBFOTdERmdwOGdCWk9rQmFsVkI0LTZ3aUE5cnNlREFxN0VSbXM?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "a7d20f5c3e95ef52d1f9",
+      "title": "<2026年熊本地震>医療機関被災、入院患者転院も 建物損傷や医療機器破損、断水、停電...",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CY0xOQmE3ZmwwYXB4WEdjWGhURVA4am02Vm9qMThnVlkyektXZXBUYlBMYWJHQV9MYXRTV0ZFWGZlNFVSR3BWaElEdTJQLTQ?oc=5",
+      "first_seen": "2026-07-29T11:31:03Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -11259,22 +11275,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "0baf15c7e882dcb41ac8",
-      "title": "【速報】熊本県内で3・5万戸停電 九電が公表",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T20:40:59Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yaWdGbjFTdG5uS2RJYV9QaDE0SEJuSXVwdHdXUUM3TmtQMnBFOTdERmdwOGdCWk9rQmFsVkI0LTZ3aUE5cnNlREFxN0VSbXM?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
