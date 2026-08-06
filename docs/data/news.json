@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-06T19:30:35Z",
-  "updated_at_jst": "2026/08/07 04:30 JST",
+  "updated_at": "2026-08-06T20:00:35Z",
+  "updated_at_jst": "2026/08/07 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 869,
@@ -3371,6 +3371,20 @@
       ]
     },
     {
+      "id": "fb5e7d99eb1920d89af8",
+      "title": "損傷したイオンモール熊本 激しく損傷...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T05:43:48Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43ZDJENk5FRGJoZklLblFDNGdvcGpOTXRleUZnQS1CTW05MlJCeUt5enhsLTYtZGo1X2VyQ3ptZVdWbXVqcXZjUnBrWlp3MW1DazlxOGlLeEVmenlhTG12cjRiSDFibmE3b2NmT09xNA?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "0965703f08f79cf46edb",
       "title": "熊本 震度7観測の氷川町で停電や断水 特産の梨も落ちる被害",
       "source": "NHK",
@@ -4388,20 +4402,6 @@
       "source_group": "通信社",
       "published_at": "2026-07-30T20:45:48Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQXc3UW5mRXlqb0hoSjFRYUxGWVB4REpDbmNBdDNZZ2hVNF9wVUZ3c25XMmhUbTZYZVppM1JBSVkyS0l6cTg0eEFxQzMwVUlVYk9PMGg0ZDZvNlZuVjZsaHN0emFxT1NlVHdUeWY4QQ?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "fb5e7d99eb1920d89af8",
-      "title": "損傷したイオンモール熊本 激しく損傷...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:45:48Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iVjNadWtybjZnMlZkR05teHlTR3NreTBzQzRacHZUdnRsc2JlbGw1QUJXWDhtczlVRG1yWC1OOC1XQ0NfUFhROVJOMlU0ZzlDbzNtRTdjV3dxV0Z2cmpoZ0dQVDczelRhRXpXYW1OQQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -9087,7 +9087,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43YzlSb1g2cTA0WGoyUlIxWGhBNlozXzlrcThJc3h4VGZRcExNYVo0eFlxYjNOUC1qQzE3cFR2OTFWMjRlVXJaQjdabmFvQ2JTcXNTOG41ZUU5cEx1emtSUjJZV0dmdk85TDkxU3VzQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wSUMxUzhTVkpzamlVa0RfSDR1WU9Pd3NMX0NqanJmcDJWUXpsZklFZEhWX3B0WE8xQnozbzA5VVVfUFJVUXJjek9XYXVsakRkM0t1Z2hwWk1udGJRZ1ZiLWRkS1p1em9JV19wSW1paw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
