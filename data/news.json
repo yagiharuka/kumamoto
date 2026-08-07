@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T03:30:29Z",
-  "updated_at_jst": "2026/08/07 12:30 JST",
+  "updated_at": "2026-08-07T04:00:39Z",
+  "updated_at_jst": "2026/08/07 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 874,
@@ -87,7 +87,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-08-07T00:55:43Z",
+      "published_at": "2026-08-07T03:56:27Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
       "first_seen": "2026-08-04T16:01:15Z",
       "focus": [
@@ -4588,6 +4588,20 @@
       ]
     },
     {
+      "id": "167017305e9fc8512daf",
+      "title": "イオンモール熊本での捜索活動 イオン...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:45:11Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fb2VqNEsyMEtOcmVqQm5oTnM0Sk1hU0JGMlRzTXVBV09nMUt6dWRTdV8xUU5ZcVUzQW1pa1lqdmNuczNjVktwRFctekt4b1ZFeWtjX3dSNEczZkl5Q3JhS0NQbnhZR1FYTEdLeEd3dw?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a9ab46020179850fb032",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も 動画",
       "source": "朝日新聞",
@@ -7138,6 +7152,23 @@
       ]
     },
     {
+      "id": "6e5f7198f8793ac2031c",
+      "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T12:56:23Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnpWVzlweXRqUmdQN0xfa2FJZ2prMER5V0xfU0pxdjBod3lhNTAwTVpnSjhyWFl3RWg4RHhBUTZaa21DWTU5SHd1RkwyNjZidVhlbEhhNzlBajFhOUdPNjRPdGdSQ3U0akt5NGdYQnluVmwxcHpJZTFERHYxRnFtZ0ExVzlwWnhFbExUMzl6WTRkQmZDbjg1LUdLZ3pyTE95WGc?oc=5",
+      "first_seen": "2026-07-31T01:00:53Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "337937371ce94ad9760c",
       "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
       "source": "時事通信",
@@ -7672,7 +7703,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -8938,23 +8969,6 @@
       ]
     },
     {
-      "id": "6e5f7198f8793ac2031c",
-      "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnpWVzlweXRqUmdQN0xfa2FJZ2prMER5V0xfU0pxdjBod3lhNTAwTVpnSjhyWFl3RWg4RHhBUTZaa21DWTU5SHd1RkwyNjZidVhlbEhhNzlBajFhOUdPNjRPdGdSQ3U0akt5NGdYQnluVmwxcHpJZTFERHYxRnFtZ0ExVzlwWnhFbExUMzl6WTRkQmZDbjg1LUdLZ3pyTE95WGc?oc=5",
-      "first_seen": "2026-07-31T01:00:53Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "bf895cfd1b0a41411549",
       "title": "地震の影響で折れた日本製紙の八代工場の煙突 =28日午後7時5分、熊本県八代市",
       "source": "産経新聞",
@@ -9326,20 +9340,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "167017305e9fc8512daf",
-      "title": "イオンモール熊本での捜索活動 イオン...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fb2VqNEsyMEtOcmVqQm5oTnM0Sk1hU0JGMlRzTXVBV09nMUt6dWRTdV8xUU5ZcVUzQW1pa1lqdmNuczNjVktwRFctekt4b1ZFeWtjX3dSNEczZkl5Q3JhS0NQbnhZR1FYTEdLeEd3dw?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
