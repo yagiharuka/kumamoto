@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T19:01:09Z",
-  "updated_at_jst": "2026/08/08 04:01 JST",
+  "updated_at": "2026-08-07T19:31:01Z",
+  "updated_at_jst": "2026/08/08 04:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 883,
@@ -5054,6 +5054,23 @@
       ]
     },
     {
+      "id": "bce444a4d771903f449b",
+      "title": "2026年熊本地震>停電、断水...「車中泊しか選択肢ない」 避難所外の被災者多く 専門家が警鐘を鳴らすのは...",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T13:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTU40Q3JpQkgwMkVidnZtN0tucnJ4WGNEYU9pOWFGczVObzBkRy1nUmktYzl2UWZWV0xPWjctVnBwc1NwYkZnMHlaTlFCOG8?oc=5",
+      "first_seen": "2026-07-30T14:00:11Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "f5c2945d7d64bbfe1c55",
       "title": "【動画】イオンモール熊本 爆発の瞬間",
       "source": "NHK",
@@ -6097,14 +6114,14 @@
       ]
     },
     {
-      "id": "bce444a4d771903f449b",
-      "title": "2026年熊本地震>停電、断水...「車中泊しか選択肢ない」 避難所外の被災者多く 専門家が警鐘を鳴らすのは...",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
+      "id": "666a4cc0ad8aeaf9e67c",
+      "title": "「地震後、何をすればいい?」アイリスオーヤマが“まずやること”を紹介 停電・避難時のポイントも[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTU40Q3JpQkgwMkVidnZtN0tucnJ4WGNEYU9pOWFGczVObzBkRy1nUmktYzl2UWZWV0xPWjctVnBwc1NwYkZnMHlaTlFCOG8?oc=5",
-      "first_seen": "2026-07-30T14:00:11Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXhyV256ZW1EbnlZdHh5aXNTRDlBRHNlTHpFWFFrZnVSUUx2bHdMdkY5aW1XWjFCa0NOdzFkc2RMdUo1UGVSWW5FeDlXV01ETTUyY1hoMjY4VzJuVHV2MDlZeHBsZDVs?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
       "focus": [
         "避難状況",
         "停電状況"
@@ -6226,23 +6243,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "666a4cc0ad8aeaf9e67c",
-      "title": "「地震後、何をすればいい?」アイリスオーヤマが“まずやること”を紹介 停電・避難時のポイントも[令和8年熊本地震]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T06:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXhyV256ZW1EbnlZdHh5aXNTRDlBRHNlTHpFWFFrZnVSUUx2bHdMdkY5aW1XWjFCa0NOdzFkc2RMdUo1UGVSWW5FeDlXV01ETTUyY1hoMjY4VzJuVHV2MDlZeHBsZDVs?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -9226,6 +9226,40 @@
       ]
     },
     {
+      "id": "8cedefc84f5205d8d4e0",
+      "title": "熊本震度7 続く余震 見えぬ全容 停電、断水、役場の機能停止",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXalRWVkw4MUJhM2VDY3VLTzVyMVlWTzFlUUdrWGpDYU5yeDVaOW1iYjJ0WmkzOTYxSERkZ1FPS295M2VlVTA5YmRVem9Sal9FWFBWSFRjeVNxbEtuSHUzcU5yNWViUmNC?oc=5",
+      "first_seen": "2026-07-29T04:30:25Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "b97f915e3307e1660b09",
+      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集5/34]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnlfNUs4dEJTOHAxblZ4TGVfSXM4cXh5cnhkMHRwOTR5ekpuZml0NEhNTy1LUHJlMk5BU2VuX3VNX1FzbVZZaXlocHBjaW9lY1hEcWRScERXWDlrQ0hDc0JXN3VhVkl6ZV92Y1ZfWG85SjNmd1NBZUJPdy1MY05QOThLMmRJUnM?oc=5",
+      "first_seen": "2026-07-29T15:00:13Z",
+      "focus": [
+        "現場状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "aeon",
+        "power"
+      ]
+    },
+    {
       "id": "786fd3aa818844d84f0c",
       "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集39/34]",
       "source": "毎日新聞",
@@ -10440,22 +10474,6 @@
       ]
     },
     {
-      "id": "8cedefc84f5205d8d4e0",
-      "title": "熊本震度7 続く余震 見えぬ全容 停電、断水、役場の機能停止",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:59:19Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXalRWVkw4MUJhM2VDY3VLTzVyMVlWTzFlUUdrWGpDYU5yeDVaOW1iYjJ0WmkzOTYxSERkZ1FPS295M2VlVTA5YmRVem9Sal9FWFBWSFRjeVNxbEtuSHUzcU5yNWViUmNC?oc=5",
-      "first_seen": "2026-07-29T04:30:25Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "4ec62d53694878468658",
       "title": "イオンモール熊本でガス臭 地震後に爆発、捜索時に 官房長官",
       "source": "毎日新聞",
@@ -11279,24 +11297,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-28T22:46:42Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkgwM1FGcmU1d2J5bkRxVXFEOVFPZGlfeTJ2NlpYSFJxNWtaQ3Z0V19mZ1pVVWZDS1dZdGJBUzJOS0hyM0hWa2JEakhfQWltLXNDdTdCNnNLenNaWWs2cUVQSnVyUjZwN3FxdzBFTk5MbUg5emdmaVlmaDN3V2FtN1lJR3pZMDQ?oc=5",
-      "first_seen": "2026-07-29T15:00:13Z",
-      "focus": [
-        "現場状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "aeon",
-        "power"
-      ]
-    },
-    {
-      "id": "b97f915e3307e1660b09",
-      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集5/34]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:46:42Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnlfNUs4dEJTOHAxblZ4TGVfSXM4cXh5cnhkMHRwOTR5ekpuZml0NEhNTy1LUHJlMk5BU2VuX3VNX1FzbVZZaXlocHBjaW9lY1hEcWRScERXWDlrQ0hDc0JXN3VhVkl6ZV92Y1ZfWG85SjNmd1NBZUJPdy1MY05QOThLMmRJUnM?oc=5",
       "first_seen": "2026-07-29T15:00:13Z",
       "focus": [
         "現場状況",
