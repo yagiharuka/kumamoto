@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T20:30:54Z",
-  "updated_at_jst": "2026/08/08 05:30 JST",
+  "updated_at": "2026-08-07T21:00:59Z",
+  "updated_at_jst": "2026/08/08 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -453,7 +453,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -844,7 +844,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenZ2d1pyTS1KR1hfVV9zT2ZaX3JHOWc0YnZUVnlUNlA0b1NQaWRnU2VmRjZoSFVCdUZNd3BGLUJLWXZoODJIcFN2cWN4dXZNTWNkTGZVa1ppX0E2dXE3bFUzY2dOdDZCOXlvbkpLSFJMdkNmb3FaR1JWbHdfQ2xlMg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjJ1aWZSWm9mY3dIU3hyazNibTF5Rk4xY0RwSnJFRE9hREV0Sl9BOEpxSGhoQmlmSzc3MExBQkwwWklyWUduYkRvaTQ0RkRDZzZyZ0lGMGEzY1RHUnc4ZUJpelNFUTBmclVMUjltS2I1QVlRMmlJWW1BRkRzam5IcA?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -5888,22 +5888,6 @@
       ]
     },
     {
-      "id": "f57f6d3c0397d337cb72",
-      "title": "停電時の熱中症に注意、熊本県民テレビが呼びかける「熱中症対策3つのポイント」と「危険な4つの症状」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T08:31:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1RuQXNrWExMUHFtQi05aERvTWFycmZtU1piUWhrOXpFZHgtS1JRdlFoVGJDQnFSTUdleU1FZ2IwWWVheUFhc0tfNm1XSVBRSmZTaDl3MG1CQmNaY0sxQk9mdWdvdWVrU3lGMDFsNXRsZkxxcmV5VlQ3a3NaV1R1T24wZ3pTeGY4bVU5UVp1WlhPSHdTSjBhdmhLbw?oc=5",
-      "first_seen": "2026-07-30T10:00:13Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "b5ccdeb31a057e8264ba",
       "title": "【動画】イオンモール熊本・日本製紙八代工場 内部の様子は",
       "source": "NHK",
@@ -6141,6 +6125,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "f57f6d3c0397d337cb72",
+      "title": "停電時の熱中症に注意、熊本県民テレビが呼びかける「熱中症対策3つのポイント」と「危険な4つの症状」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1RuQXNrWExMUHFtQi05aERvTWFycmZtU1piUWhrOXpFZHgtS1JRdlFoVGJDQnFSTUdleU1FZ2IwWWVheUFhc0tfNm1XSVBRSmZTaDl3MG1CQmNaY0sxQk9mdWdvdWVrU3lGMDFsNXRsZkxxcmV5VlQ3a3NaV1R1T24wZ3pTeGY4bVU5UVp1WlhPSHdTSjBhdmhLbw?oc=5",
+      "first_seen": "2026-07-30T10:00:13Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
