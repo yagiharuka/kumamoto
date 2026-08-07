@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T01:30:27Z",
-  "updated_at_jst": "2026/08/07 10:30 JST",
+  "updated_at": "2026-08-07T02:00:29Z",
+  "updated_at_jst": "2026/08/07 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 874,
@@ -3393,6 +3393,20 @@
         "救助・安否",
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "76f128a468ba1d93c9e4",
+      "title": "損傷したイオンモール熊本 地震後の爆...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T06:20:16Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNmpKSU5qUW9Vc3Y5ejNVeFRTVVFxVmxNTjNXSldiSnhLVWE4bUVwbWxmMWU0VVRmSjNJakZSQlVudEJFaloxTU1qbnIwbEtHZEE1dFJqOU5pUEJ1dGZoM3VsdUdPV0Y0ZkJxS1Y3dw?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -7110,23 +7124,6 @@
       ]
     },
     {
-      "id": "6e5f7198f8793ac2031c",
-      "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T12:56:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnpWVzlweXRqUmdQN0xfa2FJZ2prMER5V0xfU0pxdjBod3lhNTAwTVpnSjhyWFl3RWg4RHhBUTZaa21DWTU5SHd1RkwyNjZidVhlbEhhNzlBajFhOUdPNjRPdGdSQ3U0akt5NGdYQnluVmwxcHpJZTFERHYxRnFtZ0ExVzlwWnhFbExUMzl6WTRkQmZDbjg1LUdLZ3pyTE95WGc?oc=5",
-      "first_seen": "2026-07-31T01:00:53Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "337937371ce94ad9760c",
       "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
       "source": "時事通信",
@@ -7661,7 +7658,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -8927,6 +8924,23 @@
       ]
     },
     {
+      "id": "6e5f7198f8793ac2031c",
+      "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnpWVzlweXRqUmdQN0xfa2FJZ2prMER5V0xfU0pxdjBod3lhNTAwTVpnSjhyWFl3RWg4RHhBUTZaa21DWTU5SHd1RkwyNjZidVhlbEhhNzlBajFhOUdPNjRPdGdSQ3U0akt5NGdYQnluVmwxcHpJZTFERHYxRnFtZ0ExVzlwWnhFbExUMzl6WTRkQmZDbjg1LUdLZ3pyTE95WGc?oc=5",
+      "first_seen": "2026-07-31T01:00:53Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "bf895cfd1b0a41411549",
       "title": "地震の影響で折れた日本製紙の八代工場の煙突 =28日午後7時5分、熊本県八代市",
       "source": "産経新聞",
@@ -9250,20 +9264,6 @@
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96TUswZjJ0OWNqMEMwdEs1dnBZVjg1ZkVWQzlrQncyZFpZNGtRTDMyNUhQdzY4LXMzOEF3X1JPQ01qMmUwQWx3alR6bV9zdkY0UFlzLXJvbHdJSmI5M1RPV1RxVkJDNU4tMkk2ZzBWNA?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "76f128a468ba1d93c9e4",
-      "title": "損傷したイオンモール熊本 地震後の爆...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11THVpMWJNb0tTMjRWTUV3d0p1MkREcVUzakNMN2lNX1NBQy0zYkRNRU5lQ0xrT1dPN2lyTXljdFBjc29tbTJOUktOR1c0ZlhpTUJGa3ZtX3FPaGFEdExjckNWSW01UmEwWVNJdE0zUQ?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
@@ -12253,22 +12253,6 @@
       ]
     },
     {
-      "id": "86c17b92de950934d1a6",
-      "title": "46医療機関で断水や停電 熊本地震(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T14:07:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeHB1UVVKaW0wbERtMThRX1hVX1hzX3N6bmFKQ3FuNUVBY2I1S1B0UTh0LW9aSm9SdHhhcVd6bXVNajBBem5KZ204XzRSR2M?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "1c9077a0ca6078c29d30",
       "title": "爆発のあったイオンモール熊本の周辺に集まる消防隊員ら=7月28日午後10時、熊本県嘉島町",
       "source": "産経新聞",
@@ -13993,6 +13977,22 @@
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
         "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "86c17b92de950934d1a6",
+      "title": "46医療機関で断水や停電 熊本地震(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeHB1UVVKaW0wbERtMThRX1hVX1hzX3N6bmFKQ3FuNUVBY2I1S1B0UTh0LW9aSm9SdHhhcVd6bXVNajBBem5KZ204XzRSR2M?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
         "停電状況"
       ],
       "category_ids": [
