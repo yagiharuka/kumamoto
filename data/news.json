@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T06:30:30Z",
-  "updated_at_jst": "2026/08/07 15:30 JST",
+  "updated_at": "2026-08-07T07:00:30Z",
+  "updated_at_jst": "2026/08/07 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 875,
@@ -4154,7 +4154,7 @@
     },
     {
       "id": "a75383b9826343e2640c",
-      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -7716,7 +7716,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -9158,6 +9158,22 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVE5zU2VYVk1PRmtYZHotT2tkV2NSV3p0R0NTSHZ2WDhaeVp6bG5oaFVHZlhFRTM0U1ljMENuc1NDOHR3NVEzWUlhdXJSVFd3Wk9INnl1SE1PX1dvdEptRDN5bFcxdVFq?oc=5",
       "first_seen": "2026-07-29T10:31:10Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "60aa90afebe2543c95a9",
+      "title": "日本製紙八代工場で2人心肺停止、9人安否不明 熊本で震度7",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbldnSkZqUk5FTHV1eWZsM3VkTzBuNno3a2kxYi1VVW9jcHJCbzR3NlhVUWJfZ3VGeE8xWERyeHR5R2JEdDVqMlh0eGRMblZXMFVyRjM2Qm5lVnlidmJWck5LU2NoRXVh?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
       "focus": [
         "救助・安否"
       ],
@@ -10839,22 +10855,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "60aa90afebe2543c95a9",
-      "title": "日本製紙八代工場で2人心肺停止、9人安否不明 熊本で震度7",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T00:40:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbldnSkZqUk5FTHV1eWZsM3VkTzBuNno3a2kxYi1VVW9jcHJCbzR3NlhVUWJfZ3VGeE8xWERyeHR5R2JEdDVqMlh0eGRMblZXMFVyRjM2Qm5lVnlidmJWck5LU2NoRXVh?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
