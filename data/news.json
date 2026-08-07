@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T12:30:28Z",
-  "updated_at_jst": "2026/08/07 21:30 JST",
+  "updated_at": "2026-08-07T13:00:29Z",
+  "updated_at_jst": "2026/08/07 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 879,
+  "article_count": 880,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -55,7 +55,7 @@
     "sankei": 157,
     "jiji": 142,
     "nikkei": 50,
-    "mainichi": 112,
+    "mainichi": 113,
     "asahi": 103
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 699,
+    "aeon": 700,
     "power": 109,
     "paper": 88
   },
@@ -461,23 +461,6 @@
       ]
     },
     {
-      "id": "7be980dd6b9c28932c9d",
-      "title": "LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSVJtdFA5YUdxa0RKcUNxY3NldW5BWGd5SXdWeHZXMk5MZENMaE9nUUZ3eW9lS3M5WUZNM3p1RTYwOG43T3FpdjFhY3pCY2ZpT0RLQ2tEclNMd0pWeUE?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a1d7e5b53031baea5978",
       "title": "LPガス「原因の可能性高い」 イオンモール爆発事故で経産省―熊本地震",
       "source": "時事通信",
@@ -547,6 +530,23 @@
       "source_group": "全国紙",
       "published_at": "2026-08-05T10:49:02Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZGhtNzY3UzE2U1VBODZPVmFZc0tTNGtYMUpnZVRTcEFvY2N1UkhOdGdVekFoYzE1NnJ3Z2VTd1c0YVBWWjh3YXFpSzZESm1uWTJEU1dFczYtSzV4WFNHRUFZR19Nc0Z6?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7be980dd6b9c28932c9d",
+      "title": "LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T10:38:56Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01RnNtV2FVQlVtYzJLQzBXN3c3UWVUMFVRN0NTeDF3RmNQSUxnQlhtdzhwU0xoR08tOVduWVIwcHo2Q0VEeFVjVVVua3VMSU5xQU9pYw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -1671,7 +1671,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T02:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSlNUR1FQTEo4VnNLaXhLczZUbTBYYmQxZUpwTHpETERMYm1nVnd1d21WUXc0NURwRlZrdXAyNkVEM3RQWEVVeWh6Mno1U0tZN1VVSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xa3JTVlhUeDRSbWlld2tKTWJoY2Vrd0N5NWhIcGhXWEp3Q05HNTlFbjNuYXNTTG9fZ2ZKb1Y5U2tUa1VBaXlNeGJwZTd1cjBTZHp3aDRNS2tDN0V6UlE?oc=5",
       "first_seen": "2026-08-04T09:31:05Z",
       "focus": [
         "現場状況"
@@ -3460,18 +3460,15 @@
       ]
     },
     {
-      "id": "a519ebc7732e82601da1",
-      "title": "【詳報】熊本地震の死者は35人に、イオンモールではオンワード従業員3人の死亡確認",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
+      "id": "e512ac970da1c50cd82b",
+      "title": "イオンモール熊本 内部をドローン撮影",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-07-31T07:44:11Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUXJkajFpZnI4ZDhLUHJVWXBNRmxlc1F0VmJ3NEZETlhNUU5GUUFzdGVZOXRwMkVSNkthMHl0VDZDQmF3bWM1NHlWSVJDOThpNXJGVjVmSEZWVmg4UDlHM3MxRVJ0Zw?oc=5",
-      "first_seen": "2026-07-31T10:30:54Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkTUtkQ29TSE9JdTd2UVZUWDJKZWFVUlcyMUM0UXVxNGdfc0NnVFotNTBkd1NZRU5EanUtLVNPbmx6SFl5LVFTamp3M2VfZklRdVV2azk4bEh3ck8tQkE?oc=5",
+      "first_seen": "2026-08-07T13:00:29Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -5161,24 +5158,6 @@
       ]
     },
     {
-      "id": "d0d2374978942fee24d2",
-      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T13:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "925e288c009d00b5eddb",
       "title": "イオンモール熊本前で重機を用いて行われた捜索活動=7月30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -6039,6 +6018,55 @@
       ]
     },
     {
+      "id": "af2b3a8511d576009ad3",
+      "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVjRqR05WTnI1V0hlU01sTnZTcVBxWE12YXduaTBrRVB6T3ZvUlRqemFONi1sZ21vSjZId3o5cTQ4UzFSOGVTd3FKZlg5ZHU2WkNxRmNMY2d3Wl9ncEFTa3d6ajE4QmhKZE8zcXRrNkYtUQ?oc=5",
+      "first_seen": "2026-07-30T06:30:11Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "bdc737c8d4123ced9e82",
+      "title": "熊本地震で爆発したイオンモール、店員だった妻が音信不通「覚悟しておいた方がいいのかもしれない」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iTW9VTXlWMENzTnRBUllTQ2tSZ0tZdnBXdm1iNmpQeUt5Y0pGX01VajRmcEhGa0FvVWlpWUNLTzhUSWlUOXhNcy00U0l1MGZwNk5VRE0zTGd4M3VjRnFXLVAyOWZWbF9FMnhHbXZ5Mi1Ddw?oc=5",
+      "first_seen": "2026-07-30T00:30:50Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a519ebc7732e82601da1",
+      "title": "【詳報】熊本地震の死者は35人に、イオンモールではオンワード従業員3人の死亡確認",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KUXJkajFpZnI4ZDhLUHJVWXBNRmxlc1F0VmJ3NEZETlhNUU5GUUFzdGVZOXRwMkVSNkthMHl0VDZDQmF3bWM1NHlWSVJDOThpNXJGVjVmSEZWVmg4UDlHM3MxRVJ0Zw?oc=5",
+      "first_seen": "2026-07-31T10:30:54Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "bce444a4d771903f449b",
       "title": "2026年熊本地震>停電、断水...「車中泊しか選択肢ない」 避難所外の被災者多く 専門家が警鐘を鳴らすのは...",
       "source": "熊本日日新聞",
@@ -6049,6 +6077,40 @@
       "first_seen": "2026-07-30T14:00:11Z",
       "focus": [
         "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "d0d2374978942fee24d2",
+      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "6524e22af8904fa873e6",
+      "title": "停電・断水なお広範囲 熊本地震 がれき撤去、猛暑追い打ち 余震続発、遠い日常",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVkVwcDNSWDl4OTJlNnprU0p4QlVsYklscXRxMnRyc1hIdmRwX1Z4aGxnOVhNMXhnQ2E5VVFBSmhSYUxGTTRHZXgwOVNOT3RkX2pWdmFIVFVVSG5teGdTX0pYOWtZcFNuOTE1dw?oc=5",
+      "first_seen": "2026-07-30T10:00:13Z",
+      "focus": [
         "停電状況"
       ],
       "category_ids": [
@@ -6149,22 +6211,6 @@
       ]
     },
     {
-      "id": "af2b3a8511d576009ad3",
-      "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T06:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVjRqR05WTnI1V0hlU01sTnZTcVBxWE12YXduaTBrRVB6T3ZvUlRqemFONi1sZ21vSjZId3o5cTQ4UzFSOGVTd3FKZlg5ZHU2WkNxRmNMY2d3Wl9ncEFTa3d6ajE4QmhKZE8zcXRrNkYtUQ?oc=5",
-      "first_seen": "2026-07-30T06:30:11Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2ef11e0a7fb74684301b",
       "title": "決算:イオン、熊本地震の連結業績影響「現在精査中」",
       "source": "日本経済新聞",
@@ -6206,22 +6252,6 @@
       "focus": [],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "6524e22af8904fa873e6",
-      "title": "停電・断水なお広範囲 熊本地震 がれき撤去、猛暑追い打ち 余震続発、遠い日常",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T05:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVkVwcDNSWDl4OTJlNnprU0p4QlVsYklscXRxMnRyc1hIdmRwX1Z4aGxnOVhNMXhnQ2E5VVFBSmhSYUxGTTRHZXgwOVNOT3RkX2pWdmFIVFVVSG5teGdTX0pYOWtZcFNuOTE1dw?oc=5",
-      "first_seen": "2026-07-30T10:00:13Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -6739,22 +6769,6 @@
       "published_at": "2026-07-30T00:16:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aOHY5MDhESEdPWFlJenFaR0dWZ2hzX2lVaVFzcXhYdnk5Y0d6bUIxRjdtNzFITDFrWW84MmR1cVZBNW1QaUl6WVcyQ2V6TEc5YjJHbVh4Smo0VnRNUEU0Q0IyeHNRMkhKNnc?oc=5",
       "first_seen": "2026-08-01T13:00:12Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "bdc737c8d4123ced9e82",
-      "title": "熊本地震で爆発したイオンモール、店員だった妻が音信不通「覚悟しておいた方がいいのかもしれない」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T00:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iTW9VTXlWMENzTnRBUllTQ2tSZ0tZdnBXdm1iNmpQeUt5Y0pGX01VajRmcEhGa0FvVWlpWUNLTzhUSWlUOXhNcy00U0l1MGZwNk5VRE0zTGd4M3VjRnFXLVAyOWZWbF9FMnhHbXZ5Mi1Ddw?oc=5",
-      "first_seen": "2026-07-30T00:30:50Z",
       "focus": [
         "現場状況"
       ],
@@ -8977,6 +8991,22 @@
       ]
     },
     {
+      "id": "eed1ca9ce11ff983884c",
+      "title": "有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」【令和8年熊本地震】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDY3OG9yUzB5OHZLNWtpM2RZdDYyVHNJM3FaRW9vRWRwWjdaQkkxdThSZVJ6WnFNSlZuRFFDbHlMS0lrS054UGFESGI1NlU3ZDFYY1JyZGFVQmlIS3g0eVNabXpLdWp6UWtCUVJKd3RVTzdWVkhvUFhnVm52SkU5R2JnbFQ2MWFVWklUaVRwTGJVUjdpUTJ1ejlVbw?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "a1736effff555919a186",
       "title": "日本製紙八代工場で救助の2人が心肺停止 安否不明は9人に 熊本震度7、煙突の一部損壊",
       "source": "産経新聞",
@@ -10984,22 +11014,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "eed1ca9ce11ff983884c",
-      "title": "有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」【令和8年熊本地震】",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T00:31:08Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDY3OG9yUzB5OHZLNWtpM2RZdDYyVHNJM3FaRW9vRWRwWjdaQkkxdThSZVJ6WnFNSlZuRFFDbHlMS0lrS054UGFESGI1NlU3ZDFYY1JyZGFVQmlIS3g0eVNabXpLdWp6UWtCUVJKd3RVTzdWVkhvUFhnVm52SkU5R2JnbFQ2MWFVWklUaVRwTGJVUjdpUTJ1ejlVbw?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
