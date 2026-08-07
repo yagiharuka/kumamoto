@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T14:30:27Z",
-  "updated_at_jst": "2026/08/07 23:30 JST",
+  "updated_at": "2026-08-07T15:00:35Z",
+  "updated_at_jst": "2026/08/08 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 881,
@@ -8103,22 +8103,6 @@
       ]
     },
     {
-      "id": "8ae074cd3c5d6323ee67",
-      "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:29:41Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uVXItTE5XSzJHdVg1dlZGRjhHc2wzWWU2Mm1MSHhXTngzbzRFUlVGcGVRdUFhZUNlbnBZNU55azhmTmxILV84Q2tqNTQ3b2RvN3MwUnVQUkR4eFRKVHpCWFBwYm54WElSM2tFa0tidXNTY2dPR2c?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "c29e986ed23d4482f645",
       "title": "イオンモール熊本内の猫カフェ「Cat Cafe MOFF」について公式インスタグラムが報告(企業サイトより)",
       "source": "産経新聞",
@@ -9097,6 +9081,22 @@
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUxWOVBsd3ViZmNoMVh3aldwcXJCa1lZRE9EMUpqVFRNcTR2RG1WNEdwVVBuZ3dta2ZkTDRyTWk0WDV1bDJQaG54ekdPSTBJOUxqY0RHNzdUZmhNV1NRN0xIcTdObHBjYlZpckxNUGc4ZXB4VjhqRXZIdWM3b1VicldEWGZKSVNpb3o0bnozQ2htalJkS2VkTHNJRUt2YnFNaHc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "8ae074cd3c5d6323ee67",
+      "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uVXItTE5XSzJHdVg1dlZGRjhHc2wzWWU2Mm1MSHhXTngzbzRFUlVGcGVRdUFhZUNlbnBZNU55azhmTmxILV84Q2tqNTQ3b2RvN3MwUnVQUkR4eFRKVHpCWFBwYm54WElSM2tFa0tidXNTY2dPR2c?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "停電状況"
