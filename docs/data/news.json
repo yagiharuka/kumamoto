@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T11:00:30Z",
-  "updated_at_jst": "2026/08/07 20:00 JST",
+  "updated_at": "2026-08-07T11:30:27Z",
+  "updated_at_jst": "2026/08/07 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 878,
@@ -4993,23 +4993,6 @@
       ]
     },
     {
-      "id": "bce444a4d771903f449b",
-      "title": "2026年熊本地震>停電、断水...「車中泊しか選択肢ない」 避難所外の被災者多く 専門家が警鐘を鳴らすのは...",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T13:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTU40Q3JpQkgwMkVidnZtN0tucnJ4WGNEYU9pOWFGczVObzBkRy1nUmktYzl2UWZWV0xPWjctVnBwc1NwYkZnMHlaTlFCOG8?oc=5",
-      "first_seen": "2026-07-30T14:00:11Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "f5c2945d7d64bbfe1c55",
       "title": "【動画】イオンモール熊本 爆発の瞬間",
       "source": "NHK",
@@ -6037,6 +6020,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "bce444a4d771903f449b",
+      "title": "2026年熊本地震>停電、断水...「車中泊しか選択肢ない」 避難所外の被災者多く 専門家が警鐘を鳴らすのは...",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTU40Q3JpQkgwMkVidnZtN0tucnJ4WGNEYU9pOWFGczVObzBkRy1nUmktYzl2UWZWV0xPWjctVnBwc1NwYkZnMHlaTlFCOG8?oc=5",
+      "first_seen": "2026-07-30T14:00:11Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -8978,23 +8978,6 @@
       ]
     },
     {
-      "id": "ec88766bf679a2882eca",
-      "title": "煙突が折れる被害が出た日本製紙八代工場=7月29日午後0時21分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJTSEZDMklOamh0U3FFYWVMVTdwSWowZm5XQktOakR1R1h6TjhDajhHLUI4UlZWYU5xQUg4TkpaSEs2MFdQdFV5V2FmM2ZkY3VKQXZmbkRFV3FyLWt5SDBHNElXd3hUZ0tpbjJFTTlOSkpHS04wX2ZsNkNrNFZaLWlZNXFlMDN4YWVNVnhpZTBDeVNVdkRiSi10NWJmTWVJM0E?oc=5",
-      "first_seen": "2026-07-29T12:31:06Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "a1736effff555919a186",
       "title": "日本製紙八代工場で救助の2人が心肺停止 安否不明は9人に 熊本震度7、煙突の一部損壊",
       "source": "産経新聞",
@@ -9473,6 +9456,22 @@
       ]
     },
     {
+      "id": "4f8835621858f50f07bf",
+      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M1pNY1FJNG9heFBlWURKdjdBNm9OQVM2bjZKQ0JMcW5CZElOSjBHUTZfME5QUE9GZTdQVEIwc0Z4TWc5Y0pVQmJ4VjJhUFJ3NVNwTjhyWVNKaVpDRWhF?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "c6d63817328ae38af3d3",
       "title": "熊本地震「死者13人」 イオン爆発、製紙工場被害(共同通信)",
       "source": "熊本日日新聞",
@@ -9549,6 +9548,23 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "ec88766bf679a2882eca",
+      "title": "煙突が折れる被害が出た日本製紙八代工場=7月29日午後0時21分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T06:36:55Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWJTSEZDMklOamh0U3FFYWVMVTdwSWowZm5XQktOakR1R1h6TjhDajhHLUI4UlZWYU5xQUg4TkpaSEs2MFdQdFV5V2FmM2ZkY3VKQXZmbkRFV3FyLWt5SDBHNElXd3hUZ0tpbjJFTTlOSkpHS04wX2ZsNkNrNFZaLWlZNXFlMDN4YWVNVnhpZTBDeVNVdkRiSi10NWJmTWVJM0E?oc=5",
+      "first_seen": "2026-07-29T12:31:06Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -11973,22 +11989,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "4f8835621858f50f07bf",
-      "title": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」 | NHKニュース | 令和8年熊本地震、地震、熊本県",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-28T15:19:11Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M1pNY1FJNG9heFBlWURKdjdBNm9OQVM2bjZKQ0JMcW5CZElOSjBHUTZfME5QUE9GZTdQVEIwc0Z4TWc5Y0pVQmJ4VjJhUFJ3NVNwTjhyWVNKaVpDRWhF?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
