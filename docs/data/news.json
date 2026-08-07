@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T04:00:39Z",
-  "updated_at_jst": "2026/08/07 13:00 JST",
+  "updated_at": "2026-08-07T04:30:26Z",
+  "updated_at_jst": "2026/08/07 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 874,
+  "article_count": 875,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "yomiuri": 116,
     "sankei": 156,
     "nhk": 69,
-    "jiji": 141,
+    "jiji": 142,
     "nikkei": 50,
     "mainichi": 112,
     "asahi": 103
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 694,
+    "aeon": 695,
     "power": 109,
     "paper": 88
   },
@@ -733,7 +733,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjJ1aWZSWm9mY3dIU3hyazNibTF5Rk4xY0RwSnJFRE9hREV0Sl9BOEpxSGhoQmlmSzc3MExBQkwwWklyWUduYkRvaTQ0RkRDZzZyZ0lGMGEzY1RHUnc4ZUJpelNFUTBmclVMUjltS2I1QVlRMmlJWW1BRkRzam5IcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWWFzUUw4aml2ejZMWnU3R0xPS2d3TlIzWFU4aGxvbll3NE1KYUVwNGo0MWw2TzBiSkctS1V0Q3ZtQ2QtODFxVnI0YWxKcDMzMnpQS3pCbjhybjc1ZndLQUhwWQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -1000,29 +1000,13 @@
       ]
     },
     {
-      "id": "4ae20395792cbcf5b9e9",
-      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
-      "first_seen": "2026-08-04T12:01:05Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "28a43ebf5e32c9b4f917",
       "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-08-04T12:10:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSGMwQUJHWUphRnhUVDRsUy12VThxazR5MWdJZ08ycU1mMVlOZ1ljX2RuWDktcFA4SURuYVZSbER4RkRvT2NtckF1SlRjTHpZcUJtNQ?oc=5",
+      "published_at": "2026-08-04T12:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzODVBb3JpRTNDRHZkWUZTT3diZVNpZ2tzNmdMQ1I2M09QSVZWbEtCXy1IaGkzbWtyb2dHbXF2dnpBV0ZBQ2hhQ2tGdXVIYlptVElVVw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "避難状況"
@@ -1042,6 +1026,22 @@
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4ae20395792cbcf5b9e9",
+      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T11:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XUWJna1doVHFEaXJkN2N1Z3NYYmZWVUlvd21CU3Zzb0YzcmVoN2NEWWRkeVdia0tMd0QtbTNHVHlqZXlIV2wzdFI5cTROODkxM1FqS1Z3Y1VZQmFwVXBhTm9rdw?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -1469,7 +1469,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -1626,6 +1626,22 @@
       "published_at": "2026-08-04T02:19:00Z",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vMkU0SGh0M1A5SVNiQkctLWZ5SUZlWjdWWmJnVDVWN1NMcXkxM19NMktWYTRVZktCdVJUOWstZnJOOVowZVlfY3hhTHZHQmp2?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9dd0dcd45b00e5c78fed",
+      "title": "◎爆発のイオン前、献花や色紙=断水地域、給水並ぶ列も―熊本地震1週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T02:18:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41Tm1mWC15cm1CN1BPTXVJQnhVcHA5YmZXQzFPRlE5aUhxZU1XMkVhOFdMTmNKVXFmV3hQZlRnTGFqUGExT0FXSTlxRTczbzV4Y3VhZg?oc=5",
+      "first_seen": "2026-08-07T04:30:26Z",
       "focus": [
         "現場状況"
       ],
@@ -9136,6 +9152,22 @@
       ]
     },
     {
+      "id": "60aa90afebe2543c95a9",
+      "title": "日本製紙八代工場で2人心肺停止、9人安否不明 熊本で震度7",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbldnSkZqUk5FTHV1eWZsM3VkTzBuNno3a2kxYi1VVW9jcHJCbzR3NlhVUWJfZ3VGeE8xWERyeHR5R2JEdDVqMlh0eGRMblZXMFVyRjM2Qm5lVnlidmJWck5LU2NoRXVh?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "4b53352266a572124345",
       "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間",
       "source": "毎日新聞",
@@ -9212,6 +9244,22 @@
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a86c011511518520dda7",
+      "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dlR4d0V6M3lxNU04TkJ0U09JYm1jdEJBNExmVzBNM2JlX09kTU9CSVF2SU56emJsbFdGVkZpcThUUF9ZdFh0R0JtU2RpVG1ZRVhIQmdKWlRBTFpzbmlldmxNWkZYaEU?oc=5",
+      "first_seen": "2026-07-28T21:30:22Z",
+      "focus": [
+        "救助・安否"
       ],
       "category_ids": [
         "aeon"
@@ -10810,22 +10858,6 @@
       ]
     },
     {
-      "id": "60aa90afebe2543c95a9",
-      "title": "日本製紙八代工場で2人心肺停止、9人安否不明 熊本で震度7",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T00:40:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbldnSkZqUk5FTHV1eWZsM3VkTzBuNno3a2kxYi1VVW9jcHJCbzR3NlhVUWJfZ3VGeE8xWERyeHR5R2JEdDVqMlh0eGRMblZXMFVyRjM2Qm5lVnlidmJWck5LU2NoRXVh?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "a066370779536f574d06",
       "title": "【動画】イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止 熊本地震",
       "source": "時事通信",
@@ -11321,22 +11353,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xdndFblhERGF1ejJwU2ZFVlc0OGNoZjNqdlotbFNNRVVvd2YwNURJVjFSMU9jX3QwUXlrMjBWT2JhZGZXSlF5aVJmbHFZT1E?oc=5",
       "first_seen": "2026-07-29T04:00:22Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a86c011511518520dda7",
-      "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T20:50:54Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dlR4d0V6M3lxNU04TkJ0U09JYm1jdEJBNExmVzBNM2JlX09kTU9CSVF2SU56emJsbFdGVkZpcThUUF9ZdFh0R0JtU2RpVG1ZRVhIQmdKWlRBTFpzbmlldmxNWkZYaEU?oc=5",
-      "first_seen": "2026-07-28T21:30:22Z",
-      "focus": [
-        "救助・安否"
-      ],
       "category_ids": [
         "aeon"
       ]
