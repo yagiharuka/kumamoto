@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T00:00:30Z",
-  "updated_at_jst": "2026/08/07 09:00 JST",
+  "updated_at": "2026-08-07T00:30:32Z",
+  "updated_at_jst": "2026/08/07 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 873,
@@ -1452,7 +1452,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -7627,7 +7627,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -7971,22 +7971,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "354ab46e4f219f17e732",
-      "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー(写真・画像 1/3)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:29:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUxWOVBsd3ViZmNoMVh3aldwcXJCa1lZRE9EMUpqVFRNcTR2RG1WNEdwVVBuZ3dta2ZkTDRyTWk0WDV1bDJQaG54ekdPSTBJOUxqY0RHNzdUZmhNV1NRN0xIcTdObHBjYlZpckxNUGc4ZXB4VjhqRXZIdWM3b1VicldEWGZKSVNpb3o0bnozQ2htalJkS2VkTHNJRUt2YnFNaHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -8956,6 +8940,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "354ab46e4f219f17e732",
+      "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー(写真・画像 1/3)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUxWOVBsd3ViZmNoMVh3aldwcXJCa1lZRE9EMUpqVFRNcTR2RG1WNEdwVVBuZ3dta2ZkTDRyTWk0WDV1bDJQaG54ekdPSTBJOUxqY0RHNzdUZmhNV1NRN0xIcTdObHBjYlZpckxNUGc4ZXB4VjhqRXZIdWM3b1VicldEWGZKSVNpb3o0bnozQ2htalJkS2VkTHNJRUt2YnFNaHc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -12236,6 +12236,22 @@
       ]
     },
     {
+      "id": "86c17b92de950934d1a6",
+      "title": "46医療機関で断水や停電 熊本地震(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T14:07:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeHB1UVVKaW0wbERtMThRX1hVX1hzX3N6bmFKQ3FuNUVBY2I1S1B0UTh0LW9aSm9SdHhhcVd6bXVNajBBem5KZ204XzRSR2M?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "1c9077a0ca6078c29d30",
       "title": "爆発のあったイオンモール熊本の周辺に集まる消防隊員ら=7月28日午後10時、熊本県嘉島町",
       "source": "産経新聞",
@@ -13654,22 +13670,6 @@
       ]
     },
     {
-      "id": "5c70c2b0929a276fd18e",
-      "title": "川内と玄海原発、異常なし 熊本震度7 県内4.8万戸超が停電",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T08:26:44Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sWnJ6NUZ0Rmkzc29xYWpYd3FXOXpja0dWZTNibEtxbHpCLU9Hbk1iTEFZMXdpMElhOHdsVDFjYmtFUjMxbFE2RXY3eGNaMGFDWkYweTlvd1R4UUl1NXZiWmhYMEdZWUh4?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "2502b68802ecd01ea57b",
       "title": "熊本県内で4万8千戸超が停電 (共同通信)",
       "source": "熊本日日新聞",
@@ -13983,22 +13983,6 @@
       ]
     },
     {
-      "id": "86c17b92de950934d1a6",
-      "title": "46医療機関で断水や停電 熊本地震(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYeHB1UVVKaW0wbERtMThRX1hVX1hzX3N6bmFKQ3FuNUVBY2I1S1B0UTh0LW9aSm9SdHhhcVd6bXVNajBBem5KZ204XzRSR2M?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "244937b7b65874fff7a2",
       "title": "熊本で震度7 熊本城やイオンモール熊本などで被害 [写真特集1/21]",
       "source": "毎日新聞",
@@ -14010,6 +13994,22 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "5c70c2b0929a276fd18e",
+      "title": "川内と玄海原発、異常なし 熊本震度7 県内4.8万戸超が停電",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sWnJ6NUZ0Rmkzc29xYWpYd3FXOXpja0dWZTNibEtxbHpCLU9Hbk1iTEFZMXdpMElhOHdsVDFjYmtFUjMxbFE2RXY3eGNaMGFDWkYweTlvd1R4UUl1NXZiWmhYMEdZWUh4?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
