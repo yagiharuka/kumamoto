@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T01:00:37Z",
-  "updated_at_jst": "2026/08/07 10:00 JST",
+  "updated_at": "2026-08-07T01:30:27Z",
+  "updated_at_jst": "2026/08/07 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 874,
@@ -1469,7 +1469,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -3036,6 +3036,24 @@
       ]
     },
     {
+      "id": "4d7a1023be19d81f075d",
+      "title": "猛暑の捜索続く、72時間経過=死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T13:32:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UUFhqckhoY0lEM2tGOUJpenhDcE1CUF9zR2tIZTRFMDlVcXhEUTdIczF6RmhTcGJuamwtd1JIbGFLdHh0T1AzWlZxVnRFaXp0UU1NTw?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "8682ef002108c04388c1",
       "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
       "source": "時事通信",
@@ -4070,24 +4088,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "4d7a1023be19d81f075d",
-      "title": "猛暑の捜索続く、72時間経過=死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T02:10:26Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ka2ZGbmQ3MHpJZ1ZJUUZkQzBTemg1a2FkWlBTY3FUMFBJd0tmUjNqNmduNUVta1NaQUNGZkNHVE4xUEhFdm82STFWYlpJREltdnZ3cg?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -6464,6 +6464,23 @@
       ]
     },
     {
+      "id": "bc1ad5ebcc18d938379c",
+      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T01:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXNjemY5RWpUVGRYRFlfM2xxRHhfM19jblRCd3dJZUk3bW9pYWpwTmp4YXVDVllFaVU2dmJsZlFGQUlZREZlRFZVeWh5NU05enp3cTdSWXZBaF9id3I2Z3hoczVVc0hGM09aSF9SRWd4dHB2dENGYlIzcjBDcTFmclJRTHJ4LWkwODZyWGRibFg5X0w1UWFHZF8zVFB4NWZNLUE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "181dc330e794df40c827",
       "title": "熊本地震で死者計17人に イオンモールは5人、日本製紙八代工場で8人 心肺停止は6人",
       "source": "産経新聞",
@@ -7644,7 +7661,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -8889,23 +8906,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "bc1ad5ebcc18d938379c",
-      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWJLRzg3VG9USlN0MEptNVpzdHV0UWZlOXRaZHlOdEVVNlFwQ1ZXV2tmTkU3dzdpUG1BQlc5WWhiYlR2dTZKRm5lcTlSRHZVOWkxc0F3aE1JWXk4aFJEVlNUOWJOc0Job1BnOGktYjBMc1VLZ1JSQ29wNkRDV0xLbWRpRG55bFp5ZXRQdkRzaHA3aTRpaDd4bW81Zy16R3pDdkE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
