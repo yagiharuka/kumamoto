@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T00:30:32Z",
-  "updated_at_jst": "2026/08/07 09:30 JST",
+  "updated_at": "2026-08-07T01:00:37Z",
+  "updated_at_jst": "2026/08/07 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 873,
+  "article_count": 874,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 115,
-    "sankei": 156,
     "kumanichi": 127,
+    "yomiuri": 116,
+    "sankei": 156,
     "nhk": 69,
     "jiji": 141,
     "nikkei": 50,
@@ -76,11 +76,45 @@
     }
   ],
   "category_counts": {
-    "aeon": 693,
+    "aeon": 694,
     "power": 109,
     "paper": 88
   },
   "items": [
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-07T00:55:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8c223f068fd3828f72c2",
+      "title": "イオンモール熊本の爆発事故、LPガス提供会社「重く受け止めている」...安全装置の作動状況「調査中」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-07T00:36:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnOGtmVGc2ano2V2tRVVNueUlZNDV1X1NlUnpHY1ltWmdoYl9MT0FmdVBxVTZsR1J5RFJhRzR1dWRobHhwckpVMThpVEJrOFhlWXBwVmwwOGhxTmFiYXgzSFl4UFY4RXoySnc3YUZac3VVdw?oc=5",
+      "first_seen": "2026-08-07T01:00:37Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "cb8768dd7e88777e8379",
       "title": "「イオンモール熊本」にLPガス提供会社、爆発事故「重く受け止める」...安全装置の作動「調査中」",
@@ -1024,23 +1058,6 @@
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-04T11:04:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -3019,24 +3036,6 @@
       ]
     },
     {
-      "id": "4d7a1023be19d81f075d",
-      "title": "猛暑の捜索続く、72時間経過=死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T13:32:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UUFhqckhoY0lEM2tGOUJpenhDcE1CUF9zR2tIZTRFMDlVcXhEUTdIczF6RmhTcGJuamwtd1JIbGFLdHh0T1AzWlZxVnRFaXp0UU1NTw?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8682ef002108c04388c1",
       "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
       "source": "時事通信",
@@ -4074,6 +4073,24 @@
       ]
     },
     {
+      "id": "4d7a1023be19d81f075d",
+      "title": "猛暑の捜索続く、72時間経過=死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T02:10:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ka2ZGbmQ3MHpJZ1ZJUUZkQzBTemg1a2FkWlBTY3FUMFBJd0tmUjNqNmduNUVta1NaQUNGZkNHVE4xUEhFdm82STFWYlpJREltdnZ3cg?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "e9cbd539e8f0fbc967d0",
       "title": "イオン九州がテレビCM差し止め、「イオンモール熊本」爆発事故などで...ACジャパン広告に切り替え",
       "source": "読売新聞",
@@ -4795,7 +4812,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T14:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
@@ -7627,7 +7644,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -8851,6 +8868,23 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTDhYNEFiVEN1bzZ5a0pQN0NHNG9KM3lsWnFYZVE0bHl1UUFzaGFJY3dvQzh4SU1CX2hURmttdURzWVBRMVJnaUoxSFBQZjIxNEh4ZllHeXI1ZFFmNjFkZkZaMDZiakJjcGZjUWdIZEpiU2tEZHc?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "6241084706ecb661b555",
+      "title": "熊本地震、負傷者は多数 避難者9800人超 3万7000戸が停電 県は被害把握急ぐ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KOWItY2QtLWFGV3E3dlhrbzNEM2Z1dVlXLWlaYi1icFVRTUdmNHp1dmtuU2hWcTlMOG8zaGUyS0p0cjUwLTU0RWpOejJCOFUzN3JNUXVRZTR3QnBaREJUdDVXaV9qVWJNTDRra2s4dndKV3BlT3c?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "避難状況",
         "停電状況"
       ],
       "category_ids": [
@@ -10586,23 +10620,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "6241084706ecb661b555",
-      "title": "熊本地震、負傷者は多数 避難者9800人超 3万7000戸が停電 県は被害把握急ぐ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T01:57:58Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KOWItY2QtLWFGV3E3dlhrbzNEM2Z1dVlXLWlaYi1icFVRTUdmNHp1dmtuU2hWcTlMOG8zaGUyS0p0cjUwLTU0RWpOejJCOFUzN3JNUXVRZTR3QnBaREJUdDVXaV9qVWJNTDRra2s4dndKV3BlT3c?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
