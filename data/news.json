@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T18:01:08Z",
-  "updated_at_jst": "2026/08/08 03:01 JST",
+  "updated_at": "2026-08-07T18:30:58Z",
+  "updated_at_jst": "2026/08/08 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 883,
@@ -6114,6 +6114,39 @@
       ]
     },
     {
+      "id": "5ccdbb07ad980a3d7211",
+      "title": "避難、過酷な暑さ 停電でエアコン停止、一睡もできず 熊本地震",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lQkphUlhPX1VJTkVBdjJxZ0xOZkVrQ1lEa1FoVHVTdVVWMmJkOUJ5aEFFS2J5ZkRwbHhfazdpMlZMWXdFY3gxX3FYX0lsN0RPUzlEQVJZelZldi1W?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "c778bb9656cd12d003fc",
+      "title": "断水8万戸超、停電も続く 高速の橋や鉄道設備に損傷 熊本地震",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOS2FyOC1VVFBDelJMSGRvczhsVDZ6ZG1FaFRMdHRDaXNCbE8xaVg1MmozNDBtZHJjcS1vdlhpVXRqbHBOVGh6eUY4WUJXcUdKUmRMTllHUHJTZEhF?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "0e99cde673871ef4cb4f",
       "title": "中小融資・電源車派遣・クーラー300台 経産省が支援 熊本地震",
       "source": "朝日新聞",
@@ -7040,23 +7073,6 @@
       ]
     },
     {
-      "id": "5ccdbb07ad980a3d7211",
-      "title": "避難、過酷な暑さ 停電でエアコン停止、一睡もできず 熊本地震",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lQkphUlhPX1VJTkVBdjJxZ0xOZkVrQ1lEa1FoVHVTdVVWMmJkOUJ5aEFFS2J5ZkRwbHhfazdpMlZMWXdFY3gxX3FYX0lsN0RPUzlEQVJZelZldi1W?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -7071,22 +7087,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "c778bb9656cd12d003fc",
-      "title": "断水8万戸超、停電も続く 高速の橋や鉄道設備に損傷 熊本地震",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOS2FyOC1VVFBDelJMSGRvczhsVDZ6ZG1FaFRMdHRDaXNCbE8xaVg1MmozNDBtZHJjcS1vdlhpVXRqbHBOVGh6eUY4WUJXcUdKUmRMTllHUHJTZEhF?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -13731,22 +13731,6 @@
       ]
     },
     {
-      "id": "2502b68802ecd01ea57b",
-      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T08:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -14002,6 +13986,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "2502b68802ecd01ea57b",
+      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "停電状況"
       ],
