@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T19:31:01Z",
-  "updated_at_jst": "2026/08/08 04:31 JST",
+  "updated_at": "2026-08-07T20:01:05Z",
+  "updated_at_jst": "2026/08/08 05:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 883,
+  "article_count": 884,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "mainichi": 115,
+    "mainichi": 116,
     "nhk": 72,
     "yomiuri": 117,
     "sankei": 157,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 703,
+    "aeon": 704,
     "power": 109,
     "paper": 88
   },
   "items": [
+    {
+      "id": "3f18a202e8ee62e9be9f",
+      "title": "イオンモール熊本、「再入館を許可」の証言 社内規定に抵触か",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-07T19:40:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UzdHbjdxMzJyOUo0YlJqYzhRc1NrMFlGbXdBWDZuTG1oNXEtSWNMR2pncFdSZjloMzNuZXhBZHo2NWNXY0hKN0x1aHd2WnRCbHlIWW44a2Q4TFREOUZGNmhrNV9FaVFU?oc=5",
+      "first_seen": "2026-08-07T20:01:05Z",
+      "focus": [
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "6a5652a2d756d43f4a9b",
       "title": "熊本地震・爆発 イオン側、避難内規抵触か 安全確認前「入館可」証言",
@@ -13731,22 +13747,6 @@
       ]
     },
     {
-      "id": "2502b68802ecd01ea57b",
-      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T08:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -14002,6 +14002,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "2502b68802ecd01ea57b",
+      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "停電状況"
       ],
