@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T07:00:30Z",
-  "updated_at_jst": "2026/08/07 16:00 JST",
+  "updated_at": "2026-08-07T07:30:36Z",
+  "updated_at_jst": "2026/08/07 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 875,
@@ -87,7 +87,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-08-07T03:56:27Z",
+      "published_at": "2026-08-07T07:01:08Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
       "first_seen": "2026-08-04T16:01:15Z",
       "focus": [
@@ -13655,22 +13655,6 @@
       ]
     },
     {
-      "id": "96ace6ae40ea7ffe52f3",
-      "title": "【速報】熊本県内、停電4万8千戸超",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T08:46:58Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51R1JLaU5ydFZrdXN6bEtHc2pRRFoyajYwRU1rQUlvUEY4OThpajRqdDIyMGtuYUlqZDZJYVljQWwxc0tZUEVkdHdicFRERUk?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "398308bd46340d90e3a3",
       "title": "【地震】熊本県内の約4万8000戸で停電(17:45)",
       "source": "NHK",
@@ -13957,6 +13941,22 @@
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "96ace6ae40ea7ffe52f3",
+      "title": "【速報】熊本県内、停電4万8千戸超",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51R1JLaU5ydFZrdXN6bEtHc2pRRFoyajYwRU1rQUlvUEY4OThpajRqdDIyMGtuYUlqZDZJYVljQWwxc0tZUEVkdHdicFRERUk?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
         "停電状況"
