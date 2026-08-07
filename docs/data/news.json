@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T16:00:29Z",
-  "updated_at_jst": "2026/08/08 01:00 JST",
+  "updated_at": "2026-08-07T16:30:31Z",
+  "updated_at_jst": "2026/08/08 01:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 881,
@@ -50,9 +50,9 @@
   ],
   "source_counts": {
     "nhk": 72,
+    "kumanichi": 127,
     "yomiuri": 117,
     "sankei": 157,
-    "kumanichi": 127,
     "jiji": 142,
     "nikkei": 50,
     "mainichi": 113,
@@ -91,6 +91,23 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c1F3eEdxb3BpenhralVLajBza3VWbElub1JYY0pmazd1OXBncDVMNmpZTWoyN0txZ3Nsd21VdWxjOHJWbXNQQUlvQ0RVc2VYcnlPUHFIZE14a2k3bHhJ?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-07T07:01:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -238,23 +255,6 @@
       "first_seen": "2026-08-06T19:00:39Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-06T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -5050,24 +5050,6 @@
       ]
     },
     {
-      "id": "1b56826fc2c62bda5c64",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T13:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTmFCUzc2MVp6dUJmbDBlVnR2d3JncllpTWtrWFJkeUxBaUowcDlTQk1CWTcwdDhnZ0daX0dPbzhKejVBaWVVRDA4VTVnTlBfbG1sbWJmc2lNeGFQbkpITlVTTlRwbG8?oc=5",
-      "first_seen": "2026-07-30T14:00:11Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "7c226848183ac9f8b63c",
       "title": "イオンモール熊本、避難や爆発の状況は 証言や映像からたどる",
       "source": "朝日新聞",
@@ -6018,6 +6000,38 @@
       ]
     },
     {
+      "id": "af2b3a8511d576009ad3",
+      "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVjRqR05WTnI1V0hlU01sTnZTcVBxWE12YXduaTBrRVB6T3ZvUlRqemFONi1sZ21vSjZId3o5cTQ4UzFSOGVTd3FKZlg5ZHU2WkNxRmNMY2d3Wl9ncEFTa3d6ajE4QmhKZE8zcXRrNkYtUQ?oc=5",
+      "first_seen": "2026-07-30T06:30:11Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "bdc737c8d4123ced9e82",
+      "title": "熊本地震で爆発したイオンモール、店員だった妻が音信不通「覚悟しておいた方がいいのかもしれない」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iTW9VTXlWMENzTnRBUllTQ2tSZ0tZdnBXdm1iNmpQeUt5Y0pGX01VajRmcEhGa0FvVWlpWUNLTzhUSWlUOXhNcy00U0l1MGZwNk5VRE0zTGd4M3VjRnFXLVAyOWZWbF9FMnhHbXZ5Mi1Ddw?oc=5",
+      "first_seen": "2026-07-30T00:30:50Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a519ebc7732e82601da1",
       "title": "【詳報】熊本地震の死者は35人に、イオンモールではオンワード従業員3人の死亡確認",
       "source": "読売新聞",
@@ -6079,6 +6093,24 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "1b56826fc2c62bda5c64",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTmFCUzc2MVp6dUJmbDBlVnR2d3JncllpTWtrWFJkeUxBaUowcDlTQk1CWTcwdDhnZ0daX0dPbzhKejVBaWVVRDA4VTVnTlBfbG1sbWJmc2lNeGFQbkpITlVTTlRwbG8?oc=5",
+      "first_seen": "2026-07-30T14:00:11Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -6201,22 +6233,6 @@
       "published_at": "2026-07-30T06:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKc1BQQTBBWmNJQkxWeTdfSkRtVWR0bXA2MFN3UkFVQmxjQXVIUHRVaDVPcVN3LWs0TWE2WjUxUGRfZEo5cndWS3Znay1kcDE4akdscENOVThwRm1LTHR2R01QdTFETXZjekE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "af2b3a8511d576009ad3",
-      "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T06:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVjRqR05WTnI1V0hlU01sTnZTcVBxWE12YXduaTBrRVB6T3ZvUlRqemFONi1sZ21vSjZId3o5cTQ4UzFSOGVTd3FKZlg5ZHU2WkNxRmNMY2d3Wl9ncEFTa3d6ajE4QmhKZE8zcXRrNkYtUQ?oc=5",
-      "first_seen": "2026-07-30T06:30:11Z",
       "focus": [
         "現場状況"
       ],
@@ -6783,22 +6799,6 @@
       "published_at": "2026-07-30T00:16:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aOHY5MDhESEdPWFlJenFaR0dWZ2hzX2lVaVFzcXhYdnk5Y0d6bUIxRjdtNzFITDFrWW84MmR1cVZBNW1QaUl6WVcyQ2V6TEc5YjJHbVh4Smo0VnRNUEU0Q0IyeHNRMkhKNnc?oc=5",
       "first_seen": "2026-08-01T13:00:12Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "bdc737c8d4123ced9e82",
-      "title": "熊本地震で爆発したイオンモール、店員だった妻が音信不通「覚悟しておいた方がいいのかもしれない」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T00:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iTW9VTXlWMENzTnRBUllTQ2tSZ0tZdnBXdm1iNmpQeUt5Y0pGX01VajRmcEhGa0FvVWlpWUNLTzhUSWlUOXhNcy00U0l1MGZwNk5VRE0zTGd4M3VjRnFXLVAyOWZWbF9FMnhHbXZ5Mi1Ddw?oc=5",
-      "first_seen": "2026-07-30T00:30:50Z",
       "focus": [
         "現場状況"
       ],
