@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T23:00:50Z",
-  "updated_at_jst": "2026/08/08 08:00 JST",
+  "updated_at": "2026-08-07T23:31:00Z",
+  "updated_at_jst": "2026/08/08 08:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -5248,23 +5248,6 @@
       ]
     },
     {
-      "id": "d7162ef6dedafa5a5561",
-      "title": "<2026年熊本地震>31日夕に停電復旧へ 九電見込み",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T12:31:21Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RkFoaVIydFhUNUhYS2R2cVdIbm8xS1NMRGxtUjBSandzdEtlWldubE1rYWF0TnlyWU9vZTVDVFVSQ3FlRDhrSUtIaWl4MEk?oc=5",
-      "first_seen": "2026-07-30T13:00:19Z",
-      "focus": [
-        "停電状況",
-        "復旧情報"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "89b098498bf739882b4d",
       "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
       "source": "時事通信",
@@ -6047,20 +6030,6 @@
       ]
     },
     {
-      "id": "228ff21fd2497a680864",
-      "title": "上空から見た熊本地震、引き裂かれた道路と地面...骨組みがむき出しのイオンモール熊本や石垣が崩れた熊本城",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR1RmM1R5bEVZYWROVF9pV0x3cVZRT2NyZ2NkMXJibHhrRlh4c0tUdi1HWHdxS2RKdjhRcUhiRmtDZF9SY0IxaUctWjFiaEdBTDFqVzQtcUVNM2MyUXdPaUVuOTh5cUo4MDhlclVjNDZ6QQ?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a519ebc7732e82601da1",
       "title": "【詳報】熊本地震の死者は35人に、イオンモールではオンワード従業員3人の死亡確認",
       "source": "読売新聞",
@@ -6133,6 +6102,23 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fWnBETmlUZm5UVXZfTlFHSlcwNWN0T2s0SzhSSDFvUk1xay16WVp6MzI4cExKMTJIdm53akF2WlVINHpwZlhBald6eEJ4YWs?oc=5",
       "first_seen": "2026-07-30T08:30:10Z",
+      "focus": [
+        "停電状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "d7162ef6dedafa5a5561",
+      "title": "<2026年熊本地震>31日夕に停電復旧へ 九電見込み",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RkFoaVIydFhUNUhYS2R2cVdIbm8xS1NMRGxtUjBSandzdEtlWldubE1rYWF0TnlyWU9vZTVDVFVSQ3FlRDhrSUtIaWl4MEk?oc=5",
+      "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "停電状況",
         "復旧情報"
@@ -6769,6 +6755,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "228ff21fd2497a680864",
+      "title": "上空から見た熊本地震、引き裂かれた道路と地面...骨組みがむき出しのイオンモール熊本や石垣が崩れた熊本城",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T01:36:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR1RmM1R5bEVZYWROVF9pV0x3cVZRT2NyZ2NkMXJibHhrRlh4c0tUdi1HWHdxS2RKdjhRcUhiRmtDZF9SY0IxaUctWjFiaEdBTDFqVzQtcUVNM2MyUXdPaUVuOTh5cUo4MDhlclVjNDZ6QQ?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
