@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T20:01:05Z",
-  "updated_at_jst": "2026/08/08 05:01 JST",
+  "updated_at": "2026-08-07T20:30:54Z",
+  "updated_at_jst": "2026/08/08 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -844,7 +844,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjJ1aWZSWm9mY3dIU3hyazNibTF5Rk4xY0RwSnJFRE9hREV0Sl9BOEpxSGhoQmlmSzc3MExBQkwwWklyWUduYkRvaTQ0RkRDZzZyZ0lGMGEzY1RHUnc4ZUJpelNFUTBmclVMUjltS2I1QVlRMmlJWW1BRkRzam5IcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenZ2d1pyTS1KR1hfVV9zT2ZaX3JHOWc0YnZUVnlUNlA0b1NQaWRnU2VmRjZoSFVCdUZNd3BGLUJLWXZoODJIcFN2cWN4dXZNTWNkTGZVa1ppX0E2dXE3bFUzY2dOdDZCOXlvbkpLSFJMdkNmb3FaR1JWbHdfQ2xlMg?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -3047,6 +3047,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG9UNWFRdUVnV3NSelpodU1fZU5ZNUtIc3YtV3k0Y1FYdXlkdnlSQ3RUa3pFQ1pxVld6NlBIZDVvTTVacFBlNG1xV0ItWHVaT3lsVnZfcVdfS3BCblRqV0hkWGJTMWhPbktHSnNrREdFWUE5OTJENXB4Z1A5VFJUUWZOZ190elp4MklyTHN3?oc=5",
+      "first_seen": "2026-08-03T12:31:11Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -11180,20 +11194,6 @@
       ]
     },
     {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T23:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3FWUWV6dnZ3TllBMTRmYjY2MnltUXRiRzBxcEdOcmZPc29iYUR4TEJHNXBpY3daLTQzdHIxOE1jQTMzYjc1QTFIcU41YzJ4RS01MzZmTW1aTXNJajN5VmJBbkZzY2JPdWxNYTZkdl9sRGpzX05kRVBWcjZEVXlscmU4VEhMWXBiZkFsbk5B?oc=5",
-      "first_seen": "2026-08-03T12:31:11Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "64f2d605578b82755ecc",
       "title": "【まとめてわかる】熊本地震 被害状況、イオン、交通、断層、震度は",
       "source": "朝日新聞",
@@ -13747,6 +13747,22 @@
       ]
     },
     {
+      "id": "2502b68802ecd01ea57b",
+      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T08:21:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -14002,22 +14018,6 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "2502b68802ecd01ea57b",
-      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "停電状況"
       ],
