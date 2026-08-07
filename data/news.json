@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T08:30:28Z",
-  "updated_at_jst": "2026/08/07 17:30 JST",
+  "updated_at": "2026-08-07T09:00:41Z",
+  "updated_at_jst": "2026/08/07 18:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 875,
@@ -2250,22 +2250,6 @@
       ]
     },
     {
-      "id": "22b54f073ad1dfaeaaf1",
-      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T03:28:29Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
-      "first_seen": "2026-08-02T23:01:06Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "eff1c842c0db82ee795d",
       "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -2401,6 +2385,22 @@
       "published_at": "2026-08-02T21:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "22b54f073ad1dfaeaaf1",
+      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T21:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
+      "first_seen": "2026-08-02T23:01:06Z",
       "focus": [
         "現場状況"
       ],
@@ -4154,7 +4154,7 @@
     },
     {
       "id": "a75383b9826343e2640c",
-      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -4769,7 +4769,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFNGRDWm56T2VFUUVzdWpmV0t3VGx3eEttbzRFVEJBVUMyOTJaTXNraDZ6MTJZQ2dRLVZQckpDQzNmZklfMllZSEViQW5XcEFHZkxYUlFUU2tZQy13?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3U2RibThjeUhCbGN2ODMtN1RBYVV3SXdycW9JVmIzRVFmc0VTaTZPQ09Xd3VHVDdqb2hHbkpIVjFHOFFjYWVYNnUtZXZTcS04V0Q0TEp0OGM3eE9OWUpuSGpPU0dfNHdlUGlPS2hR?oc=5",
       "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "救助・安否"
@@ -7104,22 +7104,6 @@
       ]
     },
     {
-      "id": "4989cd804229aa729b3e",
-      "title": "熊本県の54医療機関で停電、断水 82高齢者施設も被害",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T14:25:25Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2VNdGFieXVId1hyZGs0NVJNbzRxX3oyMlpvbkFfUjFOdG9tWVJaZmpqbENHb1Z3MGxBUmZoQWtJSG5IQnhsRlc3eFExN01jaDdCWWJZLUY2dU5aR1NiQkkyMzNPWUFGZm9HYQ?oc=5",
-      "first_seen": "2026-07-29T14:30:20Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "a50e1fa7f56c30c1ad7b",
       "title": "熊本地震の死者12人、心肺停止6人に...イオンモール爆発でガス漏れに引火の可能性",
       "source": "読売新聞",
@@ -9401,6 +9385,22 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54UGt4LUJqb181Q2xHaXhZQjJVTXFGZjYwNjdlbm56eVM1YzZkT3BDWGpMcGpDazVlcGJLdklWQnBHVlVVLVEtTGZQUzc4VWVjaWRJMWx2NXU2dlRzWHFoc0pZTmxMeU5NVzV2UA?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "4989cd804229aa729b3e",
+      "title": "熊本県の54医療機関で停電、断水 82高齢者施設も被害",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R2VNdGFieXVId1hyZGs0NVJNbzRxX3oyMlpvbkFfUjFOdG9tWVJaZmpqbENHb1Z3MGxBUmZoQWtJSG5IQnhsRlc3eFExN01jaDdCWWJZLUY2dU5aR1NiQkkyMzNPWUFGZm9HYQ?oc=5",
+      "first_seen": "2026-07-29T14:30:20Z",
       "focus": [
         "停電状況"
       ],
