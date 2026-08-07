@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T15:30:36Z",
-  "updated_at_jst": "2026/08/08 00:30 JST",
+  "updated_at": "2026-08-07T16:00:29Z",
+  "updated_at_jst": "2026/08/08 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 881,
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 127,
     "nhk": 72,
     "yomiuri": 117,
     "sankei": 157,
+    "kumanichi": 127,
     "jiji": 142,
     "nikkei": 50,
     "mainichi": 113,
@@ -81,23 +81,6 @@
     "paper": 88
   },
   "items": [
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-07T13:06:08Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
     {
       "id": "abcea810240358e92a38",
       "title": "イオンモール熊本 妹亡くした男性“当時の対応 丁寧に調査を”",
@@ -255,6 +238,23 @@
       "first_seen": "2026-08-06T19:00:39Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -5294,20 +5294,6 @@
       ]
     },
     {
-      "id": "af3b9b6ca75afc6490b2",
-      "title": "県域越えて各県警が懸命の活動 警察犬も導入したイオンモール熊本での捜索活動の様子",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T12:16:36Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbldGRTFUWm55SnZJWWd6blZQZFRkVlk5Yll0YjZ3YW8tNTl3ajFfeFdFLTNsTUIyT3prdmpwUXBYS0lKSzdWM0w2RW1oSGZKaDhORm5KMW5MN29hNmJFYzRVaW96Z01nM2JsME5KLXdZZDFxSWc?oc=5",
-      "first_seen": "2026-07-30T12:30:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "841f232dcff4e67d2150",
       "title": "炎天下のイオンモール熊本で捜索活動に加わる警視庁の警察犬=30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -6044,6 +6030,20 @@
         "救助・安否",
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "af3b9b6ca75afc6490b2",
+      "title": "県域越えて各県警が懸命の活動 警察犬も導入したイオンモール熊本での捜索活動の様子",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbldGRTFUWm55SnZJWWd6blZQZFRkVlk5Yll0YjZ3YW8tNTl3ajFfeFdFLTNsTUIyT3prdmpwUXBYS0lKSzdWM0w2RW1oSGZKaDhORm5KMW5MN29hNmJFYzRVaW96Z01nM2JsME5KLXdZZDFxSWc?oc=5",
+      "first_seen": "2026-07-30T12:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
