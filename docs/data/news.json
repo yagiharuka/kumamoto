@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T09:00:41Z",
-  "updated_at_jst": "2026/08/07 18:00 JST",
+  "updated_at": "2026-08-07T09:30:30Z",
+  "updated_at_jst": "2026/08/07 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 875,
@@ -358,7 +358,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -4154,7 +4154,7 @@
     },
     {
       "id": "a75383b9826343e2640c",
-      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡 | NHKニュース | 令和8年熊本地震、地震、熊本県",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -6536,23 +6536,6 @@
       ]
     },
     {
-      "id": "bc1ad5ebcc18d938379c",
-      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T01:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXNjemY5RWpUVGRYRFlfM2xxRHhfM19jblRCd3dJZUk3bW9pYWpwTmp4YXVDVllFaVU2dmJsZlFGQUlZREZlRFZVeWh5NU05enp3cTdSWXZBaF9id3I2Z3hoczVVc0hGM09aSF9SRWd4dHB2dENGYlIzcjBDcTFmclJRTHJ4LWkwODZyWGRibFg5X0w1UWFHZF8zVFB4NWZNLUE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "181dc330e794df40c827",
       "title": "熊本地震で死者計17人に イオンモールは5人、日本製紙八代工場で8人 心肺停止は6人",
       "source": "産経新聞",
@@ -8928,6 +8911,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "bc1ad5ebcc18d938379c",
+      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWJLRzg3VG9USlN0MEptNVpzdHV0UWZlOXRaZHlOdEVVNlFwQ1ZXV2tmTkU3dzdpUG1BQlc5WWhiYlR2dTZKRm5lcTlSRHZVOWkxc0F3aE1JWXk4aFJEVlNUOWJOc0Job1BnOGktYjBMc1VLZ1JSQ29wNkRDV0xLbWRpRG55bFp5ZXRQdkRzaHA3aTRpaDd4bW81Zy16R3pDdkE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -13671,22 +13671,6 @@
       ]
     },
     {
-      "id": "2502b68802ecd01ea57b",
-      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T08:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -13942,6 +13926,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "2502b68802ecd01ea57b",
+      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "停電状況"
       ],
