@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T21:00:59Z",
-  "updated_at_jst": "2026/08/08 06:00 JST",
+  "updated_at": "2026-08-07T21:30:54Z",
+  "updated_at_jst": "2026/08/08 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -5950,23 +5950,6 @@
       ]
     },
     {
-      "id": "460f6c5b18fe81102e06",
-      "title": "【速報】停電復旧は31日夕 九州電力見通し",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T08:03:36Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fWnBETmlUZm5UVXZfTlFHSlcwNWN0T2s0SzhSSDFvUk1xay16WVp6MzI4cExKMTJIdm53akF2WlVINHpwZlhBald6eEJ4YWs?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
-      "focus": [
-        "停電状況",
-        "復旧情報"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "faef13178ad6990b67eb",
       "title": "オリコンニュース:停電時の熱中症に注意、熊本県民テレビが呼びかける「熱中症対策3つのポイント」と「危険な4つの症状」",
       "source": "毎日新聞",
@@ -6138,6 +6121,23 @@
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "460f6c5b18fe81102e06",
+      "title": "【速報】停電復旧は31日夕 九州電力見通し",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fWnBETmlUZm5UVXZfTlFHSlcwNWN0T2s0SzhSSDFvUk1xay16WVp6MzI4cExKMTJIdm53akF2WlVINHpwZlhBald6eEJ4YWs?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
+      "focus": [
+        "停電状況",
+        "復旧情報"
       ],
       "category_ids": [
         "power"
@@ -13747,22 +13747,6 @@
       ]
     },
     {
-      "id": "2502b68802ecd01ea57b",
-      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T08:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "ceec8a3bdc2570301aef",
       "title": "熊本地震、死者34人に イオンモールの犠牲者、オンワード従業員も",
       "source": "朝日新聞",
@@ -14018,6 +14002,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "2502b68802ecd01ea57b",
+      "title": "熊本県内で4万8千戸超が停電 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaFhvZk1odkJBVUdta3ZHNUZHOW1LSUM2U1QzRWhzUlJrZG8xR0tBRW9NaGtNb2trVk9GeXhJdWloajlWNlBCeE1zbHY0QmM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "停電状況"
       ],
