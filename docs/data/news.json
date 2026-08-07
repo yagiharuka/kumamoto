@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T04:30:26Z",
-  "updated_at_jst": "2026/08/07 13:30 JST",
+  "updated_at": "2026-08-07T05:00:31Z",
+  "updated_at_jst": "2026/08/07 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 875,
@@ -733,7 +733,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWWFzUUw4aml2ejZMWnU3R0xPS2d3TlIzWFU4aGxvbll3NE1KYUVwNGo0MWw2TzBiSkctS1V0Q3ZtQ2QtODFxVnI0YWxKcDMzMnpQS3pCbjhybjc1ZndLQUhwWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjJ1aWZSWm9mY3dIU3hyazNibTF5Rk4xY0RwSnJFRE9hREV0Sl9BOEpxSGhoQmlmSzc3MExBQkwwWklyWUduYkRvaTQ0RkRDZzZyZ0lGMGEzY1RHUnc4ZUJpelNFUTBmclVMUjltS2I1QVlRMmlJWW1BRkRzam5IcA?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -1000,13 +1000,29 @@
       ]
     },
     {
+      "id": "4ae20395792cbcf5b9e9",
+      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T12:53:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "28a43ebf5e32c9b4f917",
       "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-08-04T12:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzODVBb3JpRTNDRHZkWUZTT3diZVNpZ2tzNmdMQ1I2M09QSVZWbEtCXy1IaGkzbWtyb2dHbXF2dnpBV0ZBQ2hhQ2tGdXVIYlptVElVVw?oc=5",
+      "published_at": "2026-08-04T12:10:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSGMwQUJHWUphRnhUVDRsUy12VThxazR5MWdJZ08ycU1mMVlOZ1ljX2RuWDktcFA4SURuYVZSbER4RkRvT2NtckF1SlRjTHpZcUJtNQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "避難状況"
@@ -1026,22 +1042,6 @@
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4ae20395792cbcf5b9e9",
-      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T11:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XUWJna1doVHFEaXJkN2N1Z3NYYmZWVUlvd21CU3Zzb0YzcmVoN2NEWWRkeVdia0tMd0QtbTNHVHlqZXlIV2wzdFI5cTROODkxM1FqS1Z3Y1VZQmFwVXBhTm9rdw?oc=5",
-      "first_seen": "2026-08-04T12:01:05Z",
-      "focus": [
-        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -1130,7 +1130,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T09:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -1469,7 +1469,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -4083,7 +4083,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90aWhUeHBkTkxObHZ3MlRnNnZnbVhhX0NyMHQ3a1p3bG0xZHY5Z3ZvN01XMkZydGpvdFhlZmtsQmc2bklMQzlzWGY3LTRaUzhKUGxxQg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTmdUQWM5bTlYbTZXdk81VUZITV9HZjBNcENqd2xfanhwOVBrbE9mdkpkUFVMX0pGY1N6QXBOc3VuOXdJd0ZSZ3VpVXFhX3FWemJCZ2JiRHBoMi1pOUE?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -7168,23 +7168,6 @@
       ]
     },
     {
-      "id": "6e5f7198f8793ac2031c",
-      "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T12:56:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnpWVzlweXRqUmdQN0xfa2FJZ2prMER5V0xfU0pxdjBod3lhNTAwTVpnSjhyWFl3RWg4RHhBUTZaa21DWTU5SHd1RkwyNjZidVhlbEhhNzlBajFhOUdPNjRPdGdSQ3U0akt5NGdYQnluVmwxcHpJZTFERHYxRnFtZ0ExVzlwWnhFbExUMzl6WTRkQmZDbjg1LUdLZ3pyTE95WGc?oc=5",
-      "first_seen": "2026-07-31T01:00:53Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "337937371ce94ad9760c",
       "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
       "source": "時事通信",
@@ -7719,7 +7702,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSThvVmlwLWtzbDZQSV9IYVE1VDhQejJUSGUxcGw0UGQ5RzhWbVFROXJRVk9YTVFXRmhOSHVGR3JkU3FhdDZ4VmlnUHk2czctTjExQl9PUmszMUs0enc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -8985,6 +8968,23 @@
       ]
     },
     {
+      "id": "6e5f7198f8793ac2031c",
+      "title": "捜索活動が続く日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnpWVzlweXRqUmdQN0xfa2FJZ2prMER5V0xfU0pxdjBod3lhNTAwTVpnSjhyWFl3RWg4RHhBUTZaa21DWTU5SHd1RkwyNjZidVhlbEhhNzlBajFhOUdPNjRPdGdSQ3U0akt5NGdYQnluVmwxcHpJZTFERHYxRnFtZ0ExVzlwWnhFbExUMzl6WTRkQmZDbjg1LUdLZ3pyTE95WGc?oc=5",
+      "first_seen": "2026-07-31T01:00:53Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "bf895cfd1b0a41411549",
       "title": "地震の影響で折れた日本製紙の八代工場の煙突 =28日午後7時5分、熊本県八代市",
       "source": "産経新聞",
@@ -9144,22 +9144,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVE5zU2VYVk1PRmtYZHotT2tkV2NSV3p0R0NTSHZ2WDhaeVp6bG5oaFVHZlhFRTM0U1ljMENuc1NDOHR3NVEzWUlhdXJSVFd3Wk9INnl1SE1PX1dvdEptRDN5bFcxdVFq?oc=5",
       "first_seen": "2026-07-29T10:31:10Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "60aa90afebe2543c95a9",
-      "title": "日本製紙八代工場で2人心肺停止、9人安否不明 熊本で震度7",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbldnSkZqUk5FTHV1eWZsM3VkTzBuNno3a2kxYi1VVW9jcHJCbzR3NlhVUWJfZ3VGeE8xWERyeHR5R2JEdDVqMlh0eGRMblZXMFVyRjM2Qm5lVnlidmJWck5LU2NoRXVh?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
       "focus": [
         "救助・安否"
       ],
@@ -10855,6 +10839,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "60aa90afebe2543c95a9",
+      "title": "日本製紙八代工場で2人心肺停止、9人安否不明 熊本で震度7",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T00:40:52Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbldnSkZqUk5FTHV1eWZsM3VkTzBuNno3a2kxYi1VVW9jcHJCbzR3NlhVUWJfZ3VGeE8xWERyeHR5R2JEdDVqMlh0eGRMblZXMFVyRjM2Qm5lVnlidmJWck5LU2NoRXVh?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
