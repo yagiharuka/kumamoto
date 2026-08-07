@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T05:30:30Z",
-  "updated_at_jst": "2026/08/07 14:30 JST",
+  "updated_at": "2026-08-07T06:00:32Z",
+  "updated_at_jst": "2026/08/07 15:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 875,
@@ -358,7 +358,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -733,7 +733,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjJ1aWZSWm9mY3dIU3hyazNibTF5Rk4xY0RwSnJFRE9hREV0Sl9BOEpxSGhoQmlmSzc3MExBQkwwWklyWUduYkRvaTQ0RkRDZzZyZ0lGMGEzY1RHUnc4ZUJpelNFUTBmclVMUjltS2I1QVlRMmlJWW1BRkRzam5IcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWWFzUUw4aml2ejZMWnU3R0xPS2d3TlIzWFU4aGxvbll3NE1KYUVwNGo0MWw2TzBiSkctS1V0Q3ZtQ2QtODFxVnI0YWxKcDMzMnpQS3pCbjhybjc1ZndLQUhwWQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -1000,29 +1000,13 @@
       ]
     },
     {
-      "id": "4ae20395792cbcf5b9e9",
-      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
-      "first_seen": "2026-08-04T12:01:05Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "28a43ebf5e32c9b4f917",
       "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-08-04T12:10:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSGMwQUJHWUphRnhUVDRsUy12VThxazR5MWdJZ08ycU1mMVlOZ1ljX2RuWDktcFA4SURuYVZSbER4RkRvT2NtckF1SlRjTHpZcUJtNQ?oc=5",
+      "published_at": "2026-08-04T12:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzODVBb3JpRTNDRHZkWUZTT3diZVNpZ2tzNmdMQ1I2M09QSVZWbEtCXy1IaGkzbWtyb2dHbXF2dnpBV0ZBQ2hhQ2tGdXVIYlptVElVVw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "避難状況"
@@ -1042,6 +1026,22 @@
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4ae20395792cbcf5b9e9",
+      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T11:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XUWJna1doVHFEaXJkN2N1Z3NYYmZWVUlvd21CU3Zzb0YzcmVoN2NEWWRkeVdia0tMd0QtbTNHVHlqZXlIV2wzdFI5cTROODkxM1FqS1Z3Y1VZQmFwVXBhTm9rdw?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -1469,7 +1469,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -3644,7 +3644,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTmF2dE1Gd2VVT0dvVmh6dENoU1YwRlE2bkpXZFc5SWkyeThZQXNGTVFkbHNNTGpIV2hxY2IzLWh2ZEJ3Sk0wbmN2S1lLalczc2JCWFVWTUZ2bi11cy13ZVQtS1Z6VUpqQVhqMHlxOUZwTHdCTmRFWW9QaldDbTVjbmFOU0NRNFpJOWh4VnlIUVA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUFCUkN2dHkyRTViVl9OVlFWTUwtdFl4d1UwdDhPbmVqUjFGaVYzc3FKNWRMSXNydjl1NGpsaGJKb0NpVGstZHY5MFd1QkNfQmI4dzZIOFota1NtT2ZBQkVVNDNBck9NT0hOUzdTODdoc2dTN2tKWmRBeEZGWUczV2VzTHFFXzA?oc=5",
       "first_seen": "2026-08-04T07:31:04Z",
       "focus": [
         "現場状況"
