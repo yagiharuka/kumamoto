@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T22:30:59Z",
-  "updated_at_jst": "2026/08/08 07:30 JST",
+  "updated_at": "2026-08-07T23:00:50Z",
+  "updated_at_jst": "2026/08/08 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -87,7 +87,7 @@
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-08-07T19:40:00Z",
+      "published_at": "2026-08-07T22:39:28Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UzdHbjdxMzJyOUo0YlJqYzhRc1NrMFlGbXdBWDZuTG1oNXEtSWNMR2pncFdSZjloMzNuZXhBZHo2NWNXY0hKN0x1aHd2WnRCbHlIWW44a2Q4TFREOUZGNmhrNV9FaVFU?oc=5",
       "first_seen": "2026-08-07T20:01:05Z",
       "focus": [
@@ -6031,22 +6031,6 @@
       ]
     },
     {
-      "id": "af2b3a8511d576009ad3",
-      "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVjRqR05WTnI1V0hlU01sTnZTcVBxWE12YXduaTBrRVB6T3ZvUlRqemFONi1sZ21vSjZId3o5cTQ4UzFSOGVTd3FKZlg5ZHU2WkNxRmNMY2d3Wl9ncEFTa3d6ajE4QmhKZE8zcXRrNkYtUQ?oc=5",
-      "first_seen": "2026-07-30T06:30:11Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "bdc737c8d4123ced9e82",
       "title": "熊本地震で爆発したイオンモール、店員だった妻が音信不通「覚悟しておいた方がいいのかもしれない」",
       "source": "読売新聞",
@@ -6058,6 +6042,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "228ff21fd2497a680864",
+      "title": "上空から見た熊本地震、引き裂かれた道路と地面...骨組みがむき出しのイオンモール熊本や石垣が崩れた熊本城",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR1RmM1R5bEVZYWROVF9pV0x3cVZRT2NyZ2NkMXJibHhrRlh4c0tUdi1HWHdxS2RKdjhRcUhiRmtDZF9SY0IxaUctWjFiaEdBTDFqVzQtcUVNM2MyUXdPaUVuOTh5cUo4MDhlclVjNDZ6QQ?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -6330,6 +6328,22 @@
       "published_at": "2026-07-30T06:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKc1BQQTBBWmNJQkxWeTdfSkRtVWR0bXA2MFN3UkFVQmxjQXVIUHRVaDVPcVN3LWs0TWE2WjUxUGRfZEo5cndWS3Znay1kcDE4akdscENOVThwRm1LTHR2R01QdTFETXZjekE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "af2b3a8511d576009ad3",
+      "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T06:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UVjRqR05WTnI1V0hlU01sTnZTcVBxWE12YXduaTBrRVB6T3ZvUlRqemFONi1sZ21vSjZId3o5cTQ4UzFSOGVTd3FKZlg5ZHU2WkNxRmNMY2d3Wl9ncEFTa3d6ajE4QmhKZE8zcXRrNkYtUQ?oc=5",
+      "first_seen": "2026-07-30T06:30:11Z",
       "focus": [
         "現場状況"
       ],
@@ -6755,20 +6769,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "228ff21fd2497a680864",
-      "title": "上空から見た熊本地震、引き裂かれた道路と地面...骨組みがむき出しのイオンモール熊本や石垣が崩れた熊本城",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T01:36:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR1RmM1R5bEVZYWROVF9pV0x3cVZRT2NyZ2NkMXJibHhrRlh4c0tUdi1HWHdxS2RKdjhRcUhiRmtDZF9SY0IxaUctWjFiaEdBTDFqVzQtcUVNM2MyUXdPaUVuOTh5cUo4MDhlclVjNDZ6QQ?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
