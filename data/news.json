@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T09:00:14Z",
-  "updated_at_jst": "2026/08/08 18:00 JST",
+  "updated_at": "2026-08-08T09:21:20Z",
+  "updated_at_jst": "2026/08/08 18:21 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 887,
@@ -501,7 +501,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -1175,22 +1175,6 @@
       ]
     },
     {
-      "id": "28a43ebf5e32c9b4f917",
-      "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kV1MxVnVpMk1XckpJNXhBbEd5VE81QUROM0dqbUM2N0RpMEZRNUtvY3pydWZmVXZtOE5hbE5pVlMxRUw3eGg0MlR3VDdUYU80Y1hwaw?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4ae20395792cbcf5b9e9",
       "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
       "source": "時事通信",
@@ -1199,6 +1183,22 @@
       "published_at": "2026-08-04T12:53:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "28a43ebf5e32c9b4f917",
+      "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T12:10:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSGMwQUJHWUphRnhUVDRsUy12VThxazR5MWdJZ08ycU1mMVlOZ1ljX2RuWDktcFA4SURuYVZSbER4RkRvT2NtckF1SlRjTHpZcUJtNQ?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "避難状況"
       ],
