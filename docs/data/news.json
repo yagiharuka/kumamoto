@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T08:00:14Z",
-  "updated_at_jst": "2026/08/08 17:00 JST",
+  "updated_at": "2026-08-08T08:30:16Z",
+  "updated_at_jst": "2026/08/08 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 886,
@@ -484,7 +484,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -5324,20 +5324,6 @@
       ]
     },
     {
-      "id": "585a53ac0770ecade61e",
-      "title": "製紙各社、新聞用紙の供給支援で連携 日本製紙八代工場の停止受け",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T12:25:46Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjQnVGRGxDMGpDZ0hWelVMcVFtLVZBN1c4S0dxM0NnVFpCS1RvRV8tS0xIbUNVT0J0d3kxM1daTWtBWXRVa2ZXSWNIQ2FHb3NrLWtuQWZQdlFENlgtX3oyeFd6dDJWV0lJTlE1Yg?oc=5",
-      "first_seen": "2026-07-30T13:00:19Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "841f232dcff4e67d2150",
       "title": "炎天下のイオンモール熊本で捜索活動に加わる警視庁の警察犬=30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -6304,6 +6290,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "585a53ac0770ecade61e",
+      "title": "製紙各社、新聞用紙の供給支援で連携 日本製紙八代工場の停止受け",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjQnVGRGxDMGpDZ0hWelVMcVFtLVZBN1c4S0dxM0NnVFpCS1RvRV8tS0xIbUNVT0J0d3kxM1daTWtBWXRVa2ZXSWNIQ2FHb3NrLWtuQWZQdlFENlgtX3oyeFd6dDJWV0lJTlE1Yg?oc=5",
+      "first_seen": "2026-07-30T13:00:19Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -8568,22 +8568,6 @@
       ]
     },
     {
-      "id": "02cb01a83233371123e7",
-      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-29T07:52:55Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMHdQQkVGMnZlMWR1SWMzaFpOR1BYR2lHbG5HMmlqWUNudW5IU3pDdWtzSzE3R1BkRmVzYlNvdEJ0M1ZOazhocDZfQ2lJdXJjWVlEV3NycUxfNEV3dTNZ?oc=5",
-      "first_seen": "2026-07-29T07:00:21Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "966bf88b4b88eb97dc6b",
       "title": "◎爆発事故で3人死亡、「深くおわび」=イオン社長が謝罪―熊本地震",
       "source": "時事通信",
@@ -9680,6 +9664,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "02cb01a83233371123e7",
+      "title": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMHdQQkVGMnZlMWR1SWMzaFpOR1BYR2lHbG5HMmlqWUNudW5IU3pDdWtzSzE3R1BkRmVzYlNvdEJ0M1ZOazhocDZfQ2lJdXJjWVlEV3NycUxfNEV3dTNZ?oc=5",
+      "first_seen": "2026-07-29T07:00:21Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
