@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T06:30:21Z",
-  "updated_at_jst": "2026/08/08 15:30 JST",
+  "updated_at": "2026-08-08T07:00:18Z",
+  "updated_at_jst": "2026/08/08 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 885,
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
-    "asahi": 104,
     "kumanichi": 127,
+    "asahi": 104,
     "mainichi": 116,
     "nhk": 72,
     "yomiuri": 117,
@@ -82,6 +82,23 @@
   },
   "items": [
     {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-08T04:13:24Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ffa1894c9f16cff41c46",
       "title": "イオン爆発、困難な救助活動 消防隊長が語る「誰も経験ない現場」 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -93,23 +110,6 @@
       "focus": [
         "救助・安否",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-08T01:12:50Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -5166,22 +5166,6 @@
       ]
     },
     {
-      "id": "644713a4577b3d42aaa8",
-      "title": "日本製紙八代工場から最後の1人救助、容体不明 閉じ込めから丸2日以上",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T13:03:24Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcDlVQ1Bvd3pINUpSb0pWX0NWVS16ZTRXX0FVc3dsQ0JLc1F1QUwwUkRYcXc1clBzMEduWmEtczU4UjJpTFc1T2ZtU2lMNHZIc1lRdkl3Rk45ZmhHcF82aTBTLUJEcEJUNEFMcHZMdTZIMGRKdXc?oc=5",
-      "first_seen": "2026-07-30T13:30:10Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "d0d2374978942fee24d2",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
@@ -5639,23 +5623,6 @@
       ]
     },
     {
-      "id": "8f1320681922327efeef",
-      "title": "爆発のイオンモール 死者7人に 熊本地震",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T09:43:08Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPb0thSkppRHVqRi12X1FWblJvLWJud1lkZjhHT2dOYnlrOWxfNjZZc2hwa0dlS1JrdWlwYWE4cXNCMTRaM0lWaWxqMnYwT2FCNlYyWXhLYWxsZ013UEE?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "9881cc97069848f60e12",
       "title": "「ここまで損壊するか...」 イオンモール熊本で捜索の隊員語る",
       "source": "毎日新聞",
@@ -6107,6 +6074,22 @@
       ]
     },
     {
+      "id": "644713a4577b3d42aaa8",
+      "title": "日本製紙八代工場から最後の1人救助、容体不明 閉じ込めから丸2日以上",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GcDlVQ1Bvd3pINUpSb0pWX0NWVS16ZTRXX0FVc3dsQ0JLc1F1QUwwUkRYcXc1clBzMEduWmEtczU4UjJpTFc1T2ZtU2lMNHZIc1lRdkl3Rk45ZmhHcF82aTBTLUJEcEJUNEFMcHZMdTZIMGRKdXc?oc=5",
+      "first_seen": "2026-07-30T13:30:10Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "8e34f98b3f27a733f6a1",
       "title": "地震で複数の煙突が折れ、犠牲者が出た日本製紙八代工場=30日午後3時、熊本県八代市(ドローンから)",
       "source": "産経新聞",
@@ -6171,6 +6154,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "8f1320681922327efeef",
+      "title": "爆発のイオンモール 死者7人に 熊本地震",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPb0thSkppRHVqRi12X1FWblJvLWJud1lkZjhHT2dOYnlrOWxfNjZZc2hwa0dlS1JrdWlwYWE4cXNCMTRaM0lWaWxqMnYwT2FCNlYyWXhLYWxsZ013UEE?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
