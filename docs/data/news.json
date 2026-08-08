@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T01:00:52Z",
-  "updated_at_jst": "2026/08/08 10:00 JST",
+  "updated_at": "2026-08-08T01:30:53Z",
+  "updated_at_jst": "2026/08/08 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 127,
     "mainichi": 116,
     "nhk": 72,
     "yomiuri": 117,
     "sankei": 157,
-    "kumanichi": 127,
     "jiji": 142,
     "nikkei": 50,
     "asahi": 103
@@ -81,6 +81,23 @@
     "paper": 88
   },
   "items": [
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-08T01:12:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "3f18a202e8ee62e9be9f",
       "title": "イオンモール熊本、「再入館を許可」の証言 社内規定に抵触か",
@@ -294,23 +311,6 @@
       ]
     },
     {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-06T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "9d0feaec5be81875e72c",
       "title": "「イオンモール熊本」爆発 LPガス供給会社 調査に全面協力",
       "source": "NHK",
@@ -453,7 +453,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -6261,22 +6261,6 @@
       ]
     },
     {
-      "id": "2844a9489598e3fd36be",
-      "title": "熊本地震の被災地、停電・断水なお広範囲 余震も絶えず遠い日常",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQU91NHZTazRRUTJiTGoxc2ljTkxSZE90TjZtbUdaZ2tSeEpvdzV2c0pvM3FWS2lheE1Qb20tc3lnNW42dk9RQlZuYTNpWUpEV1ZSczVJcFQ4OTV0T0tTVWpveWVsbmdjdEc0bg?oc=5",
-      "first_seen": "2026-07-30T04:30:49Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "6524e22af8904fa873e6",
       "title": "停電・断水なお広範囲 熊本地震 がれき撤去、猛暑追い打ち 余震続発、遠い日常",
       "source": "日本経済新聞",
@@ -6535,6 +6519,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "2844a9489598e3fd36be",
+      "title": "熊本地震の被災地、停電・断水なお広範囲 余震も絶えず遠い日常",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T04:07:21Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQU91NHZTazRRUTJiTGoxc2ljTkxSZE90TjZtbUdaZ2tSeEpvdzV2c0pvM3FWS2lheE1Qb20tc3lnNW42dk9RQlZuYTNpWUpEV1ZSczVJcFQ4OTV0T0tTVWpveWVsbmdjdEc0bg?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -13665,23 +13665,6 @@
       ]
     },
     {
-      "id": "73ab0dbaf1e1da5c0d5e",
-      "title": "日本製紙、八代工場の煙突に被害 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T09:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZRjBIX180Skg1VTRvdnM5MGFKcEZkV1ZLU2pnLUUtLWVBeTczOUNVMnZWYlVaaWRQUElqbnFMcU12aXNpSHdBck04TDdZMDQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "ea3215bf72ae86d13999",
       "title": "熊本県内の停電4万8170戸...八代市1万3770戸、宇城市1万2060戸など",
       "source": "読売新聞",
@@ -14053,6 +14036,23 @@
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "73ab0dbaf1e1da5c0d5e",
+      "title": "日本製紙、八代工場の煙突に被害 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZRjBIX180Skg1VTRvdnM5MGFKcEZkV1ZLU2pnLUUtLWVBeTczOUNVMnZWYlVaaWRQUElqbnFMcU12aXNpSHdBck04TDdZMDQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
