@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T00:30:52Z",
-  "updated_at_jst": "2026/08/08 09:30 JST",
+  "updated_at": "2026-08-08T01:00:52Z",
+  "updated_at_jst": "2026/08/08 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -5248,6 +5248,23 @@
       ]
     },
     {
+      "id": "d7162ef6dedafa5a5561",
+      "title": "<2026年熊本地震>31日夕に停電復旧へ 九電見込み",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T12:31:21Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RkFoaVIydFhUNUhYS2R2cVdIbm8xS1NMRGxtUjBSandzdEtlWldubE1rYWF0TnlyWU9vZTVDVFVSQ3FlRDhrSUtIaWl4MEk?oc=5",
+      "first_seen": "2026-07-30T13:00:19Z",
+      "focus": [
+        "停電状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "89b098498bf739882b4d",
       "title": "画像・写真:損傷したイオンモール熊本 熊本震度7:時事ドットコム",
       "source": "時事通信",
@@ -6108,23 +6125,6 @@
       ]
     },
     {
-      "id": "d7162ef6dedafa5a5561",
-      "title": "<2026年熊本地震>31日夕に停電復旧へ 九電見込み",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RkFoaVIydFhUNUhYS2R2cVdIbm8xS1NMRGxtUjBSandzdEtlWldubE1rYWF0TnlyWU9vZTVDVFVSQ3FlRDhrSUtIaWl4MEk?oc=5",
-      "first_seen": "2026-07-30T13:00:19Z",
-      "focus": [
-        "停電状況",
-        "復旧情報"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "666a4cc0ad8aeaf9e67c",
       "title": "「地震後、何をすればいい?」アイリスオーヤマが“まずやること”を紹介 停電・避難時のポイントも[令和8年熊本地震]",
       "source": "毎日新聞",
@@ -6255,6 +6255,22 @@
       "focus": [
         "停電状況",
         "復旧情報"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "2844a9489598e3fd36be",
+      "title": "熊本地震の被災地、停電・断水なお広範囲 余震も絶えず遠い日常",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQU91NHZTazRRUTJiTGoxc2ljTkxSZE90TjZtbUdaZ2tSeEpvdzV2c0pvM3FWS2lheE1Qb20tc3lnNW42dk9RQlZuYTNpWUpEV1ZSczVJcFQ4OTV0T0tTVWpveWVsbmdjdEc0bg?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "停電状況"
       ],
       "category_ids": [
         "power"
@@ -6519,22 +6535,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "2844a9489598e3fd36be",
-      "title": "熊本地震の被災地、停電・断水なお広範囲 余震も絶えず遠い日常",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T04:07:21Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByQU91NHZTazRRUTJiTGoxc2ljTkxSZE90TjZtbUdaZ2tSeEpvdzV2c0pvM3FWS2lheE1Qb20tc3lnNW42dk9RQlZuYTNpWUpEV1ZSczVJcFQ4OTV0T0tTVWpveWVsbmdjdEc0bg?oc=5",
-      "first_seen": "2026-07-30T04:30:49Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
