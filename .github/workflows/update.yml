@@ -1,6 +1,11 @@
 name: Update Kumamoto AEON Watch
 
 on:
+  schedule:
+    # Cloudflare remains the primary trigger at :00 and :30. These delayed
+    # checks only run the collector when the latest snapshot is stale.
+    - cron: "10 * * * *"
+    - cron: "40 * * * *"
   workflow_dispatch:
     inputs:
       send_email:
@@ -40,27 +45,53 @@ jobs:
     timeout-minutes: 12
     outputs:
       collection_outcome: ${{ steps.collect.outcome }}
+      should_run: ${{ steps.fallback_guard.outputs.should_run }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           ref: main
 
+      - name: Check whether the fallback is needed
+        id: fallback_guard
+        env:
+          FALLBACK_EVENT_NAME: ${{ github.event_name }}
+        run: python scripts/fallback_guard.py
+
       - name: Set up Python
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' }}
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Run tests
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' }}
         run: python -m unittest discover -s tests -v
 
       - name: Collect latest coverage
         id: collect
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' }}
         continue-on-error: true
-        run: python scripts/collect.py
+        run: |
+          for attempt in 1 2 3; do
+            echo "Collection attempt ${attempt} of 3"
+            if python scripts/collect.py; then
+              exit 0
+            fi
+            if [ "${attempt}" -lt 3 ]; then
+              delay=$((attempt * 60))
+              echo "All category RSS queries failed; retrying in ${delay} seconds."
+              sleep "${delay}"
+            fi
+          done
+          exit 1
 
       - name: Email update report
-        if: ${{ always() && github.event_name == 'workflow_dispatch' && inputs.send_email }}
+        if: >-
+          ${{ always() &&
+              steps.fallback_guard.outputs.should_run == 'true' &&
+              ((github.event_name == 'workflow_dispatch' && inputs.send_email) ||
+               (github.event_name == 'schedule' && github.event.schedule == '10 * * * *')) }}
         continue-on-error: true
         env:
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
@@ -69,10 +100,11 @@ jobs:
         run: python scripts/send_email.py
 
       - name: Stop after a collection failure
-        if: ${{ steps.collect.outcome != 'success' }}
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' && steps.collect.outcome != 'success' }}
         run: exit 1
 
       - name: Commit refreshed data
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -88,16 +120,18 @@ jobs:
           fi
 
       - name: Configure GitHub Pages
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' }}
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: ${{ steps.fallback_guard.outputs.should_run == 'true' }}
         uses: actions/upload-pages-artifact@v4
         with:
           path: docs
 
   deploy:
     needs: collect
-    if: ${{ needs.collect.result == 'success' }}
+    if: ${{ needs.collect.result == 'success' && needs.collect.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:
