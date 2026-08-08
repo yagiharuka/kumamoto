@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T12:30:12Z",
-  "updated_at_jst": "2026/08/08 21:30 JST",
+  "updated_at": "2026-08-08T13:00:20Z",
+  "updated_at_jst": "2026/08/08 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 888,
+  "article_count": 889,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 128,
     "nikkei": 51,
     "mainichi": 117,
-    "kumanichi": 127,
     "asahi": 104,
     "nhk": 73,
     "yomiuri": 117,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 706,
+    "aeon": 707,
     "power": 109,
     "paper": 90
   },
   "items": [
+    {
+      "id": "d3945e40cd9b6f57d943",
+      "title": "<2026年熊本地震>「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-08T12:49:51Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVGVBRDYzWmgxVG1aM2J4WV85eTRlWk1vdGlrS1FLRENzYW5BSlhTNDlvZUF0emt1S3NsRDFaZERmeVM0ZFF1SHVBaHg1T2M?oc=5",
+      "first_seen": "2026-08-08T13:00:20Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "dcc9868547e84f558421",
       "title": "熊本地震で工場煙突倒壊、長周期地震動で揺れ大きく 進まぬ耐震改修",
@@ -7635,21 +7651,6 @@
       ]
     },
     {
-      "id": "4f6ca5d50e31a5a9bd75",
-      "title": "【動画あり】<2026年熊本地震>天井が崩れ、積み重なるがれき... イオンモールと日本製紙八代工場の内部 熊本県警が映像公開",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T11:13:44Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZNnMxY0tUZV9FRFdlU2RGOXVHbDJXYndoN0hqcmJXaWFuUWdpNG04ZDRSbzVuV2gwQmgzaWkxZ1pNUjRZQUJKRTlSa2w4blE?oc=5",
-      "first_seen": "2026-07-29T12:31:06Z",
-      "focus": [],
-      "category_ids": [
-        "aeon",
-        "paper"
-      ]
-    },
-    {
       "id": "0ab812fa5afd80f44499",
       "title": "【動画あり】<2026年熊本地震>「どうにか無事で」...夜通しの捜索、無事祈る 鉄骨むき出し、トラック大破 嘉島町「イオンモール熊本」",
       "source": "熊本日日新聞",
@@ -9252,6 +9253,21 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon",
+        "paper"
+      ]
+    },
+    {
+      "id": "4f6ca5d50e31a5a9bd75",
+      "title": "【動画あり】<2026年熊本地震>天井が崩れ、積み重なるがれき... イオンモールと日本製紙八代工場の内部 熊本県警が映像公開",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZNnMxY0tUZV9FRFdlU2RGOXVHbDJXYndoN0hqcmJXaWFuUWdpNG04ZDRSbzVuV2gwQmgzaWkxZ1pNUjRZQUJKRTlSa2w4blE?oc=5",
+      "first_seen": "2026-07-29T12:31:06Z",
+      "focus": [],
       "category_ids": [
         "aeon",
         "paper"
