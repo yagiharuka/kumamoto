@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T23:01:10Z",
-  "updated_at_jst": "2026/08/09 08:01 JST",
+  "updated_at": "2026-08-08T23:31:12Z",
+  "updated_at_jst": "2026/08/09 08:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 891,
@@ -3548,6 +3548,22 @@
       ]
     },
     {
+      "id": "7b9ec47e6375b405b3a3",
+      "title": "猛暑の熊本で続く停電・断水、ガソリンや飲料水求め長蛇の列...被災者「ここまで不便になるとは」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxUmIteDNUMlQ0WmpCUzNuMG5aeEZaQmJxRk40OExtY2pqM0hZZjJZVWhsdElmMWxnRmh2ZlRGeWtYYlppLXZTc1VzX0dsdDcxVS1vNmwzVGxqdGVXakg2MnRGcUFmQQ?oc=5",
+      "first_seen": "2026-07-31T05:30:57Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "07c1e7f54217198fe668",
       "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:地域ニュース",
       "source": "読売新聞",
@@ -3658,6 +3674,22 @@
       "published_at": "2026-07-31T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vQkNnSzJSTzgzVE16U2poQnVCem13bmxwTkx2LU5xd0pOczBfOXlUYWdpTmRZRkJMQ1hXUGZkVHRYV3FLZ1N1Qk5OeXRTRnc?oc=5",
       "first_seen": "2026-07-31T13:00:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "1a6add731440d9538b1c",
+      "title": "熊本地震 過酷な生活 いつまで 停電、断水 テント営業 氷川のスーパー奮闘",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLbThDSXdOVTkxajU2a2J1SFd1OWRlb1ZrT0FoOURTQmkyZDJkMUJxN2k3ejBwbWFQbU9iVm5uc2ZLZmFZLVpac0JseGY5cWUwd2Jza2d5M1EzdTd5WWdQUnZNX2g2NFJI?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
       "focus": [
         "停電状況"
       ],
@@ -3868,22 +3900,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "7b9ec47e6375b405b3a3",
-      "title": "猛暑の熊本で続く停電・断水、ガソリンや飲料水求め長蛇の列...被災者「ここまで不便になるとは」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T05:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxUmIteDNUMlQ0WmpCUzNuMG5aeEZaQmJxRk40OExtY2pqM0hZZjJZVWhsdElmMWxnRmh2ZlRGeWtYYlppLXZTc1VzX0dsdDcxVS1vNmwzVGxqdGVXakg2MnRGcUFmQQ?oc=5",
-      "first_seen": "2026-07-31T05:30:57Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -4945,22 +4961,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "1a6add731440d9538b1c",
-      "title": "熊本地震 過酷な生活 いつまで 停電、断水 テント営業 氷川のスーパー奮闘",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:06:29Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLbThDSXdOVTkxajU2a2J1SFd1OWRlb1ZrT0FoOURTQmkyZDJkMUJxN2k3ejBwbWFQbU9iVm5uc2ZLZmFZLVpac0JseGY5cWUwd2Jza2d5M1EzdTd5WWdQUnZNX2g2NFJI?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
