@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T14:00:12Z",
-  "updated_at_jst": "2026/08/08 23:00 JST",
+  "updated_at": "2026-08-08T14:44:05Z",
+  "updated_at_jst": "2026/08/08 23:44 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 889,
@@ -3133,20 +3133,6 @@
       ]
     },
     {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG9UNWFRdUVnV3NSelpodU1fZU5ZNUtIc3YtV3k0Y1FYdXlkdnlSQ3RUa3pFQ1pxVld6NlBIZDVvTTVacFBlNG1xV0ItWHVaT3lsVnZfcVdfS3BCblRqV0hkWGJTMWhPbktHSnNrREdFWUE5OTJENXB4Z1A5VFJUUWZOZ190elp4MklyTHN3?oc=5",
-      "first_seen": "2026-08-03T12:31:11Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "685bdc16896966eae8f3",
       "title": "【日本製紙八代工場】折れた煙突に押しつぶされた事務所、猛暑と余震が救助活動を阻む...応援派遣の消防が帰還:写真",
       "source": "読売新聞",
@@ -3586,6 +3572,23 @@
       ]
     },
     {
+      "id": "07c1e7f54217198fe668",
+      "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:地域ニュース",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sMkN5ZVFjb21CcURQR055ZE5EeUM5SFROclNlS3JGS0xJcnM2TUpCRm5iM3NpaC1ScUVNeUNLb2FiOVhGS2JHNWRnU1pDbkRMd3JSWmpUUGxCTFJhc3NQTmctVXF2clBQUUlvZ2hUVU82QQ?oc=5",
+      "first_seen": "2026-07-31T06:00:55Z",
+      "focus": [
+        "救助・安否",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "6fd9d959fd3ae7a7c70e",
       "title": "熊本地震で甚大な被害の日本製紙八代工場、大きな横揺れで体が浮く...工場勤務者「まさか煙突も折れるなんて」",
       "source": "読売新聞",
@@ -3616,6 +3619,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "86511c4bbd1db6f7ae02",
+      "title": "[スキャナー]真夏の避難、対策は途上 熊本地震 停電・断水 冷房ない避難所",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yTW1CQ05ONWRvMjhYNlRjbm1BSklJWFM1ZlVPaEh3Slo2VVFPaFQzXzZGWW9zRVZTdEJzRHBOS09PdDQ3RkdPUFZIU2FBOWN6WFJ4Szd5cVlqUzhfRzFULW16UDd3QQ?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -3660,6 +3680,22 @@
       "focus": [
         "停電状況",
         "復旧情報"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "0965703f08f79cf46edb",
+      "title": "熊本 震度7観測の氷川町で停電や断水 特産の梨も落ちる被害",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STGFwMU1ab0hoeENsWjFHZUxrRWFrTHdVeDJ1QWloU0lWeFVNZThZWVRGNFdtR1ZSV2RLLUs4aG9pYlhXRXFqZXExQnBYc210U25GSzV5a2lGbG1hNmhr?oc=5",
+      "first_seen": "2026-07-31T06:30:53Z",
+      "focus": [
+        "停電状況"
       ],
       "category_ids": [
         "power"
@@ -3712,23 +3748,6 @@
       ]
     },
     {
-      "id": "07c1e7f54217198fe668",
-      "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:地域ニュース",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T05:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sMkN5ZVFjb21CcURQR055ZE5EeUM5SFROclNlS3JGS0xJcnM2TUpCRm5iM3NpaC1ScUVNeUNLb2FiOVhGS2JHNWRnU1pDbkRMd3JSWmpUUGxCTFJhc3NQTmctVXF2clBQUUlvZ2hUVU82QQ?oc=5",
-      "first_seen": "2026-07-31T06:00:55Z",
-      "focus": [
-        "救助・安否",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "1596fb8648f499f309b9",
       "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:写真",
       "source": "読売新聞",
@@ -3757,22 +3776,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "0965703f08f79cf46edb",
-      "title": "熊本 震度7観測の氷川町で停電や断水 特産の梨も落ちる被害",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-31T05:39:31Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STGFwMU1ab0hoeENsWjFHZUxrRWFrTHdVeDJ1QWloU0lWeFVNZThZWVRGNFdtR1ZSV2RLLUs4aG9pYlhXRXFqZXExQnBYc210U25GSzV5a2lGbG1hNmhr?oc=5",
-      "first_seen": "2026-07-31T06:30:53Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -4994,23 +4997,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "86511c4bbd1db6f7ae02",
-      "title": "[スキャナー]真夏の避難、対策は途上 熊本地震 停電・断水 冷房ない避難所",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yTW1CQ05ONWRvMjhYNlRjbm1BSklJWFM1ZlVPaEh3Slo2VVFPaFQzXzZGWW9zRVZTdEJzRHBOS09PdDQ3RkdPUFZIU2FBOWN6WFJ4Szd5cVlqUzhfRzFULW16UDd3QQ?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -6337,6 +6323,20 @@
         "目撃証言",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWV9MNzJLSVVPZmhkNl9GV0xoeXVDczZJVUxvV0ZSc3FtOW9nNFhwVkI4OGRQRlI2aDFlVHhIbDhNdDM0Z1BTQ2VOS2QxcVAzalcwOTJfcVl6VFk1dFVKeUFEZUR0Z0trNEVkMVFJT1RCdkYwNjFVejB1ZjQzTzdJREJhdzFjOGJwY2NrdjNB?oc=5",
+      "first_seen": "2026-08-03T12:31:11Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
