@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T00:00:52Z",
-  "updated_at_jst": "2026/08/08 09:00 JST",
+  "updated_at": "2026-08-08T00:30:52Z",
+  "updated_at_jst": "2026/08/08 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -5493,23 +5493,6 @@
       ]
     },
     {
-      "id": "2c96d7f356ad98579d75",
-      "title": "熊本地震被災地の電力供給、31日夕までに復旧見込み",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T10:22:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82QlN4ZVotTWU2Z2lsdUluUUd3SE9ad0U5eU1fejEwVjJ6eW5OOUU1RVJDSElONjBqMzNMb3FLcGlxR1VOSkVBR1FBNmw1ZWl3Q2ZmbjZ1bjRTMVM0UTZhdVpZR0JZQUdDX0tBSQ?oc=5",
-      "first_seen": "2026-07-30T10:30:19Z",
-      "focus": [
-        "停電状況",
-        "復旧情報"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "057cd69df23af0a77021",
       "title": "「ここまで損壊するのか...」=イオン爆発、困難極める救助―熊本震度7",
       "source": "時事通信",
@@ -6255,6 +6238,23 @@
       "focus": [
         "避難状況",
         "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "2c96d7f356ad98579d75",
+      "title": "熊本地震被災地の電力供給、31日夕までに復旧見込み",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82QlN4ZVotTWU2Z2lsdUluUUd3SE9ad0U5eU1fejEwVjJ6eW5OOUU1RVJDSElONjBqMzNMb3FLcGlxR1VOSkVBR1FBNmw1ZWl3Q2ZmbjZ1bjRTMVM0UTZhdVpZR0JZQUdDX0tBSQ?oc=5",
+      "first_seen": "2026-07-30T10:30:19Z",
+      "focus": [
+        "停電状況",
+        "復旧情報"
       ],
       "category_ids": [
         "power"
