@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T17:30:17Z",
-  "updated_at_jst": "2026/08/09 02:30 JST",
+  "updated_at": "2026-08-08T18:00:14Z",
+  "updated_at_jst": "2026/08/09 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 890,
@@ -868,6 +868,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T09:05:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -898,22 +914,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T08:05:42Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jWkRDNjltREd0U1FCdVBwVlNWUUVqNHM1ZjhhcnhwRXlBUFFRWE9xb0kxcnV1Ni0xdWFDVkFKMlhKWjVXMFYwYlJfTGJ6S094eUVIOA?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -3734,6 +3734,22 @@
       ]
     },
     {
+      "id": "a75383b9826343e2640c",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzN1lOcjR5SzJXbUFDdzRzT1BEM1Q4RWRyMmFiWHFwOVJpdnptbVFOR245N2xDZ1NqcUxSZFBvUDRjTEtpVmlZdUY5ZUMzd2w1bzd6OGpEUjBwVUJabWVz?oc=5",
+      "first_seen": "2026-07-31T02:00:57Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "0965703f08f79cf46edb",
       "title": "熊本 震度7観測の氷川町で停電や断水 特産の梨も落ちる被害",
       "source": "NHK",
@@ -4435,22 +4451,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "a75383b9826343e2640c",
-      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-31T01:42:50Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzN1lOcjR5SzJXbUFDdzRzT1BEM1Q4RWRyMmFiWHFwOVJpdnptbVFOR245N2xDZ1NqcUxSZFBvUDRjTEtpVmlZdUY5ZUMzd2w1bzd6OGpEUjBwVUJabWVz?oc=5",
-      "first_seen": "2026-07-31T02:00:57Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
