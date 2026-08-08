@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-07T23:31:00Z",
-  "updated_at_jst": "2026/08/08 08:31 JST",
+  "updated_at": "2026-08-08T00:00:52Z",
+  "updated_at_jst": "2026/08/08 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -87,7 +87,7 @@
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-08-07T22:39:28Z",
+      "published_at": "2026-08-07T19:40:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UzdHbjdxMzJyOUo0YlJqYzhRc1NrMFlGbXdBWDZuTG1oNXEtSWNMR2pncFdSZjloMzNuZXhBZHo2NWNXY0hKN0x1aHd2WnRCbHlIWW44a2Q4TFREOUZGNmhrNV9FaVFU?oc=5",
       "first_seen": "2026-08-07T20:01:05Z",
       "focus": [
@@ -453,7 +453,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -6030,6 +6030,20 @@
       ]
     },
     {
+      "id": "228ff21fd2497a680864",
+      "title": "上空から見た熊本地震、引き裂かれた道路と地面...骨組みがむき出しのイオンモール熊本や石垣が崩れた熊本城",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR1RmM1R5bEVZYWROVF9pV0x3cVZRT2NyZ2NkMXJibHhrRlh4c0tUdi1HWHdxS2RKdjhRcUhiRmtDZF9SY0IxaUctWjFiaEdBTDFqVzQtcUVNM2MyUXdPaUVuOTh5cUo4MDhlclVjNDZ6QQ?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a519ebc7732e82601da1",
       "title": "【詳報】熊本地震の死者は35人に、イオンモールではオンワード従業員3人の死亡確認",
       "source": "読売新聞",
@@ -6222,6 +6236,23 @@
       "first_seen": "2026-07-30T02:00:47Z",
       "focus": [
         "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "863bfaf0c0ba0f97dc8b",
+      "title": "「断水・停電、いつまで」 避難生活、疲労の色濃く―熊本地震被災地",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
+      "first_seen": "2026-07-30T03:00:49Z",
+      "focus": [
         "避難状況",
         "停電状況"
       ],
@@ -6650,23 +6681,6 @@
       ]
     },
     {
-      "id": "863bfaf0c0ba0f97dc8b",
-      "title": "「断水・停電、いつまで」 避難生活、疲労の色濃く―熊本地震被災地",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
-      "first_seen": "2026-07-30T03:00:49Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "a58c78b937c8e78cb51a",
       "title": "【動画】イオンモール熊本 捜索活動の映像 現場の医師が撮影",
       "source": "NHK",
@@ -6755,20 +6769,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "228ff21fd2497a680864",
-      "title": "上空から見た熊本地震、引き裂かれた道路と地面...骨組みがむき出しのイオンモール熊本や石垣が崩れた熊本城",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T01:36:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR1RmM1R5bEVZYWROVF9pV0x3cVZRT2NyZ2NkMXJibHhrRlh4c0tUdi1HWHdxS2RKdjhRcUhiRmtDZF9SY0IxaUctWjFiaEdBTDFqVzQtcUVNM2MyUXdPaUVuOTh5cUo4MDhlclVjNDZ6QQ?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
