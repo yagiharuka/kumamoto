@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T11:00:13Z",
-  "updated_at_jst": "2026/08/08 20:00 JST",
+  "updated_at": "2026-08-08T11:30:11Z",
+  "updated_at_jst": "2026/08/08 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 888,
@@ -3360,23 +3360,6 @@
       ]
     },
     {
-      "id": "14905bb02a926fe7dea4",
-      "title": "熊本地震、被災地への電力供給が復旧 九州電力送配電",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T10:50:56Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qWnV1NlhRbExGWGJfNzlsdU9qX0ZjVk84dDFjQzIzY2ZsbWFob2dZMlZlTDNYNnRrOEhybUc5UHBCUHROa2lOUFFETzdkMzF2c2RKcThtUXNBQ1pnNmZhZndBVHBPXzlacnU3dQ?oc=5",
-      "first_seen": "2026-07-31T11:00:54Z",
-      "focus": [
-        "停電状況",
-        "復旧情報"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "53515250e9b3b0adf61f",
       "title": "サンリオ、イオンモール熊本ほか店舗スタッフ「全員の無事を確認」 SNSでは心配の声も【令和8年熊本地震】",
       "source": "産経新聞",
@@ -3631,6 +3614,23 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "14905bb02a926fe7dea4",
+      "title": "熊本地震、被災地への電力供給が復旧 九州電力送配電",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qWnV1NlhRbExGWGJfNzlsdU9qX0ZjVk84dDFjQzIzY2ZsbWFob2dZMlZlTDNYNnRrOEhybUc5UHBCUHROa2lOUFFETzdkMzF2c2RKcThtUXNBQ1pnNmZhZndBVHBPXzlacnU3dQ?oc=5",
+      "first_seen": "2026-07-31T11:00:54Z",
+      "focus": [
+        "停電状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
