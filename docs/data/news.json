@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T20:00:34Z",
-  "updated_at_jst": "2026/08/09 05:00 JST",
+  "updated_at": "2026-08-08T20:30:34Z",
+  "updated_at_jst": "2026/08/09 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 890,
@@ -1244,11 +1244,25 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDEwSUxkejJnZGN1YWdLdi15aTlyck9oYWtCV2l4SE9UZ2xSQm1zQ3N6b0xUMVVsOTgtdXJ2N3F5TlpEZnRqOTlid3ZVSEdxLWlXZHJPa2hMUktYanZ3RHpJbFlJMW1tT0s3VDRZNkY2cDZYSUdXNEpkV2tILTlOX2FB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fab8c17bba8fadc4434e",
+      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T11:57:59Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2pkb1R3Q3E0dWs1cllJTnJlbzBUUDZlMDVMT0YzcDJqWXFQR3FfdVp1TXExNXpZSnIwSEI4eFRORE9VYzBIbk1iMWF2bHRtc3N0TFpJVHVxanZmRlphREpMZ1pHQjh4Zy1tWHFfc3FkVDQtZWVVS2p0eWU0R0FCTjZuQ1lYellMRkxZX0RB?oc=5",
+      "first_seen": "2026-08-03T12:31:11Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -1737,7 +1751,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T05:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -6359,20 +6373,6 @@
       ]
     },
     {
-      "id": "fab8c17bba8fadc4434e",
-      "title": "【まとめてわかる】熊本地震 被害状況、イオン、酷暑、震源、寄付は",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWV9MNzJLSVVPZmhkNl9GV0xoeXVDczZJVUxvV0ZSc3FtOW9nNFhwVkI4OGRQRlI2aDFlVHhIbDhNdDM0Z1BTQ2VOS2QxcVAzalcwOTJfcVl6VFk1dFVKeUFEZUR0Z0trNEVkMVFJT1RCdkYwNjFVejB1ZjQzTzdJREJhdzFjOGJwY2NrdjNB?oc=5",
-      "first_seen": "2026-08-03T12:31:11Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d0d2374978942fee24d2",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
@@ -8309,20 +8309,6 @@
       ]
     },
     {
-      "id": "29505368a5e3739530dc",
-      "title": "【動画で見る熊本地震】発生1週間 被害状況、イオン、抜けた水道管",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qd3RzU2tSRUFzTklHcm5JOGo0VG56Y0t0eFBMLUtNUjlsWTlLTjRRVFFRUVRLUEtERjc3S1ZJUVFZRjNPSmtmSFJGckxoNEt4RWQ3dzlDc2hRVnJvbFM5ZTNGX2UyNWc?oc=5",
-      "first_seen": "2026-07-30T08:00:11Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "69c6202293e591ac45f3",
       "title": "【動画で見る熊本地震】爆発したイオンモール、脱線など各地で被害",
       "source": "朝日新聞",
@@ -9530,6 +9516,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "29505368a5e3739530dc",
+      "title": "【動画で見る熊本地震】発生1週間 被害状況、イオン、抜けた水道管",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qd3RzU2tSRUFzTklHcm5JOGo0VG56Y0t0eFBMLUtNUjlsWTlLTjRRVFFRUVRLUEtERjc3S1ZJUVFZRjNPSmtmSFJGckxoNEt4RWQ3dzlDc2hRVnJvbFM5ZTNGX2UyNWc?oc=5",
+      "first_seen": "2026-07-30T08:00:11Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
