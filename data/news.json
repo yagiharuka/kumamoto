@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T15:30:16Z",
-  "updated_at_jst": "2026/08/09 00:30 JST",
+  "updated_at": "2026-08-08T16:00:11Z",
+  "updated_at_jst": "2026/08/09 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 890,
@@ -3653,6 +3653,40 @@
       ]
     },
     {
+      "id": "780cf1a9cdd3e67d4a2a",
+      "title": "ガス爆発事故は減少傾向 イオンモール熊本で起きた爆発の原因は...ガス事業者の注目高まる",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTVFTUEJJMXdqWFplMjVaenJEZWVBTm8xSDljWWdlYWxXV2hGVXk3ZE9wYWVLRzhrNkttaGZiY1R0X0F1cFBhaDlaNWZpZjN1RnNqanVUbnk1T2ZqbHV5ak8tUlJWdTdtY0RndlhWRFdUVmpUT1E?oc=5",
+      "first_seen": "2026-07-31T04:00:53Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8c3b1e615fb2b735aa03",
+      "title": "イオンモール熊本の爆発 「オンワード」従業員3人の死亡確認",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FdHZtYzF4Mk1mb0pDVk14WHdnR0ZwZXpRM010SF9JSGZmbXl5Ql9sRHFUTGFJelpmVUJIVEZ5QzFYWmpNY3Q3V3Q0NW1YbExmX2liUWdVZ09EMEZ4YmtvbGk3ZjNnSXM0?oc=5",
+      "first_seen": "2026-07-31T01:30:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e512ac970da1c50cd82b",
       "title": "イオンモール熊本 内部をドローン撮影",
       "source": "毎日新聞",
@@ -3697,22 +3731,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "a75383b9826343e2640c",
-      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzN1lOcjR5SzJXbUFDdzRzT1BEM1Q4RWRyMmFiWHFwOVJpdnptbVFOR245N2xDZ1NqcUxSZFBvUDRjTEtpVmlZdUY5ZUMzd2w1bzd6OGpEUjBwVUJabWVz?oc=5",
-      "first_seen": "2026-07-31T02:00:57Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -4221,23 +4239,6 @@
       ]
     },
     {
-      "id": "780cf1a9cdd3e67d4a2a",
-      "title": "ガス爆発事故は減少傾向 イオンモール熊本で起きた爆発の原因は...ガス事業者の注目高まる",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T03:27:23Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTVFTUEJJMXdqWFplMjVaenJEZWVBTm8xSDljWWdlYWxXV2hGVXk3ZE9wYWVLRzhrNkttaGZiY1R0X0F1cFBhaDlaNWZpZjN1RnNqanVUbnk1T2ZqbHV5ak8tUlJWdTdtY0RndlhWRFdUVmpUT1E?oc=5",
-      "first_seen": "2026-07-31T04:00:53Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "bf850dd58802eb79883f",
       "title": "7人死亡のイオンモール熊本 取り残された人いないか捜索続く",
       "source": "NHK",
@@ -4437,6 +4438,22 @@
       ]
     },
     {
+      "id": "a75383b9826343e2640c",
+      "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T01:42:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzN1lOcjR5SzJXbUFDdzRzT1BEM1Q4RWRyMmFiWHFwOVJpdnptbVFOR245N2xDZ1NqcUxSZFBvUDRjTEtpVmlZdUY5ZUMzd2w1bzd6OGpEUjBwVUJabWVz?oc=5",
+      "first_seen": "2026-07-31T02:00:57Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "c672c8add2641729f9ce",
       "title": "熊本地震の死者35人に 日本製紙八代工場の1人が死亡 県発表",
       "source": "毎日新聞",
@@ -4463,23 +4480,6 @@
       "first_seen": "2026-07-31T01:30:52Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8c3b1e615fb2b735aa03",
-      "title": "イオンモール熊本の爆発 「オンワード」従業員3人の死亡確認",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T01:17:35Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FdHZtYzF4Mk1mb0pDVk14WHdnR0ZwZXpRM010SF9JSGZmbXl5Ql9sRHFUTGFJelpmVUJIVEZ5QzFYWmpNY3Q3V3Q0NW1YbExmX2liUWdVZ09EMEZ4YmtvbGk3ZjNnSXM0?oc=5",
-      "first_seen": "2026-07-31T01:30:52Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
