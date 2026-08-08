@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T14:44:05Z",
-  "updated_at_jst": "2026/08/08 23:44 JST",
+  "updated_at": "2026-08-08T15:00:11Z",
+  "updated_at_jst": "2026/08/09 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 889,
@@ -129,23 +129,6 @@
       ]
     },
     {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-08T04:13:24Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ffa1894c9f16cff41c46",
       "title": "イオン爆発、困難な救助活動 消防隊長が語る「誰も経験ない現場」 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -222,6 +205,23 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c1F3eEdxb3BpenhralVLajBza3VWbElub1JYY0pmazd1OXBncDVMNmpZTWoyN0txZ3Nsd21VdWxjOHJWbXNQQUlvQ0RVc2VYcnlPUHFIZE14a2k3bHhJ?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -534,7 +534,7 @@
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU21lcjAzT3Q3STg3WnNmWktBTXdfMy1xQkpwRlNYaENfSFAtVnF0aHpoV0JUeWI4cTNOelBMWEFoOEY2S3VDbFhSWWVUMWY0aF9sTWNXMmZpX3cyZG1OdzRVX1UzaHZnazJLVXN3VkJBalFRUXE5a3VySUFQTlZzN2tacDFqUEtNdUJrTk9zVWhkQ0JKdFZSU0o1bW54bFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
@@ -3572,23 +3572,6 @@
       ]
     },
     {
-      "id": "07c1e7f54217198fe668",
-      "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:地域ニュース",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sMkN5ZVFjb21CcURQR055ZE5EeUM5SFROclNlS3JGS0xJcnM2TUpCRm5iM3NpaC1ScUVNeUNLb2FiOVhGS2JHNWRnU1pDbkRMd3JSWmpUUGxCTFJhc3NQTmctVXF2clBQUUlvZ2hUVU82QQ?oc=5",
-      "first_seen": "2026-07-31T06:00:55Z",
-      "focus": [
-        "救助・安否",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "6fd9d959fd3ae7a7c70e",
       "title": "熊本地震で甚大な被害の日本製紙八代工場、大きな横揺れで体が浮く...工場勤務者「まさか煙突も折れるなんて」",
       "source": "読売新聞",
@@ -3619,23 +3602,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "86511c4bbd1db6f7ae02",
-      "title": "[スキャナー]真夏の避難、対策は途上 熊本地震 停電・断水 冷房ない避難所",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yTW1CQ05ONWRvMjhYNlRjbm1BSklJWFM1ZlVPaEh3Slo2VVFPaFQzXzZGWW9zRVZTdEJzRHBOS09PdDQ3RkdPUFZIU2FBOWN6WFJ4Szd5cVlqUzhfRzFULW16UDd3QQ?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -3680,22 +3646,6 @@
       "focus": [
         "停電状況",
         "復旧情報"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "0965703f08f79cf46edb",
-      "title": "熊本 震度7観測の氷川町で停電や断水 特産の梨も落ちる被害",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STGFwMU1ab0hoeENsWjFHZUxrRWFrTHdVeDJ1QWloU0lWeFVNZThZWVRGNFdtR1ZSV2RLLUs4aG9pYlhXRXFqZXExQnBYc210U25GSzV5a2lGbG1hNmhr?oc=5",
-      "first_seen": "2026-07-31T06:30:53Z",
-      "focus": [
-        "停電状況"
       ],
       "category_ids": [
         "power"
@@ -3748,6 +3698,23 @@
       ]
     },
     {
+      "id": "07c1e7f54217198fe668",
+      "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:地域ニュース",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T05:54:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sMkN5ZVFjb21CcURQR055ZE5EeUM5SFROclNlS3JGS0xJcnM2TUpCRm5iM3NpaC1ScUVNeUNLb2FiOVhGS2JHNWRnU1pDbkRMd3JSWmpUUGxCTFJhc3NQTmctVXF2clBQUUlvZ2hUVU82QQ?oc=5",
+      "first_seen": "2026-07-31T06:00:55Z",
+      "focus": [
+        "救助・安否",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "1596fb8648f499f309b9",
       "title": "熊本地震の死者35人に、九州新幹線は博多―熊本の運転再開...今夕までの停電解消目指す:写真",
       "source": "読売新聞",
@@ -3776,6 +3743,22 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "0965703f08f79cf46edb",
+      "title": "熊本 震度7観測の氷川町で停電や断水 特産の梨も落ちる被害",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T05:39:31Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STGFwMU1ab0hoeENsWjFHZUxrRWFrTHdVeDJ1QWloU0lWeFVNZThZWVRGNFdtR1ZSV2RLLUs4aG9pYlhXRXFqZXExQnBYc210U25GSzV5a2lGbG1hNmhr?oc=5",
+      "first_seen": "2026-07-31T06:30:53Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -5000,6 +4983,23 @@
       ]
     },
     {
+      "id": "86511c4bbd1db6f7ae02",
+      "title": "[スキャナー]真夏の避難、対策は途上 熊本地震 停電・断水 冷房ない避難所",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yTW1CQ05ONWRvMjhYNlRjbm1BSklJWFM1ZlVPaEh3Slo2VVFPaFQzXzZGWW9zRVZTdEJzRHBOS09PdDQ3RkdPUFZIU2FBOWN6WFJ4Szd5cVlqUzhfRzFULW16UDd3QQ?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "b18519c04873c7e58678",
       "title": "イオン救助活動「強い思いで」 熊本地震",
       "source": "朝日新聞",
@@ -6027,6 +6027,23 @@
       ]
     },
     {
+      "id": "181dc330e794df40c827",
+      "title": "熊本地震で死者計17人に イオンモールは5人、日本製紙八代工場で8人 心肺停止は6人",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYURFbHdTZmtJQ0laTkt0NDFDd3ZneF9ZeEtfZE8xa2xrNUkxZ0JJcksyNFlaRkliR1V1UE84MWZMNHRaRkM5YVJxaDNnX0t3NG9tbkFHRDRSTTB0TDM0el9EbDhpVWswZGEwZi1uaXJ4TzNMNXc?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon",
+        "paper"
+      ]
+    },
+    {
       "id": "374489d772e419d48b43",
       "title": "日本製紙八代工場で安否不明の1人発見 熊本の地震で被災",
       "source": "産経新聞",
@@ -6884,23 +6901,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "181dc330e794df40c827",
-      "title": "熊本地震で死者計17人に イオンモールは5人、日本製紙八代工場で8人 心肺停止は6人",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T01:05:03Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYURFbHdTZmtJQ0laTkt0NDFDd3ZneF9ZeEtfZE8xa2xrNUkxZ0JJcksyNFlaRkliR1V1UE84MWZMNHRaRkM5YVJxaDNnX0t3NG9tbkFHRDRSTTB0TDM0el9EbDhpVWswZGEwZi1uaXJ4TzNMNXc?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon",
-        "paper"
       ]
     },
     {
@@ -13389,22 +13389,6 @@
       ]
     },
     {
-      "id": "8cb46fb8e065c9175f95",
-      "title": "【令和8年熊本地震】NHK公式X、熊本地震受け「停電している地域の皆さん」に向けた投稿 ライト・スマホ・ブレーカーなど【一覧】",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T10:31:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3c0dUVXb1RUOWhuT3owaFVwMTk2OFBJdktFeGRvS0U5c1NiM1hPcHVfWTZ5ZHJXRm1kcWUtakxQNS04QUNRSkIzZVkxZ0xsY0pfal9qeW5DWHU0LVpWaHh6ZDgydG9FcFZqSDNId1JZck5KRGRSaFNYUUdzalJDRk9KOERocHVESC1JVXdrcExpOWhZdHNLZmZqdw?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "0f416be258462c849642",
       "title": "外壁などが大きく崩れたイオンモール熊本=28日午後6時38分、熊本県嘉島町",
       "source": "産経新聞",
@@ -14049,6 +14033,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iV3JJR0oyalhQXzVQV3U0bE9wcDdKa0xRSE11Tm1VbzF5eGVfMzRqUF9RT2xXMlJNNFh0MmZMRWFRSjBqYmYySmZkeXF5UkZQRzVIajlqZGtVVmpxZnAxbFh4UHNqdVdZaFkwX2FtSHNYWUYtQlE?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "8cb46fb8e065c9175f95",
+      "title": "【令和8年熊本地震】NHK公式X、熊本地震受け「停電している地域の皆さん」に向けた投稿 ライト・スマホ・ブレーカーなど【一覧】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3c0dUVXb1RUOWhuT3owaFVwMTk2OFBJdktFeGRvS0U5c1NiM1hPcHVfWTZ5ZHJXRm1kcWUtakxQNS04QUNRSkIzZVkxZ0xsY0pfal9qeW5DWHU0LVpWaHh6ZDgydG9FcFZqSDNId1JZck5KRGRSaFNYUUdzalJDRk9KOERocHVESC1JVXdrcExpOWhZdHNLZmZqdw?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "停電状況"
       ],
