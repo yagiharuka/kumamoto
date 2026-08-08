@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-08T03:30:51Z",
-  "updated_at_jst": "2026/08/08 12:30 JST",
+  "updated_at": "2026-08-08T04:00:18Z",
+  "updated_at_jst": "2026/08/08 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 884,
@@ -82,22 +82,6 @@
   },
   "items": [
     {
-      "id": "751ca3900c827a8e2dbb",
-      "title": "熊本地震 犠牲の妻へ、感謝のドレス イオン爆発が奪った夢と日常",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-08T01:58:49Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mWWpveHpOOVAzNUJFLTl1Z0RGY2VvQUpvWHZSN1RsWmt1OGRzdGlHRXZyTTZreUhaSHNlbExESFQzZzF1N1VSeXZ2X2d1YUZzbjY0UUtVTFpYbTFtLV9DYl9sX3l2TDlo?oc=5",
-      "first_seen": "2026-08-07T18:01:08Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "3f18a202e8ee62e9be9f",
       "title": "イオンモール熊本、「再入館を許可」の証言 社内規定に抵触か",
       "source": "毎日新聞",
@@ -125,6 +109,22 @@
       "focus": [
         "避難状況",
         "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "751ca3900c827a8e2dbb",
+      "title": "熊本地震 犠牲の妻へ、感謝のドレス イオン爆発が奪った夢と日常",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-07T17:02:01Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mWWpveHpOOVAzNUJFLTl1Z0RGY2VvQUpvWHZSN1RsWmt1OGRzdGlHRXZyTTZreUhaSHNlbExESFQzZzF1N1VSeXZ2X2d1YUZzbjY0UUtVTFpYbTFtLV9DYl9sX3l2TDlo?oc=5",
+      "first_seen": "2026-08-07T18:01:08Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -7783,20 +7783,6 @@
       ]
     },
     {
-      "id": "36b15a0dfdfdb7365d9a",
-      "title": "<2026年熊本地震>がれきの山から「助けて」 消防隊員「必死に掘った」 緊迫の日本製紙八代工場",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T10:08:33Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qek40UWNzVHhKNjZrbGszejVhekxrbUwyeWtOTFFyeFVQUHhjNkl2WkxBR2F2QzY4QmlIZEZXYXZmZ2FPRjI5MldnbXZBNDg?oc=5",
-      "first_seen": "2026-07-29T10:31:10Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "14ef38df6a495f7064f6",
       "title": "爆発時、館内に従業員8人を把握とイオン (共同通信)",
       "source": "熊本日日新聞",
@@ -8751,23 +8737,6 @@
       ]
     },
     {
-      "id": "6d01ed48ff5bdc4cdf56",
-      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間 [写真特集1/5]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:24:18Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHBqRGhPWGYtVGdDSElBb3JjTlhRTmFTYXdXZ1VGeDlTdUlCVG10emwxakVTeWoxSXV0eFhYV2N5SWZiTFJWR1cycjZMMFZqOW5kbTV2OFhVQ2UxQjdQMTJFMlY5UDQtNkMydTJQeld0czJhdHVzM3Y1VFpCOGNZSm1xU2FSOTQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "0fd440b9250fbf0ddebe",
       "title": "【動画】死亡13人、安否不明者の捜索続く イオンモールと日本製紙工場 9800人避難・熊本震度7",
       "source": "時事通信",
@@ -9239,6 +9208,20 @@
       ]
     },
     {
+      "id": "36b15a0dfdfdb7365d9a",
+      "title": "<2026年熊本地震>がれきの山から「助けて」 消防隊員「必死に掘った」 緊迫の日本製紙八代工場",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qek40UWNzVHhKNjZrbGszejVhekxrbUwyeWtOTFFyeFVQUHhjNkl2WkxBR2F2QzY4QmlIZEZXYXZmZ2FPRjI5MldnbXZBNDg?oc=5",
+      "first_seen": "2026-07-29T10:31:10Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "ce7c399f67603a15acee",
       "title": "<2026年熊本地震>「爆発事故の想定なし」「従業員は戻らないルール」 イオン側会見で強調",
       "source": "熊本日日新聞",
@@ -9355,6 +9338,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "6d01ed48ff5bdc4cdf56",
+      "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間 [写真特集1/5]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHBqRGhPWGYtVGdDSElBb3JjTlhRTmFTYXdXZ1VGeDlTdUlCVG10emwxakVTeWoxSXV0eFhYV2N5SWZiTFJWR1cycjZMMFZqOW5kbTV2OFhVQ2UxQjdQMTJFMlY5UDQtNkMydTJQeld0czJhdHVzM3Y1VFpCOGNZSm1xU2FSOTQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
