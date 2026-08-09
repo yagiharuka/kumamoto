@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T08:00:13Z",
-  "updated_at_jst": "2026/08/09 17:00 JST",
+  "updated_at": "2026-08-09T08:30:13Z",
+  "updated_at_jst": "2026/08/09 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 892,
@@ -642,7 +642,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTTVMRnY5dzNGaXVyQnFWQnpPa011ejNMbVZJem41S2V1a2hnSTNiWXJfbXlqLWNyMzVlc2xFQWRtOEdMLWJsN1RDUUFZc2xYNG1KWVFkWUJrUDhVcGNvYUhIQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eEU4ZGJheFR5MW1WbXJuc1l3V3QxR3I0UW5JeFJKeFNxZUF1Y3RhR1VlaG9mc0xlbTBEZTVqbi1nVjQxalZNV3BPWkVvLWxrSFZYVGlvbFAzQnR2TFZFek1pRQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -1721,7 +1721,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -1754,6 +1754,24 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNGFkWGVQZTJHMXFZQ1Rnd3VZWXIycXpvdVVMa0p2NEEtR3JTak96UElscG9OdVFxRnl3ZG15MVpYNEFCYkgwOUxvMUlQcjRXMkFic1BDVk1QUnpERGF5OWtxQlQwdjA?oc=5",
       "first_seen": "2026-08-04T06:31:09Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T05:46:04Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFNCWUx1MlI2X0VLRDcwQU5OYXFOUkNldm51LVNaSWJGakEyb2V0MExpTEgzOUlrdFJFamV3VzQ0ZTdJVlBtMmY4clhwc3NtNWhFc04yVUZsdUNoTnpnRDFLZloxNjhlbVAzQnRYQ1BkdXFCdFFUdlBmTlRzVl81UE9FVjJnc3hrLVBwcFZR?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -1814,24 +1832,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlNSbnhWUTBpRHA3Nnl1STQ0VVBUSVlVLVd0ZDFGQmFRU2RyMG1EVGhraHY2SmJ1UGNXRl82cU5rWTRuWV96MVhTbFl6SUlIUUhic0xmZ0dISG5CcS1YUkZhSlJ5WlhJOGJJMTFjREV4Qy1QbmtkTXFFWHZyajQwS3ZkZFFUM1l3LWppRkpiLVM?oc=5",
       "first_seen": "2026-07-30T18:00:10Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T03:22:44Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbElVUHg5ZE9JampfR0VLcXdCZW54VUxXa1ZUTjFseDRfS3V1Qy1nd3ZEd3k4X3hoZGd5aURPdG4zNVpyRnJ6Rk16R1NfQk1mQlBfcC1uTWJoTjRkdmQzUXhnVHZ4ZHl1aWtQTjJHZjdFOTlvY2MwbVBMdEFTX3ZEYXhXUE5acFQxeTVpUEZ3?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -2897,7 +2897,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVwMExyMlF4Uk1pbHAycVlkWk1CR1JhN2xWeTZwanJyUmtQNmFXc2puWDFDSmFiRXJaOS1BdlNRWTFibjhaOXViVzNpbXF3M2daWnV2RnpacHJOT0NDUVpmdDNYbGstZkRUb2N3TDZoeF9yRkpMMzBMQ2lOQzZ5ZDk4SGJhUzhOMkx5bUJpUnlkdXZzYUJ5ajdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXVSd0txLW5TTjBqbXNmc3RUUnZXX05WSy11dlpIRWV6MkNZMTZCM3NCTmFReTAzUlRIaUxLR0ItODAycnBPVmdicE5XeFFWdlNxYzdVZmpKYTI3WWFOaVhPaGdPbjZheFpPTzRVZmpJOXFWeTViT0JETnFrQnJCWG1fOGFKM25aSVZQY283eW4zZHdfdm5BYXhR?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
