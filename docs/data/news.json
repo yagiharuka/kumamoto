@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T00:01:12Z",
-  "updated_at_jst": "2026/08/09 09:01 JST",
+  "updated_at": "2026-08-09T00:31:14Z",
+  "updated_at_jst": "2026/08/09 09:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 891,
@@ -3324,6 +3324,20 @@
       ]
     },
     {
+      "id": "cd9d445c789e0a4cae80",
+      "title": "2026年熊本地震>取り残された人はいないか... 地震発生から「72時間」 イオンでは800人規模で捜索",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T13:17:33Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zcFRRaFJkcFJ2bnk0N09GQ2U0c2djb1BNb2dlM3ktaWV6bGJEN2tSRlZTQXBwaTFUYXFRZzVNWTVvRlIxZUJMMlE3YmROQ0k?oc=5",
+      "first_seen": "2026-07-31T14:00:59Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "53515250e9b3b0adf61f",
       "title": "サンリオ、イオンモール熊本ほか店舗スタッフ「全員の無事を確認」 SNSでは心配の声も【令和8年熊本地震】",
       "source": "産経新聞",
@@ -3665,20 +3679,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "cd9d445c789e0a4cae80",
-      "title": "2026年熊本地震>取り残された人はいないか... 地震発生から「72時間」 イオンでは800人規模で捜索",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zcFRRaFJkcFJ2bnk0N09GQ2U0c2djb1BNb2dlM3ktaWV6bGJEN2tSRlZTQXBwaTFUYXFRZzVNWTVvRlIxZUJMMlE3YmROQ0k?oc=5",
-      "first_seen": "2026-07-31T14:00:59Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
