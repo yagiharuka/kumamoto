@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T04:30:12Z",
-  "updated_at_jst": "2026/08/09 13:30 JST",
+  "updated_at": "2026-08-09T05:00:16Z",
+  "updated_at_jst": "2026/08/09 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 891,
@@ -2881,7 +2881,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVwMExyMlF4Uk1pbHAycVlkWk1CR1JhN2xWeTZwanJyUmtQNmFXc2puWDFDSmFiRXJaOS1BdlNRWTFibjhaOXViVzNpbXF3M2daWnV2RnpacHJOT0NDUVpmdDNYbGstZkRUb2N3TDZoeF9yRkpMMzBMQ2lOQzZ5ZDk4SGJhUzhOMkx5bUJpUnlkdXZzYUJ5ajdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXVSd0txLW5TTjBqbXNmc3RUUnZXX05WSy11dlpIRWV6MkNZMTZCM3NCTmFReTAzUlRIaUxLR0ItODAycnBPVmdicE5XeFFWdlNxYzdVZmpKYTI3WWFOaVhPaGdPbjZheFpPTzRVZmpJOXFWeTViT0JETnFrQnJCWG1fOGFKM25aSVZQY283eW4zZHdfdm5BYXhR?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -3648,6 +3648,22 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "c672c8add2641729f9ce",
+      "title": "熊本地震の死者35人に 日本製紙八代工場の1人が死亡 県発表",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNHlzb3k3YXZsZHZpcHNZZ2R4d3JSMXcwWVU0czVPSndzY2ZQdnZINzVyU1dfckhvQzVrLUpJT2NfRW1uMjlUUjVDN2lNVDdTV0p2bE1xd0VDdzEzTjVEVEVHT1ZvRDlO?oc=5",
+      "first_seen": "2026-07-31T01:30:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -4513,22 +4529,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "c672c8add2641729f9ce",
-      "title": "熊本地震の死者35人に 日本製紙八代工場の1人が死亡 県発表",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T01:23:35Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNHlzb3k3YXZsZHZpcHNZZ2R4d3JSMXcwWVU0czVPSndzY2ZQdnZINzVyU1dfckhvQzVrLUpJT2NfRW1uMjlUUjVDN2lNVDdTV0p2bE1xd0VDdzEzTjVEVEVHT1ZvRDlO?oc=5",
-      "first_seen": "2026-07-31T01:30:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -7863,20 +7863,6 @@
       ]
     },
     {
-      "id": "8e821be24b1d67715d58",
-      "title": "◎〔熊本地震影響〕日本製紙、八代工場で5人死亡",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "55188cd49fab0c598e80",
       "title": "【動画】イオンモール熊本ドローン映像を公開 防衛省",
       "source": "時事通信",
@@ -9693,6 +9679,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "8e821be24b1d67715d58",
+      "title": "◎〔熊本地震影響〕日本製紙、八代工場で5人死亡",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "paper"
       ]
