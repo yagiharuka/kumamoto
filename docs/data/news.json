@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T20:30:41Z",
-  "updated_at_jst": "2026/08/10 05:30 JST",
+  "updated_at": "2026-08-09T21:00:42Z",
+  "updated_at_jst": "2026/08/10 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 894,
@@ -1751,7 +1751,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -7926,20 +7926,6 @@
       ]
     },
     {
-      "id": "8e821be24b1d67715d58",
-      "title": "◎〔熊本地震影響〕日本製紙、八代工場で5人死亡",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "55188cd49fab0c598e80",
       "title": "【動画】イオンモール熊本ドローン映像を公開 防衛省",
       "source": "時事通信",
@@ -9788,6 +9774,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "8e821be24b1d67715d58",
+      "title": "◎〔熊本地震影響〕日本製紙、八代工場で5人死亡",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc3QzS3FKN3gwNzNEbE9zRFBka0ZxV1ZIa3ZnOVZwcDFXZWpkYW5Jd1BMTE5OYmtXSVJBbHFGWWxFQ1NQU1dOT2QydmU4X0RSVDhUcQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "paper"
       ]
