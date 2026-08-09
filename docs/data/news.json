@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T00:31:14Z",
-  "updated_at_jst": "2026/08/09 09:31 JST",
+  "updated_at": "2026-08-09T01:01:15Z",
+  "updated_at_jst": "2026/08/09 10:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 891,
@@ -2881,7 +2881,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVwMExyMlF4Uk1pbHAycVlkWk1CR1JhN2xWeTZwanJyUmtQNmFXc2puWDFDSmFiRXJaOS1BdlNRWTFibjhaOXViVzNpbXF3M2daWnV2RnpacHJOT0NDUVpmdDNYbGstZkRUb2N3TDZoeF9yRkpMMzBMQ2lOQzZ5ZDk4SGJhUzhOMkx5bUJpUnlkdXZzYUJ5ajdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXVSd0txLW5TTjBqbXNmc3RUUnZXX05WSy11dlpIRWV6MkNZMTZCM3NCTmFReTAzUlRIaUxLR0ItODAycnBPVmdicE5XeFFWdlNxYzdVZmpKYTI3WWFOaVhPaGdPbjZheFpPTzRVZmpJOXFWeTViT0JETnFrQnJCWG1fOGFKM25aSVZQY283eW4zZHdfdm5BYXhR?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -9489,6 +9489,22 @@
       ]
     },
     {
+      "id": "293561b6eca50cfe56ef",
+      "title": "イオン爆発「内圧高まり、壁ごと破壊」 爆風が伝播か、専門家の見方 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeHAyRWVYT0VfbUo2N0Qtb2hPT20yVjRxZVhhRWphMUxjeGRHNlhDNm8ySFlBck5xejA1WHc2LUY3Yko1OXY4SjJOUEd5WjdQZnk2VGg5eVFuR3JrLUhUeTcxX2wtbjg?oc=5",
+      "first_seen": "2026-07-29T07:00:21Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "86a8f376f12b3e8a7349",
       "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 動画",
       "source": "朝日新聞",
@@ -10077,22 +10093,6 @@
       "published_at": "2026-07-29T06:02:55Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMzh4TFl1S2RxZE5oYXZVRms4Nnl3Ym1NbVJ2MTBQYURvRDNnVDdmNGVocnpsYlJkc0JrX2s2a0lnVHhtRkpCM2tEOVpxRlNfR1RLd2lDY3BnWHVCdlZZQVN1ZFhtMmM?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "293561b6eca50cfe56ef",
-      "title": "イオン爆発「内圧高まり、壁ごと破壊」 爆風が伝播か、専門家の見方 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T06:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeHAyRWVYT0VfbUo2N0Qtb2hPT20yVjRxZVhhRWphMUxjeGRHNlhDNm8ySFlBck5xejA1WHc2LUY3Yko1OXY4SjJOUEd5WjdQZnk2VGg5eVFuR3JrLUhUeTcxX2wtbjg?oc=5",
-      "first_seen": "2026-07-29T07:00:21Z",
       "focus": [
         "現場状況"
       ],
