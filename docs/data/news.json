@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T14:30:15Z",
-  "updated_at_jst": "2026/08/09 23:30 JST",
+  "updated_at": "2026-08-09T15:00:16Z",
+  "updated_at_jst": "2026/08/10 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 894,
@@ -3384,22 +3384,6 @@
       ]
     },
     {
-      "id": "bfa9a469238ffb7cbbc8",
-      "title": "【速報】九州電力の停電解消",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-31T10:23:07Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Yjk5VnNuVk1VNjV2RXpsNnBndVZRWVJtUzlLOVlpT0RYUWZjTnpnYTlMbmpBTmtlcy0wVEVaLUFTbVB3TUt4bEhZQlh2Rms?oc=5",
-      "first_seen": "2026-07-31T10:30:54Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "2457a928c3db349fa79c",
       "title": "熊本の停電おおむね解消と九州電力 (共同通信)",
       "source": "熊本日日新聞",
@@ -3633,6 +3617,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "bfa9a469238ffb7cbbc8",
+      "title": "【速報】九州電力の停電解消",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Yjk5VnNuVk1VNjV2RXpsNnBndVZRWVJtUzlLOVlpT0RYUWZjTnpnYTlMbmpBTmtlcy0wVEVaLUFTbVB3TUt4bEhZQlh2Rms?oc=5",
+      "first_seen": "2026-07-31T10:30:54Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
