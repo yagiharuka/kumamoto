@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T02:01:20Z",
-  "updated_at_jst": "2026/08/09 11:01 JST",
+  "updated_at": "2026-08-09T02:16:12Z",
+  "updated_at_jst": "2026/08/09 11:16 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 891,
@@ -1705,7 +1705,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -3698,6 +3698,22 @@
       ]
     },
     {
+      "id": "f9cfa9885ef4cea15ed6",
+      "title": "熊本地震 家屋被害 全容つかめず 厳しい暑さの中、断水、停電も /熊本",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdm1PMnB3QWM4bzJJQUhrSjBsOFlhRU1UQ0dVSzdfVER1bkMzcFNfQTdtbUhMMEtCMm54OTZPZ05TZ29CMU94VGQ4QkVKV2VMWHVZemtlaUtVbW9PS1ZqdUU4aVJOcUNz?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "8c3b1e615fb2b735aa03",
       "title": "イオンモール熊本の爆発 「オンワード」従業員3人の死亡確認",
       "source": "毎日新聞",
@@ -4977,22 +4993,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f9cfa9885ef4cea15ed6",
-      "title": "熊本地震 家屋被害 全容つかめず 厳しい暑さの中、断水、停電も /熊本",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:02:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdm1PMnB3QWM4bzJJQUhrSjBsOFlhRU1UQ0dVSzdfVER1bkMzcFNfQTdtbUhMMEtCMm54OTZPZ05TZ29CMU94VGQ4QkVKV2VMWHVZemtlaUtVbW9PS1ZqdUU4aVJOcUNz?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
