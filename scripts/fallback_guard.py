@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run a delayed GitHub fallback only when the primary refresh is stale."""
+"""Run a delayed fallback only when its target primary refresh is missing."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT_PATH = ROOT / "data" / "news.json"
-MAX_FRESH_AGE = timedelta(minutes=25)
+MAX_CLOCK_SKEW = timedelta(minutes=5)
 
 
 def parse_utc(value: Any) -> datetime | None:
@@ -39,13 +39,35 @@ def fallback_is_needed(
     event_name: str,
     updated_at: datetime | None,
     now: datetime,
+    schedule: str | None = None,
 ) -> bool:
     if event_name != "schedule":
         return True
     if updated_at is None:
         return True
-    age = now.astimezone(timezone.utc) - updated_at
-    return age < timedelta(0) or age > MAX_FRESH_AGE
+    now = now.astimezone(timezone.utc)
+    if updated_at > now + MAX_CLOCK_SKEW:
+        return True
+    target = target_primary_time(schedule, now)
+    if target is None:
+        return True
+    return updated_at < target
+
+
+def target_primary_time(schedule: str | None, now: datetime) -> datetime | None:
+    """Return the primary :00 or :30 slot assigned to this fallback."""
+    now = now.astimezone(timezone.utc)
+    if schedule == "10 * * * *":
+        target = now.replace(minute=0, second=0, microsecond=0)
+        if now.minute < 10:
+            target -= timedelta(hours=1)
+        return target
+    if schedule == "40 * * * *":
+        target = now.replace(minute=30, second=0, microsecond=0)
+        if now.minute < 40:
+            target -= timedelta(hours=1)
+        return target
+    return None
 
 
 def write_output(should_run: bool) -> None:
@@ -58,19 +80,23 @@ def write_output(should_run: bool) -> None:
 
 def main() -> int:
     event_name = os.environ.get("FALLBACK_EVENT_NAME", "workflow_dispatch")
+    schedule = os.environ.get("FALLBACK_SCHEDULE")
     now = datetime.now(timezone.utc)
     updated_at = load_updated_at()
-    should_run = fallback_is_needed(event_name, updated_at, now)
+    target = target_primary_time(schedule, now) if event_name == "schedule" else None
+    should_run = fallback_is_needed(event_name, updated_at, now, schedule)
     write_output(should_run)
 
     if event_name != "schedule":
         print("Primary or manual trigger: collection will run.")
     elif should_run:
-        age = "unknown" if updated_at is None else str(now - updated_at).split(".")[0]
-        print(f"Snapshot is stale (age: {age}); fallback collection will run.")
+        target_text = "unknown" if target is None else target.isoformat()
+        print(f"Target primary slot is missing ({target_text}); fallback will run.")
     else:
-        age = str(now - updated_at).split(".")[0]
-        print(f"Snapshot is fresh (age: {age}); fallback collection is skipped.")
+        print(
+            "Target primary slot is already covered "
+            f"({target.isoformat()}); fallback is skipped."
+        )
     return 0
 
 

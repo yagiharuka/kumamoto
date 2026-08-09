@@ -56,6 +56,7 @@ jobs:
         id: fallback_guard
         env:
           FALLBACK_EVENT_NAME: ${{ github.event_name }}
+          FALLBACK_SCHEDULE: ${{ github.event.schedule }}
         run: python scripts/fallback_guard.py
 
       - name: Set up Python
