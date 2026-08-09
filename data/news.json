@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T11:00:15Z",
-  "updated_at_jst": "2026/08/09 20:00 JST",
+  "updated_at": "2026-08-09T11:30:15Z",
+  "updated_at_jst": "2026/08/09 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 892,
@@ -642,7 +642,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTTVMRnY5dzNGaXVyQnFWQnpPa011ejNMbVZJem41S2V1a2hnSTNiWXJfbXlqLWNyMzVlc2xFQWRtOEdMLWJsN1RDUUFZc2xYNG1KWVFkWUJrUDhVcGNvYUhIQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHBORHF6UjlMTXFmMWJwb1R4Zjc2aTNnUS1ld1Y1QS1NSklramZTQ2QxS2hMOUZaRnFfNi1wNUk0V0NBcGFhd0tTOHVTN1FuWVZsZEpCc0hvdS1jeTN5SGZiUDhmOVlMUjN3dGNkaF92STd4ZzExdldNZ3kxc29kbw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -9556,6 +9556,22 @@
       ]
     },
     {
+      "id": "8c1127ba73095f1062ae",
+      "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "29505368a5e3739530dc",
       "title": "【動画で見る熊本地震】発生1週間 被害状況、イオン、抜けた水道管",
       "source": "朝日新聞",
@@ -11671,22 +11687,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xdndFblhERGF1ejJwU2ZFVlc0OGNoZjNqdlotbFNNRVVvd2YwNURJVjFSMU9jX3QwUXlrMjBWT2JhZGZXSlF5aVJmbHFZT1E?oc=5",
       "first_seen": "2026-07-29T04:00:22Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8c1127ba73095f1062ae",
-      "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T20:50:54Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0pwUHJMTTVBSGlMay05OURvVE9GSVRyUGtKYmJYVnp1UjZLMmlETk5OUkFmR29ic3hlMThNX1gwZ2owaUt3QWhaUnpuWTdhYUhJVEtaeXA2N0xzNWRfUk93VHFfZW5oMXJGRmlHR3lKSkJ2ZTFLUXFVb0ZJbnYxWkxZWE1YMm5VS3o5Rk5uMnA4SXdaOXlYY3VyeXR5b3B6eUlRVw?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否"
-      ],
       "category_ids": [
         "aeon"
       ]
