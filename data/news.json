@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T14:00:13Z",
-  "updated_at_jst": "2026/08/09 23:00 JST",
+  "updated_at": "2026-08-09T14:30:15Z",
+  "updated_at_jst": "2026/08/09 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 893,
+  "article_count": 894,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "kumanichi": 129,
-    "yomiuri": 119,
+    "yomiuri": 120,
     "nhk": 74,
     "nikkei": 51,
     "mainichi": 117,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 710,
+    "aeon": 711,
     "power": 109,
     "paper": 91
   },
@@ -109,6 +109,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "38a4622aa5485d3290a1",
+      "title": "イオンモール爆発巡り遺族装う投稿拡散、投稿者「閲覧数稼ぎや承認欲求止まらなくなった」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-08T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85QTdtMHB5ZkZnLW5TN2k2T1U4bHQta3RWaHJaZGUycE9aTEQ1TkZFM1JOa1ZBMm5qZkxYa1lJb01FUnBRakdJNV9WcFlMQXJvWFNZY0Rid3kza3V6Sm44ekNjQ2Z4UQ?oc=5",
+      "first_seen": "2026-08-09T14:30:15Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -1735,7 +1751,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOGtWTXdFNW5LTDlKQ21KY0VTY2FDYmtqS3RMd0NXN21HVWpSeUU0ZlFCeHZfNWlTRnVrY3ktMDVyZElaVGxXLTh5RUFqZjFpaFhzRGowdUdudDJ1OUdDYTI2XzVqVlBr?oc=5",
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
@@ -6320,6 +6336,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "c778bb9656cd12d003fc",
       "title": "断水8万戸超、停電も続く 高速の橋や鉄道設備に損傷 熊本地震",
       "source": "朝日新聞",
@@ -9495,23 +9528,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZY25LUGhXU0VZRE1GNlhvcWFBb3VoOHlSbDZJU2EzcmdaZERqM21HVDNZS2duQWRGMHp5ZmZnMi1wcGlWRW85RmFBV0JJeDRiNDJxckt2NUpkQzQ2?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
         "停電状況"
       ],
       "category_ids": [
