@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T07:00:15Z",
-  "updated_at_jst": "2026/08/09 16:00 JST",
+  "updated_at": "2026-08-09T07:30:14Z",
+  "updated_at_jst": "2026/08/09 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 892,
@@ -2897,7 +2897,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVwMExyMlF4Uk1pbHAycVlkWk1CR1JhN2xWeTZwanJyUmtQNmFXc2puWDFDSmFiRXJaOS1BdlNRWTFibjhaOXViVzNpbXF3M2daWnV2RnpacHJOT0NDUVpmdDNYbGstZkRUb2N3TDZoeF9yRkpMMzBMQ2lOQzZ5ZDk4SGJhUzhOMkx5bUJpUnlkdXZzYUJ5ajdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXVSd0txLW5TTjBqbXNmc3RUUnZXX05WSy11dlpIRWV6MkNZMTZCM3NCTmFReTAzUlRIaUxLR0ItODAycnBPVmdicE5XeFFWdlNxYzdVZmpKYTI3WWFOaVhPaGdPbjZheFpPTzRVZmpJOXFWeTViT0JETnFrQnJCWG1fOGFKM25aSVZQY283eW4zZHdfdm5BYXhR?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -5607,23 +5607,6 @@
       ]
     },
     {
-      "id": "09a74791a6d5d8688c00",
-      "title": "爆発したイオンモール熊本、経産省や高圧ガス保安協会の専門家が現場調査を開始",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T10:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWW94QnBPOXg1cUpBb2JIbTlxdWt2TDdXdkF3cGZVY0taMTdoN0g0aFBFMTVXUG5vanBDOTM3bmI2Z1Byd2JjSVRnLVJQb0ZnTF9QU0tiaUltdC1EWlRDajFidE84UQ?oc=5",
-      "first_seen": "2026-07-30T10:30:19Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "08c1ae0d593607f4cbbb",
       "title": "【令和8年熊本地震】中川家、イオンシネマ熊本で開催予定だったライブビューイングの中止発表「営業見合わせに伴い」",
       "source": "産経新聞",
@@ -5960,6 +5943,23 @@
       ]
     },
     {
+      "id": "09a74791a6d5d8688c00",
+      "title": "爆発したイオンモール熊本、経産省や高圧ガス保安協会の専門家が現場調査を開始",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWW94QnBPOXg1cUpBb2JIbTlxdWt2TDdXdkF3cGZVY0taMTdoN0g0aFBFMTVXUG5vanBDOTM3bmI2Z1Byd2JjSVRnLVJQb0ZnTF9QU0tiaUltdC1EWlRDajFidE84UQ?oc=5",
+      "first_seen": "2026-07-30T10:30:19Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "af2b3a8511d576009ad3",
       "title": "熊本地震で爆発したイオンモールで働いていた男性、外に出た数分後「ドカーン」...フロアに「鼻に残る臭い」",
       "source": "読売新聞",
@@ -6281,23 +6281,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tbkFDNTd2R1VMSndHa0h0NVVwQThVV2NlSVFlZEsySDNLdVBxTG5Vd3hNY3JRdWozWmtHV0RjYzJyc3pFLWtaeWdkODZXbjRUTnNRNmpEMDJ0M2JLRkV1UVpCSFdXMVJI?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "401b030dad77264a338f",
-      "title": "避難完了50分後にイオン爆発、なぜ館内に従業員?社長が語った状況 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ca1A2emxiY29keldqYjlzUF80eVNGVy1FV1BwU2ZpdnN2cjNsMk1rY291OE5VZmR4VmlESzQzcE5SUTdtU2xuanJ4S1ZHRTlHX3cwXzB5TDNSVTNYS2RLeDI3M1MxS2c?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -7190,6 +7173,23 @@
       "first_seen": "2026-07-29T20:30:10Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "401b030dad77264a338f",
+      "title": "避難完了50分後にイオン爆発、なぜ館内に従業員?社長が語った状況 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ca1A2emxiY29keldqYjlzUF80eVNGVy1FV1BwU2ZpdnN2cjNsMk1rY291OE5VZmR4VmlESzQzcE5SUTdtU2xuanJ4S1ZHRTlHX3cwXzB5TDNSVTNYS2RLeDI3M1MxS2c?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
