@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T02:31:16Z",
-  "updated_at_jst": "2026/08/09 11:31 JST",
+  "updated_at": "2026-08-09T03:01:17Z",
+  "updated_at_jst": "2026/08/09 12:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 891,
@@ -2881,7 +2881,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXVSd0txLW5TTjBqbXNmc3RUUnZXX05WSy11dlpIRWV6MkNZMTZCM3NCTmFReTAzUlRIaUxLR0ItODAycnBPVmdicE5XeFFWdlNxYzdVZmpKYTI3WWFOaVhPaGdPbjZheFpPTzRVZmpJOXFWeTViT0JETnFrQnJCWG1fOGFKM25aSVZQY283eW4zZHdfdm5BYXhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXVwMExyMlF4Uk1pbHAycVlkWk1CR1JhN2xWeTZwanJyUmtQNmFXc2puWDFDSmFiRXJaOS1BdlNRWTFibjhaOXViVzNpbXF3M2daWnV2RnpacHJOT0NDUVpmdDNYbGstZkRUb2N3TDZoeF9yRkpMMzBMQ2lOQzZ5ZDk4SGJhUzhOMkx5bUJpUnlkdXZzYUJ5ajdn?oc=5",
       "first_seen": "2026-08-02T16:00:21Z",
       "focus": [
         "停電状況"
@@ -3503,23 +3503,6 @@
       ]
     },
     {
-      "id": "f17833f9514b12668fb6",
-      "title": "【イオンモール熊本で爆発】地震から83分 客の避難後、イオンモール熊本で何が起きたか(令和8年熊本地震)",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T07:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jN2JJZDdRYlhDVGhiZXVtTHYyTnpENURXdUFscXRSamNiVVpGOXpfV3VGZF84R18wbU9UOFhKWG8zTl9oSnpCWE9PcEQyNVVrT3FJVWFaNk83LVBQb1FIWlhoUlF5dFB5R0VaT1R4N3p2MmYtTHdEaHdn?oc=5",
-      "first_seen": "2026-07-31T10:00:53Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "7b9ec47e6375b405b3a3",
       "title": "猛暑の熊本で続く停電・断水、ガソリンや飲料水求め長蛇の列...被災者「ここまで不便になるとは」",
       "source": "読売新聞",
@@ -3684,6 +3667,22 @@
       ]
     },
     {
+      "id": "f9cfa9885ef4cea15ed6",
+      "title": "熊本地震 家屋被害 全容つかめず 厳しい暑さの中、断水、停電も /熊本",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdm1PMnB3QWM4bzJJQUhrSjBsOFlhRU1UQ0dVSzdfVER1bkMzcFNfQTdtbUhMMEtCMm54OTZPZ05TZ29CMU94VGQ4QkVKV2VMWHVZemtlaUtVbW9PS1ZqdUU4aVJOcUNz?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "36c51c8059928adf627d",
       "title": "日本製紙八代工場で死亡は社員6人と協力会社社員3人 熊本地震",
       "source": "毎日新聞",
@@ -3760,6 +3759,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "f17833f9514b12668fb6",
+      "title": "【イオンモール熊本で爆発】地震から83分 客の避難後、イオンモール熊本で何が起きたか(令和8年熊本地震)",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jN2JJZDdRYlhDVGhiZXVtTHYyTnpENURXdUFscXRSamNiVVpGOXpfV3VGZF84R18wbU9UOFhKWG8zTl9oSnpCWE9PcEQyNVVrT3FJVWFaNk83LVBQb1FIWlhoUlF5dFB5R0VaT1R4N3p2MmYtTHdEaHdn?oc=5",
+      "first_seen": "2026-07-31T10:00:53Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -4977,22 +4993,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f9cfa9885ef4cea15ed6",
-      "title": "熊本地震 家屋被害 全容つかめず 厳しい暑さの中、断水、停電も /熊本",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:02:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdm1PMnB3QWM4bzJJQUhrSjBsOFlhRU1UQ0dVSzdfVER1bkMzcFNfQTdtbUhMMEtCMm54OTZPZ05TZ29CMU94VGQ4QkVKV2VMWHVZemtlaUtVbW9PS1ZqdUU4aVJOcUNz?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
