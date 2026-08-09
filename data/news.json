@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T17:30:16Z",
-  "updated_at_jst": "2026/08/10 02:30 JST",
+  "updated_at": "2026-08-09T18:30:15Z",
+  "updated_at_jst": "2026/08/10 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 894,
@@ -8757,22 +8757,6 @@
       ]
     },
     {
-      "id": "16534565d891674cedaa",
-      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:39:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVVhHRHdHejFseTU3Q09GSERiaWlaQjhBdjFoaUZhaVpDOW1vUXdMbEFJUWxyY19QQnB4TUtnMmNLYzBQTk1zYld3eWJnVnJHbnRia0NJdGI5d2x6ODhMdk1XdlRWdmM?oc=5",
-      "first_seen": "2026-07-29T08:31:04Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ffe675d792f80f03cd2f",
       "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県]",
       "source": "朝日新聞",
@@ -9592,6 +9576,22 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFExdTlsT3djLW5FN3o5VXlMN0loM0RRVWJLNEZMZXRPUktid0dHSV9taEhQXzM0MHJ5N0tva1NJTkJFN2Y0ZWVfbVFxVkw3RHJuUy1mRHVDNHA3YzR4RzlpZmpfSHRuNE5xNnhUQmxlSzVYZ0RQMVBPejFuVDZHcmF0Q0tJWE16YjZrUFZJMjhBQQ?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "16534565d891674cedaa",
+      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVVhHRHdHejFseTU3Q09GSERiaWlaQjhBdjFoaUZhaVpDOW1vUXdMbEFJUWxyY19QQnB4TUtnMmNLYzBQTk1zYld3eWJnVnJHbnRia0NJdGI5d2x6ODhMdk1XdlRWdmM?oc=5",
+      "first_seen": "2026-07-29T08:31:04Z",
       "focus": [
         "現場状況"
       ],
