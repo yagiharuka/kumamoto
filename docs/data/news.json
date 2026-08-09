@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-09T06:00:12Z",
-  "updated_at_jst": "2026/08/09 15:00 JST",
+  "updated_at": "2026-08-09T06:30:12Z",
+  "updated_at_jst": "2026/08/09 15:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 891,
+  "article_count": 892,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 119,
     "kumanichi": 128,
     "nhk": 74,
     "nikkei": 51,
     "mainichi": 117,
     "asahi": 104,
-    "yomiuri": 118,
     "sankei": 157,
     "jiji": 142
   },
@@ -78,9 +78,25 @@
   "category_counts": {
     "aeon": 709,
     "power": 109,
-    "paper": 90
+    "paper": 91
   },
   "items": [
+    {
+      "id": "d9269fe02b20a9285f60",
+      "title": "日本製紙八代工場で息子が犠牲、声詰まらせる母「先に逝ってしまうなんて」...会社から電話「下敷きに」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-09T01:35:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16d1U1UWxtXzh4VEwyMzlkbXpoWnNDSFBhdl83OEd4djJrUjhxTDNPTGd4WXpRRlNkamZ4bFlFdnpOMEJ3YkxidENQeVNCR3NTVTB0LUozaWZ0OFBoT0NuVHNYRkgwaVoyUGFmSkpwLURqdw?oc=5",
+      "first_seen": "2026-08-09T06:30:12Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "d3945e40cd9b6f57d943",
       "title": "<2026年熊本地震>「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
@@ -2682,12 +2698,12 @@
     },
     {
       "id": "9dc9c44832264b7cb24c",
-      "title": "熊本地震 イオン爆発、犠牲なぜ(その1)",
+      "title": "熊本地震 イオン爆発 犠牲なぜ(その1)",
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-08-02T17:04:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIWTI4QUhDbTlfQVlJeUx2VzdreWFlUEZQdjhFeEVJSVFDRFgteW9CWGxTb0M5d0NWOUJGNnlIYzhKbHBGSlJkYWFtb2l6Wk9UU1BsTld4V2gxMmNYQkt0dlNzODlQSG90?oc=5",
+      "published_at": "2026-08-02T20:02:46Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVTjJkNzlNd2hnR3dORmllQzFkaC1kcWZNcjFvNHZpaGcyS2Z3WnoxeWhxT2ZiTEk3OXduQzZCSzB1c3p6VllWTUhzQlRMY3NnOTZoNjlRaWVKZ0gxb1QxZHU2S3dXTVZI?oc=5",
       "first_seen": "2026-08-02T17:30:25Z",
       "focus": [
         "現場状況"
@@ -5127,23 +5143,6 @@
       ]
     },
     {
-      "id": "118064b03e1e0c55c9a9",
-      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T14:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
-      "first_seen": "2026-07-30T12:00:10Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "dd4ee72f122837cb7558",
       "title": "オンワード従業員1人死亡 熊本地震、爆発イオンモール熊本に勤務 他2人の安否も確認中",
       "source": "産経新聞",
@@ -6289,6 +6288,23 @@
       ]
     },
     {
+      "id": "401b030dad77264a338f",
+      "title": "避難完了50分後にイオン爆発、なぜ館内に従業員?社長が語った状況 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ca1A2emxiY29keldqYjlzUF80eVNGVy1FV1BwU2ZpdnN2cjNsMk1rY291OE5VZmR4VmlESzQzcE5SUTdtU2xuanJ4S1ZHRTlHX3cwXzB5TDNSVTNYS2RLeDI3M1MxS2c?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "5ccdbb07ad980a3d7211",
       "title": "避難、過酷な暑さ 停電でエアコン停止、一睡もできず 熊本地震",
       "source": "朝日新聞",
@@ -6349,6 +6365,23 @@
       "focus": [
         "避難状況",
         "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "118064b03e1e0c55c9a9",
+      "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
+      "first_seen": "2026-07-30T12:00:10Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -7157,23 +7190,6 @@
       "first_seen": "2026-07-29T20:30:10Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "401b030dad77264a338f",
-      "title": "避難完了50分後にイオン爆発、なぜ館内に従業員?社長が語った状況 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ca1A2emxiY29keldqYjlzUF80eVNGVy1FV1BwU2ZpdnN2cjNsMk1rY291OE5VZmR4VmlESzQzcE5SUTdtU2xuanJ4S1ZHRTlHX3cwXzB5TDNSVTNYS2RLeDI3M1MxS2c?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
