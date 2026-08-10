@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T23:00:47Z",
-  "updated_at_jst": "2026/08/11 08:00 JST",
+  "updated_at": "2026-08-10T23:30:50Z",
+  "updated_at_jst": "2026/08/11 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 903,
@@ -1006,22 +1006,6 @@
       ]
     },
     {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -1052,6 +1036,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T08:05:42Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jWkRDNjltREd0U1FCdVBwVlNWUUVqNHM1ZjhhcnhwRXlBUFFRWE9xb0kxcnV1Ni0xdWFDVkFKMlhKWjVXMFYwYlJfTGJ6S094eUVIOA?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -3952,6 +3952,22 @@
       ]
     },
     {
+      "id": "b18519c04873c7e58678",
+      "title": "イオン救助活動「強い思いで」 熊本地震",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFNGRDWm56T2VFUUVzdWpmV0t3VGx3eEttbzRFVEJBVUMyOTJaTXNraDZ6MTJZQ2dRLVZQckpDQzNmZklfMllZSEViQW5XcEFHZkxYUlFUU2tZQy13?oc=5",
+      "first_seen": "2026-07-30T20:30:17Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "0aa02a29b9e68e7bfdaa",
       "title": "イオンモールの爆発、駐車場で遭遇 ドラレコに映る瞬間、逃げる人々 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -5194,22 +5210,6 @@
       "published_at": "2026-07-30T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PcUdKR0VjaV9UbFkyY0lhS0FDSlB4V1MzeEtxdTYtdTNscnpwS09laGlWTXRMUWxIaDlJMWdVaEdTU1g0Wl9yUTN2VmdVNnFrRmo3bzlUT3Y4amxMVzlmeFBqOA?oc=5",
       "first_seen": "2026-07-31T23:30:59Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b18519c04873c7e58678",
-      "title": "イオン救助活動「強い思いで」 熊本地震",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3U2RibThjeUhCbGN2ODMtN1RBYVV3SXdycW9JVmIzRVFmc0VTaTZPQ09Xd3VHVDdqb2hHbkpIVjFHOFFjYWVYNnUtZXZTcS04V0Q0TEp0OGM3eE9OWUpuSGpPU0dfNHdlUGlPS2hR?oc=5",
-      "first_seen": "2026-07-30T20:30:17Z",
       "focus": [
         "救助・安否"
       ],
@@ -9687,7 +9687,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFExdTlsT3djLW5FN3o5VXlMN0loM0RRVWJLNEZMZXRPUktid0dHSV9taEhQXzM0MHJ5N0tva1NJTkJFN2Y0ZWVfbVFxVkw3RHJuUy1mRHVDNHA3YzR4RzlpZmpfSHRuNE5xNnhUQmxlSzVYZ0RQMVBPejFuVDZHcmF0Q0tJWE16YjZrUFZJMjhBQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
