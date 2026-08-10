@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T14:30:47Z",
-  "updated_at_jst": "2026/08/10 23:30 JST",
+  "updated_at": "2026-08-10T15:00:43Z",
+  "updated_at_jst": "2026/08/11 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 901,
@@ -728,6 +728,23 @@
       ]
     },
     {
+      "id": "7be980dd6b9c28932c9d",
+      "title": "LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T11:43:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01RnNtV2FVQlVtYzJLQzBXN3c3UWVUMFVRN0NTeDF3RmNQSUxnQlhtdzhwU0xoR08tOVduWVIwcHo2Q0VEeFVjVVVua3VMSU5xQU9pYw?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a1d7e5b53031baea5978",
       "title": "LPガス「原因の可能性高い」 イオンモール爆発事故で経産省―熊本地震",
       "source": "時事通信",
@@ -785,23 +802,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00RzNFQ0ZBd1dnanFGZEpqaXdmb3FQaUZRWkNTRjdSSDJJNDB6c2hUOVM3Y09nQW9xWTFfOUJlcWhhSlB2MkJ4UlBRNE5WV1U?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "7be980dd6b9c28932c9d",
-      "title": "LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T11:05:01Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSVJtdFA5YUdxa0RKcUNxY3NldW5BWGd5SXdWeHZXMk5MZENMaE9nUUZ3eW9lS3M5WUZNM3p1RTYwOG43T3FpdjFhY3pCY2ZpT0RLQ2tEclNMd0pWeUE?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
