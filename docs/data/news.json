@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T06:30:40Z",
-  "updated_at_jst": "2026/08/10 15:30 JST",
+  "updated_at": "2026-08-10T07:00:41Z",
+  "updated_at_jst": "2026/08/10 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 899,
@@ -9749,6 +9749,22 @@
       ]
     },
     {
+      "id": "4b2c7eb395eaa234fbb6",
+      "title": "イオン、熊本の爆発事故を謝罪",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mWHE1OG9kb2EtS1FSalJNcFpSUjBSZTktclZsak1VVXpHM3hIaXFfdXdDbTFEOFdPZ3M4ZDRCb2FPcnNpLVlJcHAxSEZqSkhtZHVtZmk3SjFUSlBn?oc=5",
+      "first_seen": "2026-07-29T05:30:28Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "29505368a5e3739530dc",
       "title": "【動画で見る熊本地震】発生1週間 被害状況、イオン、抜けた水道管",
       "source": "朝日新聞",
@@ -10650,22 +10666,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42NHJ4NnVzUjRwMmJadG96dUZ5NXZycmFjekRmNHJCcjZkM2t3Ynk4em03amtPQnZOd3NXYmU4Y0RxaXNERnNOT2RuaU1icHc?oc=5",
       "first_seen": "2026-07-29T05:28:44Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4b2c7eb395eaa234fbb6",
-      "title": "イオン、熊本の爆発事故を謝罪",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T05:12:27Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mWHE1OG9kb2EtS1FSalJNcFpSUjBSZTktclZsak1VVXpHM3hIaXFfdXdDbTFEOFdPZ3M4ZDRCb2FPcnNpLVlJcHAxSEZqSkhtZHVtZmk3SjFUSlBn?oc=5",
-      "first_seen": "2026-07-29T05:30:28Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
