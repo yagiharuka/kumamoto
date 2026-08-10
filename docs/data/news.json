@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T01:00:40Z",
-  "updated_at_jst": "2026/08/10 10:00 JST",
+  "updated_at": "2026-08-10T01:30:42Z",
+  "updated_at_jst": "2026/08/10 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 897,
@@ -83,7 +83,7 @@
   "items": [
     {
       "id": "52df7898be5a37c2f45e",
-      "title": "イオンが1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
+      "title": "イオン1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
       "source": "日本経済新聞",
       "source_id": "nikkei",
       "source_group": "全国紙",
@@ -3667,6 +3667,22 @@
       ]
     },
     {
+      "id": "f46217e9433fdc1b3a0e",
+      "title": "日本製紙八代工場で救助された1人死亡 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aVEdIdW82Mm9GclZ5UVhqSTBqeUQ5Uksta0x6UU5tbkd1aDJPNmZfb0ZzUU5QRkY3VFZ5T1ZQTjdoNnlaZUJSNGZpRTVweWs?oc=5",
+      "first_seen": "2026-07-31T01:30:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "bfa9a469238ffb7cbbc8",
       "title": "【速報】九州電力の停電解消",
       "source": "熊本日日新聞",
@@ -4663,22 +4679,6 @@
       "source_group": "公共放送",
       "published_at": "2026-07-31T00:57:00Z",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ybDgtaXFkMy1tclZncGhDS01iN2h1NTVhN2NPbHlFUFBHZEFpbXZKY3FDczJQRDRzZnBieVB1RTlwWnY5NGt0WEZCRFp3R01zNDV6cmNqNVU?oc=5",
-      "first_seen": "2026-07-31T01:30:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "f46217e9433fdc1b3a0e",
-      "title": "日本製紙八代工場で救助された1人死亡 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-31T00:51:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aVEdIdW82Mm9GclZ5UVhqSTBqeUQ5Uksta0x6UU5tbkd1aDJPNmZfb0ZzUU5QRkY3VFZ5T1ZQTjdoNnlaZUJSNGZpRTVweWs?oc=5",
       "first_seen": "2026-07-31T01:30:52Z",
       "focus": [
         "救助・安否"
