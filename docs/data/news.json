@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T02:30:39Z",
-  "updated_at_jst": "2026/08/10 11:30 JST",
+  "updated_at": "2026-08-10T03:00:42Z",
+  "updated_at_jst": "2026/08/10 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 898,
+  "article_count": 899,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "jiji": 143,
-    "nikkei": 53,
+    "nikkei": 54,
     "kumanichi": 129,
     "yomiuri": 120,
     "nhk": 74,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 714,
+    "aeon": 715,
     "power": 110,
     "paper": 91
   },
@@ -1118,6 +1118,23 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcFc2bjhTNTRBWC1vNk5NUEtUQVBCZlBXY01pSk1lc0lMTW43VzFjN1BGdHNIY010dkpyVHNSYWJLTU1rRnNPaURGVVZJV1RSOGFKNGJCa0tDUnFIX0RvWEVqYjJWaTlH?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "62d230aa5dca270c36c1",
+      "title": "イオン、「イオンモール熊本」爆発事故で調査委員会を設置 原因究明し再発防止",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T06:44:37Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GVURZTUFQSGVDZmtzX1B0djR2dmlKa2RTdElwTkpNUnNWS2JmcG50TzVMTW5zbjhyR0VyOUdsT0hWUGtxX3hFWjRPYnMtUWtrdlhKbTJKTGlBV2Y0QlRSaUhpLXZ1dE5nSGxaZg?oc=5",
+      "first_seen": "2026-08-10T03:00:42Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
