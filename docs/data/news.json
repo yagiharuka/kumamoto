@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T03:00:42Z",
-  "updated_at_jst": "2026/08/10 12:00 JST",
+  "updated_at": "2026-08-10T03:30:42Z",
+  "updated_at_jst": "2026/08/10 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 899,
@@ -9453,6 +9453,24 @@
       ]
     },
     {
+      "id": "2ec68069f4054e1f7e28",
+      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集2/34]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUktsdUZSNFU3MGt5Tndjbm1lSXJiSFYwZTVJNEV4cjBKVEV5TkpVVzZVOVUzS05JRHJjZHhvX0x3ZElJZnhLYXRidWV0ci1naVZqLWQ3bVdtb3J1LUtTTlNCbll4c1hNNnlvX2NXVW51V1d3SXU5THJiMS1Odjl1Q0FhQUpKSGs?oc=5",
+      "first_seen": "2026-07-29T15:30:19Z",
+      "focus": [
+        "現場状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "aeon",
+        "power"
+      ]
+    },
+    {
       "id": "9f596f1cac464fdb80c2",
       "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集1/34]",
       "source": "毎日新聞",
@@ -11601,24 +11619,6 @@
       "published_at": "2026-07-28T22:46:42Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRkgwM1FGcmU1d2J5bkRxVXFEOVFPZGlfeTJ2NlpYSFJxNWtaQ3Z0V19mZ1pVVWZDS1dZdGJBUzJOS0hyM0hWa2JEakhfQWltLXNDdTdCNnNLenNaWWs2cUVQSnVyUjZwN3FxdzBFTk5MbUg5emdmaVlmaDN3V2FtN1lJR3pZMDQ?oc=5",
       "first_seen": "2026-07-29T15:00:13Z",
-      "focus": [
-        "現場状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "aeon",
-        "power"
-      ]
-    },
-    {
-      "id": "2ec68069f4054e1f7e28",
-      "title": "熊本地震 イオンモールで爆発 家屋倒壊 停電、断水続く [写真特集2/34]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:46:42Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUktsdUZSNFU3MGt5Tndjbm1lSXJiSFYwZTVJNEV4cjBKVEV5TkpVVzZVOVUzS05JRHJjZHhvX0x3ZElJZnhLYXRidWV0ci1naVZqLWQ3bVdtb3J1LUtTTlNCbll4c1hNNnlvX2NXVW51V1d3SXU5THJiMS1Odjl1Q0FhQUpKSGs?oc=5",
-      "first_seen": "2026-07-29T15:30:19Z",
       "focus": [
         "現場状況",
         "停電状況"
