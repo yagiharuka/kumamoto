@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T02:00:50Z",
-  "updated_at_jst": "2026/08/10 11:00 JST",
+  "updated_at": "2026-08-10T02:30:39Z",
+  "updated_at_jst": "2026/08/10 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 897,
+  "article_count": 898,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "jiji": 143,
     "nikkei": 53,
     "kumanichi": 129,
     "yomiuri": 120,
     "nhk": 74,
     "mainichi": 117,
     "asahi": 105,
-    "sankei": 157,
-    "jiji": 142
+    "sankei": 157
   },
   "tracked_categories": [
     {
@@ -77,10 +77,26 @@
   ],
   "category_counts": {
     "aeon": 714,
-    "power": 109,
+    "power": 110,
     "paper": 91
   },
   "items": [
+    {
+      "id": "81abec939c02ace4072a",
+      "title": "~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-10T01:46:00Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oTmxXb29aYzMxSEJYcnR1OWZkSE5yeTYzNEZubmU4d2FURjZ2Q3pLYU80Y3lpY25sM0RGSk52R2IxeGk4Y2dpSE5VVkxGNTdzQk51aEpwRnMzck5DN2lmZGNRblIzMVlrb1BV?oc=5",
+      "first_seen": "2026-08-10T02:30:39Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "52df7898be5a37c2f45e",
       "title": "イオン1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
