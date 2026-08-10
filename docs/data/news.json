@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T13:00:43Z",
-  "updated_at_jst": "2026/08/10 22:00 JST",
+  "updated_at": "2026-08-10T13:30:51Z",
+  "updated_at_jst": "2026/08/10 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 901,
@@ -3716,6 +3716,22 @@
       ]
     },
     {
+      "id": "135bf8934b5ec49c26fe",
+      "title": "熊本の79医療機関で断水、停電 高齢者施設被害は4県に拡大(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTmY4ZklCblZxdlJsbXpYSVlNd19nYkZZbHkzMTRYWmx5bmRjdmlnZV9BZGNjT0NXbFE5VkdleVFRb3dWeHFsRURmRDVPYzg?oc=5",
+      "first_seen": "2026-07-31T05:00:52Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "f46217e9433fdc1b3a0e",
       "title": "日本製紙八代工場で救助された1人死亡 (共同通信)",
       "source": "熊本日日新聞",
@@ -4187,22 +4203,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "135bf8934b5ec49c26fe",
-      "title": "熊本の79医療機関で断水、停電 高齢者施設被害は4県に拡大(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-31T04:31:07Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTmY4ZklCblZxdlJsbXpYSVlNd19nYkZZbHkzMTRYWmx5bmRjdmlnZV9BZGNjT0NXbFE5VkdleVFRb3dWeHFsRURmRDVPYzg?oc=5",
-      "first_seen": "2026-07-31T05:00:52Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -12715,22 +12715,6 @@
       ]
     },
     {
-      "id": "71db25d0c85a58653e37",
-      "title": "爆発情報のイオンモール熊本、「20~30人が施設内にいる可能性」",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T13:34:03Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWGpTdEl4VWhhQ2EtNnZiNHkwYWRkZVo2QkJfalNDc2VxelBTWmFXVHRzRVNqUTNublIzUGxnTHY5Yml5dXpNcHk4VjgwMVlIOVdEU29zUWFwc0psM0RXbkt5ZFBUUjk2SlNsU1lR?oc=5",
-      "first_seen": "2026-07-28T13:50:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "43bf563ec2bcedc4b174",
       "title": "イオン従業員の知人「救助待つ人複数」 (共同通信)",
       "source": "熊本日日新聞",
@@ -14388,6 +14372,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "71db25d0c85a58653e37",
+      "title": "爆発情報のイオンモール熊本、「20~30人が施設内にいる可能性」",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNVlpIRG93VkxNZnhRb2hIZWhQRUZxdWlqM19neWVCdERHckJZd2ZXeHZhN0NLeGZ5WWU1YnRnbm1GV1lkeENfUW83ZS12Y3hKVDQ2MG9LbVdqMklrby1fMFF3Sk9zYnM?oc=5",
+      "first_seen": "2026-07-28T13:50:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
