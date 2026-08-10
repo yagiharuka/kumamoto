@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T11:30:41Z",
-  "updated_at_jst": "2026/08/10 20:30 JST",
+  "updated_at": "2026-08-10T12:00:53Z",
+  "updated_at_jst": "2026/08/10 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 901,
@@ -6549,6 +6549,23 @@
       ]
     },
     {
+      "id": "1787ff0b5695151309b4",
+      "title": "「断水・停電、いつまで」=避難生活、疲労の色濃く―熊本地震被災地",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV1pvbG1rTS1LWkhkYm4yQ21ubXBnQ1RzMzhaNndFTy1WVlhQcnBtLXRhYmN5cUhCeEd4VWhyQmRQODBWMncta1oyNzBsb3pSY2FOMQ?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "863bfaf0c0ba0f97dc8b",
       "title": "「断水・停電、いつまで」 避難生活、疲労の色濃く―熊本地震被災地",
       "source": "時事通信",
@@ -6944,23 +6961,6 @@
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [
         "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "1787ff0b5695151309b4",
-      "title": "「断水・停電、いつまで」=避難生活、疲労の色濃く―熊本地震被災地",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
-      "first_seen": "2026-07-30T04:30:49Z",
-      "focus": [
         "避難状況",
         "停電状況"
       ],
@@ -8453,23 +8453,6 @@
       ]
     },
     {
-      "id": "53dd7f2bde94fea48790",
-      "title": "続く断水、給水車に列=停電も、厳しい避難生活―熊本地震被災地",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T08:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GeF9qa0xwQkJNeHF3ZlRIb3dtWVJHWEJIVjBqT3BWSlk2WXNjOVhnTGlKZU9OMHFNemJaaFY3Vlo2bFQ2Mjk1RWN2czMxS2x5Z0ZCYkhZTjBUYzJnbVE?oc=5",
-      "first_seen": "2026-07-31T21:30:54Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "eb28e0d6a16607b0d492",
       "title": "続く断水、給水車に列 停電も、厳しい避難生活―熊本地震被災地",
       "source": "時事通信",
@@ -9856,6 +9839,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "53dd7f2bde94fea48790",
+      "title": "続く断水、給水車に列=停電も、厳しい避難生活―熊本地震被災地",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UmNyZ1phRkZoYzd6MTdmdjZoSVE4YkFvb3lVaUFfNmVGOFVybmZucWtmZkZGQWcyektTZ3ZpaDlqU0VqWlNWT1BnRVNSeGdDTk1pbmYtRW5ydkM5MUE?oc=5",
+      "first_seen": "2026-07-31T21:30:54Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
