@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T00:30:41Z",
-  "updated_at_jst": "2026/08/10 09:30 JST",
+  "updated_at": "2026-08-10T01:00:40Z",
+  "updated_at_jst": "2026/08/10 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 896,
+  "article_count": 897,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "nikkei": 52,
+    "nikkei": 53,
     "kumanichi": 129,
     "yomiuri": 120,
     "nhk": 74,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 713,
+    "aeon": 714,
     "power": 109,
     "paper": 91
   },
   "items": [
+    {
+      "id": "52df7898be5a37c2f45e",
+      "title": "イオンが1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T00:54:15Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXTUwxSUZ5ZjBHdXVfT2Rxc0Q2TVRoQWhQNnFoWHNzeGh3cmRVV2hIUVFIeGFMMXAyZnNEZkFCbTNnbXVwbHZ1SVNkeGlwQkxIQVhQZEFuZ1llSWk5VnItZEdHVXZNVEpXci1qeQ?oc=5",
+      "first_seen": "2026-08-10T01:00:40Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "eb910bebd824a38f72b0",
       "title": "イオン爆発の法的責任は 専門家「危険認識、対策怠れば刑事罰も」",
@@ -688,7 +702,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHBORHF6UjlMTXFmMWJwb1R4Zjc2aTNnUS1ld1Y1QS1NSklramZTQ2QxS2hMOUZaRnFfNi1wNUk0V0NBcGFhd0tTOHVTN1FuWVZsZEpCc0hvdS1jeTN5SGZiUDhmOVlMUjN3dGNkaF92STd4ZzExdldNZ3kxc29kbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTTVMRnY5dzNGaXVyQnFWQnpPa011ejNMbVZJem41S2V1a2hnSTNiWXJfbXlqLWNyMzVlc2xFQWRtOEdMLWJsN1RDUUFZc2xYNG1KWVFkWUJrUDhVcGNvYUhIQQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -1306,7 +1320,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamFyR1VfXzVvYk40cjZGYXNwak5Bc0lkNmtJYUxXUUhnc28wV3RjVGtVUHNTYWpkdWFaaFJXZDRQeXFMVEVuTDJURXEwckgwQVJtUElENkFoRTNLbVNlS3FGQWhqSzRJc2RsVkc2MVNCSUlHS3NtVXl1Ty1wT1JkdHNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWJ5VmhiMUxFaTJUd2pIMjRoZDNTYm9iWjRYNDFUM2ZYYTJFVVhpaElUY2Y0LVcyVjdXVmdES25fS3pxdUdqRlE2SVFWZTY4Y1ZFT0g1RVdHTHZMd21YV25LQmFsbXVFNnNfeV9CNE9kUFdYQ2E3UUhsZnVlanR1UjNB?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
