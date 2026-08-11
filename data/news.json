@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T05:00:42Z",
-  "updated_at_jst": "2026/08/11 14:00 JST",
+  "updated_at": "2026-08-11T05:30:43Z",
+  "updated_at_jst": "2026/08/11 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 918,
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "sankei": 158,
     "jiji": 148,
     "asahi": 109,
     "yomiuri": 121,
     "mainichi": 118,
-    "sankei": 158,
     "nhk": 78,
     "kumanichi": 132,
     "nikkei": 54
@@ -81,6 +81,22 @@
     "paper": 91
   },
   "items": [
+    {
+      "id": "84d25120a19503f101d9",
+      "title": "イオン「一時入館認めた事実あった」 イオンモール熊本爆発事故で ルールの変更へ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T05:11:55Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVOWp4OWQ1aUNXbXgtZUJJa09TdXRmRzZwS1BLRjFpNFlpRm02ZkFTSmZXREJTMWgtam4wS2pNVUhaVmcyWElIUm5XWEc1akVicU5zOTBKelZFQ0Z6TEdicWtHMTA4Y0FDdUppTHZONWM1QUE2a1E?oc=5",
+      "first_seen": "2026-08-11T04:00:49Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "c49403c0423fb5a25c47",
       "title": "イオン、従業員に再入館許可=爆発事故前、レジ対応など理由に―熊本地震",
@@ -174,22 +190,6 @@
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "84d25120a19503f101d9",
-      "title": "イオン「一時入館認めた事実あった」 イオンモール熊本爆発事故で ルールの変更へ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T03:56:16Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVOWp4OWQ1aUNXbXgtZUJJa09TdXRmRzZwS1BLRjFpNFlpRm02ZkFTSmZXREJTMWgtam4wS2pNVUhaVmcyWElIUm5XWEc1akVicU5zOTBKelZFQ0Z6TEdicWtHMTA4Y0FDdUppTHZONWM1QUE2a1E?oc=5",
-      "first_seen": "2026-08-11T04:00:49Z",
-      "focus": [
-        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -1024,7 +1024,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTTVMRnY5dzNGaXVyQnFWQnpPa011ejNMbVZJem41S2V1a2hnSTNiWXJfbXlqLWNyMzVlc2xFQWRtOEdMLWJsN1RDUUFZc2xYNG1KWVFkWUJrUDhVcGNvYUhIQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHBORHF6UjlMTXFmMWJwb1R4Zjc2aTNnUS1ld1Y1QS1NSklramZTQ2QxS2hMOUZaRnFfNi1wNUk0V0NBcGFhd0tTOHVTN1FuWVZsZEpCc0hvdS1jeTN5SGZiUDhmOVlMUjN3dGNkaF92STd4ZzExdldNZ3kxc29kbw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -1642,7 +1642,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWJ5VmhiMUxFaTJUd2pIMjRoZDNTYm9iWjRYNDFUM2ZYYTJFVVhpaElUY2Y0LVcyVjdXVmdES25fS3pxdUdqRlE2SVFWZTY4Y1ZFT0g1RVdHTHZMd21YV25LQmFsbXVFNnNfeV9CNE9kUFdYQ2E3UUhsZnVlanR1UjNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamFyR1VfXzVvYk40cjZGYXNwak5Bc0lkNmtJYUxXUUhnc28wV3RjVGtVUHNTYWpkdWFaaFJXZDRQeXFMVEVuTDJURXEwckgwQVJtUElENkFoRTNLbVNlS3FGQWhqSzRJc2RsVkc2MVNCSUlHS3NtVXl1Ty1wT1JkdHNn?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
