@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T21:30:47Z",
-  "updated_at_jst": "2026/08/12 06:30 JST",
+  "updated_at": "2026-08-11T22:00:41Z",
+  "updated_at_jst": "2026/08/12 07:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 939,
@@ -384,7 +384,7 @@
     },
     {
       "id": "8557776e2fc2ade3e300",
-      "title": "爆発事故で7人死亡のイオンモール熊本、地震後に「一時入館を認めた事実があった」...貴重品回収で従業員が要望",
+      "title": "7人死亡のイオンモール爆発、地震後に「一時入館を認めた事実あった」...イオン「個別に応じた」と明らかに",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
@@ -392,7 +392,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94SEJqYmpNd0pFNmpfRTRFMHNldVFzMnp5WGFpRVlfUFdkY1BfMDFKVFpNcEFNSm41aDdsaXNLaU9Fd2l4ejJ5NFNQVTdIN3Ztci1JQVZrMlRlazBGaFFRLVUxUXVpZw?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -472,6 +471,22 @@
       "published_at": "2026-08-11T03:56:16Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVOWp4OWQ1aUNXbXgtZUJJa09TdXRmRzZwS1BLRjFpNFlpRm02ZkFTSmZXREJTMWgtam4wS2pNVUhaVmcyWElIUm5XWEc1akVicU5zOTBKelZFQ0Z6TEdicWtHMTA4Y0FDdUppTHZONWM1QUE2a1E?oc=5",
       "first_seen": "2026-08-11T04:00:49Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c18f27277b30e43a30a7",
+      "title": "【速報】イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T03:54:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
       ],
@@ -587,22 +602,6 @@
       "published_at": "2026-08-10T22:06:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c18f27277b30e43a30a7",
-      "title": "イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-10T19:48:26Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aV29XNjhEYnVVSG93NDY0ZGQyUUFPaDFTRGN0WUtIcFUxUkJoUk40VGJ4TnJmX2VhUW0xblpLWTRoUnZJVEt3TG9uMDJENjlNcGl6MQ?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
       ],
@@ -1927,7 +1926,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3A4ZlBtWEMtZVhiRnNseVJQekp4STcxeGd6R2cyMVZidnAyT2tuOU82a2psY3I4VlJlSGNTRm10a21ydGR3SlRPNVhhVFFMdnJxWkpDMXVPaFM2WTVlS2gyNmpFYUVxUUNWMGhLMExOanJsTTlXTnZ6T2lQcnk0ZEZn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamFyR1VfXzVvYk40cjZGYXNwak5Bc0lkNmtJYUxXUUhnc28wV3RjVGtVUHNTYWpkdWFaaFJXZDRQeXFMVEVuTDJURXEwckgwQVJtUElENkFoRTNLbVNlS3FGQWhqSzRJc2RsVkc2MVNCSUlHS3NtVXl1Ty1wT1JkdHNn?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
