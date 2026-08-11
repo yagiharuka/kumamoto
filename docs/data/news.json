@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T14:00:48Z",
-  "updated_at_jst": "2026/08/11 23:00 JST",
+  "updated_at": "2026-08-11T14:30:41Z",
+  "updated_at_jst": "2026/08/11 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 938,
+  "article_count": 939,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "sankei": 160,
     "kumanichi": 136,
     "nhk": 79,
     "nikkei": 55,
     "jiji": 157,
     "yomiuri": 122,
     "asahi": 110,
-    "mainichi": 120,
-    "sankei": 159
+    "mainichi": 120
   },
   "tracked_categories": [
     {
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 752,
+    "aeon": 753,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "dcb2bf039c8d8d307a44",
+      "title": "イオンモール熊本爆発、木村知事「避難できたことは評価」再入館は「誤った判断なら問題」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T14:04:36Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MHFiOTdhZ3lrTThjUjV4eHN3aW5ZM3dDSXIwMkxsSU5IcEQ4WTVXd1lLV0pxMUdRMURoWmdobk5EZW9icUVOYnRVZTM5ZVBDQzlWZmtaajJYZXlud2lrTnhJYU1LRXp3ODlfZ0JEWU9USGpkZHc?oc=5",
+      "first_seen": "2026-08-11T14:30:41Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "47e5a15ffb16fe5e2948",
       "title": "「客避難評価してもいい面ある」 イオン爆発で知事「不謹慎だが」(共同通信)",
@@ -449,6 +466,22 @@
       ]
     },
     {
+      "id": "c18f27277b30e43a30a7",
+      "title": "【速報】イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T03:54:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "261ddbc9d82124b2bc26",
       "title": "イオンモール熊本 爆発事故 避難後一時入館認めたと会社が発表",
       "source": "NHK",
@@ -570,22 +603,6 @@
       "published_at": "2026-08-10T22:06:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c18f27277b30e43a30a7",
-      "title": "イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-10T19:48:26Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aV29XNjhEYnVVSG93NDY0ZGQyUUFPaDFTRGN0WUtIcFUxUkJoUk40VGJ4TnJmX2VhUW0xblpLWTRoUnZJVEt3TG9uMDJENjlNcGl6MQ?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
       ],
@@ -788,23 +805,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bDVlblMzSmFjVVZrdWFBdEJFaUV1VHd2N2ZnZUltS2xoNnhaOHRkdzQyU2ZWOFY5ZEtuOFR1Z1ZKMzdFcGJJVktTNUZNdW1uU3BDM1JLQTVpTUc1Zzhwai05dG01dnpy?oc=5",
       "first_seen": "2026-08-08T08:00:14Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5c30e4090d622456d81",
-      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-08T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "first_seen": "2026-08-04T16:01:15Z",
-      "focus": [
-        "避難状況",
-        "目撃証言"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -1953,6 +1953,23 @@
       ]
     },
     {
+      "id": "c5c30e4090d622456d81",
+      "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T11:07:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
+      "first_seen": "2026-08-04T16:01:15Z",
+      "focus": [
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "11bcd6ae2d60b8eae4f6",
       "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
       "source": "熊本日日新聞",
@@ -2820,22 +2837,6 @@
       ]
     },
     {
-      "id": "be10cb4f420b8bfd1e2b",
-      "title": "【電子版限定】<2026年熊本地震>「『帰りなさい』と伝えていれば」 イオンモール熊本爆発事故 「ハビタ」役員との一問一答",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-03T13:01:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55aTI4d0gxU0c4YXJpUzQ0cktfMEI1cEtDWHB3ZW5PZmVMMlMwdV9vWFFwTEE1TktVNGdPWXlGSl9zck9aYVhsQUFhY2hldGc?oc=5",
-      "first_seen": "2026-08-03T13:31:10Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f693721c802a36d4396a",
       "title": "避難後の従業員に戻るよう指示 イオン...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -3163,6 +3164,22 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwODVPR2dSdGlmUU1uRGRVbGlnc015LUlZOXB0T0ZhZmQ5S3FyZzM2OEFsa1djT2tGQVdHaGRoR3l2T3RybDJOQXItSEtHelBIZklyU3hxT3VCcWY1MkNlekJQWHpheDc0S09ySVhEdHY1dDlLc0E?oc=5",
       "first_seen": "2026-08-03T06:31:15Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "be10cb4f420b8bfd1e2b",
+      "title": "【電子版限定】<2026年熊本地震>「『帰りなさい』と伝えていれば」 イオンモール熊本爆発事故 「ハビタ」役員との一問一答",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55aTI4d0gxU0c4YXJpUzQ0cktfMEI1cEtDWHB3ZW5PZmVMMlMwdV9vWFFwTEE1TktVNGdPWXlGSl9zck9aYVhsQUFhY2hldGc?oc=5",
+      "first_seen": "2026-08-03T13:31:10Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
