@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T07:30:42Z",
-  "updated_at_jst": "2026/08/11 16:30 JST",
+  "updated_at": "2026-08-11T08:00:41Z",
+  "updated_at_jst": "2026/08/11 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 923,
+  "article_count": 925,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "jiji": 150,
+    "jiji": 152,
     "yomiuri": 122,
     "asahi": 110,
     "mainichi": 118,
@@ -76,11 +76,39 @@
     }
   ],
   "category_counts": {
-    "aeon": 739,
+    "aeon": 741,
     "power": 110,
     "paper": 91
   },
   "items": [
+    {
+      "id": "b3dc42496b0202d7a8f4",
+      "title": "画像・写真:イオンモール熊本に献花次々:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:38:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUmdQX3drWmw3akZGekRmenZGMU1LTzZ3anQ4OUlaS3JjczhjWTVNUmVlNHY3bHN0ZWMySXBtTDBES281a0R6Q3kzTTlKaUsxMHNLRHFOcXVEcXk3Rm5hU195c18?oc=5",
+      "first_seen": "2026-08-11T08:00:41Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "319954da4eaee15a424c",
+      "title": "◎イオンモール熊本に献花次々",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:38:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "first_seen": "2026-08-11T08:00:41Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "185cae16b4253a4e6f4c",
       "title": "イオンモール熊本に献花次々=知事も追悼、熊本地震2週間",
@@ -144,23 +172,6 @@
       ]
     },
     {
-      "id": "c49403c0423fb5a25c47",
-      "title": "イオン、従業員に再入館許可=爆発事故前、レジ対応など理由に―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T04:35:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSUNsT1d2MXRvX094cnJBNzFVdWg3Nmpoc1BuM2ZOMTRNWnJhTlNCLWtiRGdMRW1BamNNSUFvYVQ0UEwzQW1EX1VPS1BVWjA1UXQtMVFGNGtMNnRORWc?oc=5",
-      "first_seen": "2026-08-11T05:00:42Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "cd0ddcc77081cb2f1d44",
       "title": "イオン、避難後に再入館「認めた事実あった」 帰宅困難者などに対応 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -204,6 +215,22 @@
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c49403c0423fb5a25c47",
+      "title": "イオン、従業員に再入館許可=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T04:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSUNsT1d2MXRvX094cnJBNzFVdWg3Nmpoc1BuM2ZOMTRNWnJhTlNCLWtiRGdMRW1BamNNSUFvYVQ0UEwzQW1EX1VPS1BVWjA1UXQtMVFGNGtMNnRORWc?oc=5",
+      "first_seen": "2026-08-11T05:00:42Z",
+      "focus": [
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -264,7 +291,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T03:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBWDlXQ3VzQ3RaMTFvZXpNWHhMa1dWVTRTME1rdkJCTmE5ejY2WWhZQjNGcWpPLW5tV0NNQ3BpM3hhaHoxR01XUWtqekswWHhEdzZpM0xJUVVFWVYycG9DZ3JJaEZSdw?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
@@ -1720,7 +1747,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamFyR1VfXzVvYk40cjZGYXNwak5Bc0lkNmtJYUxXUUhnc28wV3RjVGtVUHNTYWpkdWFaaFJXZDRQeXFMVEVuTDJURXEwckgwQVJtUElENkFoRTNLbVNlS3FGQWhqSzRJc2RsVkc2MVNCSUlHS3NtVXl1Ty1wT1JkdHNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
@@ -2934,12 +2961,42 @@
       ]
     },
     {
+      "id": "37d9d0f3e3d3a13ff208",
+      "title": "「イオンモール熊本」死亡した雑貨店の従業員、売上金を金庫に移すよう指示され館内に戻る...遺族に謝罪",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJY2NDaUl6SXlMZEFsbmJXSzNFdnRoaFNLUVlwTnUyZUtoNDFha2ZvR0VMY2pELVkyZnQwaXZnZ2JVZXJ0V3dEY0FVbTdyVmVudnNRcGZXZnZQb0lHUVlNdm9KRE50aldxdmNxY19lNVJHQQ?oc=5",
+      "first_seen": "2026-08-03T01:31:06Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aea06ee2e90b01596f13",
+      "title": "「イオンモール熊本」一度は無事を確認した妻が犠牲...「どうして戻るなと声をかけなかったのか」夫が後悔",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yaVNZMmxJRGVRVV9pakVHMlRoT2paT0RVd1hzLThJN0gzcXdmdnREOTY2SWU0RElaT3dqNjdoWnQwTFBvbEJOdTBkUWhNLWY3czlxNUlzakZ0LVVyMTEydkNGRnJBYjdxWldwMjFOcm9jQQ?oc=5",
+      "first_seen": "2026-08-03T01:31:06Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "179eaac5330c48033e4d",
       "title": "イオンモール熊本で2人死亡「ハビタ」が公式HPに謝罪文 館内戻る指示など詳細に触れず",
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-08-03T06:11:50Z",
+      "published_at": "2026-08-03T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwODVPR2dSdGlmUU1uRGRVbGlnc015LUlZOXB0T0ZhZmQ5S3FyZzM2OEFsa1djT2tGQVdHaGRoR3l2T3RybDJOQXItSEtHelBIZklyU3hxT3VCcWY1MkNlekJQWHpheDc0S09ySVhEdHY1dDlLc0E?oc=5",
       "first_seen": "2026-08-03T06:31:15Z",
       "focus": [],
@@ -3010,36 +3067,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "aea06ee2e90b01596f13",
-      "title": "「イオンモール熊本」一度は無事を確認した妻が犠牲...「どうして戻るなと声をかけなかったのか」夫が後悔",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T01:08:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yaVNZMmxJRGVRVV9pakVHMlRoT2paT0RVd1hzLThJN0gzcXdmdnREOTY2SWU0RElaT3dqNjdoWnQwTFBvbEJOdTBkUWhNLWY3czlxNUlzakZ0LVVyMTEydkNGRnJBYjdxWldwMjFOcm9jQQ?oc=5",
-      "first_seen": "2026-08-03T01:31:06Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "37d9d0f3e3d3a13ff208",
-      "title": "「イオンモール熊本」死亡した雑貨店の従業員、売上金を金庫に移すよう指示され館内に戻る...遺族に謝罪",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T01:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJY2NDaUl6SXlMZEFsbmJXSzNFdnRoaFNLUVlwTnUyZUtoNDFha2ZvR0VMY2pELVkyZnQwaXZnZ2JVZXJ0V3dEY0FVbTdyVmVudnNRcGZXZnZQb0lHUVlNdm9KRE50aldxdmNxY19lNVJHQQ?oc=5",
-      "first_seen": "2026-08-03T01:31:06Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
