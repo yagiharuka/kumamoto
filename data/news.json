@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T10:30:43Z",
-  "updated_at_jst": "2026/08/11 19:30 JST",
+  "updated_at": "2026-08-11T11:30:43Z",
+  "updated_at_jst": "2026/08/11 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 933,
+  "article_count": 936,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,10 +52,10 @@
     "kumanichi": 136,
     "nhk": 79,
     "nikkei": 55,
-    "jiji": 154,
+    "jiji": 155,
     "yomiuri": 122,
     "asahi": 110,
-    "mainichi": 118,
+    "mainichi": 120,
     "sankei": 159
   },
   "tracked_categories": [
@@ -76,8 +76,8 @@
     }
   ],
   "category_counts": {
-    "aeon": 749,
-    "power": 110,
+    "aeon": 751,
+    "power": 111,
     "paper": 91
   },
   "items": [
@@ -100,11 +100,11 @@
     },
     {
       "id": "d4aa885f5753c9fbdf25",
-      "title": "「イオンモール熊本」爆発後の捜索活動の映像 被害克明に",
+      "title": "【動画】イオンモール熊本 爆発後の捜索活動の映像 被害克明に",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-11T09:35:03Z",
+      "published_at": "2026-08-11T09:35:00Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0M4ai1iWndoREFqT0E5YjEyc0dFQUtER0pocS1oU1R2dEVSZkdxLVZ4TUpnZUIwNUNVQU5XWmxJSGNfejJ3R1VZM1MxS3VmZ2lsODlUdnBkTnFDR29r?oc=5",
       "first_seen": "2026-08-11T10:00:42Z",
       "focus": [
@@ -302,6 +302,23 @@
       ]
     },
     {
+      "id": "cdcaf9b7f039df93b107",
+      "title": "◎イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T05:45:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XSm1JQS1wR0xNQVp4eDR3VFduaDNBeUx6N3c3Mi1wUmk1MmRnV1JLQ0tuNmNpei0zNmxmeV93UWdIdDFXOHJ1dGlFdS1lWWFWMHZpMw?oc=5",
+      "first_seen": "2026-08-11T11:30:43Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c49403c0423fb5a25c47",
       "title": "イオン、従業員に再入館許可=爆発事故前、レジ対応など理由に―熊本地震",
       "source": "時事通信",
@@ -422,7 +439,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T03:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBWDlXQ3VzQ3RaMTFvZXpNWHhMa1dWVTRTME1rdkJCTmE5ejY2WWhZQjNGcWpPLW5tV0NNQ3BpM3hhaHoxR01XUWtqekswWHhEdzZpM0xJUVVFWVYycG9DZ3JJaEZSdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
@@ -590,6 +607,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "fc8a386e31afe4e83b57",
+      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T01:52:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
+      "first_seen": "2026-08-11T11:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -1244,7 +1277,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHBORHF6UjlMTXFmMWJwb1R4Zjc2aTNnUS1ld1Y1QS1NSklramZTQ2QxS2hMOUZaRnFfNi1wNUk0V0NBcGFhd0tTOHVTN1FuWVZsZEpCc0hvdS1jeTN5SGZiUDhmOVlMUjN3dGNkaF92STd4ZzExdldNZ3kxc29kbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eEU4ZGJheFR5MW1WbXJuc1l3V3QxR3I0UW5JeFJKeFNxZUF1Y3RhR1VlaG9mc0xlbTBEZTVqbi1nVjQxalZNV3BPWkVvLWxrSFZYVGlvbFAzQnR2TFZFek1pRQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -4297,6 +4330,22 @@
       "published_at": "2026-07-31T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUFCUkN2dHkyRTViVl9OVlFWTUwtdFl4d1UwdDhPbmVqUjFGaVYzc3FKNWRMSXNydjl1NGpsaGJKb0NpVGstZHY5MFd1QkNfQmI4dzZIOFota1NtT2ZBQkVVNDNBck9NT0hOUzdTODdoc2dTN2tKWmRBeEZGWUczV2VzTHFFXzA?oc=5",
       "first_seen": "2026-08-04T07:31:04Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "533b804fcbb8ad4ebf16",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集21/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeW1Bcjhoc1JzeUcxQ2M4NzJvQ21uUWhTOXN5cTY3Nkxld1U2YWZyN09RSEVpa3FaSDRYcGVaWW10ME92Y1A4dTVFRTZPUC1CUTJwZ2VWZF93eDhpX0xkVlNETkhjbTd1M3dPQ3dDTUg4Y0dtcGtrUmdFSWQ0b3hWZFRld2trY1k?oc=5",
+      "first_seen": "2026-08-11T11:30:43Z",
       "focus": [
         "現場状況"
       ],
@@ -9980,6 +10029,23 @@
       ]
     },
     {
+      "id": "4ec62d53694878468658",
+      "title": "イオンモール熊本でガス臭 地震後に爆発、捜索時に 官房長官",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRG16WWIwaTByWmc2X1ZQbFBXS21MMUlfZnZSY2JQQzFaS05SdWhWempxc3VMeWtCRHBmaGkyOVN2RUd2SEFvZGFfVEYwYmR0R2R5UWctZFM1bEQ5eXJ3RTFONlNFTjFR?oc=5",
+      "first_seen": "2026-07-29T04:30:25Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6d01ed48ff5bdc4cdf56",
       "title": "ごう音と白煙 ドラレコが捉えたイオンモール熊本爆発の瞬間 [写真特集1/5]",
       "source": "毎日新聞",
@@ -11356,23 +11422,6 @@
       "published_at": "2026-07-29T04:28:34Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HOVdJRFl5ZTFhNUNBTXFKYmp4MjNwSTRsX2RIZXBhV1pXaGdJNmpJTnZyRHBGdVhqeVZNY2xWbHp3dXlpZENCX3k4b3Y5TE0?oc=5",
       "first_seen": "2026-07-29T05:00:20Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4ec62d53694878468658",
-      "title": "イオンモール熊本でガス臭 地震後に爆発、捜索時に 官房長官",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:41:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWRG16WWIwaTByWmc2X1ZQbFBXS21MMUlfZnZSY2JQQzFaS05SdWhWempxc3VMeWtCRHBmaGkyOVN2RUd2SEFvZGFfVEYwYmR0R2R5UWctZFM1bEQ5eXJ3RTFONlNFTjFR?oc=5",
-      "first_seen": "2026-07-29T04:30:25Z",
       "focus": [
         "原因・検証",
         "現場状況"
@@ -13599,20 +13648,6 @@
       ]
     },
     {
-      "id": "b4327651c77ea5c64d1f",
-      "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本、営業休止を報告[全文]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T12:02:10Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XSmlPYWVvbTdDOXRGWHR6SFphSmsxdFl4VERvU1J1X2JIWi1ZRnBkaEc3ZUtObXJmV1diUUtlRm1jTHYzeEpZQnpNMUNESGlwT2laRVd4NlhWVjVkM0ZJcTV2c3dBeTUx?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "611860e0dceba951b76b",
       "title": "地震で客が避難、その後爆発 イオン熊本「砲弾が命中したような音」 [熊本県]",
       "source": "朝日新聞",
@@ -14832,6 +14867,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "b4327651c77ea5c64d1f",
+      "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本、営業休止を報告[全文]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XSmlPYWVvbTdDOXRGWHR6SFphSmsxdFl4VERvU1J1X2JIWi1ZRnBkaEc3ZUtObXJmV1diUUtlRm1jTHYzeEpZQnpNMUNESGlwT2laRVd4NlhWVjVkM0ZJcTV2c3dBeTUx?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
