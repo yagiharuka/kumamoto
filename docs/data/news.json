@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T18:00:43Z",
-  "updated_at_jst": "2026/08/12 03:00 JST",
+  "updated_at": "2026-08-11T18:30:42Z",
+  "updated_at_jst": "2026/08/12 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 939,
@@ -2837,23 +2837,6 @@
       ]
     },
     {
-      "id": "6c4912e463db85a72918",
-      "title": "2026年熊本地震>避難の従業員に「売上金を金庫に」要求 ハビタ役員が認める 「イオンモール熊本」爆発で2人犠牲に",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-03T12:13:43Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KenhyTTVhN01HMVVBeTF6emdndGwwVlZzUTdweDg4dUhEaXlBYUpKZ0JLc3kwdG9ueUx6UWRZNl9wOWFLUFlRLUhMRVpLNEk?oc=5",
-      "first_seen": "2026-08-03T13:01:23Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a8ee8915707351d7f228",
       "title": "避難後、戻るように指示=イオン爆発で従業員2人死亡―所属会社が謝罪・熊本地震",
       "source": "時事通信",
@@ -3162,6 +3145,23 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55aTI4d0gxU0c4YXJpUzQ0cktfMEI1cEtDWHB3ZW5PZmVMMlMwdV9vWFFwTEE1TktVNGdPWXlGSl9zck9aYVhsQUFhY2hldGc?oc=5",
       "first_seen": "2026-08-03T13:31:10Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6c4912e463db85a72918",
+      "title": "2026年熊本地震>避難の従業員に「売上金を金庫に」要求 ハビタ役員が認める 「イオンモール熊本」爆発で2人犠牲に",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KenhyTTVhN01HMVVBeTF6emdndGwwVlZzUTdweDg4dUhEaXlBYUpKZ0JLc3kwdG9ueUx6UWRZNl9wOWFLUFlRLUhMRVpLNEk?oc=5",
+      "first_seen": "2026-08-03T13:01:23Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -6323,23 +6323,6 @@
       ]
     },
     {
-      "id": "f8c29e0e21f1da7be6a2",
-      "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集7/9]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T09:26:16Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclEzSENqMnNhTFFvQ1NscTRkZzhzRE1JOEsteXhzU2toSmdJT1ZTZ3JOZjk5bDVkSzFEaUF3UmlTMjBwdXhDNzJQSW5OcVJlUUdqbkpRUml0aFZuY3dkZ3JpWHJiZjlnMmtfSl9FZFc3QklHQ2c5eGZIWkNkTklhYzYyYko2U3M?oc=5",
-      "first_seen": "2026-08-01T22:30:14Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f7989cf7622d6c808a69",
       "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集2/9]",
       "source": "毎日新聞",
@@ -6909,6 +6892,23 @@
       ]
     },
     {
+      "id": "f8c29e0e21f1da7be6a2",
+      "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集7/9]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclEzSENqMnNhTFFvQ1NscTRkZzhzRE1JOEsteXhzU2toSmdJT1ZTZ3JOZjk5bDVkSzFEaUF3UmlTMjBwdXhDNzJQSW5OcVJlUUdqbkpRUml0aFZuY3dkZ3JpWHJiZjlnMmtfSl9FZFc3QklHQ2c5eGZIWkNkTklhYzYyYko2U3M?oc=5",
+      "first_seen": "2026-08-01T22:30:14Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1eb6f4b41d20de14608c",
       "title": "爆発のあったイオンモール熊本 安否不明者の捜索続く [写真特集5/9]",
       "source": "毎日新聞",
@@ -6984,23 +6984,6 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lQkphUlhPX1VJTkVBdjJxZ0xOZkVrQ1lEa1FoVHVTdVVWMmJkOUJ5aEFFS2J5ZkRwbHhfazdpMlZMWXdFY3gxX3FYX0lsN0RPUzlEQVJZelZldi1W?oc=5",
       "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
       "focus": [
         "避難状況",
         "停電状況"
@@ -10163,6 +10146,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "673c2ab5cb60a17fe211",
       "title": "爆発・崩落のイオンモール熊本で2人死亡、1人心肺停止 県が発表",
       "source": "朝日新聞",
@@ -10537,7 +10537,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQktzX3IwazgyT0o4NUxpSnJDSk1NNmdxNnR1YnBObVE3QTNHbkpUeFRhaEZ6dFdfYXFpWjluem1tanNaYkhrSWFrQllMcG90eFo3dg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oaDVtTEwteXh5enVVR2lEYzJQN0J3WjNMVmxrM0ZBQVRlRFJ0YmV6UzUtNkxhSUozbV9tVzhFcmhKYXdtQmphdWhlbHBrRS1RLVRMWg?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "避難状況",
