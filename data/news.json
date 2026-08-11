@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T08:30:41Z",
-  "updated_at_jst": "2026/08/11 17:30 JST",
+  "updated_at": "2026-08-11T09:00:40Z",
+  "updated_at_jst": "2026/08/11 18:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 926,
+  "article_count": 929,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 135,
     "nikkei": 55,
-    "jiji": 152,
     "yomiuri": 122,
+    "jiji": 152,
     "asahi": 110,
     "mainichi": 118,
     "sankei": 159,
-    "nhk": 78,
-    "kumanichi": 132
+    "nhk": 78
   },
   "tracked_categories": [
     {
@@ -76,11 +76,60 @@
     }
   ],
   "category_counts": {
-    "aeon": 742,
+    "aeon": 745,
     "power": 110,
     "paper": 91
   },
   "items": [
+    {
+      "id": "ff3ca37f2f833744da7b",
+      "title": "「イオンの客が避難できた点は評価」と知事 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-11T08:28:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sc1hsWm9SZzlhRFE4Y1BlZmxlRWJYQnhWWGhuZmlTZzB4WlVlb0RJczRwX1RDTEVobFQ3dzVteFRoeVd6cHllQlJxNXNnQm8?oc=5",
+      "first_seen": "2026-08-11T09:00:40Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ddac5ed2326962d1c700",
+      "title": "<2026年熊本地震>木村知事が献花 爆発事故のイオンモール熊本",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-11T08:27:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DWTctaTlBWkxNZE9Yc3VRckxFak14WnVlYUczc3pKVFdveHJNYXNJeFZUUWd3dWlyRW52N2MzM2hLZFVRcnA4VHkzQ2FrZWs?oc=5",
+      "first_seen": "2026-08-11T09:00:40Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b28ef12f6e89ac6f5baa",
+      "title": "<2026年熊本地震>「避難後、一時入館認めた」 イオン、聞き取りで確認 地震後の爆発事故巡り",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-11T08:25:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LS1ZuWkhQTndMdExqRTlRanJhRlJzNFlna3p3ZzJmLTAzbXh4bEU3akszdDFqR2YxVGpqVkJHZXRvTUtYZ29XMzF1M0RNWlU?oc=5",
+      "first_seen": "2026-08-11T09:00:40Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "9d3b995ca526c0562d55",
       "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
@@ -91,6 +140,40 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRmFNYmFBRTdLaU1DWXExQlhNSW9pcS1VbERuX1MyV092YnR5OUVLc3pFRTVlZXgzYW9zOEpHY2lHVll5SjQtVDhrTEY3eGVDSnQ5a2lob3ZLMU1TTGk1RnVMeGxuNENvREMweA?oc=5",
       "first_seen": "2026-08-11T08:30:41Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8557776e2fc2ade3e300",
+      "title": "爆発事故で7人死亡のイオンモール熊本、地震後に「一時入館を認めた事実があった」...貴重品回収で従業員が要望",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T08:11:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94SEJqYmpNd0pFNmpfRTRFMHNldVFzMnp5WGFpRVlfUFdkY1BfMDFKVFpNcEFNSm41aDdsaXNLaU9Fd2l4ejJ5NFNQVTdIN3Ztci1JQVZrMlRlazBGaFFRLVUxUXVpZw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "536a961ec1a7644e4a7a",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T08:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -171,50 +254,16 @@
       ]
     },
     {
-      "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T05:46:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "cd0ddcc77081cb2f1d44",
       "title": "イオン、避難後に再入館「認めた事実あった」 帰宅困難者などに対応 [2026年熊本地震]",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T04:15:06Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aN09fblRrTG0xSk9XWmduazY1ekRwbUJ3czBOMlVhel9YYXFGdHVlMXF1emEyS3ppZ25Tel9iM3VieU9KM2tLQWVseW9lcllITnVFbS1JcEhQRWlmc1JydzN3MHdLWExRNXd0ZzBRRTdzY2tEWnc4M1ZB?oc=5",
+      "published_at": "2026-08-11T04:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8557776e2fc2ade3e300",
-      "title": "爆発事故で7人死亡のイオンモール熊本、地震後に「一時入館を認めた事実があった」...貴重品回収で従業員が要望",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T04:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94SEJqYmpNd0pFNmpfRTRFMHNldVFzMnp5WGFpRVlfUFdkY1BfMDFKVFpNcEFNSm41aDdsaXNLaU9Fd2l4ejJ5NFNQVTdIN3Ztci1JQVZrMlRlazBGaFFRLVUxUXVpZw?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -1218,6 +1267,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T10:12:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a075f30bacb05e1774f5",
       "title": "イオンモール熊本事故「LPガス爆発の可能性高い」 経産省が公表",
       "source": "日本経済新聞",
@@ -1362,22 +1427,6 @@
       "published_at": "2026-08-05T09:09:14Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSHItSElJdnNtOUlnWUZHcHNjb3NVNEpmRV9FV3I3QnlxOTAzREpvcTBnc0cybmhZYzBZRVFES2FXQ1NIZzljN0lYQTZPSC0zcDA2alF1MWlKaWc4Rm1v?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
       ],
@@ -5265,22 +5314,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "58f7a86c97953dd8861c",
-      "title": "日本製紙八代工場での救助活動 地震で...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:52Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUnN3Rmo4aHNCMzZhSjFhZmRDV0RwUTRQajd4Y2p1blRVSkQydDFpalBldFp6c1VBOG1PQktNUkhtLTFubkk3ak5QQzY5c09TUS1BUTdzRjlqMUU5ajRWcFZUNTAyblVGNlFhajhCMA?oc=5",
-      "first_seen": "2026-07-31T02:00:57Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -14863,6 +14896,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "58f7a86c97953dd8861c",
+      "title": "日本製紙八代工場での救助活動 地震で...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUnN3Rmo4aHNCMzZhSjFhZmRDV0RwUTRQajd4Y2p1blRVSkQydDFpalBldFp6c1VBOG1PQktNUkhtLTFubkk3ak5QQzY5c09TUS1BUTdzRjlqMUU5ajRWcFZUNTAyblVGNlFhajhCMA?oc=5",
+      "first_seen": "2026-07-31T02:00:57Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
