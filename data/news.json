@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T08:00:41Z",
-  "updated_at_jst": "2026/08/11 17:00 JST",
+  "updated_at": "2026-08-11T08:30:41Z",
+  "updated_at_jst": "2026/08/11 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 925,
+  "article_count": 926,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nikkei": 55,
     "jiji": 152,
     "yomiuri": 122,
     "asahi": 110,
     "mainichi": 118,
     "sankei": 159,
     "nhk": 78,
-    "kumanichi": 132,
-    "nikkei": 54
+    "kumanichi": 132
   },
   "tracked_categories": [
     {
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 741,
+    "aeon": 742,
     "power": 110,
     "paper": 91
   },
   "items": [
+    {
+      "id": "9d3b995ca526c0562d55",
+      "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T08:24:22Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRmFNYmFBRTdLaU1DWXExQlhNSW9pcS1VbERuX1MyV092YnR5OUVLc3pFRTVlZXgzYW9zOEpHY2lHVll5SjQtVDhrTEY3eGVDSnQ5a2lob3ZLMU1TTGk1RnVMeGxuNENvREMweA?oc=5",
+      "first_seen": "2026-08-11T08:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "b3dc42496b0202d7a8f4",
       "title": "画像・写真:イオンモール熊本に献花次々:時事ドットコム",
@@ -178,7 +194,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-11T04:15:06Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aN09fblRrTG0xSk9XWmduazY1ekRwbUJ3czBOMlVhel9YYXFGdHVlMXF1emEyS3ppZ25Tel9iM3VieU9KM2tLQWVseW9lcllITnVFbS1JcEhQRWlmc1JydzN3MHdLWExRNXd0ZzBRRTdzY2tEWnc4M1ZB?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況"
@@ -306,7 +322,7 @@
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-11T03:50:00Z",
+      "published_at": "2026-08-11T03:50:32Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oYTl4LXI1Sm00T1NXOFBORGhINnRkNmJvVUg1ZWVsSUwwWEF0Y2FxS1owYTNOUXpYOGloeFVQd2ZhMjdqMHhwRnRhc2RGbkd6UjZxYjd1R2ZLN3JJck1B?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
@@ -3005,6 +3021,24 @@
       ]
     },
     {
+      "id": "0e46521f243004ece8a1",
+      "title": "なぜ7人は店内に? イオンモール熊本爆発 数々の証言から検証",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FdkpHQkdqTnY5d1loZEVRLWVfdGNMTkpRZjl6dE1zbEU2dURHUHUtYlVsV2lreG0xQ2Q3RktvUl9fUk9tWllKb0s4ME9GazNpWlg4UkVTR0hfZ3l6SE5veE9MdDd6UVJu?oc=5",
+      "first_seen": "2026-08-02T21:01:05Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "eff1c842c0db82ee795d",
       "title": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪 | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -3111,24 +3145,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "0e46521f243004ece8a1",
-      "title": "なぜ7人は店内に? イオンモール熊本爆発 数々の証言から検証",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-02T20:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FdkpHQkdqTnY5d1loZEVRLWVfdGNMTkpRZjl6dE1zbEU2dURHUHUtYlVsV2lreG0xQ2Q3RktvUl9fUk9tWllKb0s4ME9GazNpWlg4UkVTR0hfZ3l6SE5veE9MdDd6UVJu?oc=5",
-      "first_seen": "2026-08-02T21:01:05Z",
-      "focus": [
-        "原因・検証",
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
