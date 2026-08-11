@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T07:00:48Z",
-  "updated_at_jst": "2026/08/11 16:00 JST",
+  "updated_at": "2026-08-11T07:30:42Z",
+  "updated_at_jst": "2026/08/11 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 920,
+  "article_count": 923,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "jiji": 150,
     "yomiuri": 122,
-    "sankei": 159,
-    "jiji": 148,
-    "asahi": 109,
+    "asahi": 110,
     "mainichi": 118,
+    "sankei": 159,
     "nhk": 78,
     "kumanichi": 132,
     "nikkei": 54
@@ -76,11 +76,39 @@
     }
   ],
   "category_counts": {
-    "aeon": 736,
+    "aeon": 739,
     "power": 110,
     "paper": 91
   },
   "items": [
+    {
+      "id": "185cae16b4253a4e6f4c",
+      "title": "イオンモール熊本に献花次々=知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbEdBNG05UlNkd2JBSmlGWmZ0eWRSZEdJWDl5YjNYLUtqSWV2S2tqdy1oRDdKLWNsVmFLRDh0bjhVMTdzNmdSNEhzakhkTWlBamktZF9vaE92QjR0aUF3MEYyRQ?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "d8fb42a5484187626437",
       "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
@@ -99,15 +127,16 @@
       ]
     },
     {
-      "id": "84d25120a19503f101d9",
-      "title": "イオン「一時入館認めた事実あった」 イオンモール熊本爆発事故で ルールの変更へ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T05:11:55Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVOWp4OWQ1aUNXbXgtZUJJa09TdXRmRzZwS1BLRjFpNFlpRm02ZkFTSmZXREJTMWgtam4wS2pNVUhaVmcyWElIUm5XWEc1akVicU5zOTBKelZFQ0Z6TEdicWtHMTA4Y0FDdUppTHZONWM1QUE2a1E?oc=5",
-      "first_seen": "2026-08-11T04:00:49Z",
+      "id": "536a961ec1a7644e4a7a",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T05:46:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -197,22 +226,6 @@
       ]
     },
     {
-      "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 熊本地震:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T04:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "615118cf3b92b45ad0d8",
       "title": "イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
       "source": "産経新聞",
@@ -221,6 +234,22 @@
       "published_at": "2026-08-11T03:56:16Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1htNlRXUFNDUktWS3paWk94bExOeTZWOFQtbHhseEpoTHRiNUk5VXBtZ0tiTWNBY1psMTdicVNTMFRneXQwYnhmMGREU2liaEhGeWl5OXZIc29HNnBuc1cyNnctanppcmgtN2ZzXzJfZ0N2bHY0QmlfSnUwTDItY1M1OHNEVTQwN3UyOEZ0V0ZOYl85clI4d09jY1JCVEljU2c?oc=5",
       "first_seen": "2026-08-11T06:30:49Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "84d25120a19503f101d9",
+      "title": "イオン「一時入館認めた事実あった」 イオンモール熊本爆発事故で ルールの変更へ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T03:56:16Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVOWp4OWQ1aUNXbXgtZUJJa09TdXRmRzZwS1BLRjFpNFlpRm02ZkFTSmZXREJTMWgtam4wS2pNVUhaVmcyWElIUm5XWEc1akVicU5zOTBKelZFQ0Z6TEdicWtHMTA4Y0FDdUppTHZONWM1QUE2a1E?oc=5",
+      "first_seen": "2026-08-11T04:00:49Z",
       "focus": [
         "現場状況"
       ],
@@ -303,6 +332,22 @@
       "published_at": "2026-08-11T03:34:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4ZVFGWUJOMjFCdlFYVWVITmNnYm40Y0F4MmNZY3h6MnJsLUtodWY1NXByQ0NzdGxlRzYwcnFySmk4aF90RjJxR2xUWml3aUYyS2NJQnJQMzBNN1hGZm1SVS0xZTAzc0E?oc=5",
       "first_seen": "2026-08-11T04:00:49Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4396a6d8083ff9865865",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T03:34:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHM4NDM1dEJ1R19WTFY4eGIwQVlsQ3o1MzNsdXVGRmw4ZzJnWFIyVWhKcG1xcjNha0NhejVQT3hUaUV1cGpHM2g1c3dSTFlqc3hWYjJDWlR4UXVWXzJmeVUyXzM1NmZFWVlSaVJ2aGZsaTI2RmgzNktRdTB0WHg1bTByMnFPMWdOYU43c05NQ3MzZGV0Zzd6X0JR?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
       "focus": [
         "現場状況"
       ],
