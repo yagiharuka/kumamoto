@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T12:30:42Z",
-  "updated_at_jst": "2026/08/11 21:30 JST",
+  "updated_at": "2026-08-11T13:00:43Z",
+  "updated_at_jst": "2026/08/11 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 936,
@@ -1277,7 +1277,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eEU4ZGJheFR5MW1WbXJuc1l3V3QxR3I0UW5JeFJKeFNxZUF1Y3RhR1VlaG9mc0xlbTBEZTVqbi1nVjQxalZNV3BPWkVvLWxrSFZYVGlvbFAzQnR2TFZFek1pRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTTVMRnY5dzNGaXVyQnFWQnpPa011ejNMbVZJem41S2V1a2hnSTNiWXJfbXlqLWNyMzVlc2xFQWRtOEdMLWJsN1RDUUFZc2xYNG1KWVFkWUJrUDhVcGNvYUhIQQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -1343,6 +1343,22 @@
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T10:12:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -1494,22 +1510,6 @@
       "published_at": "2026-08-05T09:09:14Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSHItSElJdnNtOUlnWUZHcHNjb3NVNEpmRV9FV3I3QnlxOTAzREpvcTBnc0cybmhZYzBZRVFES2FXQ1NIZzljN0lYQTZPSC0zcDA2alF1MWlKaWc4Rm1v?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
       ],
@@ -10159,6 +10159,23 @@
       ]
     },
     {
+      "id": "6c9d37233d563d1b6788",
+      "title": "熊本、震度7 イオンで爆発、10人安否不明 製紙工場2人心肺停止 M7.1",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZMzBpX1V1WFFZdDNocEIyNWVRLUUweXVrWnQ4MzNHdEIyTWdmS2ZQSTNyVGNMa0dlLTZBMnA4cEM2SmdkTUd6MnJVQ1MwdWFSZVNuT3RYR0NfRGV5?oc=5",
+      "first_seen": "2026-07-28T20:31:11Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "42b3dd7426cf3f4662ee",
       "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
       "source": "朝日新聞",
@@ -12526,23 +12543,6 @@
       "published_at": "2026-07-28T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZeTkwTEhoa3hqdVE4ZU1KNjZUdFktWGM0cDJ0aVRDcVI3bGUxeHBudHpKNWg5TEVUOXdzMlE3MGRUZS1UOHdkSGYxRUJ2MHhEYndGeG41aFdWMllTckNOaVBRRQ?oc=5",
       "first_seen": "2026-07-30T04:00:49Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "6c9d37233d563d1b6788",
-      "title": "熊本、震度7 イオンで爆発、10人安否不明 製紙工場2人心肺停止 M7.1",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lckl0emNiRms3a25Jd01kclprU0Myc0dmMUg4OEk0bnBSd2hhMXlJbkc4a2p2QzQ1eG10NWpmdzJSeXhPZWRKM2NweDF2ZGV6Sjk0ajhINWV1ZVhyTU8wZS0yTkxwM0dTOHl5d3JR?oc=5",
-      "first_seen": "2026-07-28T20:31:11Z",
       "focus": [
         "救助・安否",
         "現場状況"
