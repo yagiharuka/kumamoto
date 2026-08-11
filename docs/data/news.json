@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T01:00:41Z",
-  "updated_at_jst": "2026/08/11 10:00 JST",
+  "updated_at": "2026-08-11T02:00:43Z",
+  "updated_at_jst": "2026/08/11 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 903,
@@ -5403,24 +5403,6 @@
       ]
     },
     {
-      "id": "e8e89400f33e82e3edcc",
-      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T13:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGd4WWR1enVSaHJuNnBBUTNBdVJ1b3B6NXZtTEtibEkxSVVkcExOdmhHWUVuOXFDR2ljVUx4ckJvZGN6WmV1aEdhOEY0dl9iWUUzR3ptTVVTanhqOXktOHN1QVcwWTRJX0NQLVhzWnpGZXJSZS1yVG95SDV1MzlhZ2d3?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "925e288c009d00b5eddb",
       "title": "イオンモール熊本前で重機を用いて行われた捜索活動=7月30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -6587,6 +6569,24 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSTZHOGNOZEdLb1ZZN05EYnZsWHBZbFdfaU9fUGFKMV9wZ2xsaVhualh1dFViMUNsNXhQcFdHYk4ycVprYlZHdmV0YkpacGFHRmdsNw?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "e8e89400f33e82e3edcc",
+      "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkZ4UnhvZC1ac2Y1dW1mZU5FcVE2OGlMdHFfcFM3eWJReTM4ZmphcnZXVW5Ybkxkb0dYTHF0MG0tbWlxbDdjX1dMVlpFZzlXTzZreHp3YkpvVTN6S0k2WFhzV0RyRzJMZGdqMnNIMzRKSVQ0Qy1LVm9UTWxFUmVfcm93?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -9895,7 +9895,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UmNyZ1phRkZoYzd6MTdmdjZoSVE4YkFvb3lVaUFfNmVGOFVybmZucWtmZkZGQWcyektTZ3ZpaDlqU0VqWlNWT1BnRVNSeGdDTk1pbmYtRW5ydkM5MUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQalVlV0NzNHN0LUEwY1B1OVYxTV9xbWJPN0M1QUhaOTNSWDZScUFaUWVaV3BaVklhMkRINEtOZlZRUTh6REVkX1lYVVFPbGt2UFZ6MFBRYmhSTkd3Mmc?oc=5",
       "first_seen": "2026-07-31T21:30:54Z",
       "focus": [
         "避難状況",
