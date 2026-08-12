@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T16:30:55Z",
-  "updated_at_jst": "2026/08/13 01:30 JST",
+  "updated_at": "2026-08-12T17:00:56Z",
+  "updated_at_jst": "2026/08/13 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 971,
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "asahi": 115,
     "kumanichi": 143,
     "sankei": 165,
-    "asahi": 115,
     "nhk": 80,
     "jiji": 165,
     "mainichi": 122,
@@ -81,6 +81,22 @@
     "paper": 91
   },
   "items": [
+    {
+      "id": "cd0ddcc77081cb2f1d44",
+      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T11:10:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "b28ef12f6e89ac6f5baa",
       "title": "2026年熊本地震>イオン「避難後、一時入館認めた」 遺族補償「早期に対応」 地震後の爆発事故巡り",
@@ -202,22 +218,6 @@
       "first_seen": "2026-08-12T09:30:53Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "cd0ddcc77081cb2f1d44",
-      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T07:55:05Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
-      "focus": [
-        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -776,7 +776,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
