@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T17:00:56Z",
-  "updated_at_jst": "2026/08/13 02:00 JST",
+  "updated_at": "2026-08-12T17:30:53Z",
+  "updated_at_jst": "2026/08/13 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 971,
+  "article_count": 973,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "mainichi": 123,
+    "nikkei": 57,
     "asahi": 115,
     "kumanichi": 143,
     "sankei": 165,
     "nhk": 80,
     "jiji": 165,
-    "mainichi": 122,
-    "nikkei": 56,
     "yomiuri": 125
   },
   "tracked_categories": [
@@ -76,11 +76,42 @@
     }
   ],
   "category_counts": {
-    "aeon": 785,
+    "aeon": 787,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "15ceef675f1db47ece63",
+      "title": "熊本地震 イオン、再入館認める 遺族に早期補償へ",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T17:03:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcjA4WUZfX1FCUEFfWGFzV3dGT1MyejV3TWJDalA3di1ZTEprUVJpQUh5bWdnZndlUEktQV93RHk5T0tZUnhRNVpUV0ttZzBNWmh0SzhMWFdiMGtxa2ljc0xrcGU0dS1M?oc=5",
+      "first_seen": "2026-08-12T17:30:53Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "915bfdce8393c2883a0d",
+      "title": "イオンが一時入館認める 熊本、モール爆発で避難後に 遺族補償「早期に対応」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcjB4blItbDJFYUUzRlRfajRFVlJOektkeDFiLWRjcU52TkgyQU9Cb1VaS0JqV25zZXhPa2R4WXM3OTdWcTVOR3c5dmMxMk5ieVhoa0l5WUJVZ3dBX0NuVl9vYWJMejhESXhxdw?oc=5",
+      "first_seen": "2026-08-12T17:30:53Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "cd0ddcc77081cb2f1d44",
       "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
@@ -258,7 +289,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-12T07:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42TnZDRWtaR2hKVTB4bHVvYXBzbmJRUWxiT0NJa1VQcG1HdzBMNndyMGh2YUZNd2FYdGRYQU9LZnRtZWtfeG56N0JUUFlmRjBBWUQ2SWZkbE5HaTJ1RmZGUUtZSUdiS1ZwczZFcUFSNVZ5YXhTckNlYklCS1pZUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jclBJZEkzX2VPMG5QejdaWlFLandHNFN6UkgxNFN1ZWdnNzRkNkJ0blZYNzZ6QUp0cnJrcFBzYktUVzRWUWFSRlZKcUNDdTBXb196b3JPdWRYaEtj?oc=5",
       "first_seen": "2026-08-12T08:00:58Z",
       "focus": [
         "避難状況"
@@ -466,13 +497,13 @@
       ]
     },
     {
-      "id": "045f68339d856888babc",
-      "title": "イオン、爆発事故遺族に補償の意向=「早期に対応」―熊本地震",
+      "id": "c614a36787100877b5c8",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T03:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYlhvNDBYWGJLSndBQnRnb1dpc1hRMUJraTU1RVBjMXJnUWx1SjhjeWtVS2hnbW1YSjFqbmRnYXFXYmZoc05uSF9yQjVVRXJDbHZObg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2xYd3dIVFpCeVVCTGVWVXpUYU5ZM2thUDlMUEJiNzNYYm5PYWJSZ2NTTDlOZFJxbGxDNEd4eG42VHFjcE15N2M2RXAzSmJCeTFzTi1PQmRxNmhpYmJIb0N5dHhab2c2UElISkFZTU40SVl2TTJ2bmxEbnkzbFJLRg?oc=5",
       "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
@@ -482,13 +513,13 @@
       ]
     },
     {
-      "id": "c614a36787100877b5c8",
-      "title": "イオン、爆発事故遺族に補償の意向 「早期に対応」―熊本地震",
+      "id": "045f68339d856888babc",
+      "title": "イオン、爆発事故遺族に補償の意向=「早期に対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T03:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2xYd3dIVFpCeVVCTGVWVXpUYU5ZM2thUDlMUEJiNzNYYm5PYWJSZ2NTTDlOZFJxbGxDNEd4eG42VHFjcE15N2M2RXAzSmJCeTFzTi1PQmRxNmhpYmJIb0N5dHhab2c2UElISkFZTU40SVl2TTJ2bmxEbnkzbFJLRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYlhvNDBYWGJLSndBQnRnb1dpc1hRMUJraTU1RVBjMXJnUWx1SjhjeWtVS2hnbW1YSjFqbmRnYXFXYmZoc05uSF9yQjVVRXJDbHZObg?oc=5",
       "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
