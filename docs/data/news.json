@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T14:31:03Z",
-  "updated_at_jst": "2026/08/12 23:31 JST",
+  "updated_at": "2026-08-12T15:01:06Z",
+  "updated_at_jst": "2026/08/13 00:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 971,
@@ -2987,24 +2987,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNGFkWGVQZTJHMXFZQ1Rnd3VZWXIycXpvdVVMa0p2NEEtR3JTak96UElscG9OdVFxRnl3ZG15MVpYNEFCYkgwOUxvMUlQcjRXMkFic1BDVk1QUnpERGF5OWtxQlQwdjA?oc=5",
       "first_seen": "2026-08-04T06:31:09Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T05:46:04Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFNCWUx1MlI2X0VLRDcwQU5OYXFOUkNldm51LVNaSWJGakEyb2V0MExpTEgzOUlrdFJFamV3VzQ0ZTdJVlBtMmY4clhwc3NtNWhFc04yVUZsdUNoTnpnRDFLZloxNjhlbVAzQnRYQ1BkdXFCdFFUdlBmTlRzVl81UE9FVjJnc3hrLVBwcFZR?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -7563,6 +7545,24 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTmFCUzc2MVp6dUJmbDBlVnR2d3JncllpTWtrWFJkeUxBaUowcDlTQk1CWTcwdDhnZ0daX0dPbzhKejVBaWVVRDA4VTVnTlBfbG1sbWJmc2lNeGFQbkpITlVTTlRwbG8?oc=5",
       "first_seen": "2026-07-30T14:00:11Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
       "focus": [
         "避難状況",
         "目撃証言",
