@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T00:00:43Z",
-  "updated_at_jst": "2026/08/12 09:00 JST",
+  "updated_at": "2026-08-12T00:30:55Z",
+  "updated_at_jst": "2026/08/12 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 940,
@@ -1381,6 +1381,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T10:12:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a075f30bacb05e1774f5",
       "title": "イオンモール熊本事故「LPガス爆発の可能性高い」 経産省が公表",
       "source": "日本経済新聞",
@@ -1525,22 +1541,6 @@
       "published_at": "2026-08-05T09:09:14Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSHItSElJdnNtOUlnWUZHcHNjb3NVNEpmRV9FV3I3QnlxOTAzREpvcTBnc0cybmhZYzBZRVFES2FXQ1NIZzljN0lYQTZPSC0zcDA2alF1MWlKaWc4Rm1v?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
       ],
@@ -3208,7 +3208,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdy1LekJRRVVQVnRremFMSFJ4ZHFjMld6SGNQY01rVC1zU1d4enFPeHF0eUVIUHZkRzQ1dUNBdDhYaWVkQ0s3SmdfQ2RRWmJZNllMTWxNNDByRUxaWUpwWEJyZGtBLU1EaGxrZ2FIZXRLSTZwRzdKSThIa3NRM3RKVU1hQkF3OHN5d3FtdGU4Q2g0V3JmYWxMWlpn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45MHZTTnRzbjZrT0JHLTQzQ1V6VVY4TVhUc19XOTExN3RBZlhXckNuakg2ZWVpWkFmLVAtQ1hZazg0TlVkTTEyM3RIOExGeWszWnhOdUREbmEwZGtYSFRqTmlIWXlUSGNKendoX0J3?oc=5",
       "first_seen": "2026-08-03T21:30:26Z",
       "focus": [
         "避難状況"
