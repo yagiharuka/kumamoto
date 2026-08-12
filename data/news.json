@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T11:00:56Z",
-  "updated_at_jst": "2026/08/12 20:00 JST",
+  "updated_at": "2026-08-12T12:00:59Z",
+  "updated_at_jst": "2026/08/12 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 968,
+  "article_count": 970,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "kumanichi": 143,
-    "sankei": 163,
+    "sankei": 165,
     "asahi": 115,
     "nhk": 80,
     "jiji": 164,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 782,
+    "aeon": 784,
     "power": 112,
     "paper": 91
   },
@@ -122,6 +122,22 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYWNiX0lTejkyQ3ZPWGx4Si1NcEhxQWNTN2tkY0JFTklyZ2VoX05FVktIR0Y5WEE5VFRrUnVlek8wYkVIWTN5SU83WWxxYnc?oc=5",
       "first_seen": "2026-08-12T09:30:53Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2d50300f8858fbbc6e45",
+      "title": "爆発で大きな被害が出たイオンモール熊本=熊本県嘉島町(安元雄太撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T09:10:56Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnRpN1czLVdKdzVWVjIwaklVbmhQekx1M250YWJ2OTFVM3NqRnp5QmxpeVlUcW9hM2ZIc21waGtGZWRBU1hGR2RVWldvcUtsVlhqcEhfa3FadURpWmNvaGZGOTk5ZFBkcDV6NkkwWjE5a2lkVmtTUS1sWlc3OVFfY216M1JYYXprSmFNZ29sRGlfNGFhd1hQOVBzMWVSdkhJZ1E?oc=5",
+      "first_seen": "2026-08-12T12:00:59Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -297,6 +313,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fba47f7b7ed7ab496298",
+      "title": "イオンモール熊本=熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T06:28:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV013Y2NZLVVPODJjS0ZyNXVKNnpJNUZ4NTE5bnNNUnVvWDQyMnRHdjdfd1cxa2k2Mlp1NlNWcWpQVzVWTHRzeThXeTVBZG9kN1Q5emhVOE9TMEhqaE1uOEtKeUhCaFozeWVZaTVpd0JyLU5CRG1DSkE4cVZhVy1CU3pFeDA2TEZBdTRwQ0lUMFBhSFllckp2R1RjdXdFT3BjeUE?oc=5",
+      "first_seen": "2026-08-12T12:00:59Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
