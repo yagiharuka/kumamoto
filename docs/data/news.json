@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T15:30:55Z",
-  "updated_at_jst": "2026/08/13 00:30 JST",
+  "updated_at": "2026-08-12T16:01:39Z",
+  "updated_at_jst": "2026/08/13 01:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 971,
@@ -258,7 +258,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-12T07:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jclBJZEkzX2VPMG5QejdaWlFLandHNFN6UkgxNFN1ZWdnNzRkNkJ0blZYNzZ6QUp0cnJrcFBzYktUVzRWUWFSRlZKcUNDdTBXb196b3JPdWRYaEtj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42TnZDRWtaR2hKVTB4bHVvYXBzbmJRUWxiT0NJa1VQcG1HdzBMNndyMGh2YUZNd2FYdGRYQU9LZnRtZWtfeG56N0JUUFlmRjBBWUQ2SWZkbE5HaTJ1RmZGUUtZSUdiS1ZwczZFcUFSNVZ5YXhTckNlYklCS1pZUQ?oc=5",
       "first_seen": "2026-08-12T08:00:58Z",
       "focus": [
         "避難状況"
@@ -488,7 +488,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T03:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WERrT0NFVnpNbGZYM0VzWnhoeEU4X1JudVFYajc1Wnk0RUI4aGxuVlJjYmVkTmFwWGNyQWRMSDR0U0FLTTdYeGxYRHRuTEtDOGhPaFJLN3RyeXQ2WThJNmw0aw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2xYd3dIVFpCeVVCTGVWVXpUYU5ZM2thUDlMUEJiNzNYYm5PYWJSZ2NTTDlOZFJxbGxDNEd4eG42VHFjcE15N2M2RXAzSmJCeTFzTi1PQmRxNmhpYmJIb0N5dHhab2c2UElISkFZTU40SVl2TTJ2bmxEbnkzbFJLRg?oc=5",
       "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
@@ -776,7 +776,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
