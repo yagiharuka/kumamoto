@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T08:00:58Z",
-  "updated_at_jst": "2026/08/12 17:00 JST",
+  "updated_at": "2026-08-12T08:30:54Z",
+  "updated_at_jst": "2026/08/12 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 959,
+  "article_count": 961,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "asahi": 114,
+    "jiji": 163,
     "sankei": 162,
-    "asahi": 113,
-    "jiji": 162,
     "kumanichi": 140,
     "mainichi": 122,
     "nikkei": 56,
@@ -76,11 +76,42 @@
     }
   ],
   "category_counts": {
-    "aeon": 773,
+    "aeon": 775,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "95e907b224db0b232899",
+      "title": "イオン爆発、教訓生かすには 安全確認できるまで従業員「戻さない」 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T08:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53Rl9MRDRhUmw5c2xvU3dTdUtLbmNYUExIYnlLbzBkU1U2eHFEbHpvUW5panYwZWxnSUtpaldCQ0JScWl5MkZoUlBzTTBBaDR4ZnRLMlRjU1JSV285ZHFaV09sQVVCYUU?oc=5",
+      "first_seen": "2026-08-12T08:30:54Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f4b68339cd0287e2d256",
+      "title": "◎イオン、遺族に補償の方針 熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:47:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50Z0l2QVZFOGtTSWZMUjBIQ3Vxc19lSEZrd3NEUzhaYWVpOTVmQjZmYjhlbXpMUGV3UVhtOHFzQndSVzYyZVhSakpUM21vdXVhRGZCZQ?oc=5",
+      "first_seen": "2026-08-12T08:30:54Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "888f7d937ba288fccf7c",
       "title": "雑貨店の運営会社「ハビタ」、第三者委設置検討 イオンモール熊本の爆発で2人死亡",
@@ -120,7 +151,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10VGpoR01fNmdhaGZZLXpKd0hueHNqSnJ1eVc5OUpNLVo4bHBqZkVTcEtudUU3TlhPWXhLMnBQWEsxczlvWmRHTlEzRkR6VEUtX05Dcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UXNETGVlUUFURF9SSVB6SXdfTXUwdDZZeURTV1I0VUtLOGNMbURCSWVYR0VqWUpGa2FERUpGdTBZbmc2WE56WHdVSnVaQW1wTnRUN0xMZWxlSFRVd0E?oc=5",
       "first_seen": "2026-08-12T07:31:03Z",
       "focus": [
         "現場状況"
@@ -288,7 +319,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T03:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2xYd3dIVFpCeVVCTGVWVXpUYU5ZM2thUDlMUEJiNzNYYm5PYWJSZ2NTTDlOZFJxbGxDNEd4eG42VHFjcE15N2M2RXAzSmJCeTFzTi1PQmRxNmhpYmJIb0N5dHhab2c2UElISkFZTU40SVl2TTJ2bmxEbnkzbFJLRg?oc=5",
       "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
