@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T04:00:52Z",
-  "updated_at_jst": "2026/08/12 13:00 JST",
+  "updated_at": "2026-08-12T04:30:56Z",
+  "updated_at_jst": "2026/08/12 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 946,
+  "article_count": 947,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "mainichi": 121,
     "jiji": 161,
     "kumanichi": 137,
-    "asahi": 111,
     "sankei": 161,
+    "asahi": 111,
     "nhk": 79,
     "nikkei": 55,
-    "yomiuri": 122,
-    "mainichi": 120
+    "yomiuri": 122
   },
   "tracked_categories": [
     {
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 760,
+    "aeon": 761,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "727a7bbd5cd4c8771a53",
+      "title": "熊本地震 イオン「一時入館認めた」 遺族に補償方針",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T04:02:31Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdHNmeGdqb2xBNXpFckQtbzN2YlAyMmpwLWV1TzBLeHBCbTUtdDNfUzB6UEwzNHprOUZLZ2VsLVBFa0tVbG5wM3UxSWcxdGdxNzZLX3JUXzNnclllalk1aW1UbzhMajVY?oc=5",
+      "first_seen": "2026-08-12T04:30:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "045f68339d856888babc",
       "title": "イオン、爆発事故遺族に補償の意向=「早期に対応」―熊本地震",
@@ -138,6 +152,22 @@
       "published_at": "2026-08-12T02:46:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQWtDcXJ1SXVLMkQ1WFNKVG1vTmN6ZHpzLWIzbjFiTWNmV0hoTXBrbXgtSHdJVEQzVFRpSUtOS0kyNGhiUGFRbTg1blVfUFE?oc=5",
       "first_seen": "2026-08-12T03:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "80b4e90c1a21053da44e",
+      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T02:38:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelcya1BDSXRlYVg0eDZkSXNkM09nYWRMLUxjU2dRZXRSUXhfRU5UVDJTMGRpWkhvWUpPaTNYZ1o2OTNhc295Q0YyaFBpN1pNeDZYUVl2VENPR1o5NmlYVzNfdWs5cm1oZXkwZnBiNnc5TEpQSTRSeml5QWNBQTU4a05UZGNwVWl1bXZoQ2lxMHFfdlh3VGhITFhfVnRQQ09tb1E?oc=5",
+      "first_seen": "2026-08-04T04:00:29Z",
       "focus": [
         "現場状況"
       ],
@@ -2712,22 +2742,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "80b4e90c1a21053da44e",
-      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T01:50:24Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGtweUZseWdGVnhoWlRwLTBtWUJUMy1yMGNSVEpBWVZaT3pzcWVUV0toSmViWmRVcHo2YkdqZGo5aG1Ecld0TTBkTFJ3d3hTT3dXRFJzMkZkc25lV1ZiMTdTelZjYzc2dHBpbW9sR0ctWndiRmpkOW9BVXo2YTlsaS1ZdVpyMnJhSXgzbF9xZjZVNF8xaDlkTGk2aXBlcXRWNnc?oc=5",
-      "first_seen": "2026-08-04T04:00:29Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
