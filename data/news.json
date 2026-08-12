@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T03:30:54Z",
-  "updated_at_jst": "2026/08/12 12:30 JST",
+  "updated_at": "2026-08-12T04:00:52Z",
+  "updated_at_jst": "2026/08/12 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 942,
+  "article_count": 946,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "jiji": 161,
     "kumanichi": 137,
+    "asahi": 111,
     "sankei": 161,
     "nhk": 79,
     "nikkei": 55,
-    "jiji": 158,
     "yomiuri": 122,
-    "asahi": 110,
     "mainichi": 120
   },
   "tracked_categories": [
@@ -76,11 +76,59 @@
     }
   ],
   "category_counts": {
-    "aeon": 756,
+    "aeon": 760,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "045f68339d856888babc",
+      "title": "イオン、爆発事故遺族に補償の意向=「早期に対応」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T03:38:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYlhvNDBYWGJLSndBQnRnb1dpc1hRMUJraTU1RVBjMXJnUWx1SjhjeWtVS2hnbW1YSjFqbmRnYXFXYmZoc05uSF9yQjVVRXJDbHZObg?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c614a36787100877b5c8",
+      "title": "イオン、爆発事故遺族に補償の意向 「早期に対応」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T03:38:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "106d38c3dd363c1b4ad9",
+      "title": "【速報】イオンは、イオンモール熊本の爆発事故の遺族に補償を行う意向を明らかにした",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T03:25:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dTBDMl83UC1aWlNoNjFnTTB4amhRSEgzXzEzTHllenlpOFk0REs3dTJZUVNhQUNRN3RYMzgyb1lXR2drZEttREVQTGVVRFNwMEZwN2RoR0FCNmdzNi1rYllNVmJKZw?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "ca3eb544f94ce87059ce",
       "title": "イオン、爆発事故巡り遺族に補償の意向 (共同通信)",
@@ -90,6 +138,22 @@
       "published_at": "2026-08-12T02:46:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQWtDcXJ1SXVLMkQ1WFNKVG1vTmN6ZHpzLWIzbjFiTWNmV0hoTXBrbXgtSHdJVEQzVFRpSUtOS0kyNGhiUGFRbTg1blVfUFE?oc=5",
       "first_seen": "2026-08-12T03:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "bd38d79ab8a2760853e5",
+      "title": "熊本地震の現場は イオン爆発の実相、地上に現れた活断層...発災2週間の被災地はいま #2332",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T00:41:51Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3lmb3RwNl9MMTBvQlBzOVFRcHM5d25QVG5fZnFYZUtyN3Q4MFRldWxqU3VTVmQ1WGdLZ2hWSzhVUURCWlVCV2twSHpJS2R2ZkdKWUNRUXdQNWUtUlZfYndBVkZLNnpHcmxBUXl4bWJKY0luSzFLaU9XT0RqalZlRHNfVWJpRnVBekUzTmJ2UnNJQQ?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
       ],
@@ -1975,7 +2039,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDEwSUxkejJnZGN1YWdLdi15aTlyck9oYWtCV2l4SE9UZ2xSQm1zQ3N6b0xUMVVsOTgtdXJ2N3F5TlpEZnRqOTlid3ZVSEdxLWlXZHJPa2hMUktYanZ3RHpJbFlJMW1tT0s3VDRZNkY2cDZYSUdXNEpkV2tILTlOX2FB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWJ5VmhiMUxFaTJUd2pIMjRoZDNTYm9iWjRYNDFUM2ZYYTJFVVhpaElUY2Y0LVcyVjdXVmdES25fS3pxdUdqRlE2SVFWZTY4Y1ZFT0g1RVdHTHZMd21YV25LQmFsbXVFNnNfeV9CNE9kUFdYQ2E3UUhsZnVlanR1UjNB?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
