@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T05:00:55Z",
-  "updated_at_jst": "2026/08/12 14:00 JST",
+  "updated_at": "2026-08-12T05:30:56Z",
+  "updated_at_jst": "2026/08/12 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 947,
+  "article_count": 950,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 125,
     "mainichi": 121,
     "jiji": 161,
     "kumanichi": 137,
     "sankei": 161,
     "asahi": 111,
     "nhk": 79,
-    "nikkei": 55,
-    "yomiuri": 122
+    "nikkei": 55
   },
   "tracked_categories": [
     {
@@ -76,11 +76,59 @@
     }
   ],
   "category_counts": {
-    "aeon": 761,
+    "aeon": 764,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "38529522e7005f42b75b",
+      "title": "熊本地震:イオン、再入館許可「一切ない」と否定していたが...「許可を得て入館した」証言が相次いでいた",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T05:20:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MblpQaEtvMHJhSmxzQkxaQ1FVdEo0Y21wbk9mVXdwWVBGejkzbmlpajdNMW9lZ2NublpGcnBWVDlJUkw4OWNIdHdfWVZBemxKeTdmTjdVYUFKUEtvcmJ5TmcxdjRhNEJwTjR6QVV6dEM2UQ?oc=5",
+      "first_seen": "2026-08-12T05:30:56Z",
+      "focus": [
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f94dea7e82f55b38e395",
+      "title": "熊本地震:イオンが再入館「許可」、爆発事故の遺族「何をもって安全と判断したのか」「同じ犠牲を出さないで」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T05:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QaHFPdWdQeFNPazM2ajdhVmg5WFVjVzVmT19ac1RDUHFMcXB0a0huZ20wQ1E5emRzUGtQUmx6bXJsbEZlc2VncVQtaEVoNFBab0pHNWtidGlVRE1PRENiQ2haQUhGNFVGZEgtU1dXZW9lQQ?oc=5",
+      "first_seen": "2026-08-12T05:30:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ffdd658d0ebe27a6b513",
+      "title": "イオンモール熊本の爆発事故、イオン「再入館認めた」現場判断で...社長ら遺族を訪ね謝罪:地域ニュース",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T05:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRmxPV3JaR2dRRG1VMVZiODZPNkttNnRwOUdPanJhckhsNlJXMGlNdHJxZnN4WVl0UTBLQkg5MC10amMwc2ZYZ0t0VE1nbmIzWnRtZG1LV0FxX0hXVUFpSHY2RTdTX1pKQjduN3N3eUh5Zw?oc=5",
+      "first_seen": "2026-08-12T05:30:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "727a7bbd5cd4c8771a53",
       "title": "熊本地震 イオン「一時入館認めた」 遺族に補償方針",
