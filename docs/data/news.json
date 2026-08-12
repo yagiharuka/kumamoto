@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T23:30:42Z",
-  "updated_at_jst": "2026/08/12 08:30 JST",
+  "updated_at": "2026-08-12T00:00:43Z",
+  "updated_at_jst": "2026/08/12 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 939,
+  "article_count": 940,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 160,
+    "sankei": 161,
     "kumanichi": 136,
     "nhk": 79,
     "nikkei": 55,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 753,
+    "aeon": 754,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "e1db6bca605763770aa1",
+      "title": "爆発の起きた「イオンモール熊本」で献花を終え、取材に応じる熊本県の木村敬知事(中央右)=8月11日午後、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T14:04:36Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1RjekVNYkEtYVQwVlJyNjE2VDhxNnBhOENmUHh0bkxteDZtQmZOcmFNeWZCaE9hY080YUFJMFVHT1V5NzNjMXE4SkZJVjJRWVFMeGo0SjVvMFFnendKd29VWndVdUN1THVvbC1DaFdld2xTLTg0YV9rdjl5SGo5aGZfbVVkN1d6NHh2c2pDSmFra1dzdWdOQXNYeFJWZ0ZOUUE?oc=5",
+      "first_seen": "2026-08-12T00:00:43Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "dcb2bf039c8d8d307a44",
       "title": "イオンモール熊本爆発、木村知事「避難できたことは評価」再入館は「誤った判断なら問題」",
@@ -479,22 +495,6 @@
       ]
     },
     {
-      "id": "c18f27277b30e43a30a7",
-      "title": "【速報】イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T03:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "261ddbc9d82124b2bc26",
       "title": "イオンモール熊本 爆発事故 避難後一時入館認めたと会社が発表",
       "source": "NHK",
@@ -602,6 +602,22 @@
       "published_at": "2026-08-10T22:06:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c18f27277b30e43a30a7",
+      "title": "イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-10T19:48:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aV29XNjhEYnVVSG93NDY0ZGQyUUFPaDFTRGN0WUtIcFUxUkJoUk40VGJ4TnJmX2VhUW0xblpLWTRoUnZJVEt3TG9uMDJENjlNcGl6MQ?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
       ],
@@ -3525,6 +3541,22 @@
       ]
     },
     {
+      "id": "96321d9b5f58e49f47e4",
+      "title": "医療機関、被災80カ所超 熊本地震で断水、停電(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-02T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ocG5pQmNSeHBKN0w4aGZFVVFXbHE4NWNxSnBBcG1sRlBQQkJLRjdIU1NzbWkyTHNqN2xWa1M4Nmx3aHcxS0Z5dGd5UXFNakk?oc=5",
+      "first_seen": "2026-08-02T07:00:17Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "9e6d83d6ce7b7db90ccb",
       "title": "2026年熊本地震>「責任感強い子だった」 イオンモール爆発で犠牲の大竹さん通夜 一度退避、店舗へ戻る 同僚女性の葬儀も",
       "source": "熊本日日新聞",
@@ -3603,22 +3635,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "96321d9b5f58e49f47e4",
-      "title": "医療機関、被災80カ所超 熊本地震で断水、停電(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-02T06:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ocG5pQmNSeHBKN0w4aGZFVVFXbHE4NWNxSnBBcG1sRlBQQkJLRjdIU1NzbWkyTHNqN2xWa1M4Nmx3aHcxS0Z5dGd5UXFNakk?oc=5",
-      "first_seen": "2026-08-02T07:00:17Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
