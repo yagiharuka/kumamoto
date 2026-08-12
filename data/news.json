@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T14:01:01Z",
-  "updated_at_jst": "2026/08/12 23:01 JST",
+  "updated_at": "2026-08-12T14:31:03Z",
+  "updated_at_jst": "2026/08/12 23:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 971,
@@ -100,7 +100,7 @@
     },
     {
       "id": "76ddc9ed1946757c1570",
-      "title": "<2026年熊本地震>イオン側が遺族に直接謝罪 モール社長ら「しっかり対応」",
+      "title": "<2026年熊本地震>イオン側が遺族に直接謝罪 イオンモール社長ら「しっかり対応」",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -284,6 +284,22 @@
       ]
     },
     {
+      "id": "c614a36787100877b5c8",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "first_seen": "2026-08-12T09:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2427761c6a9e1dbee94a",
       "title": "ハビタ、第三者委員会設置を検討 イオンモール熊本爆発で2人死亡(共同通信)",
       "source": "熊本日日新聞",
@@ -445,22 +461,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdHNmeGdqb2xBNXpFckQtbzN2YlAyMmpwLWV1TzBLeHBCbTUtdDNfUzB6UEwzNHprOUZLZ2VsLVBFa0tVbG5wM3UxSWcxdGdxNzZLX3JUXzNnclllalk1aW1UbzhMajVY?oc=5",
       "first_seen": "2026-08-12T04:30:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T03:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
-      "first_seen": "2026-08-12T09:00:57Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -2515,20 +2515,6 @@
       ]
     },
     {
-      "id": "e89b9643f7197bd534aa",
-      "title": "地震の爪痕が残る日本製紙八代工場(酒井真大撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T10:44:19Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1Q1dl80R1BzY21OdUk0UDZhSncxMG9NVHlqMWNQSl9wanlkQUs3VTJCdXRSaXU5OXUtNTBFZnlOUWsyUk5vbnpCdE5aOGRMN3BtV0NqSU0yYUFKMnktTlpwdjF4ZWREWnF2bXd4V0lPd2x6OHI0d0lFX0lQWUtBYkpVZk1KZVo0Z2tlZERQVDd5cF9sdF91NEJMZl9JcHhnbkE?oc=5",
-      "first_seen": "2026-08-04T14:01:10Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "3c3fc18ba2e0f49e5584",
       "title": "爆発から1週間を迎えるイオンモール熊本=8月4日午後2時55分、熊本県嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -2566,20 +2552,6 @@
       "source_group": "通信社",
       "published_at": "2026-08-04T09:47:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "e8496900bc5341c0cf4a",
-      "title": "日本製紙社長ら5日に記者会見 八代工場9人死亡、経緯説明へ―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T09:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeWI3cDk3MEE3d2VzckRvY1gybjdPVUV6WFlJSFlEY2JxeS1EaUN2bHpwREhGYzV6a3h4VGtfQkxWWnNkZEZGUGhWeUM4cFc0ck12TlJpUTExQ3hwVDlYaWVVNA?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -2932,6 +2904,50 @@
       ]
     },
     {
+      "id": "e89b9643f7197bd534aa",
+      "title": "地震の爪痕が残る日本製紙八代工場(酒井真大撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1Q1dl80R1BzY21OdUk0UDZhSncxMG9NVHlqMWNQSl9wanlkQUs3VTJCdXRSaXU5OXUtNTBFZnlOUWsyUk5vbnpCdE5aOGRMN3BtV0NqSU0yYUFKMnktTlpwdjF4ZWREWnF2bXd4V0lPd2x6OHI0d0lFX0lQWUtBYkpVZk1KZVo0Z2tlZERQVDd5cF9sdF91NEJMZl9JcHhnbkE?oc=5",
+      "first_seen": "2026-08-04T14:01:10Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "2fab59471e83b81599c3",
+      "title": "イオン避難後「中へ戻っていい」 社長説明と異なる複数人の動き再現 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yWEdCam9vLVVCVi13TnVkajFJSWprc1VqOEFHS2h0YXZxb0drNUNqU29waFMzcWdfMVg3QWpwY0JDcFdYRDhXeFpXWjFzWXh5U1hiZlR6SUFHTzFkTmVFaXlpRk1aQm8?oc=5",
+      "first_seen": "2026-08-04T01:00:38Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e8496900bc5341c0cf4a",
+      "title": "日本製紙社長ら5日に記者会見 八代工場9人死亡、経緯説明へ―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeWI3cDk3MEE3d2VzckRvY1gybjdPVUV6WFlJSFlEY2JxeS1EaUN2bHpwREhGYzV6a3h4VGtfQkxWWnNkZEZGUGhWeUM4cFc0ck12TlJpUTExQ3hwVDlYaWVVNA?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "aa2d7e108a09cce1f739",
       "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
       "source": "時事通信",
@@ -3220,22 +3236,6 @@
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "2fab59471e83b81599c3",
-      "title": "イオン避難後「中へ戻っていい」 社長説明と異なる複数人の動き再現 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yWEdCam9vLVVCVi13TnVkajFJSWprc1VqOEFHS2h0YXZxb0drNUNqU29waFMzcWdfMVg3QWpwY0JDcFdYRDhXeFpXWjFzWXh5U1hiZlR6SUFHTzFkTmVFaXlpRk1aQm8?oc=5",
-      "first_seen": "2026-08-04T01:00:38Z",
-      "focus": [
-        "避難状況"
       ],
       "category_ids": [
         "aeon"
