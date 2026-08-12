@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T10:30:55Z",
-  "updated_at_jst": "2026/08/12 19:30 JST",
+  "updated_at": "2026-08-12T11:00:56Z",
+  "updated_at_jst": "2026/08/12 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 968,
@@ -81,6 +81,23 @@
     "paper": 91
   },
   "items": [
+    {
+      "id": "b28ef12f6e89ac6f5baa",
+      "title": "2026年熊本地震>イオン「避難後、一時入館認めた」 遺族補償「早期に対応」 地震後の爆発事故巡り",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-12T10:24:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LS1ZuWkhQTndMdExqRTlRanJhRlJzNFlna3p3ZzJmLTAzbXh4bEU3akszdDFqR2YxVGpqVkJHZXRvTUtYZ29XMzF1M0RNWlU?oc=5",
+      "first_seen": "2026-08-11T09:00:40Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "76ddc9ed1946757c1570",
       "title": "<2026年熊本地震>イオン側が遺族に直接謝罪 モール社長ら「しっかり対応」",
@@ -622,23 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DWTctaTlBWkxNZE9Yc3VRckxFak14WnVlYUczc3pKVFdveHJNYXNJeFZUUWd3dWlyRW52N2MzM2hLZFVRcnA4VHkzQ2FrZWs?oc=5",
       "first_seen": "2026-08-11T09:00:40Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b28ef12f6e89ac6f5baa",
-      "title": "<2026年熊本地震>「避難後、一時入館認めた」 イオン、聞き取りで確認 地震後の爆発事故巡り",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-11T08:25:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LS1ZuWkhQTndMdExqRTlRanJhRlJzNFlna3p3ZzJmLTAzbXh4bEU3akszdDFqR2YxVGpqVkJHZXRvTUtYZ29XMzF1M0RNWlU?oc=5",
-      "first_seen": "2026-08-11T09:00:40Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -2871,6 +2871,23 @@
       ]
     },
     {
+      "id": "4930083338a89af28da5",
+      "title": "「言葉にならんばい」煙突が折れた日本製紙八代工場内にいた男性は...熊本地震ルポ",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zd2ZXcGtFdGw2aFFXeGU5MGI1Z3NyOHlXaGRGbWVkMEtueVhVSnZhTGtiMjViOXBBb0FXMEZaai04amFQRldXVmtUc3p2bDVzRFppS0hCWHR1NTFDRkdYSm9VUUJMLTVTZ3paWmp5ZGxzdw?oc=5",
+      "first_seen": "2026-08-04T03:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "aa2d7e108a09cce1f739",
       "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
       "source": "時事通信",
@@ -2990,23 +3007,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "4930083338a89af28da5",
-      "title": "「言葉にならんばい」煙突が折れた日本製紙八代工場内にいた男性は...熊本地震ルポ",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T02:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zd2ZXcGtFdGw2aFFXeGU5MGI1Z3NyOHlXaGRGbWVkMEtueVhVSnZhTGtiMjViOXBBb0FXMEZaai04amFQRldXVmtUc3p2bDVzRFppS0hCWHR1NTFDRkdYSm9VUUJMLTVTZ3paWmp5ZGxzdw?oc=5",
-      "first_seen": "2026-08-04T03:00:36Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
