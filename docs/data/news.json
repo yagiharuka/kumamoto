@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T20:00:55Z",
-  "updated_at_jst": "2026/08/13 05:00 JST",
+  "updated_at": "2026-08-12T20:30:59Z",
+  "updated_at_jst": "2026/08/13 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 974,
+  "article_count": 976,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
-    "mainichi": 123,
+    "asahi": 116,
+    "mainichi": 124,
     "nikkei": 57,
-    "asahi": 115,
     "kumanichi": 143,
     "sankei": 165,
     "nhk": 80,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 788,
+    "aeon": 790,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "efdb8930d93ab572bbde",
+      "title": "(2026熊本地震)「再入館認めた」イオン謝罪 遺族に説明 補償「早期に対応」",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbkpFLVJwVS1rR25fMmYyQV9xSXFCWUtfcE1GcEhxb1NEc3Z5a3g0aVo4SFdhSkhrNVRKZjJFcXVEQ183ZE1nMWZwNHBWclY2N2pqNmM0YmNoSW0x?oc=5",
+      "first_seen": "2026-08-12T20:30:59Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "15ceef675f1db47ece63",
       "title": "熊本地震 イオン、再入館認める 遺族に早期補償へ",
@@ -90,6 +104,20 @@
       "published_at": "2026-08-12T17:03:40Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcjA4WUZfX1FCUEFfWGFzV3dGT1MyejV3TWJDalA3di1ZTEprUVJpQUh5bWdnZndlUEktQV93RHk5T0tZUnhRNVpUV0ttZzBNWmh0SzhMWFdiMGtxa2ljc0xrcGU0dS1M?oc=5",
       "first_seen": "2026-08-12T17:30:53Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "118ab74c3fc7f9c9a08d",
+      "title": "熊本地震 再入館の判断、現場任せ 想定外要望、イオン許可",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T17:02:53Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWXB1ME9Wd0xzTXFfTjJGVm8zSVQ3LU9xTUJFdUJ2TjFySmp6c0V5bm1uQTJPZmZYclMxZFpkYThSbmk0MExkbG5LS2pQUGxGRnVYUlBJZnpTNnpIUHpWWFFRVUdEV1Nf?oc=5",
+      "first_seen": "2026-08-12T20:30:59Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -823,7 +851,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -1060,8 +1088,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
+      "published_at": "2026-08-11T03:34:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2530,22 +2558,6 @@
       ]
     },
     {
-      "id": "11bcd6ae2d60b8eae4f6",
-      "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-04T11:06:21Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TnF6ZTNHazREbWtDd01McDJFdFNqMzVYZllFN2dWUGlCVmlRdmxGUnZ2c002VnJCRGpSNVgzYks0WERCOXV5NGtkaHdPbFE?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "897d42a95d92e4439c28",
       "title": "爆発が起きたイオンモール熊本で、手を合わせる親子=4日午後4時12分、嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -2962,6 +2974,22 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "11bcd6ae2d60b8eae4f6",
+      "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TnF6ZTNHazREbWtDd01McDJFdFNqMzVYZllFN2dWUGlCVmlRdmxGUnZ2c002VnJCRGpSNVgzYks0WERCOXV5NGtkaHdPbFE?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -10905,7 +10933,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFExdTlsT3djLW5FN3o5VXlMN0loM0RRVWJLNEZMZXRPUktid0dHSV9taEhQXzM0MHJ5N0tva1NJTkJFN2Y0ZWVfbVFxVkw3RHJuUy1mRHVDNHA3YzR4RzlpZmpfSHRuNE5xNnhUQmxlSzVYZ0RQMVBPejFuVDZHcmF0Q0tJWE16YjZrUFZJMjhBQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
