@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T21:00:59Z",
-  "updated_at_jst": "2026/08/13 06:00 JST",
+  "updated_at": "2026-08-12T21:30:56Z",
+  "updated_at_jst": "2026/08/13 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 976,
+  "article_count": 977,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "mainichi": 125,
     "asahi": 116,
-    "mainichi": 124,
     "nikkei": 57,
     "kumanichi": 143,
     "sankei": 165,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 790,
+    "aeon": 791,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "36311eb73cc5b9764209",
+      "title": "毎小ニュース:災害 イオン「一時入館認めた」 熊本地震",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T21:05:02Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54RlUwY3ZvM0JFQllhU09mMkpMSkZfRHliWV93VEhzR25JcjZ3cExtbVJZZ3hnUEhJWHFFVnAyb05ReGVGT1Z4MHVYY1kteHhJTjBtQmVqMmZ6MkJiMlM5OFJKTnVFdDVXQTlmNlp4WEQtZw?oc=5",
+      "first_seen": "2026-08-12T21:30:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "efdb8930d93ab572bbde",
       "title": "(2026熊本地震)「再入館認めた」イオン謝罪 遺族に説明 補償「早期に対応」",
@@ -2558,6 +2572,22 @@
       ]
     },
     {
+      "id": "11bcd6ae2d60b8eae4f6",
+      "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T11:06:21Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TnF6ZTNHazREbWtDd01McDJFdFNqMzVYZllFN2dWUGlCVmlRdmxGUnZ2c002VnJCRGpSNVgzYks0WERCOXV5NGtkaHdPbFE?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "897d42a95d92e4439c28",
       "title": "爆発が起きたイオンモール熊本で、手を合わせる親子=4日午後4時12分、嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -2974,22 +3004,6 @@
       "focus": [],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "11bcd6ae2d60b8eae4f6",
-      "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TnF6ZTNHazREbWtDd01McDJFdFNqMzVYZllFN2dWUGlCVmlRdmxGUnZ2c002VnJCRGpSNVgzYks0WERCOXV5NGtkaHdPbFE?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
