@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T18:00:57Z",
-  "updated_at_jst": "2026/08/13 03:00 JST",
+  "updated_at": "2026-08-12T18:30:55Z",
+  "updated_at_jst": "2026/08/13 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 974,
@@ -1022,6 +1022,22 @@
       ]
     },
     {
+      "id": "c18f27277b30e43a30a7",
+      "title": "【速報】イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T03:54:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "261ddbc9d82124b2bc26",
       "title": "イオンモール熊本 爆発事故 避難後一時入館認めたと会社が発表",
       "source": "NHK",
@@ -1129,22 +1145,6 @@
       "published_at": "2026-08-10T22:06:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c18f27277b30e43a30a7",
-      "title": "イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-10T19:48:26Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aV29XNjhEYnVVSG93NDY0ZGQyUUFPaDFTRGN0WUtIcFUxUkJoUk40VGJ4TnJmX2VhUW0xblpLWTRoUnZJVEt3TG9uMDJENjlNcGl6MQ?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "現場状況"
       ],
