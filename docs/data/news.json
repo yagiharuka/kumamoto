@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T09:00:57Z",
-  "updated_at_jst": "2026/08/12 18:00 JST",
+  "updated_at": "2026-08-12T09:30:53Z",
+  "updated_at_jst": "2026/08/12 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 963,
+  "article_count": 967,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 141,
-    "asahi": 114,
+    "kumanichi": 142,
+    "sankei": 163,
+    "asahi": 115,
+    "nhk": 80,
     "jiji": 164,
-    "sankei": 162,
     "mainichi": 122,
     "nikkei": 56,
-    "yomiuri": 125,
-    "nhk": 79
+    "yomiuri": 125
   },
   "tracked_categories": [
     {
@@ -76,11 +76,41 @@
     }
   ],
   "category_counts": {
-    "aeon": 777,
+    "aeon": 781,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "db31393f495b3e54e2e4",
+      "title": "イオン複数社員が再入館を許可 安全確認完了前、熊本地震(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-12T09:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYWNiX0lTejkyQ3ZPWGx4Si1NcEhxQWNTN2tkY0JFTklyZ2VoX05FVktIR0Y5WEE5VFRrUnVlek8wYkVIWTN5SU83WWxxYnc?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "84ef70b802d3d0988843",
+      "title": "イオンモール熊本爆発で2人犠牲「ハビタ」、遺族への「補償を模索」 第三者委も「検討」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T09:10:56Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55anVZcHdWT25oZHl0RzVHcE5Tb3dQRmdOdDdJR0c1YjJGX0hmWjdNNl9UYkdWM0dGNFlmb19vZWRZRVRoSVNsWGdUUW9XMEw0Z0pjUzVyMnUwVm1qbTVfbXZXcENRaTh0R3B4S3hZVkxzOGVrNmc?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "58c8e6eed960656a762c",
       "title": "妹亡くした男性「事実知りたい」 イオン爆発、再入館巡り情報錯綜(共同通信)",
@@ -115,6 +145,38 @@
       ]
     },
     {
+      "id": "ae697571b2227d02d20c",
+      "title": "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-12T07:58:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieW1LeTJhWUgyNHhIUjdxSVZWYm9kUXFqWUtVUmhmUks1LWl2WkRGVGhESTlYTEhnOGZlcVI5WXg1ckdfd29wdE9oV29ud2NVTVN5dzV5SmFVY3VXNlFz?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cd0ddcc77081cb2f1d44",
+      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T07:55:05Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f4b68339cd0287e2d256",
       "title": "◎イオン、遺族に補償の方針 熊本地震",
       "source": "時事通信",
@@ -124,22 +186,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50Z0l2QVZFOGtTSWZMUjBIQ3Vxc19lSEZrd3NEUzhaYWVpOTVmQjZmYjhlbXpMUGV3UVhtOHFzQndSVzYyZVhSakpUM21vdXVhRGZCZQ?oc=5",
       "first_seen": "2026-08-12T08:30:54Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "888f7d937ba288fccf7c",
-      "title": "雑貨店の運営会社「ハビタ」、第三者委設置検討 イオンモール熊本の爆発で2人死亡",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T07:44:57Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKNV8zMHY3eDJVQ3l5M3lFY2RRcGRieU0tTmxmOGtsVm9FRkRVQWZLQ1p5UlZza3FlVXZFdmRFeWhPOGNwVjdPUUN1M3FwdlprcW5lVkdGOHJzUWJLV1JrQVRJZkpRRGF1YW9uekd4bDNkNkpHTlE?oc=5",
-      "first_seen": "2026-08-12T06:30:54Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -201,6 +247,22 @@
       "published_at": "2026-08-12T06:34:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90aU56Z2stWWJXaEFfZEZJbm9OWWw1ODFwRENkM2FIeXQtSGRpZ0ZVX1hYci10LTYxd0tkTTZaY1hHek9BRjluVGdNUHVTa3M?oc=5",
       "first_seen": "2026-08-12T07:00:55Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "888f7d937ba288fccf7c",
+      "title": "雑貨店の運営会社「ハビタ」、第三者委設置検討 イオンモール熊本の爆発で2人死亡",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T06:28:12Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKNV8zMHY3eDJVQ3l5M3lFY2RRcGRieU0tTmxmOGtsVm9FRkRVQWZLQ1p5UlZza3FlVXZFdmRFeWhPOGNwVjdPUUN1M3FwdlprcW5lVkdGOHJzUWJLV1JrQVRJZkpRRGF1YW9uekd4bDNkNkpHTlE?oc=5",
+      "first_seen": "2026-08-12T06:30:54Z",
       "focus": [
         "現場状況"
       ],
