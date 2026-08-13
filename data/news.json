@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T02:31:00Z",
-  "updated_at_jst": "2026/08/13 11:31 JST",
+  "updated_at": "2026-08-13T03:00:58Z",
+  "updated_at_jst": "2026/08/13 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 978,
@@ -881,7 +881,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -1118,8 +1118,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
+      "published_at": "2026-08-11T03:34:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -7744,14 +7744,14 @@
       ]
     },
     {
-      "id": "e8e89400f33e82e3edcc",
+      "id": "d0d2374978942fee24d2",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hNlBLLW4zMkJMWDdUZlRYd1o2RFFMeEtyRkNSeWM1eFVxMTZKeEpYZHdRMTE4OVZKS1JJbktSUGpKLTJRcTdOVUMwQ001anZ4U2dmaE91aG96MnJDNjRwb1dtSQ?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkZ4UnhvZC1ac2Y1dW1mZU5FcVE2OGlMdHFfcFM3eWJReTM4ZmphcnZXVW5Ybkxkb0dYTHF0MG0tbWlxbDdjX1dMVlpFZzlXTzZreHp3YkpvVTN6S0k2WFhzV0RyRzJMZGdqMnNIMzRKSVQ0Qy1LVm9UTWxFUmVfcm93?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -7762,14 +7762,14 @@
       ]
     },
     {
-      "id": "d0d2374978942fee24d2",
+      "id": "e8e89400f33e82e3edcc",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hNlBLLW4zMkJMWDdUZlRYd1o2RFFMeEtyRkNSeWM1eFVxMTZKeEpYZHdRMTE4OVZKS1JJbktSUGpKLTJRcTdOVUMwQ001anZ4U2dmaE91aG96MnJDNjRwb1dtSQ?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -8732,6 +8732,23 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "337937371ce94ad9760c",
+      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T12:53:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOGJwNmVMbmktSGFjOEV4Rml1ZjdVSW9KZnVJUzJHRE9wdzFYX2c2dnVjdU9iazRPTml1ZWdDdWZQSmpXN1hZakMtYWlpdGZPR0JtdG5BYXltS0hsb09uWndPTGo?oc=5",
+      "first_seen": "2026-07-29T12:01:02Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -11081,6 +11098,20 @@
       ]
     },
     {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "869d731b1d604f3af940",
       "title": "「真っ暗で煙吸った」 崩落のイオンモール、途絶えた彼女のLINE=公開停止 [熊本県]",
       "source": "朝日新聞",
@@ -11196,23 +11227,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "337937371ce94ad9760c",
-      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOGJwNmVMbmktSGFjOEV4Rml1ZjdVSW9KZnVJUzJHRE9wdzFYX2c2dnVjdU9iazRPTml1ZWdDdWZQSmpXN1hZakMtYWlpdGZPR0JtdG5BYXltS0hsb09uWndPTGo?oc=5",
-      "first_seen": "2026-07-29T12:01:02Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -15648,20 +15662,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
