@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T13:30:57Z",
-  "updated_at_jst": "2026/08/13 22:30 JST",
+  "updated_at": "2026-08-13T14:01:08Z",
+  "updated_at_jst": "2026/08/13 23:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 988,
+  "article_count": 989,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "kumanichi": 145,
     "yomiuri": 130,
-    "mainichi": 126,
+    "mainichi": 127,
     "asahi": 117,
     "nikkei": 57,
     "sankei": 165,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 801,
+    "aeon": 802,
     "power": 113,
     "paper": 91
   },
@@ -201,6 +201,22 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54RlUwY3ZvM0JFQllhU09mMkpMSkZfRHliWV93VEhzR25JcjZ3cExtbVJZZ3hnUEhJWHFFVnAyb05ReGVGT1Z4MHVYY1kteHhJTjBtQmVqMmZ6MkJiMlM5OFJKTnVFdDVXQTlmNlp4WEQtZw?oc=5",
       "first_seen": "2026-08-12T21:30:56Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aca86aa1750fa18a8982",
+      "title": "熊本地震 イオン爆発までの行動 詳細に",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T20:03:03Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oa0UxbzVXYl9UNUF4VUhnOTdMeXB3ZXRybEtGLXNsb2FSdGJ6d1lycDJGdkJzc2tFN09HZHVxVFVuazd0enQxZ1Rfa0E4YWxDVVk3Wm84NWpuejBPNkVNNk94Umt0Rm9Y?oc=5",
+      "first_seen": "2026-08-13T14:01:08Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -989,7 +1005,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -7991,7 +8007,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV1pvbG1rTS1LWkhkYm4yQ21ubXBnQ1RzMzhaNndFTy1WVlhQcnBtLXRhYmN5cUhCeEd4VWhyQmRQODBWMncta1oyNzBsb3pSY2FOMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbVNoQ1VGeHBmRW0yeG44RjRCZURHUzBfWmFWc3hBMVR5Z2hxOUdCbnowbldaUzNZYXU1OEg0NndzTHY0SmpFZVdBQ1Y4TVZ1Q08wdA?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
