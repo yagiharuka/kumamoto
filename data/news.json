@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T00:31:00Z",
-  "updated_at_jst": "2026/08/13 09:31 JST",
+  "updated_at": "2026-08-13T01:01:06Z",
+  "updated_at_jst": "2026/08/13 10:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 977,
+  "article_count": 978,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 126,
     "mainichi": 125,
     "asahi": 116,
     "nikkei": 57,
     "kumanichi": 143,
     "sankei": 165,
     "nhk": 80,
-    "jiji": 166,
-    "yomiuri": 125
+    "jiji": 166
   },
   "tracked_categories": [
     {
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 791,
+    "aeon": 792,
     "power": 112,
     "paper": 91
   },
   "items": [
+    {
+      "id": "b3d5725f951798ffd8ae",
+      "title": "「イオンモール熊本」爆発事故、再入館を認めたイオンが遺族に補償方針「法的責任の解明を待たず対応する」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T00:28:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTGxxWkhnbzRKQkJEbGxDaWU0ZUUxUnVwZVY4T2U0LTU2MXZJaHJha2NfdjhxUU8zR0g3djRPSGFoQTFFdFlYZzRnN0hrOG1ZZDlVWHNvQnBkWC0xZml4NEtxTVR0TE1JNHRZX2FFQXc2Zw?oc=5",
+      "first_seen": "2026-08-13T01:01:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "36311eb73cc5b9764209",
       "title": "毎小ニュース:災害 イオン「一時入館認めた」 熊本地震",
