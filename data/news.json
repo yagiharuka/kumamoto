@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T06:00:57Z",
-  "updated_at_jst": "2026/08/13 15:00 JST",
+  "updated_at": "2026-08-13T06:31:06Z",
+  "updated_at_jst": "2026/08/13 15:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 980,
+  "article_count": 982,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 126,
+    "yomiuri": 128,
     "mainichi": 125,
     "asahi": 117,
     "nikkei": 57,
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 793,
+    "aeon": 795,
     "power": 113,
     "paper": 91
   },
   "items": [
+    {
+      "id": "955912260055f8f3836c",
+      "title": "イオンモール熊本の爆発事故、再入館を許可したイオン側「個人ではなく全て会社の責任」...遺族「誠意が見えた」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T06:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IMW42UWN2VFZiSHZRUGxEbzAtRUxLTUtNLS13czVCWnF2dDJJZHFRUU1xU3QzRU43WnE1SUl2Z1NiX2tXVlZ4ejhMU0hFN1kzVEVDcXJwSHQ2TVJ4cE8yQ2JTQVBtTGFSYXdDMVNpUDRUZw?oc=5",
+      "first_seen": "2026-08-13T06:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2a1fd4674688aeec0a52",
+      "title": "イオンモール熊本の爆発事故、30年以上同居する妹が犠牲「海外留学中でいないだけ」...思い込もうとする兄",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T06:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
+      "first_seen": "2026-08-13T06:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "b3d5725f951798ffd8ae",
       "title": "「イオンモール熊本」爆発事故、再入館を認めたイオンが遺族に補償方針「法的責任の解明を待たず対応する」",
@@ -1118,8 +1150,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
+      "published_at": "2026-08-11T03:34:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2634,6 +2666,20 @@
       ]
     },
     {
+      "id": "2f30e7c81c53933e7670",
+      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T09:47:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "b6a7ddf99ebb36aec699",
       "title": "ガス遮断弁は作動したのか イオンモール熊本の惨劇 「想定外」の爆発と法的責任の行方(写真・画像 1/2)",
       "source": "産経新聞",
@@ -3038,20 +3084,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "2f30e7c81c53933e7670",
-      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
