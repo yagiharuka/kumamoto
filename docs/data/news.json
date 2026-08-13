@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T17:30:58Z",
-  "updated_at_jst": "2026/08/14 02:30 JST",
+  "updated_at": "2026-08-13T18:00:59Z",
+  "updated_at_jst": "2026/08/14 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 990,
@@ -1274,8 +1274,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
+      "published_at": "2026-08-11T03:34:02Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGxVSVltakJQWm1tQ0hJeXhOeXFUWHBVbXJ2MEFXLVpzZXUzLXI4dkNWQ3NHRFVDVmNxem1HNWpXVUdWRG5rTTNVbFJ4M2JrdU9mS2VyY3Fwc1diUjA5SVF3SjVxQXN3TFQyUkR2SlBCMGVUS3A0NHh5RTVMYTcyZXZ0UQ?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2307,24 +2307,6 @@
       ]
     },
     {
-      "id": "f8a0bea1e61683f7a567",
-      "title": "県立病院や高校には大型のLPガスタンクが...熊本地震「イオンモール熊本」爆発受け、県有施設のガス設備と煙突を緊急点検へ「事故たいへん衝撃的」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T07:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhZzZxdnBhX2ZjTGZ2ZWpma2VsOTdUQlF3RkYzYmhldEp4MG1TVk9WSHFFZHZQcEJBenZUdzhRaFpjRTB5ZFA1Q1FTNnlSLWFQNVZ0TkpwTHgxdzZWV1ByRzJjc1JYYjU0cnp4c2wySUg0Zw?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c33190ee85764298664a",
       "title": "イオンが事故調査委を設置 イオンモール熊本の爆発受け",
       "source": "毎日新聞",
@@ -2334,6 +2316,24 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcFc2bjhTNTRBWC1vNk5NUEtUQVBCZlBXY01pSk1lc0lMTW43VzFjN1BGdHNIY010dkpyVHNSYWJLTU1rRnNPaURGVVZJV1RSOGFKNGJCa0tDUnFIX0RvWEVqYjJWaTlH?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f8a0bea1e61683f7a567",
+      "title": "県立病院や高校には大型のLPガスタンクが...熊本地震「イオンモール熊本」爆発受け、県有施設のガス設備と煙突を緊急点検へ「事故たいへん衝撃的」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhZzZxdnBhX2ZjTGZ2ZWpma2VsOTdUQlF3RkYzYmhldEp4MG1TVk9WSHFFZHZQcEJBenZUdzhRaFpjRTB5ZFA1Q1FTNnlSLWFQNVZ0TkpwTHgxdzZWV1ByRzJjc1JYYjU0cnp4c2wySUg0Zw?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -7862,6 +7862,22 @@
       ]
     },
     {
+      "id": "bdf196178f09c8575e5f",
+      "title": "オンワード、イオンモール熊本で従業員1人が死亡と発表 2店出店",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "first_seen": "2026-07-30T13:00:19Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1b56826fc2c62bda5c64",
       "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も [2026年熊本地震]",
       "source": "朝日新聞",
@@ -7870,24 +7886,6 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTmFCUzc2MVp6dUJmbDBlVnR2d3JncllpTWtrWFJkeUxBaUowcDlTQk1CWTcwdDhnZ0daX0dPbzhKejVBaWVVRDA4VTVnTlBfbG1sbWJmc2lNeGFQbkpITlVTTlRwbG8?oc=5",
       "first_seen": "2026-07-30T14:00:11Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
       "focus": [
         "避難状況",
         "目撃証言",
@@ -10192,7 +10190,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCTHdIc2FzNk1JTTZYeGk1VGRMc3puMl82X25OejVFTDRYaUJxQlZuZ3pGUUt0azJkbW03TUJPQ0pPRDNtZFByQ2VRM2NPSUVZVGtQM2FzYXFMTHdtQkxtbEpjNUpxSTF6WFVQTG4xRUZScnJF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lZzQ4R24xelpLOUs3OElRa0JkSE45djV2c1lxckJXSTFjS3NWS0E5eTFLd3FOdVFUdVpnNzc1eVA2a0NqSU9oelhOeEc4V18xSWR6UnE1S1R1d0pwSDh6ZHk3YWpzWllyRGs3Z29fd0M2Zw?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "救助・安否",
@@ -11116,22 +11114,6 @@
       ]
     },
     {
-      "id": "bdf196178f09c8575e5f",
-      "title": "オンワード、イオンモール熊本で従業員1人が死亡と発表 2店出店",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EXzg3TW5fTGN0OU80U3d2LW00aVF0WFZnWmVaSVhjSnlEdnVzcW9qSko3OGNoTWRXVENtay1Pc3o1dDlHTVdNZW5kcERqSGhpUTgxNl9oWG9MUzFQSHh6dV9zVnJNc1lldlE?oc=5",
-      "first_seen": "2026-07-30T13:00:19Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "13ffb2af47fe27ecc6ec",
       "title": "イオン社長、きょう午後4時半から会見 イオンモール熊本の爆発受け [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -11205,6 +11187,24 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTU9NbFBVTVQ3ZC1saHU2aXBoeUF4UDJuTGtma2FxdlYwSEk0TGNlTjdLMHQxUGp2UXludVRpUmdVeW8yUl82amNEbnAzd0lZamg2Q1ctUDFlcVdiWVpTV0pXcEpjU3FGVXlDYktR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
