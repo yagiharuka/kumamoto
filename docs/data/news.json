@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T10:00:58Z",
-  "updated_at_jst": "2026/08/13 19:00 JST",
+  "updated_at": "2026-08-13T10:31:05Z",
+  "updated_at_jst": "2026/08/13 19:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 985,
+  "article_count": 986,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 144,
+    "kumanichi": 145,
     "yomiuri": 130,
     "mainichi": 125,
     "asahi": 117,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 798,
+    "aeon": 799,
     "power": 113,
     "paper": 91
   },
   "items": [
+    {
+      "id": "d8b9bf250af98d693ba6",
+      "title": "2026年熊本地震>「同じ犠牲者、二度と出さないで」 イオン爆発事故で妻亡くした男性 最後のデートかなわず後悔",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-13T10:02:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lTGJWSXY3RW1tWEo3M3JtSXc0R05PRnZDU1lJRk1BbWU3R2ZQR0dyaDVJQVVRc2NxTU8ya2tBU2VheG9Pcy1DMlAybDg5aWc?oc=5",
+      "first_seen": "2026-08-13T10:31:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "93f947340c1384caa638",
       "title": "イオンでイベント中止続出 熊本爆発事故で点検優先(共同通信)",
@@ -243,22 +259,6 @@
       "focus": [
         "避難状況",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "cd0ddcc77081cb2f1d44",
-      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T11:10:07Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
-      "focus": [
-        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -959,7 +959,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -1054,6 +1054,22 @@
       "published_at": "2026-08-11T04:15:06Z",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aN09fblRrTG0xSk9XWmduazY1ekRwbUJ3czBOMlVhel9YYXFGdHVlMXF1emEyS3ppZ25Tel9iM3VieU9KM2tLQWVseW9lcllITnVFbS1JcEhQRWlmc1JydzN3MHdLWExRNXd0ZzBRRTdzY2tEWnc4M1ZB?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cd0ddcc77081cb2f1d44",
+      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T04:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
       "focus": [
         "避難状況"
       ],
@@ -1196,8 +1212,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
+      "published_at": "2026-08-11T03:34:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2712,20 +2728,6 @@
       ]
     },
     {
-      "id": "2f30e7c81c53933e7670",
-      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T09:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "b6a7ddf99ebb36aec699",
       "title": "ガス遮断弁は作動したのか イオンモール熊本の惨劇 「想定外」の爆発と法的責任の行方(写真・画像 1/2)",
       "source": "産経新聞",
@@ -3130,6 +3132,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "2f30e7c81c53933e7670",
+      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -7896,7 +7912,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV1pvbG1rTS1LWkhkYm4yQ21ubXBnQ1RzMzhaNndFTy1WVlhQcnBtLXRhYmN5cUhCeEd4VWhyQmRQODBWMncta1oyNzBsb3pSY2FOMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mbVNoQ1VGeHBmRW0yeG44RjRCZURHUzBfWmFWc3hBMVR5Z2hxOUdCbnowbldaUzNZYXU1OEg0NndzTHY0SmpFZVdBQ1Y4TVZ1Q08wdA?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
