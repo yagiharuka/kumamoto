@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T07:00:56Z",
-  "updated_at_jst": "2026/08/13 16:00 JST",
+  "updated_at": "2026-08-13T07:30:58Z",
+  "updated_at_jst": "2026/08/13 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 983,
+  "article_count": 984,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 144,
     "yomiuri": 129,
     "mainichi": 125,
     "asahi": 117,
     "nikkei": 57,
-    "kumanichi": 143,
     "sankei": 165,
     "nhk": 81,
     "jiji": 166
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 796,
+    "aeon": 797,
     "power": 113,
     "paper": 91
   },
   "items": [
+    {
+      "id": "93f947340c1384caa638",
+      "title": "イオンでイベント中止続出 熊本爆発事故で点検優先(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-13T07:16:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PQnNpRVBTNVg5MmNvcGRUSUZTcXZ1ZFVzMjU0a1VoYThXNldEMUFua05GTk93bEZMOWxvMUpIM0N2VDNmTTRSWUplb0hjMTg?oc=5",
+      "first_seen": "2026-08-13T07:30:58Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "239e3413c7921d9550f8",
       "title": "イオンモール熊本の再入館許可、識者「施設に残った私物への対応など検討し実践的なマニュアルの整備が必要」",
@@ -1164,8 +1180,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
+      "published_at": "2026-08-11T03:34:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2197,22 +2213,6 @@
       ]
     },
     {
-      "id": "7365ff8ccffd6841ca19",
-      "title": "熊本 日本製紙 八代工場で救助活動 消防隊員が活動を振り返る",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-05T08:15:56Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04SzN5TlNWNWhMc0VRMGU3XzE4LWhsSENSZ052Y09lRjZHbDVZZ3F4ZUJFbndZaDhwVVRxbUxYWUJQaDNqNG5FbTZfdy1qZVJOUmN0TVJHZDY5T0IyczVv?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "f505ca27dcb78843a794",
       "title": "イオン、爆発事故で調査委設置 店員再入館「重く受け止め」―熊本地震:時事ドットコム",
       "source": "時事通信",
@@ -2360,6 +2360,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "7365ff8ccffd6841ca19",
+      "title": "熊本 日本製紙 八代工場で救助活動 消防隊員が活動を振り返る",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04SzN5TlNWNWhMc0VRMGU3XzE4LWhsSENSZ052Y09lRjZHbDVZZ3F4ZUJFbndZaDhwVVRxbUxYWUJQaDNqNG5FbTZfdy1qZVJOUmN0TVJHZDY5T0IyczVv?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
