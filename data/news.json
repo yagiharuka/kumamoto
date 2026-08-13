@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T18:00:59Z",
-  "updated_at_jst": "2026/08/14 03:00 JST",
+  "updated_at": "2026-08-13T18:31:06Z",
+  "updated_at_jst": "2026/08/14 03:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 990,
@@ -4425,6 +4425,23 @@
       ]
     },
     {
+      "id": "59484eb1f60dfc97c0d3",
+      "title": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T12:07:24Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
+      "first_seen": "2026-08-10T00:30:41Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "670845b3b80231babe11",
       "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -4647,23 +4664,6 @@
       "published_at": "2026-08-01T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XOGpmaU1xci1VUU43aDIweUFmV0ZiN1otc1lkbm5KV1RDQzJKVFkwOHhTS25qbGdHZ3ZpOUVnZHdnWGVkbDUyTWFlMC1nTEpiaER0NGE4VkZoZmhzYTdTYjRlTEo2Y1k?oc=5",
       "first_seen": "2026-08-01T13:00:12Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "59484eb1f60dfc97c0d3",
-      "title": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
-      "first_seen": "2026-08-10T00:30:41Z",
       "focus": [
         "救助・安否",
         "避難状況"
@@ -10190,7 +10190,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lZzQ4R24xelpLOUs3OElRa0JkSE45djV2c1lxckJXSTFjS3NWS0E5eTFLd3FOdVFUdVpnNzc1eVA2a0NqSU9oelhOeEc4V18xSWR6UnE1S1R1d0pwSDh6ZHk3YWpzWllyRGs3Z29fd0M2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCTHdIc2FzNk1JTTZYeGk1VGRMc3puMl82X25OejVFTDRYaUJxQlZuZ3pGUUt0azJkbW03TUJPQ0pPRDNtZFByQ2VRM2NPSUVZVGtQM2FzYXFMTHdtQkxtbEpjNUpxSTF6WFVQTG4xRUZScnJF?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "救助・安否",
