@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T16:00:56Z",
-  "updated_at_jst": "2026/08/14 01:00 JST",
+  "updated_at": "2026-08-13T16:30:57Z",
+  "updated_at_jst": "2026/08/14 01:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 990,
@@ -1274,8 +1274,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
+      "published_at": "2026-08-11T03:34:02Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGxVSVltakJQWm1tQ0hJeXhOeXFUWHBVbXJ2MEFXLVpzZXUzLXI4dkNWQ3NHRFVDVmNxem1HNWpXVUdWRG5rTTNVbFJ4M2JrdU9mS2VyY3Fwc1diUjA5SVF3SjVxQXN3TFQyUkR2SlBCMGVUS3A0NHh5RTVMYTcyZXZ0UQ?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2303,24 +2303,6 @@
       ]
     },
     {
-      "id": "1c3d320faea79be06b96",
-      "title": "イオン、熊本の爆発事故で調査委を設置へ 避難解除前の再入館を検証 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T07:33:48Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82emtqdXN0OW4tX04xMkZNclQyVXNXUERLQTNoVlo0UjhqOFJaR096dWNqeE1KQWdMbjZERTlmczNsZVR0aWxIRERRNElXRFhIWFE2NmgwcFBhR05FUjNuc1ZtVmItSWM?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f3681eeead382b8d452f",
       "title": "イオン、熊本の爆発事故で調査委を設置へ 避難解除前の再入館を検証 [熊本県]",
       "source": "朝日新聞",
@@ -2432,6 +2414,24 @@
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1c3d320faea79be06b96",
+      "title": "イオン、熊本の爆発事故で調査委を設置へ 避難解除前の再入館を検証 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82emtqdXN0OW4tX04xMkZNclQyVXNXUERLQTNoVlo0UjhqOFJaR096dWNqeE1KQWdMbjZERTlmczNsZVR0aWxIRERRNElXRFhIWFE2NmgwcFBhR05FUjNuc1ZtVmItSWM?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -4425,23 +4425,6 @@
       ]
     },
     {
-      "id": "59484eb1f60dfc97c0d3",
-      "title": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T12:07:24Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
-      "first_seen": "2026-08-10T00:30:41Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "670845b3b80231babe11",
       "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -4664,6 +4647,23 @@
       "published_at": "2026-08-01T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XOGpmaU1xci1VUU43aDIweUFmV0ZiN1otc1lkbm5KV1RDQzJKVFkwOHhTS25qbGdHZ3ZpOUVnZHdnWGVkbDUyTWFlMC1nTEpiaER0NGE4VkZoZmhzYTdTYjRlTEo2Y1k?oc=5",
       "first_seen": "2026-08-01T13:00:12Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "59484eb1f60dfc97c0d3",
+      "title": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
+      "first_seen": "2026-08-10T00:30:41Z",
       "focus": [
         "救助・安否",
         "避難状況"
