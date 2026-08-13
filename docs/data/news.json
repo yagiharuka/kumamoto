@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T16:30:57Z",
-  "updated_at_jst": "2026/08/14 01:30 JST",
+  "updated_at": "2026-08-13T17:00:59Z",
+  "updated_at_jst": "2026/08/14 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 990,
@@ -2077,20 +2077,6 @@
       ]
     },
     {
-      "id": "2ea3d6f0901f0a123fe8",
-      "title": "<2026年熊本地震>「現時点で閉鎖考えていない」 被災の八代工場 日本製紙・瀬邊社長",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-05T11:33:17Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ZFZOWFdmd05SaW41VUdZaGg4ZGgtWjZEQThjNHQzMGlXb056clVITkF5amowT2RtY1NLaHM2WTVsM0pONnMwUVpzaEh1ekk?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "c7cc91a72f11ac6a7f08",
       "title": "<2026年熊本地震>日本製紙とイオンに現地再建を要望 木村知事",
       "source": "熊本日日新聞",
@@ -2401,6 +2387,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "2ea3d6f0901f0a123fe8",
+      "title": "<2026年熊本地震>「現時点で閉鎖考えていない」 被災の八代工場 日本製紙・瀬邊社長",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ZFZOWFdmd05SaW41VUdZaGg4ZGgtWjZEQThjNHQzMGlXb056clVITkF5amowT2RtY1NLaHM2WTVsM0pONnMwUVpzaEh1ekk?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -3203,7 +3203,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
