@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T07:30:58Z",
-  "updated_at_jst": "2026/08/13 16:30 JST",
+  "updated_at": "2026-08-13T08:00:59Z",
+  "updated_at_jst": "2026/08/13 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 984,
@@ -1180,8 +1180,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
+      "published_at": "2026-08-11T03:34:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2044,23 +2044,6 @@
       ]
     },
     {
-      "id": "a075f30bacb05e1774f5",
-      "title": "イオンモール熊本事故「LPガス爆発の可能性高い」 経産省が公表",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T10:08:07Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JVWdDR3BXenRiNDlCNGFVc09EUnFRUk5sQlppbWhnNU4tQmlmMGs0Uk56SmRlanZFS05SS3c3WGJSS09BZVlNeTNCOVB2Z3o5MWdJcXlkYXN1MTB3bGhLb2hRT3NlRzBsc0NyQQ?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "43768b76d335cec08e74",
       "title": "「イオンモール熊本」爆発の原因は漏れたLPガスか...経産省、全国の大規模施設でガス供給設備の点検要請",
       "source": "読売新聞",
@@ -2092,23 +2075,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "9ccb2d98c8cf43c8cc43",
-      "title": "工場の煙突倒壊で9人死亡 日本製紙社長が会見し陳謝 八代",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-05T09:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zeFhTUF9hRi1JMWpuY1k2eGdxSkNlUlFlVk05cGxHOC1qNW10YlpjVVdXd09DWlE3MGdWVUpxNXhHNHFFQ0lma3k3N0JySEpFN0JtSk1RRGg?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -2363,6 +2329,39 @@
       ]
     },
     {
+      "id": "db86464b0e2101834c5d",
+      "title": "「ボンッ」がれき頭上越え...イオンモール熊本 戻る経緯、食い違う証言",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJal9kNEVZbzc0ZUtMODRuTTNmZzgzWkF3WVNtV25kRFdVMEJvMWdHc0tlRW1sdmFtMU5xcGIxcU1WM0xpZldKWm9LM09uMko0azlVS2ZkdjMwTVZyOHJ2Nk5UMmxuZw?oc=5",
+      "first_seen": "2026-08-04T23:30:36Z",
+      "focus": [
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a075f30bacb05e1774f5",
+      "title": "イオンモール熊本事故「LPガス爆発の可能性高い」 経産省が公表",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JVWdDR3BXenRiNDlCNGFVc09EUnFRUk5sQlppbWhnNU4tQmlmMGs0Uk56SmRlanZFS05SS3c3WGJSS09BZVlNeTNCOVB2Z3o5MWdJcXlkYXN1MTB3bGhLb2hRT3NlRzBsc0NyQQ?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "7365ff8ccffd6841ca19",
       "title": "熊本 日本製紙 八代工場で救助活動 消防隊員が活動を振り返る",
       "source": "NHK",
@@ -2373,6 +2372,23 @@
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "9ccb2d98c8cf43c8cc43",
+      "title": "工場の煙突倒壊で9人死亡 日本製紙社長が会見し陳謝 八代",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zeFhTUF9hRi1JMWpuY1k2eGdxSkNlUlFlVk05cGxHOC1qNW10YlpjVVdXd09DWlE3MGdWVUpxNXhHNHFFQ0lma3k3N0JySEpFN0JtSk1RRGg?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
@@ -2569,22 +2585,6 @@
       ]
     },
     {
-      "id": "db86464b0e2101834c5d",
-      "title": "「ボンッ」がれき頭上越え...イオンモール熊本 戻る経緯、食い違う証言",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJal9kNEVZbzc0ZUtMODRuTTNmZzgzWkF3WVNtV25kRFdVMEJvMWdHc0tlRW1sdmFtMU5xcGIxcU1WM0xpZldKWm9LM09uMko0azlVS2ZkdjMwTVZyOHJ2Nk5UMmxuZw?oc=5",
-      "first_seen": "2026-08-04T23:30:36Z",
-      "focus": [
-        "目撃証言"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "28a43ebf5e32c9b4f917",
       "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
       "source": "時事通信",
@@ -2693,6 +2693,20 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "2f30e7c81c53933e7670",
+      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T09:47:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -3100,20 +3114,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "2f30e7c81c53933e7670",
-      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
