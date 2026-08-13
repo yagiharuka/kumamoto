@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T23:00:58Z",
-  "updated_at_jst": "2026/08/14 08:00 JST",
+  "updated_at": "2026-08-13T23:30:57Z",
+  "updated_at_jst": "2026/08/14 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 993,
+  "article_count": 994,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 166,
     "kumanichi": 147,
     "yomiuri": 130,
     "mainichi": 128,
     "asahi": 117,
     "nikkei": 57,
-    "sankei": 165,
     "nhk": 81,
     "jiji": 168
   },
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 805,
+    "aeon": 806,
     "power": 114,
     "paper": 91
   },
   "items": [
+    {
+      "id": "1a87263c95f1ff8e1b10",
+      "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T23:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WT3N2RHJzNDlZdzhWbGZFdEhRUTYxWjJnR2VOeXdJR0NyLXdzWlFkWGlwOG9IT0dwUkdYeUo5ZHJkN01RVUtrZEVydWxKb1B0ZzR5WmtqTmVsYk9qcnV5YkUzQTMtV3VUb0JNQ3lxRVA3eE9QYnc?oc=5",
+      "first_seen": "2026-08-13T23:30:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "d1328dd130a9622ae24f",
       "title": "イオンモール爆発 再発防止へ検証尽くして",
@@ -1054,7 +1070,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -3949,7 +3965,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45MHZTTnRzbjZrT0JHLTQzQ1V6VVY4TVhUc19XOTExN3RBZlhXckNuakg2ZWVpWkFmLVAtQ1hZazg0TlVkTTEyM3RIOExGeWszWnhOdUREbmEwZGtYSFRqTmlIWXlUSGNKendoX0J3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdy1LekJRRVVQVnRremFMSFJ4ZHFjMld6SGNQY01rVC1zU1d4enFPeHF0eUVIUHZkRzQ1dUNBdDhYaWVkQ0s3SmdfQ2RRWmJZNllMTWxNNDByRUxaWUpwWEJyZGtBLU1EaGxrZ2FIZXRLSTZwRzdKSThIa3NRM3RKVU1hQkF3OHN5d3FtdGU4Q2g0V3JmYWxMWlpn?oc=5",
       "first_seen": "2026-08-03T21:30:26Z",
       "focus": [
         "避難状況"
