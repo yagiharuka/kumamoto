@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T11:30:59Z",
-  "updated_at_jst": "2026/08/13 20:30 JST",
+  "updated_at": "2026-08-13T12:00:59Z",
+  "updated_at_jst": "2026/08/13 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 986,
@@ -457,8 +457,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2xYd3dIVFpCeVVCTGVWVXpUYU5ZM2thUDlMUEJiNzNYYm5PYWJSZ2NTTDlOZFJxbGxDNEd4eG42VHFjcE15N2M2RXAzSmJCeTFzTi1PQmRxNmhpYmJIb0N5dHhab2c2UElISkFZTU40SVl2TTJ2bmxEbnkzbFJLRg?oc=5",
-      "first_seen": "2026-08-12T04:00:52Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXNzbzlqMFFEOVNILWZLdWMwdVFhSGlCcV8wbFFXaXh4ZldLbFdqR0JqOEo4eFhWc3RrZkYwd284LXNhTXRTRE9vY2xMODFtM1NXQkctZmJRNl9pTTBxb0VlZmNEd3FOYXc0Ti1zbVpDZ3lWYmlqd1JKNkV0V0NYbXN3?oc=5",
+      "first_seen": "2026-08-12T09:00:57Z",
       "focus": [
         "現場状況"
       ],
@@ -473,8 +473,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
-      "first_seen": "2026-08-12T09:00:57Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2xYd3dIVFpCeVVCTGVWVXpUYU5ZM2thUDlMUEJiNzNYYm5PYWJSZ2NTTDlOZFJxbGxDNEd4eG42VHFjcE15N2M2RXAzSmJCeTFzTi1PQmRxNmhpYmJIb0N5dHhab2c2UElISkFZTU40SVl2TTJ2bmxEbnkzbFJLRg?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
       ],
@@ -1212,8 +1212,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlpQbFU5Wk5IWUhnV1U5SzI3M0VFb0pEYjlPVGR5QkMtR0RXcVlpR1NpcFBycDh2b2NEZzV1Rlp6ZjYyWEIzMXY3dmhuLXBCdHdmQ0tKcmlTa2ZkUTVhclNUWDNhWDRzYU42UlJVaWREdVV5M2hiUWd3?oc=5",
+      "published_at": "2026-08-11T03:34:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2w0TnVkR1NYeFpoOTBuaGdKWG5adDFFaWZkN0dyU3RlMnBiRmpSQjFJM09EVjBGdURELU80bk5QYnY3amxYVEVuVW9FNk5kRFp0YXF3SGs3YkVQakNtcXlNUVlPc1JiZktCSnhxMi1qNjJUNnpoQm5JMTlJMHUyczZ3?oc=5",
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
@@ -2295,13 +2295,13 @@
       ]
     },
     {
-      "id": "e3b249e52f12bf236989",
-      "title": "熊本地震:イオンモール爆発、妻の告別式にウェディングドレスを飾った夫「遅くなったが喜んでくれるといいな」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
+      "id": "c33190ee85764298664a",
+      "title": "イオンが事故調査委を設置 イオンモール熊本の爆発受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-08-05T07:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OWndiT01MMFNibGRhUUg0c1loVjRQaUU2clFpV2Nydks1RzNVZnVNR3FiY24wa0wzTFVGWWJGY0RrcExlQUxYS2lPR2hUTGRYRWlVbTNiUGFsa00xbWUyVU1jVjNsM0NFY1JjaFJlNEFwZw?oc=5",
+      "published_at": "2026-08-05T07:07:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcFc2bjhTNTRBWC1vNk5NUEtUQVBCZlBXY01pSk1lc0lMTW43VzFjN1BGdHNIY010dkpyVHNSYWJLTU1rRnNPaURGVVZJV1RSOGFKNGJCa0tDUnFIX0RvWEVqYjJWaTlH?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -2311,13 +2311,13 @@
       ]
     },
     {
-      "id": "c33190ee85764298664a",
-      "title": "イオンが事故調査委を設置 イオンモール熊本の爆発受け",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
+      "id": "e3b249e52f12bf236989",
+      "title": "熊本地震:イオンモール爆発、妻の告別式にウェディングドレスを飾った夫「遅くなったが喜んでくれるといいな」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-05T07:07:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcFc2bjhTNTRBWC1vNk5NUEtUQVBCZlBXY01pSk1lc0lMTW43VzFjN1BGdHNIY010dkpyVHNSYWJLTU1rRnNPaURGVVZJV1RSOGFKNGJCa0tDUnFIX0RvWEVqYjJWaTlH?oc=5",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OWndiT01MMFNibGRhUUg0c1loVjRQaUU2clFpV2Nydks1RzNVZnVNR3FiY24wa0wzTFVGWWJGY0RrcExlQUxYS2lPR2hUTGRYRWlVbTNiUGFsa00xbWUyVU1jVjNsM0NFY1JjaFJlNEFwZw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -4558,6 +4558,24 @@
       ]
     },
     {
+      "id": "685bdc16896966eae8f3",
+      "title": "【日本製紙八代工場】折れた煙突に押しつぶされた事務所、猛暑と余震が救助活動を阻む...応援派遣の消防が帰還:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OaTYyVEJaMmo0aF9XZlFlSHEwdTczME1lcjlSWTdRcTFsY2JqNkxnSHVNQk1BZWEyU1RqSGtGMzdJUWFqY1k0VFJUdHhmeU5QRGIzV3o4VmNCeWZCaUlJaGhtaFVBSXBnUUE?oc=5",
+      "first_seen": "2026-08-03T17:31:14Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "6ad4bb4893228a5805a9",
       "title": "【日本製紙八代工場】折れた煙突に押しつぶされた事務所、猛暑と余震が救助活動を阻む...応援派遣の消防が帰還",
       "source": "読売新聞",
@@ -4590,24 +4608,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "685bdc16896966eae8f3",
-      "title": "【日本製紙八代工場】折れた煙突に押しつぶされた事務所、猛暑と余震が救助活動を阻む...応援派遣の消防が帰還:写真",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T04:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OaTYyVEJaMmo0aF9XZlFlSHEwdTczME1lcjlSWTdRcTFsY2JqNkxnSHVNQk1BZWEyU1RqSGtGMzdJUWFqY1k0VFJUdHhmeU5QRGIzV3o4VmNCeWZCaUlJaGhtaFVBSXBnUUE?oc=5",
-      "first_seen": "2026-08-03T17:31:14Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -11122,7 +11122,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTU9NbFBVTVQ3ZC1saHU2aXBoeUF4UDJuTGtma2FxdlYwSEk0TGNlTjdLMHQxUGp2UXludVRpUmdVeW8yUl82amNEbnAzd0lZamg2Q1ctUDFlcVdiWVpTV0pXcEpjU3FGVXlDYktR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -11219,20 +11219,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIVWNMWUdOU2owMTF3dEpjMXBZR0RIRnh2WndGZVRaMlY0eEJocDl6WTRqcXBacUFYMDI3V18xSGl0MkhCVE5NVVh1cnRfNFZGc0JFUzBiQXVDUV8tQUxLSWhxMXpDUzQ?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -15788,6 +15774,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
