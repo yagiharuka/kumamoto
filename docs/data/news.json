@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T22:00:58Z",
-  "updated_at_jst": "2026/08/14 07:00 JST",
+  "updated_at": "2026-08-13T22:30:58Z",
+  "updated_at_jst": "2026/08/14 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 993,
@@ -2207,23 +2207,6 @@
       ]
     },
     {
-      "id": "90854e97f3086e50864c",
-      "title": "イオン爆発 LPガスは1平米に50トンの破壊力、火災ない場合も [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T09:22:12Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3MlhSUUJ1dEFzQ0pNUEpYdGdsbGpvemRYc0VKUkxaMGhXRHNZX3luc0prN21ueHhKbnUzbGhUNmdoRnRJclR4cGowQkdXdzJENGVoQzNwb01kaHhNYTNBY3AyQ3FhY1k?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "84d319aec9d1327d7193",
       "title": "「イオンモール熊本」爆発事故受け、イオンが事故調査委を設置...「原因と再発防止策を明らかにしていく」",
       "source": "読売新聞",
@@ -2450,6 +2433,23 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "90854e97f3086e50864c",
+      "title": "イオン爆発 LPガスは1平米に50トンの破壊力、火災ない場合も [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3MlhSUUJ1dEFzQ0pNUEpYdGdsbGpvemRYc0VKUkxaMGhXRHNZX3luc0prN21ueHhKbnUzbGhUNmdoRnRJclR4cGowQkdXdzJENGVoQzNwb01kaHhNYTNBY3AyQ3FhY1k?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -10131,7 +10131,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lZzQ4R24xelpLOUs3OElRa0JkSE45djV2c1lxckJXSTFjS3NWS0E5eTFLd3FOdVFUdVpnNzc1eVA2a0NqSU9oelhOeEc4V18xSWR6UnE1S1R1d0pwSDh6ZHk3YWpzWllyRGs3Z29fd0M2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCTHdIc2FzNk1JTTZYeGk1VGRMc3puMl82X25OejVFTDRYaUJxQlZuZ3pGUUt0azJkbW03TUJPQ0pPRDNtZFByQ2VRM2NPSUVZVGtQM2FzYXFMTHdtQkxtbEpjNUpxSTF6WFVQTG4xRUZScnJF?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "救助・安否",
