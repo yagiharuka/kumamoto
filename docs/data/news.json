@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T02:01:00Z",
-  "updated_at_jst": "2026/08/13 11:01 JST",
+  "updated_at": "2026-08-13T02:31:00Z",
+  "updated_at_jst": "2026/08/13 11:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 978,
@@ -8735,23 +8735,6 @@
       ]
     },
     {
-      "id": "337937371ce94ad9760c",
-      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T12:53:06Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOGJwNmVMbmktSGFjOEV4Rml1ZjdVSW9KZnVJUzJHRE9wdzFYX2c2dnVjdU9iazRPTml1ZWdDdWZQSmpXN1hZakMtYWlpdGZPR0JtdG5BYXltS0hsb09uWndPTGo?oc=5",
-      "first_seen": "2026-07-29T12:01:02Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "e8cc9518cfc3870249ee",
       "title": "【動画】死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人 8700人避難・熊本震度7",
       "source": "時事通信",
@@ -11213,6 +11196,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "337937371ce94ad9760c",
+      "title": "画像・写真:煙突が倒壊した日本製紙八代工場:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IOGJwNmVMbmktSGFjOEV4Rml1ZjdVSW9KZnVJUzJHRE9wdzFYX2c2dnVjdU9iazRPTml1ZWdDdWZQSmpXN1hZakMtYWlpdGZPR0JtdG5BYXltS0hsb09uWndPTGo?oc=5",
+      "first_seen": "2026-07-29T12:01:02Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
