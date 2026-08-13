@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T09:00:58Z",
-  "updated_at_jst": "2026/08/13 18:00 JST",
+  "updated_at": "2026-08-13T09:30:59Z",
+  "updated_at_jst": "2026/08/13 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 984,
@@ -409,7 +409,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-12T07:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42TnZDRWtaR2hKVTB4bHVvYXBzbmJRUWxiT0NJa1VQcG1HdzBMNndyMGh2YUZNd2FYdGRYQU9LZnRtZWtfeG56N0JUUFlmRjBBWUQ2SWZkbE5HaTJ1RmZGUUtZSUdiS1ZwczZFcUFSNVZ5YXhTckNlYklCS1pZUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jclBJZEkzX2VPMG5QejdaWlFLandHNFN6UkgxNFN1ZWdnNzRkNkJ0blZYNzZ6QUp0cnJrcFBzYktUVzRWUWFSRlZKcUNDdTBXb196b3JPdWRYaEtj?oc=5",
       "first_seen": "2026-08-12T08:00:58Z",
       "focus": [
         "避難状況"
@@ -2044,23 +2044,6 @@
       ]
     },
     {
-      "id": "43768b76d335cec08e74",
-      "title": "「イオンモール熊本」爆発の原因は漏れたLPガスか...経産省、全国の大規模施設でガス供給設備の点検要請",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T10:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93UUxrU0RsVTg2a3k3WmxwaExJdm40TmEzVnNOc3k4MFJ6RUtReEpRdGVWeHp6b2s3MU11NWU0b0E4cHhIYzRzZlNEMEtNZkxfOWtyblFtZ0VzazhjQmprR0pYTk9qdw?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "711f3aeb1e23d5e11287",
       "title": "イオン熊本爆発、LPガス原因か 外部委で調査、再発防止策を検討(共同通信)",
       "source": "熊本日日新聞",
@@ -2102,23 +2085,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-05T09:22:12Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3MlhSUUJ1dEFzQ0pNUEpYdGdsbGpvemRYc0VKUkxaMGhXRHNZX3luc0prN21ueHhKbnUzbGhUNmdoRnRJclR4cGowQkdXdzJENGVoQzNwb01kaHhNYTNBY3AyQ3FhY1k?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "bb1558d987b428c2c41b",
-      "title": "イオンモール熊本の爆発原因、LPガスの可能性が高い 経産省が発表 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T09:14:58Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oYXpoOW1BNno5NDg1dFZjYWpESE5vaGVpN0x4QkZ6OTZCZG5UNlJXcGcwYkR0SUNiMmZaMVhUbzhVSVJQSldlZjlCTHlvSXgzTjdEX2pqRFpjTEVDRW9KbW1pQ3FnbFk?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -2339,6 +2305,40 @@
       "first_seen": "2026-08-04T23:30:36Z",
       "focus": [
         "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "43768b76d335cec08e74",
+      "title": "「イオンモール熊本」爆発の原因は漏れたLPガスか...経産省、全国の大規模施設でガス供給設備の点検要請",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93UUxrU0RsVTg2a3k3WmxwaExJdm40TmEzVnNOc3k4MFJ6RUtReEpRdGVWeHp6b2s3MU11NWU0b0E4cHhIYzRzZlNEMEtNZkxfOWtyblFtZ0VzazhjQmprR0pYTk9qdw?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "bb1558d987b428c2c41b",
+      "title": "イオンモール熊本の爆発原因、LPガスの可能性が高い 経産省が発表 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oYXpoOW1BNno5NDg1dFZjYWpESE5vaGVpN0x4QkZ6OTZCZG5UNlJXcGcwYkR0SUNiMmZaMVhUbzhVSVJQSldlZjlCTHlvSXgzTjdEX2pqRFpjTEVDRW9KbW1pQ3FnbFk?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -4331,23 +4331,6 @@
       ]
     },
     {
-      "id": "59484eb1f60dfc97c0d3",
-      "title": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T12:07:24Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
-      "first_seen": "2026-08-10T00:30:41Z",
-      "focus": [
-        "救助・安否",
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "670845b3b80231babe11",
       "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が | NHKニュース | 令和8年熊本地震、地震、熊本県",
       "source": "NHK",
@@ -4552,6 +4535,23 @@
       "published_at": "2026-08-01T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XOGpmaU1xci1VUU43aDIweUFmV0ZiN1otc1lkbm5KV1RDQzJKVFkwOHhTS25qbGdHZ3ZpOUVnZHdnWGVkbDUyTWFlMC1nTEpiaER0NGE4VkZoZmhzYTdTYjRlTEo2Y1k?oc=5",
       "first_seen": "2026-08-01T13:00:12Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "59484eb1f60dfc97c0d3",
+      "title": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
+      "first_seen": "2026-08-10T00:30:41Z",
       "focus": [
         "救助・安否",
         "避難状況"
