@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T06:31:06Z",
-  "updated_at_jst": "2026/08/13 15:31 JST",
+  "updated_at": "2026-08-13T07:00:56Z",
+  "updated_at_jst": "2026/08/13 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 982,
+  "article_count": 983,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 128,
+    "yomiuri": 129,
     "mainichi": 125,
     "asahi": 117,
     "nikkei": 57,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 795,
+    "aeon": 796,
     "power": 113,
     "paper": 91
   },
   "items": [
+    {
+      "id": "239e3413c7921d9550f8",
+      "title": "イオンモール熊本の再入館許可、識者「施設に残った私物への対応など検討し実践的なマニュアルの整備が必要」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T06:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qU05JX0EtWTVONjJNWmZJMGFTYXQ3OFdDQTgzNl9wY0VlSzhmS1JJdmw2dEgxNWQ4TmlDRTlWdURid180QTM5WHI0RHpHOWhmODVZT1REWXc1NlZYYk1FeE5CQ3pibTB2SlR2Vk95WXFRQQ?oc=5",
+      "first_seen": "2026-08-13T07:00:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "955912260055f8f3836c",
       "title": "イオンモール熊本の爆発事故、再入館を許可したイオン側「個人ではなく全て会社の責任」...遺族「誠意が見えた」",
@@ -913,7 +927,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -941,7 +955,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11UHB0ZWdIWVhMeHhJekpBZzYzX3J3X1FrRHh4Y2prZmJIWlVBYXdzTDV4Q29QLXM5dzEyaVRERFlrVFJ4azVwa2xSSW5VTnRhUXZDUlBwYlBWa3ZMTlhhSDM5MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbEdBNG05UlNkd2JBSmlGWmZ0eWRSZEdJWDl5YjNYLUtqSWV2S2tqdy1oRDdKLWNsVmFLRDh0bjhVMTdzNmdSNEhzakhkTWlBamktZF9vaE92QjR0aUF3MEYyRQ?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -2666,20 +2680,6 @@
       ]
     },
     {
-      "id": "2f30e7c81c53933e7670",
-      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T09:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "b6a7ddf99ebb36aec699",
       "title": "ガス遮断弁は作動したのか イオンモール熊本の惨劇 「想定外」の爆発と法的責任の行方(写真・画像 1/2)",
       "source": "産経新聞",
@@ -3084,6 +3084,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "2f30e7c81c53933e7670",
+      "title": "日本製紙社長ら5日に記者会見=八代工場9人死亡、経緯説明へ―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
