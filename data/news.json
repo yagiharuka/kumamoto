@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T11:00:42Z",
-  "updated_at_jst": "2026/08/14 20:00 JST",
+  "updated_at": "2026-08-14T11:30:42Z",
+  "updated_at_jst": "2026/08/14 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -2405,6 +2405,22 @@
       ]
     },
     {
+      "id": "7c40c6174a7f42e410b4",
+      "title": "和歌山・停電・断水時に1000回使えるトイレカーを派遣...熊本地震、男女別のほか多機能トイレも装備",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GVi1tdzRrWlFiVU5JUjZtNFlKdzdfdTdpeEJEWHhRY2ZieVVXOFM0MVhzbWkzTVk3SGRRVDhxaXc3Z0ljTFhFeEVtRTNKbVpxRUs0MXpJbVFvUkRpbFdGa2dEQzdXSEctQjlKQjQ2RDZCZw?oc=5",
+      "first_seen": "2026-08-05T03:00:40Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "db86464b0e2101834c5d",
       "title": "「ボンッ」がれき頭上越え...イオンモール熊本 戻る経緯、食い違う証言",
       "source": "読売新聞",
@@ -2693,22 +2709,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "7c40c6174a7f42e410b4",
-      "title": "和歌山・停電・断水時に1000回使えるトイレカーを派遣...熊本地震、男女別のほか多機能トイレも装備",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T02:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GVi1tdzRrWlFiVU5JUjZtNFlKdzdfdTdpeEJEWHhRY2ZieVVXOFM0MVhzbWkzTVk3SGRRVDhxaXc3Z0ljTFhFeEVtRTNKbVpxRUs0MXpJbVFvUkRpbFdGa2dEQzdXSEctQjlKQjQ2RDZCZw?oc=5",
-      "first_seen": "2026-08-05T03:00:40Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -3293,6 +3293,22 @@
       ]
     },
     {
+      "id": "fd9e21435fd5c3e2fa5d",
+      "title": "イオンモールでイベント中止次々 酷暑下の集客より爆発事故受け点検 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNGFkWGVQZTJHMXFZQ1Rnd3VZWXIycXpvdVVMa0p2NEEtR3JTak96UElscG9OdVFxRnl3ZG15MVpYNEFCYkgwOUxvMUlQcjRXMkFic1BDVk1QUnpERGF5OWtxQlQwdjA?oc=5",
+      "first_seen": "2026-08-04T06:31:09Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6bc5b2c4687f0de851b2",
       "title": "爆発のイオン前、献花や色紙 断水地域、給水並ぶ列も 熊本地震1週間:ニュース動画:時事ドットコム",
       "source": "時事通信",
@@ -3362,22 +3378,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XQk94U1BPdmRHWno3LUljeTlFRElOQWJEUm40U2V6Unl5ZXBqMGpVTEpMdzdoUVBJX1g4M09xc1VzTDFRX2lpZ1VfM05FdUU?oc=5",
       "first_seen": "2026-08-04T06:31:09Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "fd9e21435fd5c3e2fa5d",
-      "title": "イオンモールでイベント中止次々 酷暑下の集客より爆発事故受け点検 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T06:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNGFkWGVQZTJHMXFZQ1Rnd3VZWXIycXpvdVVMa0p2NEEtR3JTak96UElscG9OdVFxRnl3ZG15MVpYNEFCYkgwOUxvMUlQcjRXMkFic1BDVk1QUnpERGF5OWtxQlQwdjA?oc=5",
-      "first_seen": "2026-08-04T06:31:09Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -11355,7 +11355,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -11434,20 +11434,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIVWNMWUdOU2owMTF3dEpjMXBZR0RIRnh2WndGZVRaMlY0eEJocDl6WTRqcXBacUFYMDI3V18xSGl0MkhCVE5NVVh1cnRfNFZGc0JFUzBiQXVDUV8tQUxLSWhxMXpDUzQ?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -15932,6 +15918,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
