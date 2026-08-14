@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T20:31:11Z",
-  "updated_at_jst": "2026/08/15 05:31 JST",
+  "updated_at": "2026-08-14T21:01:15Z",
+  "updated_at_jst": "2026/08/15 06:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 996,
+  "article_count": 997,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "jiji": 169,
     "sankei": 166,
     "kumanichi": 147,
     "yomiuri": 131,
     "mainichi": 128,
     "asahi": 118,
     "nikkei": 57,
-    "nhk": 81,
-    "jiji": 168
+    "nhk": 81
   },
   "tracked_categories": [
     {
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 807,
+    "aeon": 808,
     "power": 114,
     "paper": 92
   },
   "items": [
+    {
+      "id": "c5b28644ac6720e90ce6",
+      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-14T13:50:21Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5",
+      "first_seen": "2026-08-14T21:01:15Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "1a87263c95f1ff8e1b10",
       "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール",
@@ -3018,20 +3032,6 @@
       ]
     },
     {
-      "id": "be8cb615a5ca07b75f5d",
-      "title": "骨太の方針は「ばくち」、 イオンモール熊本にサブウェイも入店 渡邉美樹 経営者目線",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T08:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWLXNTUGNMR0wtV3I3b2RldEpYZG4tdjRPby14c1VNVmdWNVRkdVVxRGttMHhlZFlJU0g5OUNLekFRdmFTNXQ5dTA1SmppWnp0VUtkcXpfQlh4c0xUMldIVHUxblc3Q2RUUEgzLV8xR2xwbk42Q2c?oc=5",
-      "first_seen": "2026-08-04T09:01:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2d239dd62de13a05c6fb",
       "title": "令和6年にイオンモール熊本を視察した",
       "source": "産経新聞",
@@ -3217,6 +3217,20 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "be8cb615a5ca07b75f5d",
+      "title": "骨太の方針は「ばくち」、 イオンモール熊本にサブウェイも入店 渡邉美樹 経営者目線",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWLXNTUGNMR0wtV3I3b2RldEpYZG4tdjRPby14c1VNVmdWNVRkdVVxRGttMHhlZFlJU0g5OUNLekFRdmFTNXQ5dTA1SmppWnp0VUtkcXpfQlh4c0xUMldIVHUxblc3Q2RUUEgzLV8xR2xwbk42Q2c?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -14081,23 +14095,6 @@
       ]
     },
     {
-      "id": "5acb916c9da0b38ffccd",
-      "title": "死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T13:52:37Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeTF2eEpoMlA1ZkRYLTJqU2RWX0luZjFuUmdmME13RnQwOUVrVDd4TUxfbVJEN1k3V3VJcWgzM3JWb1N3UHZRTDN4ODNsSzlZR01RWHJPOW02SU4xYV9ram43bWZsV3U3RUhXSFE5c3E3cFpQQnc?oc=5",
-      "first_seen": "2026-07-28T17:01:06Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "b7f6ad5f8255f3945064",
       "title": "日本製紙八代工場で煙突崩落「救助必要な人が9人」と地元消防",
       "source": "NHK",
@@ -15341,6 +15338,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "5acb916c9da0b38ffccd",
+      "title": "死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeTF2eEpoMlA1ZkRYLTJqU2RWX0luZjFuUmdmME13RnQwOUVrVDd4TUxfbVJEN1k3V3VJcWgzM3JWb1N3UHZRTDN4ODNsSzlZR01RWHJPOW02SU4xYV9ram43bWZsV3U3RUhXSFE5c3E3cFpQQnc?oc=5",
+      "first_seen": "2026-07-28T17:01:06Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
