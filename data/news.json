@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T09:00:44Z",
-  "updated_at_jst": "2026/08/14 18:00 JST",
+  "updated_at": "2026-08-14T09:30:45Z",
+  "updated_at_jst": "2026/08/14 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -11188,6 +11188,22 @@
       ]
     },
     {
+      "id": "d3fe13337c3f3afa9493",
+      "title": "爆発したイオンモール熊本、内部動画を公開 警察が捜索 震度7地震 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEaTRVVGtuT0x4U0JIN3c2aWd4ZDFNS19yWmVJN1pQeVQzUVk5RUJZbS1lSHBnbGRLakVadmUxekwtZ3pqeGdKRDBfWlJpSG5MSFMwRkpzLWt6R2VfYkgxZE00Tm5uZ1U?oc=5",
+      "first_seen": "2026-07-29T03:30:23Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6c9d37233d563d1b6788",
       "title": "熊本、震度7 イオンで爆発、10人安否不明 製紙工場2人心肺停止 M7.1",
       "source": "朝日新聞",
@@ -11339,7 +11355,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -12586,22 +12602,6 @@
       "published_at": "2026-07-29T03:13:39Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXBFSVRDUWdRRXFqV1VTLTRiUkdqNWxsM2JWZEhMLUlDY3p1eHhWUDdvSk13NnVQNlN1ZEtiVThSUTdIb0NBekhia3ZzQ2poWXlxRnlhb0NQclRyVzhtY1pFV29ZUFRVN0E1MHJrTlF3XzMySFN6NGxsb0xad3FKYVA3LUxFcnM?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d3fe13337c3f3afa9493",
-      "title": "爆発したイオンモール熊本、内部動画を公開 警察が捜索 震度7地震 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:13:39Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEaTRVVGtuT0x4U0JIN3c2aWd4ZDFNS19yWmVJN1pQeVQzUVk5RUJZbS1lSHBnbGRLakVadmUxekwtZ3pqeGdKRDBfWlJpSG5MSFMwRkpzLWt6R2VfYkgxZE00Tm5uZ1U?oc=5",
-      "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "現場状況"
       ],
