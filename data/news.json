@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T11:30:42Z",
-  "updated_at_jst": "2026/08/14 20:30 JST",
+  "updated_at": "2026-08-14T12:00:42Z",
+  "updated_at_jst": "2026/08/14 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -1777,22 +1777,6 @@
       ]
     },
     {
-      "id": "b454f5e78757a8e53deb",
-      "title": "熊本地震、観光への影響広がる 交通網の寸断でアクセス困難に 停電・断水、施設被害も",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T09:04:40Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNY0l6aF9UYWprTE9UaHZiRjNoamNHYU8xYlFpc3hXTk1OZHRhQWhIVHlhOTFQejhaaGFpekJidHhXcWZLclluTHBDWWVSTEhTNnIwU2gtYWlYb0FHdmNnbGFEczdKaldkSUtfWnJqNVZBRnNVZnc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "f02c6a1d88c8ba0d77ac",
       "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」(写真・画像 1/1)",
       "source": "産経新聞",
@@ -1874,6 +1858,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "b454f5e78757a8e53deb",
+      "title": "熊本地震、観光への影響広がる 交通網の寸断でアクセス困難に 停電・断水、施設被害も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNY0l6aF9UYWprTE9UaHZiRjNoamNHYU8xYlFpc3hXTk1OZHRhQWhIVHlhOTFQejhaaGFpekJidHhXcWZLclluTHBDWWVSTEhTNnIwU2gtYWlYb0FHdmNnbGFEczdKaldkSUtfWnJqNVZBRnNVZnc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -14052,22 +14052,6 @@
       ]
     },
     {
-      "id": "a866050117d0c51888ba",
-      "title": "爆発発生のイオンモール熊本、10年前の地震でも被災 シネコンやスーパー温泉など出店",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T14:13:34Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbVdzb1lFc2VtU3Brc0FuTldJcE84dmRzTGJodE9LZnNMVnBNZjJaQkZkWktvY1BLbjJHd0FOb2FmREY3X2JNQjVUc3NHY2cyV2VtUVptT1hvcHFvelpDYVg1WGRtam5tUnl2THhqb2F6MjkzdkE?oc=5",
-      "first_seen": "2026-07-28T15:22:23Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ce378be3960a61568007",
       "title": "爆発で外壁などが大きく崩れたイオンモール熊本=7月28日午後9時16分、熊本県嘉島町",
       "source": "産経新聞",
@@ -15367,6 +15351,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ub3paTE14aHpRVkFlZzNRMTQtVE9XVU0tbDBHS3BnWDhWajNGYlQzX19yLWp5cVZlV01VNEg5RXRKMGJzNFhXdGoxbllKY2R6NWxybjNtYXE0aWlxMnpsQkZSWTFxQQ?oc=5",
       "first_seen": "2026-08-08T22:01:15Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a866050117d0c51888ba",
+      "title": "爆発発生のイオンモール熊本、10年前の地震でも被災 シネコンやスーパー温泉など出店",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbVdzb1lFc2VtU3Brc0FuTldJcE84dmRzTGJodE9LZnNMVnBNZjJaQkZkWktvY1BLbjJHd0FOb2FmREY3X2JNQjVUc3NHY2cyV2VtUVptT1hvcHFvelpDYVg1WGRtam5tUnl2THhqb2F6MjkzdkE?oc=5",
+      "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "現場状況"
       ],
