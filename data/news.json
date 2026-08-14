@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T14:00:42Z",
-  "updated_at_jst": "2026/08/14 23:00 JST",
+  "updated_at": "2026-08-14T14:30:42Z",
+  "updated_at_jst": "2026/08/14 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -1760,23 +1760,6 @@
       ]
     },
     {
-      "id": "cb8768dd7e88777e8379",
-      "title": "「イオンモール熊本」にLPガス提供会社、爆発事故「重く受け止める」...安全装置の作動「調査中」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T10:16:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zVFZVQnV0UGc5UnpqZWlhaHRlNjZnN09FZ21aTU9pblg2UGl2VUpWeS1TT09ieUpIdnFoOWJLYUhFOHAxaU9QOFhzeVZ1SElkc01ZXzRVdWMwM3BTMFRNbUZObnViUQ?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f02c6a1d88c8ba0d77ac",
       "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」(写真・画像 1/1)",
       "source": "産経新聞",
@@ -1861,6 +1844,23 @@
       ]
     },
     {
+      "id": "cb8768dd7e88777e8379",
+      "title": "「イオンモール熊本」にLPガス提供会社、爆発事故「重く受け止める」...安全装置の作動「調査中」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zVFZVQnV0UGc5UnpqZWlhaHRlNjZnN09FZ21aTU9pblg2UGl2VUpWeS1TT09ieUpIdnFoOWJLYUhFOHAxaU9QOFhzeVZ1SElkc01ZXzRVdWMwM3BTMFRNbUZObnViUQ?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b454f5e78757a8e53deb",
       "title": "熊本地震、観光への影響広がる 交通網の寸断でアクセス困難に 停電・断水、施設被害も",
       "source": "産経新聞",
@@ -1894,17 +1894,17 @@
       ]
     },
     {
-      "id": "0b09a48fce51b06b640a",
-      "title": "日本製紙、八代工場の再開めど立たず 業績予想、今期未定に 熊本地震9人死亡で社長が謝罪",
+      "id": "d7b8091409b2b871a3e5",
+      "title": "イオンモール熊本はどのように「復活」するか",
       "source": "日本経済新聞",
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-06T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkQ3SFZVdktMbWZwZ0xQOVJjNFMtQnQ4OXlIbVIxcFJYTW1IM1QtcEhJbmlySGhzdEpmSlMwNGJzYTI4YnZVcnFxcV9LS08yeFlNMml4X0JkSzJIcE0yX2p5am1oTTBSNVQ3WA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
       "category_ids": [
-        "paper"
+        "aeon"
       ]
     },
     {
@@ -2027,20 +2027,6 @@
       ]
     },
     {
-      "id": "d7b8091409b2b871a3e5",
-      "title": "イオンモール熊本はどのように「復活」するか",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hTmZrSURPVV9FbGR2b3pVY0pYcDIxTFZ4ZEZDbXZ1NEJXMTJrLXJoVEFSTGtFcWRLNEFpS2dMelk0dC1zMFVkbnZMeDV6cV9DV0d4cF9SZS1JSEtWNnh5TkJCc0tsZmpyMHJjVWN0TDRadnAxcjZEckczWlVWQQ?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "da5ccda66b324df9f4b9",
       "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
       "source": "毎日新聞",
@@ -2088,6 +2074,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "0b09a48fce51b06b640a",
+      "title": "日本製紙、八代工場の再開めど立たず 業績予想、今期未定に 熊本地震9人死亡で社長が謝罪",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkQ3SFZVdktMbWZwZ0xQOVJjNFMtQnQ4OXlIbVIxcFJYTW1IM1QtcEhJbmlySGhzdEpmSlMwNGJzYTI4YnZVcnFxcV9LS08yeFlNMml4X0JkSzJIcE0yX2p5am1oTTBSNVQ3WA?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -8052,7 +8052,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JNFFzaEc3RDEyVU9zMGdrd0FvT25fNXB2RDZNYnE0VDU2VDJ2RjJnd3VkWUpaSnhybXc1OGtpSHNDdHV3Wm54YklQSkpTcUZBcXp3Wg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSTZHOGNOZEdLb1ZZN05EYnZsWHBZbFdfaU9fUGFKMV9wZ2xsaVhualh1dFViMUNsNXhQcFdHYk4ycVprYlZHdmV0YkpacGFHRmdsNw?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -13841,22 +13841,6 @@
       ]
     },
     {
-      "id": "d887a94db5aa00c59f94",
-      "title": "爆発のあったイオンモール熊本=7月28日午後10時5分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T14:48:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "71eda9098c940e436083",
       "title": "爆発があったイオンモール熊本 二次被害の恐れがあり警察、消防が奥まで進入できず",
       "source": "産経新聞",
@@ -14141,22 +14125,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjdqVTdHMEtyYjB4NWRhaEloNDk5Yk1vMjg3QmIxYWh6WHVIenQ1MGEzS0tXN0E4RUJXOFdoQWN3VWI0Tk1Kc25lbmMxaktaLWhKNzlxM2dxelFWUkZ1dzFJWG82d2h2Z3pFOHJaYXN1RjU1bWtXa2tRckxVMGFnTnJyemk4b05BWHRvLWpfcldNRTR1YTJpZDdzY3RGRGUxaEE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d11d0c5dec14821b9378",
-      "title": "イオンモール熊本の爆発で研究員派遣 消防庁、緊急援助隊1000人に 携帯基地局に被害",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T13:05:05Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSXYzaU9CQnBrR2Vqd0tmejhNcDlYNFJQOHl2Tl82RVh0V1BVQjJsMFNHNGE3aEZYczRNVGhqcDZZcnRYTkZUZGhlMy1SV3VDOUNvaFRFTVo5N2x1T1JzUFNVQnFuMjZBMnFlVlNHV3hfczgzd3c?oc=5",
-      "first_seen": "2026-07-29T06:00:27Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -15354,6 +15322,22 @@
       ]
     },
     {
+      "id": "d887a94db5aa00c59f94",
+      "title": "爆発のあったイオンモール熊本=7月28日午後10時5分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "7a611e4ef8e59441efe9",
       "title": "熊本県内の46医療機関で断水や停電 震度7観測の地震、八代市と宇城市で半数超",
       "source": "産経新聞",
@@ -15418,6 +15402,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "d11d0c5dec14821b9378",
+      "title": "イオンモール熊本の爆発で研究員派遣 消防庁、緊急援助隊1000人に 携帯基地局に被害",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TSXYzaU9CQnBrR2Vqd0tmejhNcDlYNFJQOHl2Tl82RVh0V1BVQjJsMFNHNGE3aEZYczRNVGhqcDZZcnRYTkZUZGhlMy1SV3VDOUNvaFRFTVo5N2x1T1JzUFNVQnFuMjZBMnFlVlNHV3hfczgzd3c?oc=5",
+      "first_seen": "2026-07-29T06:00:27Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
