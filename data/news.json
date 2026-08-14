@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T13:00:41Z",
-  "updated_at_jst": "2026/08/14 22:00 JST",
+  "updated_at": "2026-08-14T13:30:43Z",
+  "updated_at_jst": "2026/08/14 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -969,7 +969,7 @@
     },
     {
       "id": "ddac5ed2326962d1c700",
-      "title": "<2026年熊本地震>木村知事が献花 爆発事故のイオンモール熊本",
+      "title": "<2026年熊本地震>爆発事故のイオンモール熊本 献花相次ぐ",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -1070,7 +1070,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -4014,7 +4014,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXlhNTNkY1BVVXUzT2hEaXNpT3dWX0s3cDNYVlpFOWltLTFXalV3S0dOeEpnSExERUY4c2Z1bG9qZEdjYzFuaWxRZnQ1el80NjF6NlBCNTYzX2hRbXBuT0tHUnFiazEyT0pSWUJSRVRxcmJYejc3ZC1HYWFtMGZMSy0taktxZXhBWmJOSFBB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
@@ -8052,7 +8052,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JNFFzaEc3RDEyVU9zMGdrd0FvT25fNXB2RDZNYnE0VDU2VDJ2RjJnd3VkWUpaSnhybXc1OGtpSHNDdHV3Wm54YklQSkpTcUZBcXp3Wg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSTZHOGNOZEdLb1ZZN05EYnZsWHBZbFdfaU9fUGFKMV9wZ2xsaVhualh1dFViMUNsNXhQcFdHYk4ycVprYlZHdmV0YkpacGFHRmdsNw?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
@@ -14957,23 +14957,6 @@
       ]
     },
     {
-      "id": "82e76c3e27ae0a3533c6",
-      "title": "イオンモール熊本で爆発か 閉じ込め多数 消防など救助急ぐ 近くの男性「ドンという音」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T09:56:48Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTUI2UVBDVHNCWVBSNnNvZUtodzVwdEh0aE5YMjF2UVI5LWVsZnp5cVNYLXBOcy1QOFBGOEszZ1dFclQ4YnBuQllHUTFtckpGcnpiWElkdVlhNEZ3dFBONEs0c0dHS3BodnJjenllN2xwb0Faemc?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "aee49f3fd7e3e5565ee1",
       "title": "イオンモール熊本で爆発? 町などが確認中 近くの男性「ドンという音と白煙」(写真・画像 1/1)",
       "source": "産経新聞",
@@ -15448,6 +15431,23 @@
       "first_seen": "2026-07-28T15:22:23Z",
       "focus": [
         "原因・検証",
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "82e76c3e27ae0a3533c6",
+      "title": "イオンモール熊本で爆発か 閉じ込め多数 消防など救助急ぐ 近くの男性「ドンという音」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTUI2UVBDVHNCWVBSNnNvZUtodzVwdEh0aE5YMjF2UVI5LWVsZnp5cVNYLXBOcy1QOFBGOEszZ1dFclQ4YnBuQllHUTFtckpGcnpiWElkdVlhNEZ3dFBONEs0c0dHS3BodnJjenllN2xwb0Faemc?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
         "救助・安否",
         "現場状況"
       ],
