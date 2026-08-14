@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T15:30:41Z",
-  "updated_at_jst": "2026/08/15 00:30 JST",
+  "updated_at": "2026-08-14T16:00:44Z",
+  "updated_at_jst": "2026/08/15 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -4014,7 +4014,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXlhNTNkY1BVVXUzT2hEaXNpT3dWX0s3cDNYVlpFOWltLTFXalV3S0dOeEpnSExERUY4c2Z1bG9qZEdjYzFuaWxRZnQ1el80NjF6NlBCNTYzX2hRbXBuT0tHUnFiazEyT0pSWUJSRVRxcmJYejc3ZC1HYWFtMGZMSy0taktxZXhBWmJOSFBB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
@@ -9605,22 +9605,6 @@
       ]
     },
     {
-      "id": "303fb7b4b86a57276045",
-      "title": "イオンモール熊本、開業時からLPガス使用 過去のトラブルなし",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:46:15Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QbWJnZ1RoVEpISGhhay1YVS1uakxfdUlaNkNYSkFVUDdjRmZ1M3lCQjZ5TnFDbEFUS2JZaWNjTmFsU21QWmRFdjRVYVlNU2J3LWZaaXVtRXpTQWRNY2RjWWZrUkJOZ1hC?oc=5",
-      "first_seen": "2026-07-29T09:31:09Z",
-      "focus": [
-        "原因・検証"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1ee469c8c5af2e1ffe03",
       "title": "会見速報>当日は4300人が館内に 避難は完了と認識、その後「何らかの理由で中に」 熊本地震・イオン社長会見(4)",
       "source": "産経新聞",
@@ -10515,6 +10499,22 @@
       ]
     },
     {
+      "id": "9522ee028e79733f8355",
+      "title": "イオンモール熊本爆発事故 イオン吉田社長が熊本市内で会見へ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RcG1SRTNCNXMwbnRWRkdaRXZ2WFRxSVRVeUQzZHVkVE96bzVzVjN5a1p2NW1PaGJkeGdRYmF6VndTU3c0cERQWUlpSUo0enBxeUc0T3czeEdUbUhXUHliOUtsblBaX2JLcGs5RWYwT2F1V0VkdVE?oc=5",
+      "first_seen": "2026-07-29T06:30:27Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "33987bf802dec423ee74",
       "title": "イオンモール熊本、20代女性2人が死亡、さらに1人心肺停止",
       "source": "産経新聞",
@@ -11036,6 +11036,22 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVGR2b2ZXR3lXSmd1Qk5xOWtaSFFiUzBrXzBQOExhY2dzNVJKZ2JOR25wZEVkUi1CS1NkclJYb1BGaFRnODNOSk0wTXZvS1hJM19zR1RWbjBvRFlhMGRST0Z5c0RaV3Rl?oc=5",
       "first_seen": "2026-07-29T13:00:18Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "303fb7b4b86a57276045",
+      "title": "イオンモール熊本、開業時からLPガス使用 過去のトラブルなし",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QbWJnZ1RoVEpISGhhay1YVS1uakxfdUlaNkNYSkFVUDdjRmZ1M3lCQjZ5TnFDbEFUS2JZaWNjTmFsU21QWmRFdjRVYVlNU2J3LWZaaXVtRXpTQWRNY2RjWWZrUkJOZ1hC?oc=5",
+      "first_seen": "2026-07-29T09:31:09Z",
+      "focus": [
+        "原因・検証"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -12112,22 +12128,6 @@
       "published_at": "2026-07-29T05:57:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWVBLZUlmZDJ6aEotZXFXQzhHMXg4WW5yRXNyRnM2YXNiZHZBUi1hUnRNWlVzQW1OSHlvMXJvWWpyS29PSkVNYkFPN1Rxd1ZaaThaN0ZmYmVuNHhWanc?oc=5",
       "first_seen": "2026-07-29T17:00:13Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "9522ee028e79733f8355",
-      "title": "イオンモール熊本爆発事故 イオン吉田社長が熊本市内で会見へ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T05:51:29Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RcG1SRTNCNXMwbnRWRkdaRXZ2WFRxSVRVeUQzZHVkVE96bzVzVjN5a1p2NW1PaGJkeGdRYmF6VndTU3c0cERQWUlpSUo0enBxeUc0T3czeEdUbUhXUHliOUtsblBaX2JLcGs5RWYwT2F1V0VkdVE?oc=5",
-      "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "現場状況"
       ],
@@ -14801,20 +14801,6 @@
       ]
     },
     {
-      "id": "658830821ced425304f5",
-      "title": "熊本で震度7 熊本城やイオンモール熊本などで被害 [写真特集10/21]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T10:11:46Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDNDdkR6SkFnTTliTTl2bnRWZm5UX3dXdlhTNkpGU3BIaE1kSzFEQWhTMWVmVXhMampVR3BQMlV0a2FKS0ItZHAwRHFpa1Z1QkhEajJaQ1BIQTVDanpvcHhPSjdnRFZhWlpnWWJJdzRKZHBYcllRRUdoakFXVTF2UE81blN2LUk?oc=5",
-      "first_seen": "2026-08-02T23:01:06Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "3b739e0f4b0272d8c6a1",
       "title": "熊本で震度7 熊本城やイオンモール熊本などで被害 [写真特集1/3]",
       "source": "毎日新聞",
@@ -15688,6 +15674,20 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZlhZZ09ZakV5TFd6cnJoSmpfUkZvYThUdG9Sa3JRMFBsREMzeHl0elZVeWVDUVFvMXRjSHYtQXB5NFN2NGR4VkVwSXFDMXB0X0xPb3djU0xEU0dweF9TWnA1WTl1c2lZQ1U2M2pZY25pTHphOXhoUTBTa05tR1hPa19pLTFIWXM?oc=5",
       "first_seen": "2026-08-02T10:30:19Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "658830821ced425304f5",
+      "title": "熊本で震度7 熊本城やイオンモール熊本などで被害 [写真特集10/21]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDNDdkR6SkFnTTliTTl2bnRWZm5UX3dXdlhTNkpGU3BIaE1kSzFEQWhTMWVmVXhMampVR3BQMlV0a2FKS0ItZHAwRHFpa1Z1QkhEajJaQ1BIQTVDanpvcHhPSjdnRFZhWlpnWWJJdzRKZHBYcllRRUdoakFXVTF2UE81blN2LUk?oc=5",
+      "first_seen": "2026-08-02T23:01:06Z",
       "focus": [],
       "category_ids": [
         "aeon"
