@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T09:30:45Z",
-  "updated_at_jst": "2026/08/14 18:30 JST",
+  "updated_at": "2026-08-14T10:00:41Z",
+  "updated_at_jst": "2026/08/14 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -1777,22 +1777,6 @@
       ]
     },
     {
-      "id": "b454f5e78757a8e53deb",
-      "title": "熊本地震、観光への影響広がる 交通網の寸断でアクセス困難に 停電・断水、施設被害も",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T09:04:40Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNY0l6aF9UYWprTE9UaHZiRjNoamNHYU8xYlFpc3hXTk1OZHRhQWhIVHlhOTFQejhaaGFpekJidHhXcWZLclluTHBDWWVSTEhTNnIwU2gtYWlYb0FHdmNnbGFEczdKaldkSUtfWnJqNVZBRnNVZnc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "f02c6a1d88c8ba0d77ac",
       "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」(写真・画像 1/1)",
       "source": "産経新聞",
@@ -1874,6 +1858,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "b454f5e78757a8e53deb",
+      "title": "熊本地震、観光への影響広がる 交通網の寸断でアクセス困難に 停電・断水、施設被害も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNY0l6aF9UYWprTE9UaHZiRjNoamNHYU8xYlFpc3hXTk1OZHRhQWhIVHlhOTFQejhaaGFpekJidHhXcWZLclluTHBDWWVSTEhTNnIwU2gtYWlYb0FHdmNnbGFEczdKaldkSUtfWnJqNVZBRnNVZnc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -8197,6 +8197,22 @@
       ]
     },
     {
+      "id": "96ebf6008fca2b6e750d",
+      "title": "熊本 日本製紙八代工場 新たに3人死亡確認 救助活動続く",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdkNmSTNmdmFlZVl0b0tfV1MwMGRxV3hfQWg3QU5kRTBPWnlBTW9VaGRRQlI5Sk5mNXMzMkRKbXRoT0FhYnAzamlCWXZJSWRULUkzbHhqVy0?oc=5",
+      "first_seen": "2026-07-30T03:30:55Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "e08e8fda853f86323e8c",
       "title": "イオン九州、CM全て「公共広告」に差し替え 熊本での惨事受け「適切ではないと判断」",
       "source": "産経新聞",
@@ -8454,22 +8470,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "96ebf6008fca2b6e750d",
-      "title": "熊本 日本製紙八代工場 新たに3人死亡確認 救助活動続く",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-30T03:06:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdkNmSTNmdmFlZVl0b0tfV1MwMGRxV3hfQWg3QU5kRTBPWnlBTW9VaGRRQlI5Sk5mNXMzMkRKbXRoT0FhYnAzamlCWXZJSWRULUkzbHhqVy0?oc=5",
-      "first_seen": "2026-07-30T03:30:55Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
