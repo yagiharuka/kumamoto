@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T15:00:43Z",
-  "updated_at_jst": "2026/08/15 00:00 JST",
+  "updated_at": "2026-08-14T15:30:41Z",
+  "updated_at_jst": "2026/08/15 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 995,
@@ -1894,6 +1894,20 @@
       ]
     },
     {
+      "id": "0b09a48fce51b06b640a",
+      "title": "日本製紙、八代工場の再開めど立たず 業績予想、今期未定に 熊本地震9人死亡で社長が謝罪",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkQ3SFZVdktMbWZwZ0xQOVJjNFMtQnQ4OXlIbVIxcFJYTW1IM1QtcEhJbmlySGhzdEpmSlMwNGJzYTI4YnZVcnFxcV9LS08yeFlNMml4X0JkSzJIcE0yX2p5am1oTTBSNVQ3WA?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "d7b8091409b2b871a3e5",
       "title": "イオンモール熊本はどのように「復活」するか",
       "source": "日本経済新聞",
@@ -2074,20 +2088,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "0b09a48fce51b06b640a",
-      "title": "日本製紙、八代工場の再開めど立たず 業績予想、今期未定に 熊本地震9人死亡で社長が謝罪",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkQ3SFZVdktMbWZwZ0xQOVJjNFMtQnQ4OXlIbVIxcFJYTW1IM1QtcEhJbmlySGhzdEpmSlMwNGJzYTI4YnZVcnFxcV9LS08yeFlNMml4X0JkSzJIcE0yX2p5am1oTTBSNVQ3WA?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -10164,7 +10164,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lZzQ4R24xelpLOUs3OElRa0JkSE45djV2c1lxckJXSTFjS3NWS0E5eTFLd3FOdVFUdVpnNzc1eVA2a0NqSU9oelhOeEc4V18xSWR6UnE1S1R1d0pwSDh6ZHk3YWpzWllyRGs3Z29fd0M2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCTHdIc2FzNk1JTTZYeGk1VGRMc3puMl82X25OejVFTDRYaUJxQlZuZ3pGUUt0azJkbW03TUJPQ0pPRDNtZFByQ2VRM2NPSUVZVGtQM2FzYXFMTHdtQkxtbEpjNUpxSTF6WFVQTG4xRUZScnJF?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "救助・安否",
@@ -11388,7 +11388,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -14425,20 +14425,6 @@
       ]
     },
     {
-      "id": "ce4bdc70f8b419931c34",
-      "title": "【令和8年熊本地震】イオンモール熊本、営業休止を報告【全文】(写真・画像 1/1)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T12:02:10Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1VieWNDM212LS1YRkFSb3UtbjliczM3S01OU3FmRldDRGhabkZBWHpIYjl4SjBkZ0hMa0RoWi1ZYjg5RjRCb1RuT1VkRHdlNVNkY2Y0WE1BU3VaX2xKVDBnUVctM1NHcFI2Y1Vsd0c0R0oyVGFuaUlBdDFBOEUtZnpwNGt5VmNhaGlSWGpKYW1SZnFQRTludnhBYXVmM0VDNkE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "611860e0dceba951b76b",
       "title": "地震で客が避難、その後爆発 イオン熊本「砲弾が命中したような音」 [熊本県]",
       "source": "朝日新聞",
@@ -15451,6 +15437,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ce4bdc70f8b419931c34",
+      "title": "【令和8年熊本地震】イオンモール熊本、営業休止を報告【全文】(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1VieWNDM212LS1YRkFSb3UtbjliczM3S01OU3FmRldDRGhabkZBWHpIYjl4SjBkZ0hMa0RoWi1ZYjg5RjRCb1RuT1VkRHdlNVNkY2Y0WE1BU3VaX2xKVDBnUVctM1NHcFI2Y1Vsd0c0R0oyVGFuaUlBdDFBOEUtZnpwNGt5VmNhaGlSWGpKYW1SZnFQRTludnhBYXVmM0VDNkE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
