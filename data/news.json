@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T21:01:15Z",
-  "updated_at_jst": "2026/08/15 06:01 JST",
+  "updated_at": "2026-08-14T21:31:09Z",
+  "updated_at_jst": "2026/08/15 06:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -5338,6 +5338,22 @@
       ]
     },
     {
+      "id": "2d70689b78e0c6a02629",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集18/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSS1venduaU9XUlVqQXNPcVZCaTRyVVVWSlo1a0ZId3N2dm50M1poM1VGeFZPMHBPYU50Y2VfeV8wTWZzWEF4S0JSeENVWHpERlhWcXBac3NuWHcyaHprYktPUHlZT1BNU01naFktclNHOENSa25FUGZmSHoxRWlEb1hfdzZONDg?oc=5",
+      "first_seen": "2026-08-04T01:30:32Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c672c8add2641729f9ce",
       "title": "熊本地震の死者35人に 日本製紙八代工場の1人が死亡 県発表",
       "source": "毎日新聞",
@@ -5839,22 +5855,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmVCckMyTTdpUEVudnRMd3NTWkJhUnpGV2hpcTFNS3NjbHQ0aU0yMUlHNVIwSTlKZkh6ejZuODNMcTJ5UkwxSDZScFJadWdMS2Rad2ZkbTdRNmxERjREbzZzZ2hFcXlDQjBpNFBsRXZxTG80MHVYa0puM1F1Y2dVYkRkelUwenM?oc=5",
-      "first_seen": "2026-08-04T01:30:32Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "2d70689b78e0c6a02629",
-      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集18/20]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSS1venduaU9XUlVqQXNPcVZCaTRyVVVWSlo1a0ZId3N2dm50M1poM1VGeFZPMHBPYU50Y2VfeV8wTWZzWEF4S0JSeENVWHpERlhWcXBac3NuWHcyaHprYktPUHlZT1BNU01naFktclNHOENSa25FUGZmSHoxRWlEb1hfdzZONDg?oc=5",
       "first_seen": "2026-08-04T01:30:32Z",
       "focus": [
         "現場状況"
@@ -10662,6 +10662,22 @@
       ]
     },
     {
+      "id": "f731a980a15c249963e1",
+      "title": "日本製紙八代工場で救助の2人心肺停止 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vd0tQR0c1emx0WlhPQ1Q1bnFmR3FvM1luM3RyaWVQVTNwcXlneEFaOXBJdHlwYWpRR2NmRmNJS2EzZzFnbzBsMGtsQ1E3NlU?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "0baf15c7e882dcb41ac8",
       "title": "【速報】熊本県内で3・5万戸停電 九電が公表",
       "source": "熊本日日新聞",
@@ -13765,22 +13781,6 @@
       "published_at": "2026-07-28T15:33:00Z",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pUWloYmpqdlJFWm05dGZLVmstS1hVeGg3OUpOTnBaWnc1VGl2TXlUVHFqdnNZYUprUXllZTBLYmEtQVVLU291OVVwTjM4SzVwXzdsR2NidXU?oc=5",
       "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "f731a980a15c249963e1",
-      "title": "日本製紙八代工場で救助の2人心肺停止 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T15:24:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Vd0tQR0c1emx0WlhPQ1Q1bnFmR3FvM1luM3RyaWVQVTNwcXlneEFaOXBJdHlwYWpRR2NmRmNJS2EzZzFnbzBsMGtsQ1E3NlU?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
       ],
