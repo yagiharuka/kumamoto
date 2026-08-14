@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T22:31:08Z",
-  "updated_at_jst": "2026/08/15 07:31 JST",
+  "updated_at": "2026-08-14T23:01:15Z",
+  "updated_at_jst": "2026/08/15 08:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -353,6 +353,22 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwSTdmLUZUMUxPVW5Va3Fjc192ZFgzQkR0QkFyQzhXUWxzNXJQX0tlaVZXeDVkTFpLemtrc2c5Mk1uNFhLZVI0RmY2N0d5MzdwSXVxRnpGcjJQVmVjbW9zWklqZUZYbW1H?oc=5",
       "first_seen": "2026-08-13T13:00:59Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cd0ddcc77081cb2f1d44",
+      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T11:10:07Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [
+        "避難状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -1103,7 +1119,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -1198,22 +1214,6 @@
       "published_at": "2026-08-11T04:15:06Z",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aN09fblRrTG0xSk9XWmduazY1ekRwbUJ3czBOMlVhel9YYXFGdHVlMXF1emEyS3ppZ25Tel9iM3VieU9KM2tLQWVseW9lcllITnVFbS1JcEhQRWlmc1JydzN3MHdLWExRNXd0ZzBRRTdzY2tEWnc4M1ZB?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "cd0ddcc77081cb2f1d44",
-      "title": "イオン、避難後に再入館「認めた事実あった」 補償含め早期に対応 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T04:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CN0ZmaEJuUWVmTGVNX1ZDR2syZnZXZ2F3QmNpU09QVFplZlRYU09GUmc2ajRGWUVrQ2swckdrR1JyMmpveUpUUDlvNkY0UnoyMXMxVVhpZERwcHl5U1ZoWm9NVXdKYzA?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
       "focus": [
         "避難状況"
       ],
