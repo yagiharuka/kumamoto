@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-14T02:00:56Z",
-  "updated_at_jst": "2026/08/14 11:00 JST",
+  "updated_at": "2026-08-14T02:30:58Z",
+  "updated_at_jst": "2026/08/14 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 994,
@@ -1070,7 +1070,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxaXBwN0FMUUhMSllqWFhVQkF6SndMblN1MU96Um1mYm1Td0xmMnRlZVdha2VhVEJaTzF2eVhZMjJjY0ZJaWVXNF8yS24zcEZwcW5Nbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzd1ZsVG9UOEJJYUw5RVdGYlRDZnp3anRucVgzemlmZG95VUNJNHRtSlEzeVR1S1FYTHpzaGdZYnktQTVFSzZLSkRzdVdPWWhzQnVRcFRNTmRXWWU3cGc?oc=5",
       "first_seen": "2026-08-11T08:00:41Z",
       "focus": [],
       "category_ids": [
@@ -1406,7 +1406,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-10T22:06:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXVQdGFuRmtvMG1mbmtkbDlqeVBwb0Nma2JoRzF5TEx0a0NabHU5NnN6N0tPVC1wSWd1eWduOFhnelZsbXZoZDc4LVRnRXRiWUl5em85QmFVVHp1eWg4a1I0LVE5Ym1USlBuQi1fWlBqV2w1cWoyQWNzbldJUlJ2WWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
       "focus": [
         "現場状況"
@@ -8035,7 +8035,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSTZHOGNOZEdLb1ZZN05EYnZsWHBZbFdfaU9fUGFKMV9wZ2xsaVhualh1dFViMUNsNXhQcFdHYk4ycVprYlZHdmV0YkpacGFHRmdsNw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JNFFzaEc3RDEyVU9zMGdrd0FvT25fNXB2RDZNYnE0VDU2VDJ2RjJnd3VkWUpaSnhybXc1OGtpSHNDdHV3Wm54YklQSkpTcUZBcXp3Wg?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
