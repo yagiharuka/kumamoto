@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T18:31:10Z",
-  "updated_at_jst": "2026/08/16 03:31 JST",
+  "updated_at": "2026-08-15T19:01:16Z",
+  "updated_at_jst": "2026/08/16 04:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 997,
+  "article_count": 998,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "nikkei": 58,
     "jiji": 169,
     "sankei": 166,
     "kumanichi": 147,
     "yomiuri": 131,
     "mainichi": 128,
     "asahi": 118,
-    "nikkei": 57,
     "nhk": 81
   },
   "tracked_categories": [
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 808,
+    "aeon": 809,
     "power": 114,
     "paper": 92
   },
   "items": [
+    {
+      "id": "3e7307e1bafd50085541",
+      "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-15T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BcFZFM2JXNUJoektSZDZKV1lGSUtvcnZ1dmVxUGppc2VmSkVhNW1RN0JNblRNOEJXelhtZ0wyNWVYanBSSjRfanEzQUFtR2xBdGcyTG9HVkJrY2lvQmJobkI1U2JIbnFadmhJ?oc=5",
+      "first_seen": "2026-08-15T19:01:16Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "c5b28644ac6720e90ce6",
       "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
@@ -1032,13 +1049,13 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -1054,8 +1071,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -7210,22 +7227,6 @@
       ]
     },
     {
-      "id": "4f5ae374b404443c09ea",
-      "title": "イオン、イオンモール熊本の爆発事故について7人死亡と発表 30日午後1時に「4名の方の死亡が確認された」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
-      "first_seen": "2026-07-30T10:00:13Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "43eb18d642f1a4046908",
       "title": "懸命の救助活動続く=イオンモールや製紙工場、倒壊民家で―熊本震度7",
       "source": "時事通信",
@@ -7621,6 +7622,22 @@
       "first_seen": "2026-07-30T02:30:50Z",
       "focus": [
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4f5ae374b404443c09ea",
+      "title": "イオン、イオンモール熊本の爆発事故について7人死亡と発表 30日午後1時に「4名の方の死亡が確認された」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2NXMWxZeDdrbk5CRlZNbFBtUzM2UEVmbWVBLTFDRmpwUlpFZXlEbUNEbEdvTTFhTTl2bTBrZE04UWMxVm5LUHFodHUwUjJNOHFjOC1OOHN1YWM3azZOUzVSM2VpY01oV3FIaE0tVTZITDBrcE5QMzlmeUIzal9kN3N2SG1mXzVnSGdzNHZNeFd4dTN4djluaUR3TQ?oc=5",
+      "first_seen": "2026-07-30T10:00:13Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
