@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T09:55:55Z",
-  "updated_at_jst": "2026/08/15 18:55 JST",
+  "updated_at": "2026-08-15T10:01:11Z",
+  "updated_at_jst": "2026/08/15 19:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -1718,7 +1718,7 @@
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-07T10:38:01Z",
+      "published_at": "2026-08-07T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c1F3eEdxb3BpenhralVLajBza3VWbElub1JYY0pmazd1OXBncDVMNmpZTWoyN0txZ3Nsd21VdWxjOHJWbXNQQUlvQ0RVc2VYcnlPUHFIZE14a2k3bHhJ?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
       "focus": [],
@@ -3378,7 +3378,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -11587,6 +11587,20 @@
       ]
     },
     {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "869d731b1d604f3af940",
       "title": "「真っ暗で煙吸った」 崩落のイオンモール、途絶えた彼女のLINE=公開停止 [熊本県]",
       "source": "朝日新聞",
@@ -15949,20 +15963,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
