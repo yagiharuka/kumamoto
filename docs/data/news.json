@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T21:01:10Z",
-  "updated_at_jst": "2026/08/16 06:01 JST",
+  "updated_at": "2026-08-15T21:31:11Z",
+  "updated_at_jst": "2026/08/16 06:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 999,
@@ -5386,6 +5386,22 @@
       ]
     },
     {
+      "id": "2b689728e66c4568d6ec",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集11/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnZpTFlMdHhNUjNtQVVMT0dIVngxZUxqQktPalhEVnUzSU1EX3p4OGJrN0g4U082cTdldU9CVEdQbWpBSWxyeDZzakZzVElHWEVodmZBZEt2SEJpSHR2azZrWUVhMjZCd3NlM1Y2Ulk4bEJvXzZ4STlGZkJYbHpOOGVvelNtbnc?oc=5",
+      "first_seen": "2026-07-31T10:00:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c672c8add2641729f9ce",
       "title": "熊本地震の死者35人に 日本製紙八代工場の1人が死亡 県発表",
       "source": "毎日新聞",
@@ -5936,22 +5952,6 @@
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ2t6VjhuYzZqMlJjcHN2bE53MDZqTi1iMFhBTVNtSUhfeWNpVzY3anNzT1JLNTVDRXhUaGdPcGRoc2JVdnBwc0twU3p6U0lRS3hEMEUxXzBRMk9fT09uOW1HS2tITUdFaVo5XzdBOEJOQ3A3S2JMX3JpSEN0dzVDTkhpamdOZU0?oc=5",
       "first_seen": "2026-08-03T00:31:04Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "2b689728e66c4568d6ec",
-      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集11/20]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnZpTFlMdHhNUjNtQVVMT0dIVngxZUxqQktPalhEVnUzSU1EX3p4OGJrN0g4U082cTdldU9CVEdQbWpBSWxyeDZzakZzVElHWEVodmZBZEt2SEJpSHR2azZrWUVhMjZCd3NlM1Y2Ulk4bEJvXzZ4STlGZkJYbHpOOGVvelNtbnc?oc=5",
-      "first_seen": "2026-07-31T10:00:53Z",
       "focus": [
         "現場状況"
       ],
@@ -10135,7 +10135,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lZzQ4R24xelpLOUs3OElRa0JkSE45djV2c1lxckJXSTFjS3NWS0E5eTFLd3FOdVFUdVpnNzc1eVA2a0NqSU9oelhOeEc4V18xSWR6UnE1S1R1d0pwSDh6ZHk3YWpzWllyRGs3Z29fd0M2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCTHdIc2FzNk1JTTZYeGk1VGRMc3puMl82X25OejVFTDRYaUJxQlZuZ3pGUUt0azJkbW03TUJPQ0pPRDNtZFByQ2VRM2NPSUVZVGtQM2FzYXFMTHdtQkxtbEpjNUpxSTF6WFVQTG4xRUZScnJF?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "救助・安否",
