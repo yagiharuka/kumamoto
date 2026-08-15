@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T02:01:10Z",
-  "updated_at_jst": "2026/08/15 11:01 JST",
+  "updated_at": "2026-08-15T02:31:12Z",
+  "updated_at_jst": "2026/08/15 11:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -1910,6 +1910,23 @@
       ]
     },
     {
+      "id": "cf875cffeae4efac24ec",
+      "title": "イオンモール熊本の爆発「配管が損傷しガス漏れ、着火した可能性」福岡酸素、経産省に報告",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeG95WVg0bV9vZ1lMWFduSnNJSU9sWUNoZzBFOUdMa1pDQWtucVZ2RXF6M0FmdWhWR0FsaHlHMnpyRGJCbXlYQW44N0N6R1ItUThOeFQwWnFBdlJGQ0Etbl9jUWwzcVMtRFVKallzM3p1cXV3a0E?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a3f87493702a7cebc76c",
       "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」",
       "source": "産経新聞",
@@ -2012,23 +2029,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-06T02:08:41Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXQ2SWtaVnBRN0t2ZUEtVFBkSUFWNmhpbW9PaGhnU1Qtc1NNXzJhWEZhMXNISWhlY0FZUWQtc0dUbW14Ukt1X19lSmdBUTZTZFN2eDNObGJnSzQxZi1Xc1E0MEVJNXVJY3hUdXQ2dk5uRlZORnRsWVEtZmFBczhCeFBvYnVtUUNta2FOZXhtQUtMZnlZY25YX1JOVEdYU0Y1Smc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "cf875cffeae4efac24ec",
-      "title": "イオンモール熊本の爆発「配管が損傷しガス漏れ、着火した可能性」福岡酸素、経産省に報告",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T02:08:41Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeG95WVg0bV9vZ1lMWFduSnNJSU9sWUNoZzBFOUdMa1pDQWtucVZ2RXF6M0FmdWhWR0FsaHlHMnpyRGJCbXlYQW44N0N6R1ItUThOeFQwWnFBdlJGQ0Etbl9jUWwzcVMtRFVKallzM3p1cXV3a0E?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -3000,22 +3000,6 @@
       ]
     },
     {
-      "id": "0b0b1450e1a936625cc1",
-      "title": "イオンモール熊本「爆発」一部犠牲者の具体的な“被災経緯”が明らかに オンワードHDが時系列で公表【全文】",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T08:31:11Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnhZNmVsRXJHeGVscVhNNWExSFAxZkdLcTlienJ3cTBDUVprUVQxcVJLWUdHUkVvMzA2NDl5WnVKeUVvcjJwSzduYXJhUGstUTI4aTVhUy1oUnFhNl94SWwzMWdMM1dCNkI2aXZjaEgyTXlUMFNQRjd2QlFUcngxQ0NkbFBDNVJ4SEtYODlTMTduZHVmTk91MHQ3Yw?oc=5",
-      "first_seen": "2026-08-04T09:01:12Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2d239dd62de13a05c6fb",
       "title": "令和6年にイオンモール熊本を視察した",
       "source": "産経新聞",
@@ -3264,6 +3248,22 @@
       ]
     },
     {
+      "id": "0b0b1450e1a936625cc1",
+      "title": "イオンモール熊本「爆発」一部犠牲者の具体的な“被災経緯”が明らかに オンワードHDが時系列で公表【全文】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnhZNmVsRXJHeGVscVhNNWExSFAxZkdLcTlienJ3cTBDUVprUVQxcVJLWUdHUkVvMzA2NDl5WnVKeUVvcjJwSzduYXJhUGstUTI4aTVhUy1oUnFhNl94SWwzMWdMM1dCNkI2aXZjaEgyTXlUMFNQRjd2QlFUcngxQ0NkbFBDNVJ4SEtYODlTMTduZHVmTk91MHQ3Yw?oc=5",
+      "first_seen": "2026-08-04T09:01:12Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "11bcd6ae2d60b8eae4f6",
       "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
       "source": "熊本日日新聞",
@@ -3396,7 +3396,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
