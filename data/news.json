@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T03:31:12Z",
-  "updated_at_jst": "2026/08/15 12:31 JST",
+  "updated_at": "2026-08-15T04:01:11Z",
+  "updated_at_jst": "2026/08/15 13:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -1910,6 +1910,23 @@
       ]
     },
     {
+      "id": "8fb086e39e879a68b4ad",
+      "title": "イオンモール熊本の爆発「配管が損傷しガス漏れ、着火した可能性」福岡酸素、経産省に報告(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXQ2SWtaVnBRN0t2ZUEtVFBkSUFWNmhpbW9PaGhnU1Qtc1NNXzJhWEZhMXNISWhlY0FZUWQtc0dUbW14Ukt1X19lSmdBUTZTZFN2eDNObGJnSzQxZi1Xc1E0MEVJNXVJY3hUdXQ2dk5uRlZORnRsWVEtZmFBczhCeFBvYnVtUUNta2FOZXhtQUtMZnlZY25YX1JOVEdYU0Y1Smc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "cf875cffeae4efac24ec",
       "title": "イオンモール熊本の爆発「配管が損傷しガス漏れ、着火した可能性」福岡酸素、経産省に報告",
       "source": "産経新聞",
@@ -2015,23 +2032,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85STZGN1VBOUlzSUxWOERFMUpjQnpoeU1pT001UTdteUNvZmw5WTVLY1ZMRl9uNnJ2bnpYTmFNUGJvb1NGa2g2cDU1eE9QNWc?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8fb086e39e879a68b4ad",
-      "title": "イオンモール熊本の爆発「配管が損傷しガス漏れ、着火した可能性」福岡酸素、経産省に報告(写真・画像 1/1)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T02:08:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXQ2SWtaVnBRN0t2ZUEtVFBkSUFWNmhpbW9PaGhnU1Qtc1NNXzJhWEZhMXNISWhlY0FZUWQtc0dUbW14Ukt1X19lSmdBUTZTZFN2eDNObGJnSzQxZi1Xc1E0MEVJNXVJY3hUdXQ2dk5uRlZORnRsWVEtZmFBczhCeFBvYnVtUUNta2FOZXhtQUtMZnlZY25YX1JOVEdYU0Y1Smc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -4573,23 +4573,6 @@
       ]
     },
     {
-      "id": "c052a33d2cb269100cd6",
-      "title": "イオンモール熊本の救助活動終了 熊本地震、爆発事故で7人死亡",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-01T10:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40Yi1zZWJxSG45OFc0UmhEX1liYmdZMDJjeG1SR0FHUGx6RGZqdWN4eTRHYm5tY0ZEcHRUSzZXdnluMEQwZFgzRXdqWGItbGlJMmNXT0d4bGRUYlZPNGJUYWlMN2YwM3J1NS1PV1pGNklMZTR2ZHc?oc=5",
-      "first_seen": "2026-08-01T11:01:00Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "48e3dd8edddf9bcb2f63",
       "title": "イオンモール熊本従業員「車の鍵など貴重品を取りに戻った」",
       "source": "NHK",
@@ -4735,6 +4718,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "c052a33d2cb269100cd6",
+      "title": "イオンモール熊本の救助活動終了 熊本地震、爆発事故で7人死亡",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40Yi1zZWJxSG45OFc0UmhEX1liYmdZMDJjeG1SR0FHUGx6RGZqdWN4eTRHYm5tY0ZEcHRUSzZXdnluMEQwZFgzRXdqWGItbGlJMmNXT0d4bGRUYlZPNGJUYWlMN2YwM3J1NS1PV1pGNklMZTR2ZHc?oc=5",
+      "first_seen": "2026-08-01T11:01:00Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -9807,23 +9807,6 @@
       ]
     },
     {
-      "id": "f4f439123a95ce0c01f0",
-      "title": "会見速報>イオン社長「爆発、想定しきれなかった」ガス爆発の可能性「推測で言えない」 熊本地震・イオン社長会見(3)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:10:30Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwREZNV1labnA0WGlJbEcwMjhuUjdQbFVIOWZldERVUmQtVklJRVZBWl9Ja3FEVEp3a1lsOGtjODB6U2NjRlI1QThWZ0lKOWIzWDZNM0NzQ19HcHAtcDhicURYR1RzLTg1TFdnLVpObzlOTUtEanc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "368d619acc75d6a00a05",
       "title": "「無事に救助、願うしか」=イオン周辺、涙ぐむ人も―熊本・嘉島町",
       "source": "時事通信",
@@ -10513,6 +10496,23 @@
       ]
     },
     {
+      "id": "f4f439123a95ce0c01f0",
+      "title": "会見速報>イオン社長「爆発、想定しきれなかった」ガス爆発の可能性「推測で言えない」 熊本地震・イオン社長会見(3)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwREZNV1labnA0WGlJbEcwMjhuUjdQbFVIOWZldERVUmQtVklJRVZBWl9Ja3FEVEp3a1lsOGtjODB6U2NjRlI1QThWZ0lKOWIzWDZNM0NzQ19HcHAtcDhicURYR1RzLTg1TFdnLVpObzlOTUtEanc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "9522ee028e79733f8355",
       "title": "イオンモール熊本爆発事故 イオン吉田社長が熊本市内で会見へ",
       "source": "産経新聞",
@@ -10569,6 +10569,23 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aeUdGcjNEaDJ5SUhFbUt3U0t4RVBCSm1hRVdKNWtzX1hrMmctVi14dmNheV9KZmFabnhOLVd4S1JCUlZHNFgwdmZoeGZLWmswLTZQSnB2R1dHZEk4SF9mbzJ6eDVRYVlHM3ozT1FBUXdMMHl6V2c?oc=5",
       "first_seen": "2026-07-29T06:00:27Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cb311231cdc9ffd5222c",
+      "title": "【動画】爆発起きたイオンモール熊本で20代女性2人死亡、救助された女性も重体 被害把握を急ぐ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UYVAtVkZTZTk1YWxzOXJaOE1XalJaNlNBcUhPN2E3clVneWo5c3lZZFc3clByZDBMMUlyWUZEUzFNblpndHBYQTdQM1c2LUx3dngxY0QzcXQtTkxiNUxZUFVKNFpSZEt6VDdEX05lUTlBbDRIbWc?oc=5",
+      "first_seen": "2026-07-28T23:00:20Z",
       "focus": [
         "救助・安否",
         "現場状況"
@@ -13339,23 +13356,6 @@
       ]
     },
     {
-      "id": "cb311231cdc9ffd5222c",
-      "title": "【動画】爆発起きたイオンモール熊本で20代女性2人死亡、救助された女性も重体 被害把握を急ぐ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T22:10:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UYVAtVkZTZTk1YWxzOXJaOE1XalJaNlNBcUhPN2E3clVneWo5c3lZZFc3clByZDBMMUlyWUZEUzFNblpndHBYQTdQM1c2LUx3dngxY0QzcXQtTkxiNUxZUFVKNFpSZEt6VDdEX05lUTlBbDRIbWc?oc=5",
-      "first_seen": "2026-07-28T23:00:20Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "69964be0e2e9f725f9b0",
       "title": "イオンモール熊本 20代女性2人死亡1人心肺停止 5人けが",
       "source": "NHK",
@@ -14339,22 +14339,6 @@
       ]
     },
     {
-      "id": "4adf1318b2a99acd1e9b",
-      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T12:23:03Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "9c08eff98e82f33d6a8e",
       "title": "【速報】警察関係者によると、崩落したイオンモール熊本で従業員20~30人が安否不明になっているとの情報がある",
       "source": "時事通信",
@@ -14712,23 +14696,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVNaX0gyZVBmWXgwOEJoVm5pbHlkeWVhR1FwdTgzRFRaUHFmSk1iOUpGNmdrUHpUdmxtc0VvbXo2blZzS3ZJWDR0cDlmeGZJcDFTRkxiMEN2Rzd3RWxUM1hvMjFCSHp4MjlOSlJWNC1BbG85aHZrenVOLVJ0dEg5R3N3UUcxS3FXN0RLS1djbGxGOWhrMFRpdnNnckhDcFFlN3c?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "262a71ba49e63a885dc5",
-      "title": "「爆発音や煙」、「上階崩落」の情報も 震度7の熊本県内 複数イオンモールに相次ぎ被害",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T10:34:48Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQ0dkb09ZMUF3SXlpSFMwazVQT0JEMEFZb0otTkx0NGhsWjlxSXRRcU9EaERlYjRNZ0Rublc5VUJpRE5pa0xoTF9qaWR5YVZsaTlNNTJPdU5EZER3eE94bjVZa2lPRV9TMmYyZkpUM2EwSlo0WUE?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -15486,6 +15453,39 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4adf1318b2a99acd1e9b",
+      "title": "【フォトギャラリー】イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85NGpjMWM5OU4zU0lSOVlDNFlkMjBmb210blRNc2FlX3Q2NlE3empEN3pHUnhLakJWcUZ5Y0FlWHZBSkJJczl3Q05UUVhUSHdoYnVMLVFaOUs2cXNBYmVXcVQ0QzN4a2tVYmhxaXdIZHVNQjBRU0E?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "262a71ba49e63a885dc5",
+      "title": "「爆発音や煙」、「上階崩落」の情報も 震度7の熊本県内 複数イオンモールに相次ぎ被害",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQ0dkb09ZMUF3SXlpSFMwazVQT0JEMEFZb0otTkx0NGhsWjlxSXRRcU9EaERlYjRNZ0Rublc5VUJpRE5pa0xoTF9qaWR5YVZsaTlNNTJPdU5EZER3eE94bjVZa2lPRV9TMmYyZkpUM2EwSlo0WUE?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
