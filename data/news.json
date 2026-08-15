@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T19:01:16Z",
-  "updated_at_jst": "2026/08/16 04:01 JST",
+  "updated_at": "2026-08-15T19:31:12Z",
+  "updated_at_jst": "2026/08/16 04:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 998,
@@ -1049,13 +1049,13 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -1071,8 +1071,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
         "現場状況"
