@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T07:31:10Z",
-  "updated_at_jst": "2026/08/15 16:31 JST",
+  "updated_at": "2026-08-15T08:01:14Z",
+  "updated_at_jst": "2026/08/15 17:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -1000,7 +1000,7 @@
     },
     {
       "id": "ddac5ed2326962d1c700",
-      "title": "<2026年熊本地震>爆発事故のイオンモール熊本 献花相次ぐ",
+      "title": "<2026年熊本地震>木村知事が献花 爆発事故のイオンモール熊本",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -2353,22 +2353,6 @@
       ]
     },
     {
-      "id": "c33190ee85764298664a",
-      "title": "イオンが事故調査委を設置 イオンモール熊本の爆発受け",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T07:07:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcFc2bjhTNTRBWC1vNk5NUEtUQVBCZlBXY01pSk1lc0lMTW43VzFjN1BGdHNIY010dkpyVHNSYWJLTU1rRnNPaURGVVZJV1RSOGFKNGJCa0tDUnFIX0RvWEVqYjJWaTlH?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f8a0bea1e61683f7a567",
       "title": "県立病院や高校には大型のLPガスタンクが...熊本地震「イオンモール熊本」爆発受け、県有施設のガス設備と煙突を緊急点検へ「事故たいへん衝撃的」",
       "source": "読売新聞",
@@ -2493,6 +2477,22 @@
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c33190ee85764298664a",
+      "title": "イオンが事故調査委を設置 イオンモール熊本の爆発受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcFc2bjhTNTRBWC1vNk5NUEtUQVBCZlBXY01pSk1lc0lMTW43VzFjN1BGdHNIY010dkpyVHNSYWJLTU1rRnNPaURGVVZJV1RSOGFKNGJCa0tDUnFIX0RvWEVqYjJWaTlH?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -3737,24 +3737,6 @@
       ]
     },
     {
-      "id": "98c7c6932c740e23560c",
-      "title": "「イオンモール熊本」爆発原因究明へ本格調査 ガス起因?救助後初めて建物内へ 経産省",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T10:22:10Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MN1hZSnJZVDJCaFZmcW1nUHdWTWhmdkE5dGd4OTV6ZVhidGl0SzVodlpLdHRRWGQyMkVDYVl1NHRBdzlIMFBjN1dvMGVja21mZm9oaXRTZmktZjc0Vkh3eENFYW03N1p2Vm5BbGNuaEdmWjZBZmc?oc=5",
-      "first_seen": "2026-08-03T10:31:11Z",
-      "focus": [
-        "原因・検証",
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "720ddcc499eed6ecf344",
       "title": "経産省、イオンモールを本格調査 爆発原因を究明(共同通信)",
       "source": "熊本日日新聞",
@@ -3903,6 +3885,24 @@
       "category_ids": [
         "aeon",
         "paper"
+      ]
+    },
+    {
+      "id": "98c7c6932c740e23560c",
+      "title": "「イオンモール熊本」爆発原因究明へ本格調査 ガス起因?救助後初めて建物内へ 経産省",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MN1hZSnJZVDJCaFZmcW1nUHdWTWhmdkE5dGd4OTV6ZVhidGl0SzVodlpLdHRRWGQyMkVDYVl1NHRBdzlIMFBjN1dvMGVja21mZm9oaXRTZmktZjc0Vkh3eENFYW03N1p2Vm5BbGNuaEdmWjZBZmc?oc=5",
+      "first_seen": "2026-08-03T10:31:11Z",
+      "focus": [
+        "原因・検証",
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -7401,22 +7401,6 @@
       ]
     },
     {
-      "id": "39dd73425e187c65a770",
-      "title": "<速報>熊本地震の死者数は関連調査中を含め計34人に イオンモール熊本は7人",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:29:20Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ2JQMlRma2JFUHhpcE5HRDhTQlRxRkpXbEtXVGVkMmNBaE02VzR5dTJiVUVJakxSeGZUUFQ3VUc5V2p3VTVFR2E4VC0zV3JnS0lSNldrdUxLR21aOWVsWk5rQmdsTzVlNnk0ZllfOW1kV0FiWnc?oc=5",
-      "first_seen": "2026-07-30T08:00:11Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c2dc2cb667df1c31e0af",
       "title": "イオンモール熊本は死者計7人に (共同通信)",
       "source": "熊本日日新聞",
@@ -7671,6 +7655,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "39dd73425e187c65a770",
+      "title": "<速報>熊本地震の死者数は関連調査中を含め計34人に イオンモール熊本は7人",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZ2JQMlRma2JFUHhpcE5HRDhTQlRxRkpXbEtXVGVkMmNBaE02VzR5dTJiVUVJakxSeGZUUFQ3VUc5V2p3VTVFR2E4VC0zV3JnS0lSNldrdUxLR21aOWVsWk5rQmdsTzVlNnk0ZllfOW1kV0FiWnc?oc=5",
+      "first_seen": "2026-07-30T08:00:11Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -9605,20 +9605,6 @@
       ]
     },
     {
-      "id": "6e3509dced5593eca6f2",
-      "title": "【令和8年熊本地震】イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T09:01:09Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGxyZWZNc2xnbHdlTEk2TnlqSGFhbXNNVjNDSzJELTMyOTVIamFEMHY1cllMV0hMN3ZORHNaMXhWSlE0WjR1STZvTm5oVjlHaklfQVJSRlpJbEhNNXpmV3RDMnZuSlEteUpVVVR1QXZSTzljRmFzM2NJSWh1b3paWjVva1MyWUxJQU1FY1hIZ19MQklESDdBRy1HVQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1ee469c8c5af2e1ffe03",
       "title": "会見速報>当日は4300人が館内に 避難は完了と認識、その後「何らかの理由で中に」 熊本地震・イオン社長会見(4)",
       "source": "産経新聞",
@@ -10612,6 +10598,20 @@
       ]
     },
     {
+      "id": "6e3509dced5593eca6f2",
+      "title": "【令和8年熊本地震】イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGxyZWZNc2xnbHdlTEk2TnlqSGFhbXNNVjNDSzJELTMyOTVIamFEMHY1cllMV0hMN3ZORHNaMXhWSlE0WjR1STZvTm5oVjlHaklfQVJSRlpJbEhNNXpmV3RDMnZuSlEteUpVVVR1QXZSTzljRmFzM2NJSWh1b3paWjVva1MyWUxJQU1FY1hIZ19MQklESDdBRy1HVQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "354ab46e4f219f17e732",
       "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー(写真・画像 1/3)",
       "source": "産経新聞",
@@ -11563,20 +11563,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIVWNMWUdOU2owMTF3dEpjMXBZR0RIRnh2WndGZVRaMlY0eEJocDl6WTRqcXBacUFYMDI3V18xSGl0MkhCVE5NVVh1cnRfNFZGc0JFUzBiQXVDUV8tQUxLSWhxMXpDUzQ?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -15963,6 +15949,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
