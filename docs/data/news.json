@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T02:31:12Z",
-  "updated_at_jst": "2026/08/15 11:31 JST",
+  "updated_at": "2026-08-15T03:01:16Z",
+  "updated_at_jst": "2026/08/15 12:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -2189,23 +2189,6 @@
       ]
     },
     {
-      "id": "5bad84dd8ca5a6b8c150",
-      "title": "イオンモール熊本の爆発 経産省「原因はLPガスの可能性高い」",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T10:49:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZGhtNzY3UzE2U1VBODZPVmFZc0tTNGtYMUpnZVRTcEFvY2N1UkhOdGdVekFoYzE1NnJ3Z2VTd1c0YVBWWjh3YXFpSzZESm1uWTJEU1dFczYtSzV4WFNHRUFZR19Nc0Z6?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a2cfa27107c089a2b6a8",
       "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
       "source": "時事通信",
@@ -2498,6 +2481,23 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "5bad84dd8ca5a6b8c150",
+      "title": "イオンモール熊本の爆発 経産省「原因はLPガスの可能性高い」",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZGhtNzY3UzE2U1VBODZPVmFZc0tTNGtYMUpnZVRTcEFvY2N1UkhOdGdVekFoYzE1NnJ3Z2VTd1c0YVBWWjh3YXFpSzZESm1uWTJEU1dFczYtSzV4WFNHRUFZR19Nc0Z6?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -5354,6 +5354,22 @@
       ]
     },
     {
+      "id": "09c1766fc3fc5cd0d6d6",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集13/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVRydWM3SVR5WFFzWi1kb0Y4bXpiVnM1TzNzUHBFUG9HVDg5Rzk4aWF1NF9INXg4bjM4bGk3a0RSbUlZUnpxRWZsbEoxczVERFBvMXdQTjZSSXlJenFoZzlJQ1BkSkVYcTk3U25WTXc5cDZFUXhfNzVGV2dmQkZRTWlzOVAzSTg?oc=5",
+      "first_seen": "2026-08-02T18:30:16Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c672c8add2641729f9ce",
       "title": "熊本地震の死者35人に 日本製紙八代工場の1人が死亡 県発表",
       "source": "毎日新聞",
@@ -5904,22 +5920,6 @@
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ2t6VjhuYzZqMlJjcHN2bE53MDZqTi1iMFhBTVNtSUhfeWNpVzY3anNzT1JLNTVDRXhUaGdPcGRoc2JVdnBwc0twU3p6U0lRS3hEMEUxXzBRMk9fT09uOW1HS2tITUdFaVo5XzdBOEJOQ3A3S2JMX3JpSEN0dzVDTkhpamdOZU0?oc=5",
       "first_seen": "2026-08-03T00:31:04Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "09c1766fc3fc5cd0d6d6",
-      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集13/20]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVRydWM3SVR5WFFzWi1kb0Y4bXpiVnM1TzNzUHBFUG9HVDg5Rzk4aWF1NF9INXg4bjM4bGk3a0RSbUlZUnpxRWZsbEoxczVERFBvMXdQTjZSSXlJenFoZzlJQ1BkSkVYcTk3U25WTXc5cDZFUXhfNzVGV2dmQkZRTWlzOVAzSTg?oc=5",
-      "first_seen": "2026-08-02T18:30:16Z",
       "focus": [
         "現場状況"
       ],
