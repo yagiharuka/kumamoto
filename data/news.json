@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T06:01:15Z",
-  "updated_at_jst": "2026/08/15 15:01 JST",
+  "updated_at": "2026-08-15T06:31:09Z",
+  "updated_at_jst": "2026/08/15 15:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 997,
@@ -1793,23 +1793,6 @@
       ]
     },
     {
-      "id": "f02c6a1d88c8ba0d77ac",
-      "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」(写真・画像 1/1)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T08:44:11Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1lFNmtsSFFTMER4Qjl5VE1PM056bW1zS0RhUnVnelZSWXBlTUNPUUdIaVdkUzlnWXpIR2JVd1JIR0VfZ0JMYXZfak1WRi12aHFaYkdPTExaRmt5X0stVDNWc0N6VTRWYjVQaVFwZnVzem9MWG81M1U3U3c2M0ktd0hCN2RuMDlwT0dpRDJJVTlzUzBZVFZJOThvWnFKLU9SR1E?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e4511f3ea7fbc926da97",
       "title": "イオン爆発「重く受け止め」とガス供給会社 (共同通信)",
       "source": "熊本日日新聞",
@@ -1934,6 +1917,23 @@
       "source_group": "全国紙",
       "published_at": "2026-08-06T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeG95WVg0bV9vZ1lMWFduSnNJSU9sWUNoZzBFOUdMa1pDQWtucVZ2RXF6M0FmdWhWR0FsaHlHMnpyRGJCbXlYQW44N0N6R1ItUThOeFQwWnFBdlJGQ0Etbl9jUWwzcVMtRFVKallzM3p1cXV3a0E?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f02c6a1d88c8ba0d77ac",
+      "title": "「事故が疑われる」爆発あったイオンモール熊本にガス供給の福岡酸素、調査に「全面協力」(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1lFNmtsSFFTMER4Qjl5VE1PM056bW1zS0RhUnVnelZSWXBlTUNPUUdIaVdkUzlnWXpIR2JVd1JIR0VfZ0JMYXZfak1WRi12aHFaYkdPTExaRmt5X0stVDNWc0N6VTRWYjVQaVFwZnVzem9MWG81M1U3U3c2M0ktd0hCN2RuMDlwT0dpRDJJVTlzUzBZVFZJOThvWnFKLU9SR1E?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -2470,6 +2470,23 @@
       ]
     },
     {
+      "id": "40417ca341a2dcfe5d67",
+      "title": "貴重品常時携帯を義務付け オンワード、全国従業員に イオンモール熊本の爆発で3人死亡",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Oc0hqY1NqbldRcjQ1djJRRDBFUzdmU0Z1ODdrb0FVbk5KcmVpQnF4aXJUMXlKNmZQUjZMZlROV0lpS21mSjYxTU4tbXZFX2lRNVZUWFNyUE00N2VObklBVlhpaTFoblZXQ2o3ZjgwS3FHNURDd2c?oc=5",
+      "first_seen": "2026-08-05T04:00:39Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2ea3d6f0901f0a123fe8",
       "title": "<2026年熊本地震>「現時点で閉鎖考えていない」 被災の八代工場 日本製紙・瀬邊社長",
       "source": "熊本日日新聞",
@@ -2711,23 +2728,6 @@
       "focus": [],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "40417ca341a2dcfe5d67",
-      "title": "貴重品常時携帯を義務付け オンワード、全国従業員に イオンモール熊本の爆発で3人死亡",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T03:36:53Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Oc0hqY1NqbldRcjQ1djJRRDBFUzdmU0Z1ODdrb0FVbk5KcmVpQnF4aXJUMXlKNmZQUjZMZlROV0lpS21mSjYxTU4tbXZFX2lRNVZUWFNyUE00N2VObklBVlhpaTFoblZXQ2o3ZjgwS3FHNURDd2c?oc=5",
-      "first_seen": "2026-08-05T04:00:39Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -3396,7 +3396,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -13872,22 +13872,6 @@
       ]
     },
     {
-      "id": "71eda9098c940e436083",
-      "title": "爆発があったイオンモール熊本 二次被害の恐れがあり警察、消防が奥まで進入できず",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T14:48:25Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2SlVyVmZqbmNyUko3cDY2ZlhqVXBwV3h5bmJ5dVd2QTFYcDlyVnRyOHZlRHJyMW01eF9sX2k0ckxCeGZfbDc3UVNwcHRubV9WMUZEMjVWZDBmakZFeVd2UkQwRzAyblVrTnNUZWdFeFNnNjg0Smc?oc=5",
-      "first_seen": "2026-07-29T06:30:27Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2478f35085d42691e959",
       "title": "イオンモール熊本「ガスが漏れていたとの報告」政権幹部",
       "source": "NHK",
@@ -15266,6 +15250,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "71eda9098c940e436083",
+      "title": "爆発があったイオンモール熊本 二次被害の恐れがあり警察、消防が奥まで進入できず",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2SlVyVmZqbmNyUko3cDY2ZlhqVXBwV3h5bmJ5dVd2QTFYcDlyVnRyOHZlRHJyMW01eF9sX2k0ckxCeGZfbDc3UVNwcHRubV9WMUZEMjVWZDBmakZFeVd2UkQwRzAyblVrTnNUZWdFeFNnNjg0Smc?oc=5",
+      "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "現場状況"
       ],
