@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T00:31:12Z",
-  "updated_at_jst": "2026/08/16 09:31 JST",
+  "updated_at": "2026-08-16T01:01:14Z",
+  "updated_at_jst": "2026/08/16 10:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1000,
@@ -7630,6 +7630,20 @@
       ]
     },
     {
+      "id": "8301b0514c12ec7fdfd7",
+      "title": "捜索活動が続くイオンモール熊本=7月29日、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0ZMOUNrLTc5MTFQc0Q1a2NjLWszbm0wekFSdkZ0WW9nYnNuZ0VXVktSVTdsaTJNaUVWMEtsTUdxVW4yN0hKWkpibzdCRDlfM3l2S0dBQkV5NEg3dFJHYnFWdjh4VnBBUkQ3aVVPOHNHbkQ2QlhiS0ZiYmpHcXZPRTZrUlpaNkYyLXl3VkttYmlZTXQ0NVlwYW04R3V6QjdaRmc?oc=5",
+      "first_seen": "2026-07-30T07:30:11Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8e34f98b3f27a733f6a1",
       "title": "地震で複数の煙突が折れ、犠牲者が出た日本製紙八代工場=30日午後3時、熊本県八代市(ドローンから)",
       "source": "産経新聞",
@@ -8596,20 +8610,6 @@
       "published_at": "2026-07-30T02:27:02Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVbWVNam5MSF9yUU9jNFhHWHhoZHFUMEJVcnc3SHN5ODluUnlnOTZsSk1iM3ZkTGcyQk1YOXFMOXM5cDlNTHVQczFqNXE1d1pabEtDVHBjZ09IakxTemlN?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8301b0514c12ec7fdfd7",
-      "title": "捜索活動が続くイオンモール熊本=7月29日、熊本県嘉島町(渡辺大樹撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T02:05:29Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0ZMOUNrLTc5MTFQc0Q1a2NjLWszbm0wekFSdkZ0WW9nYnNuZ0VXVktSVTdsaTJNaUVWMEtsTUdxVW4yN0hKWkpibzdCRDlfM3l2S0dBQkV5NEg3dFJHYnFWdjh4VnBBUkQ3aVVPOHNHbkQ2QlhiS0ZiYmpHcXZPRTZrUlpaNkYyLXl3VkttYmlZTXQ0NVlwYW04R3V6QjdaRmc?oc=5",
-      "first_seen": "2026-07-30T07:30:11Z",
       "focus": [],
       "category_ids": [
         "aeon"
