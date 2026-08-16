@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-15T23:31:11Z",
-  "updated_at_jst": "2026/08/16 08:31 JST",
+  "updated_at": "2026-08-16T00:01:15Z",
+  "updated_at_jst": "2026/08/16 09:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 999,
+  "article_count": 1000,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "yomiuri": 132,
-    "nikkei": 58,
+    "nikkei": 59,
     "jiji": 169,
     "sankei": 166,
     "kumanichi": 147,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 809,
+    "aeon": 810,
     "power": 115,
     "paper": 92
   },
@@ -107,6 +107,23 @@
       "published_at": "2026-08-15T17:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BcFZFM2JXNUJoektSZDZKV1lGSUtvcnZ1dmVxUGppc2VmSkVhNW1RN0JNblRNOEJXelhtZ0wyNWVYanBSSjRfanEzQUFtR2xBdGcyTG9HVkJrY2lvQmJobkI1U2JIbnFadmhJ?oc=5",
       "first_seen": "2026-08-15T19:01:16Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "97658fb061642990e931",
+      "title": "イオンモール爆発、「災害に強い」LPガスの誤算 防災拠点の自負崩れる",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-14T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKS293b05QUHJxMkswLTRWTGpaQmJsNkxEYUpzbmpkdHJsTllGX1ZRTWN6MEVUMFlMRHRBblJSMzNOZTE1ZV9EdmJyWkx3bnJFV25RMVNWSk1vTGxHdnJCZzVoZ2lsWW5sTTRobA?oc=5",
+      "first_seen": "2026-08-16T00:01:15Z",
       "focus": [
         "原因・検証",
         "現場状況"
@@ -2999,20 +3016,6 @@
       ]
     },
     {
-      "id": "2d239dd62de13a05c6fb",
-      "title": "令和6年にイオンモール熊本を視察した",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T08:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1JQUFZvNVMydmdCM1lyU2QzaC1HS0ozdnROelB2dzR2S1NaeUctYl91d0luaEViaWZIVno4YXNZRXZJdXh3SkVUQW1XN2NFMm01aHJIeHQ1MHVodDhVZ3ZVZjY4dGdKam43UTJqSFBFcEdlSjUzR2tWODRtZzM1S195MmN0S3J6ZjB4TmlfQ1RHcG5RR0gwZGx6OHVqZ0NKMXc?oc=5",
-      "first_seen": "2026-08-04T15:01:05Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "0bdcbfec3de99cbb3a6d",
       "title": "<2026年熊本地震>イオンモール熊本の「水春」再開 「足伸ばして安らいで」 被災者は無料で入浴可",
       "source": "熊本日日新聞",
@@ -3198,6 +3201,20 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "2d239dd62de13a05c6fb",
+      "title": "令和6年にイオンモール熊本を視察した",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1JQUFZvNVMydmdCM1lyU2QzaC1HS0ozdnROelB2dzR2S1NaeUctYl91d0luaEViaWZIVno4YXNZRXZJdXh3SkVUQW1XN2NFMm01aHJIeHQ1MHVodDhVZ3ZVZjY4dGdKam43UTJqSFBFcEdlSjUzR2tWODRtZzM1S195MmN0S3J6ZjB4TmlfQ1RHcG5RR0gwZGx6OHVqZ0NKMXc?oc=5",
+      "first_seen": "2026-08-04T15:01:05Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -7428,7 +7445,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
