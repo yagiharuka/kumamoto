@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T11:30:41Z",
-  "updated_at_jst": "2026/08/16 20:30 JST",
+  "updated_at": "2026-08-16T12:00:42Z",
+  "updated_at_jst": "2026/08/16 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1005,
+  "article_count": 1006,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 168,
+    "sankei": 169,
     "kumanichi": 148,
     "yomiuri": 133,
     "nikkei": 59,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 811,
+    "aeon": 812,
     "power": 119,
     "paper": 92
   },
   "items": [
+    {
+      "id": "85bdf9931e87c1f0a835",
+      "title": "宝くじ収益を熊本支援に活用 林総務相が表明、特別交付税配分も イオンモール熊本で献花",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T11:42:20Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91cmxwRjVhMm9tMFl2OEJ1aVI3cTJsZEVRQ3ZTQzdRWUhSd3dBX2Z2RHVDMVdOWG9HLU1IM3MxaUo3ZGJvdEhsN0VBTkljYks5TVkxYi1qdWdaX3FqNG1IVlNMR0IzcTZzRFFFRnpqSlo3UHRTZlE?oc=5",
+      "first_seen": "2026-08-16T12:00:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "f2c63259b376068b2053",
       "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
