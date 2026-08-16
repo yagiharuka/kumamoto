@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T10:00:41Z",
-  "updated_at_jst": "2026/08/16 19:00 JST",
+  "updated_at": "2026-08-16T10:30:43Z",
+  "updated_at_jst": "2026/08/16 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1003,
+  "article_count": 1005,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
-    "sankei": 167,
+    "sankei": 168,
     "kumanichi": 148,
     "yomiuri": 133,
     "nikkei": 59,
-    "jiji": 169,
+    "jiji": 170,
     "mainichi": 128,
     "asahi": 118,
     "nhk": 81
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 810,
-    "power": 118,
+    "aeon": 811,
+    "power": 119,
     "paper": 92
   },
   "items": [
+    {
+      "id": "f2c63259b376068b2053",
+      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T06:45:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG1zS2h3WWM0aWZzYnEwZVZEejZRUHJyX0NsRmhBMlZBdG5PU3VTcmg1VjFQVkZhR1NtNTJzZkVWUnFNSmZuLV9IUVRpTWhQSmhJclg5RkFBazNBVkJobmVrcWZnX2U5Uk5GVVVxQkVDbERFa1lBSFhQajVjcGMtMjBCMUFfVGNGX0s5TmpaV2NIMDhValp1TWJnRVRYcFQ4NVE?oc=5",
+      "first_seen": "2026-08-16T10:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "99b8996d78048f9b5c5f",
       "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に",
@@ -1231,6 +1247,20 @@
       "published_at": "2026-08-11T07:17:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbEdBNG05UlNkd2JBSmlGWmZ0eWRSZEdJWDl5YjNYLUtqSWV2S2tqdy1oRDdKLWNsVmFLRDh0bjhVMTdzNmdSNEhzakhkTWlBamktZF9vaE92QjR0aUF3MEYyRQ?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4328a51ec716e2569d83",
+      "title": "◎イオンモール熊本に献花次々=知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:16:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04djlpZDVUWmcyeV9jQjRITHVJV19BbHhabGdvVWFVQVVUckxqcDNNRVdBRUNaRGNQYmVOc3d5M1VtSmkzdE5qZjlCQmxaQnRjTEMwQg?oc=5",
+      "first_seen": "2026-08-16T10:30:43Z",
       "focus": [],
       "category_ids": [
         "aeon"
