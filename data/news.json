@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T03:30:42Z",
-  "updated_at_jst": "2026/08/16 12:30 JST",
+  "updated_at": "2026-08-16T04:00:43Z",
+  "updated_at_jst": "2026/08/16 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1001,
@@ -10732,6 +10732,20 @@
       ]
     },
     {
+      "id": "d5ce6c79f8dae1171302",
+      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcG90UjJSdHFHY2tmc0JOQjNLMU5USVNWeWN6STdvSl9hRkVzemlBc1JhN1I0Mm9rQjlFbjNVOWFrdlJpT1pWVllIZnJIdlZXckkyQnM2TVljbmxrUHdOdU1ZYW9fS01SVWFhU0w5M0lORjFHOVo3MERWXzlLOFpkTWoxQ2pNVVJfXzV6VjJQOXB5a3EzTVlpWjBHQ1ViOHM0SlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c22709c86c65e42e5274",
       "title": "【動画】鉄骨むき出し、床に建材散乱 爆発起きたイオンモール熊本内部の映像を警察庁が公開",
       "source": "産経新聞",
@@ -13988,20 +14002,6 @@
       ]
     },
     {
-      "id": "d5ce6c79f8dae1171302",
-      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T14:40:40Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm1LS1Fjc0xOeGU2M1VsbHhOMkV6RGo0S0tjWE53UjRJOFZzM2lyNmpBV2Q5dlg2VlVGbHlHZklUVW1KSlg3TWxBLTl1cGZybmdkNDl2SFY1N2M3V0ExdXdpY2hfZEVVaTRMYnlQR00xRHVrNHFjYURvenlJT2dsaDdzZV9LSkVXaTFQZHBnZ2dRY3pVekMyWldkZ29jbmRRZHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a65dfe1e98674467f302",
       "title": "イオンモール熊本内、捜索できず (共同通信)",
       "source": "熊本日日新聞",
@@ -15425,6 +15425,22 @@
       ]
     },
     {
+      "id": "4adf1318b2a99acd1e9b",
+      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "82e76c3e27ae0a3533c6",
       "title": "イオンモール熊本で爆発か 閉じ込め多数 消防など救助急ぐ 近くの男性「ドンという音」",
       "source": "産経新聞",
@@ -15504,22 +15520,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "4adf1318b2a99acd1e9b",
-      "title": "【フォトギャラリー】イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85NGpjMWM5OU4zU0lSOVlDNFlkMjBmb210blRNc2FlX3Q2NlE3empEN3pHUnhLakJWcUZ5Y0FlWHZBSkJJczl3Q05UUVhUSHdoYnVMLVFaOUs2cXNBYmVXcVQ0QzN4a2tVYmhxaXdIZHVNQjBRU0E?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
