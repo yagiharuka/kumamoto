@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T07:00:41Z",
-  "updated_at_jst": "2026/08/16 16:00 JST",
+  "updated_at": "2026-08-16T07:30:44Z",
+  "updated_at_jst": "2026/08/16 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1001,
+  "article_count": 1003,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "sankei": 167,
+    "kumanichi": 148,
     "yomiuri": 133,
     "nikkei": 59,
     "jiji": 169,
-    "sankei": 166,
-    "kumanichi": 147,
     "mainichi": 128,
     "asahi": 118,
     "nhk": 81
@@ -77,10 +77,42 @@
   ],
   "category_counts": {
     "aeon": 810,
-    "power": 116,
+    "power": 118,
     "paper": 92
   },
   "items": [
+    {
+      "id": "99b8996d78048f9b5c5f",
+      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T06:45:49Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
+      "first_seen": "2026-08-16T07:30:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "7df9fada7e5474534100",
+      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-16T06:22:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
+      "first_seen": "2026-08-16T07:30:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "f4cd573d62266efe327d",
       "title": "熊本地震翌日から猛暑の被災地入り、停電にガソリン完売で「あまりの暑さ」「寝られない」の声...今も続く3200人超の避難生活",
@@ -1719,7 +1751,7 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-08T04:00:00Z",
+      "published_at": "2026-08-08T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kMVE4QmpzRGpmOHFRdzNSTE1uejVsUHF1TlV6a1BmNXNGNDcyekdwUmFaS3lsNzV1N184a3RWTlQ4NU0xb0E3bm80VndYaDVTTGNQVUExaXJWbDd5MGJYVUhBNkxpUjA?oc=5",
       "first_seen": "2026-08-08T04:30:12Z",
       "focus": [
@@ -8110,24 +8142,6 @@
       ]
     },
     {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f603166d0f8ca279d2c1",
       "title": "【29日の詳報】イオン爆発で犠牲者 社長会見「深く深くおわび」 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -10169,7 +10183,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lZzQ4R24xelpLOUs3OElRa0JkSE45djV2c1lxckJXSTFjS3NWS0E5eTFLd3FOdVFUdVpnNzc1eVA2a0NqSU9oelhOeEc4V18xSWR6UnE1S1R1d0pwSDh6ZHk3YWpzWllyRGs3Z29fd0M2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCTHdIc2FzNk1JTTZYeGk1VGRMc3puMl82X25OejVFTDRYaUJxQlZuZ3pGUUt0azJkbW03TUJPQ0pPRDNtZFByQ2VRM2NPSUVZVGtQM2FzYXFMTHdtQkxtbEpjNUpxSTF6WFVQTG4xRUZScnJF?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "救助・安否",
@@ -11722,6 +11736,24 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTU9NbFBVTVQ3ZC1saHU2aXBoeUF4UDJuTGtma2FxdlYwSEk0TGNlTjdLMHQxUGp2UXludVRpUmdVeW8yUl82amNEbnAzd0lZamg2Q1ctUDFlcVdiWVpTV0pXcEpjU3FGVXlDYktR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
