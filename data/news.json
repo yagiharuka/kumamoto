@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T21:35:37Z",
-  "updated_at_jst": "2026/08/17 06:35 JST",
+  "updated_at": "2026-08-16T22:00:35Z",
+  "updated_at_jst": "2026/08/17 07:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1006,
@@ -8345,7 +8345,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XTVhzbjRCSjZCM19RX2VrSklkalhsMnhFYzRvVUVyemZrSnBmYXd4Zmo4eVBrZUlQZHJUVWZxT3BhbjVqQWVuclg4cjNMZEJ0US10QjZURzlIQ0J1bnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV1pvbG1rTS1LWkhkYm4yQ21ubXBnQ1RzMzhaNndFTy1WVlhQcnBtLXRhYmN5cUhCeEd4VWhyQmRQODBWMncta1oyNzBsb3pSY2FOMQ?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -9539,20 +9539,6 @@
       "source_group": "通信社",
       "published_at": "2026-07-29T09:54:45Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LcWw2bzE1bFlqTEdYenlVdXRtZzlpMlBYcWdCRkZJRTRYSUJLRUtCU0VTUFQxckUtRVhZQUI4aXN4MnA2MDNCOFc1RGV1ekU?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "5011d865945aaa02a205",
-      "title": "イオンモール熊本ドローン映像を公開 防衛省:ニュース動画:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T09:46:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10RzhCQlpyVVVWOTFCcmtvYjJYYU04dldGVU1qYmdlWkJxaU5lWTNnWU84RXAxXzhXcG00XzZNQUdCd09kSXVxYTBhYzJ2Q2lI?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -12164,6 +12150,20 @@
         "避難状況",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "5011d865945aaa02a205",
+      "title": "イオンモール熊本ドローン映像を公開 防衛省:ニュース動画:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10RzhCQlpyVVVWOTFCcmtvYjJYYU04dldGVU1qYmdlWkJxaU5lWTNnWU84RXAxXzhXcG00XzZNQUdCd09kSXVxYTBhYzJ2Q2lI?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
