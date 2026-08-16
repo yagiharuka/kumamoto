@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T21:00:34Z",
-  "updated_at_jst": "2026/08/17 06:00 JST",
+  "updated_at": "2026-08-16T21:35:37Z",
+  "updated_at_jst": "2026/08/17 06:35 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1006,
@@ -7481,22 +7481,6 @@
       ]
     },
     {
-      "id": "faef13178ad6990b67eb",
-      "title": "オリコンニュース:停電時の熱中症に注意、熊本県民テレビが呼びかける「熱中症対策3つのポイント」と「危険な4つの症状」",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HS2ItV3FjX3F4M3VMVGRUdnpCdnVIT2VGYzEtZVM2YzJPQV9oODk4bHBDMHZXdHRheTBEZWo5Q0NZTnZoZWhUandmWGZCUFRRVDlybjUzYnhfVEI0Uk42VWJpVVNsRmFC?oc=5",
-      "first_seen": "2026-07-30T09:00:21Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "2ff2e764dc1f9bb5b201",
       "title": "熊本地震から3日目、救助活動続く 死者7人のイオンモールに警察犬",
       "source": "日本経済新聞",
@@ -8036,6 +8020,22 @@
       ]
     },
     {
+      "id": "faef13178ad6990b67eb",
+      "title": "オリコンニュース:停電時の熱中症に注意、熊本県民テレビが呼びかける「熱中症対策3つのポイント」と「危険な4つの症状」",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HS2ItV3FjX3F4M3VMVGRUdnpCdnVIT2VGYzEtZVM2YzJPQV9oODk4bHBDMHZXdHRheTBEZWo5Q0NZTnZoZWhUandmWGZCUFRRVDlybjUzYnhfVEI0Uk42VWJpVVNsRmFC?oc=5",
+      "first_seen": "2026-07-30T09:00:21Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "666a4cc0ad8aeaf9e67c",
       "title": "「地震後、何をすればいい?」アイリスオーヤマが“まずやること”を紹介 停電・避難時のポイントも[令和8年熊本地震]",
       "source": "毎日新聞",
@@ -8345,7 +8345,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV1pvbG1rTS1LWkhkYm4yQ21ubXBnQ1RzMzhaNndFTy1WVlhQcnBtLXRhYmN5cUhCeEd4VWhyQmRQODBWMncta1oyNzBsb3pSY2FOMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XTVhzbjRCSjZCM19RX2VrSklkalhsMnhFYzRvVUVyemZrSnBmYXd4Zmo4eVBrZUlQZHJUVWZxT3BhbjVqQWVuclg4cjNMZEJ0US10QjZURzlIQ0J1bnc?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
