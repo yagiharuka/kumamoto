@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T09:30:47Z",
-  "updated_at_jst": "2026/08/16 18:30 JST",
+  "updated_at": "2026-08-16T10:00:41Z",
+  "updated_at_jst": "2026/08/16 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1003,
@@ -87,7 +87,7 @@
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-08-16T08:00:44Z",
+      "published_at": "2026-08-16T06:45:49Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
       "first_seen": "2026-08-16T07:30:44Z",
       "focus": [
@@ -1746,6 +1746,22 @@
       ]
     },
     {
+      "id": "3f18a202e8ee62e9be9f",
+      "title": "イオンモール熊本、「再入館を許可」の証言 社内規定に抵触か",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UzdHbjdxMzJyOUo0YlJqYzhRc1NrMFlGbXdBWDZuTG1oNXEtSWNMR2pncFdSZjloMzNuZXhBZHo2NWNXY0hKN0x1aHd2WnRCbHlIWW44a2Q4TFREOUZGNmhrNV9FaVFU?oc=5",
+      "first_seen": "2026-08-07T20:01:05Z",
+      "focus": [
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ffa1894c9f16cff41c46",
       "title": "イオン爆発、困難な救助活動 消防隊長が語る「誰も経験ない現場」 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1757,22 +1773,6 @@
       "focus": [
         "救助・安否",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "3f18a202e8ee62e9be9f",
-      "title": "イオンモール熊本、「再入館を許可」の証言 社内規定に抵触か",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-07T19:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UzdHbjdxMzJyOUo0YlJqYzhRc1NrMFlGbXdBWDZuTG1oNXEtSWNMR2pncFdSZjloMzNuZXhBZHo2NWNXY0hKN0x1aHd2WnRCbHlIWW44a2Q4TFREOUZGNmhrNV9FaVFU?oc=5",
-      "first_seen": "2026-08-07T20:01:05Z",
-      "focus": [
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
