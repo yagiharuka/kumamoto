@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T01:31:09Z",
-  "updated_at_jst": "2026/08/16 10:31 JST",
+  "updated_at": "2026-08-16T02:01:09Z",
+  "updated_at_jst": "2026/08/16 11:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1000,
+  "article_count": 1001,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 132,
+    "yomiuri": 133,
     "nikkei": 59,
     "jiji": 169,
     "sankei": 166,
@@ -77,10 +77,27 @@
   ],
   "category_counts": {
     "aeon": 810,
-    "power": 115,
+    "power": 116,
     "paper": 92
   },
   "items": [
+    {
+      "id": "f4cd573d62266efe327d",
+      "title": "熊本地震翌日から猛暑の被災地入り、停電にガソリン完売で「あまりの暑さ」「寝られない」の声...今も続く3200人超の避難生活",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-15T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTlKQVZvQ05EemdiV0xYWmJLUnVaRGpkSzZUTlRtRzVHLWFwSURlUEFrNlVfUElzM2g3b1kyQ0F1MURJM0RnMXhMRlZBOXQ3Zmc4VWxDamt6ZVdOVmJGMTV0ZXl0ZUlSTGN6LWpDbFRVU3llbG5mcUpqOXNPS3RRczNQVWFrOUZXV0NR?oc=5",
+      "first_seen": "2026-08-16T02:01:09Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "5d2a5cb43d17519e6718",
       "title": "熊本地震翌日から猛暑の被災地入り、停電にガソリン完売で「あまりの暑さ」「寝られない」...今も続く3200人超の避難生活",
