@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T00:01:15Z",
-  "updated_at_jst": "2026/08/16 09:01 JST",
+  "updated_at": "2026-08-16T00:31:12Z",
+  "updated_at_jst": "2026/08/16 09:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1000,
@@ -4096,7 +4096,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTllYRTY3cHVsWllGLWppMWNrQTcxdkU2alVHMTM0bVZGbUxKZFB2SmZIMkxUemJlTk5tcUhVS1R6amZnZ3FPTWR6QVVYRDdYUHVYeDh0OHlISGlydHphNnFlT0swVmN0cUJsSzVudWhMOXNIYzBBUTYzXy0tQ1Y0RFdyb3NJcW9KblFhZVln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
@@ -4931,20 +4931,6 @@
       ]
     },
     {
-      "id": "53515250e9b3b0adf61f",
-      "title": "サンリオ、イオンモール熊本ほか店舗スタッフ「全員の無事を確認」 SNSでは心配の声も【令和8年熊本地震】",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T10:31:07Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1FqNHdoT3R3dkI5bExjc3FncUNHYTlUQkZpZkwtNmtWZWRRWTN3UU1DV2JtVExrZ2loeW0teUM3TV9XVmdnU3BESERvbXJHelY4TEZRLUk1ME9KN0pNdnZJdjkwa1N5ckdyR3BOTlowbGNTVnlyUlhLRUVsU3NKN2RUdVNLSHVscVRmYmxDV1Z4VDlpcHFmZFpCaw?oc=5",
-      "first_seen": "2026-07-31T11:00:54Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e862c0fde02a43363171",
       "title": "日本製紙 八代工場での9人の死亡を公表",
       "source": "NHK",
@@ -5177,6 +5163,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "53515250e9b3b0adf61f",
+      "title": "サンリオ、イオンモール熊本ほか店舗スタッフ「全員の無事を確認」 SNSでは心配の声も【令和8年熊本地震】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1FqNHdoT3R3dkI5bExjc3FncUNHYTlUQkZpZkwtNmtWZWRRWTN3UU1DV2JtVExrZ2loeW0teUM3TV9XVmdnU3BESERvbXJHelY4TEZRLUk1ME9KN0pNdnZJdjkwa1N5ckdyR3BOTlowbGNTVnlyUlhLRUVsU3NKN2RUdVNLSHVscVRmYmxDV1Z4VDlpcHFmZFpCaw?oc=5",
+      "first_seen": "2026-07-31T11:00:54Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
