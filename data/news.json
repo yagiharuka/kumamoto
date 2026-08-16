@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T13:30:42Z",
-  "updated_at_jst": "2026/08/16 22:30 JST",
+  "updated_at": "2026-08-16T14:00:41Z",
+  "updated_at_jst": "2026/08/16 23:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1006,
@@ -8186,6 +8186,24 @@
       ]
     },
     {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f603166d0f8ca279d2c1",
       "title": "【29日の詳報】イオン爆発で犠牲者 社長会見「深く深くおわび」 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -10291,6 +10309,22 @@
       ]
     },
     {
+      "id": "fe27c93cae4647e794aa",
+      "title": "熊本地震、爆発した「イオンモール熊本」建物上部が崩れ床一面に破片が散乱...警察庁が内部の映像を公開",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PVnZ3blQwYkxpOWtnaFRoQXY1aG44RnBub1BIUUM3ZzdkSjdDcHJzTkZ6S1oyeERHNzVRQ3BRWjUwQkR1NG45YURHVjFZUXRxQlc1bzYzSzYyNDZJbF9ETGlkWFpoZFNUZXJmcFBwTUdQUQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e3686f3e6649ba6ca674",
       "title": "熊本地震、12人死亡・6人心肺停止...日本製紙八代工場で5人死亡・4人安否不明",
       "source": "読売新聞",
@@ -11777,27 +11811,9 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTU9NbFBVTVQ3ZC1saHU2aXBoeUF4UDJuTGtma2FxdlYwSEk0TGNlTjdLMHQxUGp2UXludVRpUmdVeW8yUl82amNEbnAzd0lZamg2Q1ctUDFlcVdiWVpTV0pXcEpjU3FGVXlDYktR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -12336,22 +12352,6 @@
       "published_at": "2026-07-29T06:55:03Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ERDZZUk1iNVpQSENTX0FFd182MmswSUNZUWRxRGpOZTQ3SlduNk5JYzdCbXluZGRUTEJYLVotTnVCVWRGcElnUGR4eGlLTno1Ymc0U2lCcjZiVWNjT0E?oc=5",
       "first_seen": "2026-08-01T00:30:58Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "fe27c93cae4647e794aa",
-      "title": "熊本地震、爆発した「イオンモール熊本」建物上部が崩れ床一面に破片が散乱...警察庁が内部の映像を公開",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T06:48:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PVnZ3blQwYkxpOWtnaFRoQXY1aG44RnBub1BIUUM3ZzdkSjdDcHJzTkZ6S1oyeERHNzVRQ3BRWjUwQkR1NG45YURHVjFZUXRxQlc1bzYzSzYyNDZJbF9ETGlkWFpoZFNUZXJmcFBwTUdQUQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
       ],
