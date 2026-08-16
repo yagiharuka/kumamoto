@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T14:00:41Z",
-  "updated_at_jst": "2026/08/16 23:00 JST",
+  "updated_at": "2026-08-16T14:30:42Z",
+  "updated_at_jst": "2026/08/16 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1006,
@@ -1729,22 +1729,6 @@
       ]
     },
     {
-      "id": "d3945e40cd9b6f57d943",
-      "title": "<2026年熊本地震>「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-08T12:49:51Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVGVBRDYzWmgxVG1aM2J4WV85eTRlWk1vdGlrS1FLRENzYW5BSlhTNDlvZUF0emt1S3NsRDFaZERmeVM0ZFF1SHVBaHg1T2M?oc=5",
-      "first_seen": "2026-08-08T13:00:20Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ffb512057ecc9f54d5c3",
       "title": "イオンモール熊本 献花台に多くの人 犠牲者悼む",
       "source": "NHK",
@@ -1785,6 +1769,22 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bDVlblMzSmFjVVZrdWFBdEJFaUV1VHd2N2ZnZUltS2xoNnhaOHRkdzQyU2ZWOFY5ZEtuOFR1Z1ZKMzdFcGJJVktTNUZNdW1uU3BDM1JLQTVpTUc1Zzhwai05dG01dnpy?oc=5",
       "first_seen": "2026-08-08T08:00:14Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d3945e40cd9b6f57d943",
+      "title": "<2026年熊本地震>「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVGVBRDYzWmgxVG1aM2J4WV85eTRlWk1vdGlrS1FLRENzYW5BSlhTNDlvZUF0emt1S3NsRDFaZERmeVM0ZFF1SHVBaHg1T2M?oc=5",
+      "first_seen": "2026-08-08T13:00:20Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
