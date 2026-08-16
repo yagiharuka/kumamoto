@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T03:01:10Z",
-  "updated_at_jst": "2026/08/16 12:01 JST",
+  "updated_at": "2026-08-16T03:30:42Z",
+  "updated_at_jst": "2026/08/16 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1001,
@@ -2859,22 +2859,6 @@
       ]
     },
     {
-      "id": "2ea06160415521d1a6f5",
-      "title": "イオンモール熊本で働く男性 爆発が起きた時の状況を話す",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-04T11:47:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTGppZ2lycmR3VmVLcXVBYlNGbV8yZVYyTTFDNVlMcF8tTV82TXV5YjhKTjgwV0dNOTBCeERTNUE0MlFsY0czUVh2QVlkWEgyNkF3clBPZzhrZ3pWNjdB?oc=5",
-      "first_seen": "2026-08-04T12:01:05Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c5c30e4090d622456d81",
       "title": "2026年熊本地震>7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
       "source": "熊本日日新聞",
@@ -3465,6 +3449,22 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "2ea06160415521d1a6f5",
+      "title": "イオンモール熊本で働く男性 爆発が起きた時の状況を話す",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTGppZ2lycmR3VmVLcXVBYlNGbV8yZVYyTTFDNVlMcF8tTV82TXV5YjhKTjgwV0dNOTBCeERTNUE0MlFsY0czUVh2QVlkWEgyNkF3clBPZzhrZ3pWNjdB?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
