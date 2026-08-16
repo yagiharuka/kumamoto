@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-16T07:30:44Z",
-  "updated_at_jst": "2026/08/16 16:30 JST",
+  "updated_at": "2026-08-16T08:00:44Z",
+  "updated_at_jst": "2026/08/16 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1003,
@@ -2223,23 +2223,6 @@
       ]
     },
     {
-      "id": "854a55850d45c5a92ccd",
-      "title": "2026年熊本地震>「イオンモール熊本」爆発、原因はLPガスの可能性 経産省 イオンは外部調査委設置",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-05T11:37:54Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05d3hRbHkzY3RCNF9hV2I0Ylo2NGxpdk4zMVJCRFRXUzA5VVlrcUhkVnhQV0V4OUI5WGZlNDFXVXM2bTZEUDZ2YTJ0T0lQVkU?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c7cc91a72f11ac6a7f08",
       "title": "<2026年熊本地震>日本製紙とイオンに現地再建を要望 木村知事",
       "source": "熊本日日新聞",
@@ -2547,6 +2530,23 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "854a55850d45c5a92ccd",
+      "title": "2026年熊本地震>「イオンモール熊本」爆発、原因はLPガスの可能性 経産省 イオンは外部調査委設置",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05d3hRbHkzY3RCNF9hV2I0Ylo2NGxpdk4zMVJCRFRXUzA5VVlrcUhkVnhQV0V4OUI5WGZlNDFXVXM2bTZEUDZ2YTJ0T0lQVkU?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -3408,6 +3408,22 @@
       ]
     },
     {
+      "id": "741df684e8f744d3f32e",
+      "title": "爆発のイオン前、献花や色紙=断水地域、給水並ぶ列も―熊本地震1週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSlNUR1FQTEo4VnNLaXhLczZUbTBYYmQxZUpwTHpETERMYm1nVnd1d21WUXc0NURwRlZrdXAyNkVEM3RQWEVVeWh6Mno1U0tZN1VVSQ?oc=5",
+      "first_seen": "2026-08-04T09:31:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6bc5b2c4687f0de851b2",
       "title": "爆発のイオン前、献花や色紙 断水地域、給水並ぶ列も 熊本地震1週間:ニュース動画:時事ドットコム",
       "source": "時事通信",
@@ -3567,22 +3583,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlNSbnhWUTBpRHA3Nnl1STQ0VVBUSVlVLVd0ZDFGQmFRU2RyMG1EVGhraHY2SmJ1UGNXRl82cU5rWTRuWV96MVhTbFl6SUlIUUhic0xmZ0dISG5CcS1YUkZhSlJ5WlhJOGJJMTFjREV4Qy1QbmtkTXFFWHZyajQwS3ZkZFFUM1l3LWppRkpiLVM?oc=5",
       "first_seen": "2026-07-30T18:00:10Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "741df684e8f744d3f32e",
-      "title": "爆発のイオン前、献花や色紙=断水地域、給水並ぶ列も―熊本地震1週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T02:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xa3JTVlhUeDRSbWlld2tKTWJoY2Vrd0N5NWhIcGhXWEp3Q05HNTlFbjNuYXNTTG9fZ2ZKb1Y5U2tUa1VBaXlNeGJwZTd1cjBTZHp3aDRNS2tDN0V6UlE?oc=5",
-      "first_seen": "2026-08-04T09:31:05Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
