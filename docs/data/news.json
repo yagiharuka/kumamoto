@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T00:00:36Z",
-  "updated_at_jst": "2026/08/17 09:00 JST",
+  "updated_at": "2026-08-17T01:00:36Z",
+  "updated_at_jst": "2026/08/17 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1006,
@@ -14698,20 +14698,6 @@
       ]
     },
     {
-      "id": "09577b2cf8a13055b37c",
-      "title": "イオンモール熊本、約160のテナントや映画館が入居...16年にも被災",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T10:49:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yWVpMdTkzMmRkWXAwMEtKeEdObENFOXZnOHdaaFl1VG9qNGRPTTNmVVBBZUt4SVhET2tzYWZ4V25SY0MwZy1EQnJVdGp0UDRCV1pvMHRXYkpCQW9HaFkwdzdIbDdmUQ?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "720dccce81db9b651d75",
       "title": "イオンモール熊本で爆発 閉じ込めか、けが人の情報(共同通信)",
       "source": "熊本日日新聞",
@@ -15298,6 +15284,20 @@
         "目撃証言",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "09577b2cf8a13055b37c",
+      "title": "イオンモール熊本、約160のテナントや映画館が入居...16年にも被災",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yWVpMdTkzMmRkWXAwMEtKeEdObENFOXZnOHdaaFl1VG9qNGRPTTNmVVBBZUt4SVhET2tzYWZ4V25SY0MwZy1EQnJVdGp0UDRCV1pvMHRXYkpCQW9HaFkwdzdIbDdmUQ?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
