@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T05:00:35Z",
-  "updated_at_jst": "2026/08/17 14:00 JST",
+  "updated_at": "2026-08-17T05:30:35Z",
+  "updated_at_jst": "2026/08/17 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1008,
+  "article_count": 1009,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 149,
     "asahi": 118,
     "sankei": 169,
-    "kumanichi": 148,
     "yomiuri": 135,
     "nikkei": 59,
     "jiji": 170,
@@ -77,10 +77,26 @@
   ],
   "category_counts": {
     "aeon": 813,
-    "power": 119,
+    "power": 120,
     "paper": 93
   },
   "items": [
+    {
+      "id": "9e603221cabd146574b8",
+      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-17T05:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
+      "first_seen": "2026-08-17T05:30:35Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "68c56fd1243b366c2fd2",
       "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
