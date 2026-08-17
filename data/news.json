@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T14:00:34Z",
-  "updated_at_jst": "2026/08/17 23:00 JST",
+  "updated_at": "2026-08-17T14:30:36Z",
+  "updated_at_jst": "2026/08/17 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1012,
@@ -3187,22 +3187,6 @@
       ]
     },
     {
-      "id": "0920bfcaa4b1af765c0d",
-      "title": "オンワードHD従業員、貴重品取りに戻り死亡 イオンモール熊本事故で",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T07:23:27Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03X2lhLUtZSjNDcWxqVWlyUUd1VWJRWVZoWTVpTnRlMmFMZUk0Y2h6RElNTVJkRF9LdXJkay00QnBCNUZUNlQ0WWR6MDNRXzdVXzZSRzlSdHdRbWhpQzhhNGw3d1dBeXZ4T0hxdQ?oc=5",
-      "first_seen": "2026-08-04T08:01:05Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "dd5e0bcbb9d74e4702e6",
       "title": "日本製紙八代工場の救助活動「余震で倒壊の危険がある中、酷暑で困難を極めた」...帰還した福岡市の消防署長:写真",
       "source": "読売新聞",
@@ -3666,6 +3650,22 @@
       "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "0920bfcaa4b1af765c0d",
+      "title": "オンワードHD従業員、貴重品取りに戻り死亡 イオンモール熊本事故で",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03X2lhLUtZSjNDcWxqVWlyUUd1VWJRWVZoWTVpTnRlMmFMZUk0Y2h6RElNTVJkRF9LdXJkay00QnBCNUZUNlQ0WWR6MDNRXzdVXzZSRzlSdHdRbWhpQzhhNGw3d1dBeXZ4T0hxdQ?oc=5",
+      "first_seen": "2026-08-04T08:01:05Z",
+      "focus": [
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -9785,20 +9785,6 @@
       ]
     },
     {
-      "id": "05304302578fc19788c3",
-      "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:26:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zUXVkS1JvcnNTT0EtSEJsa3YxX2tIVTFLWWotejJsUklLak9OMzBrR085YUk0d3hoaWNYMEx0anAtOXNPbUJ5dU1rRVFuYlJpODUwWmZKNXBqeHh5STlMLWVYUDlyeVA3?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e6eb2d7441e1a8f8a5de",
       "title": "天井崩落、床一面に資材 イオンと日本製紙内部映像(共同通信)",
       "source": "熊本日日新聞",
@@ -11470,6 +11456,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "05304302578fc19788c3",
+      "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zUXVkS1JvcnNTT0EtSEJsa3YxX2tIVTFLWWotejJsUklLak9OMzBrR085YUk0d3hoaWNYMEx0anAtOXNPbUJ5dU1rRVFuYlJpODUwWmZKNXBqeHh5STlMLWVYUDlyeVA3?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
