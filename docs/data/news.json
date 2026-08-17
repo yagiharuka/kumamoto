@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T19:00:38Z",
-  "updated_at_jst": "2026/08/18 04:00 JST",
+  "updated_at": "2026-08-17T19:30:41Z",
+  "updated_at_jst": "2026/08/18 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1015,
@@ -2302,23 +2302,6 @@
       ]
     },
     {
-      "id": "7be980dd6b9c28932c9d",
-      "title": "LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T11:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01RnNtV2FVQlVtYzJLQzBXN3c3UWVUMFVRN0NTeDF3RmNQSUxnQlhtdzhwU0xoR08tOVduWVIwcHo2Q0VEeFVjVVVua3VMSU5xQU9pYw?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c7cc91a72f11ac6a7f08",
       "title": "<2026年熊本地震>日本製紙とイオンに現地再建を要望 木村知事",
       "source": "熊本日日新聞",
@@ -2328,22 +2311,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00RzNFQ0ZBd1dnanFGZEpqaXdmb3FQaUZRWkNTRjdSSDJJNDB6c2hUOVM3Y09nQW9xWTFfOUJlcWhhSlB2MkJ4UlBRNE5WV1U?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T10:12:08Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -2391,6 +2358,22 @@
       "published_at": "2026-08-05T09:09:14Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSHItSElJdnNtOUlnWUZHcHNjb3NVNEpmRV9FV3I3QnlxOTAzREpvcTBnc0cybmhZYzBZRVFES2FXQ1NIZzljN0lYQTZPSC0zcDA2alF1MWlKaWc4Rm1v?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T09:05:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
       ],
@@ -2740,6 +2723,23 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uanZnTzZDRkE4Qm5ScjM4NmNKemJhUjItZlJXVENtd1JFZHk0XzdmaTZ2WEpTTzJFXy1LajBSaEdBZk1GNmZTczhZNUJjcWlvdmZkZGZUQVktOWI3SlFmZ2Z4cw?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7be980dd6b9c28932c9d",
+      "title": "LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSVJtdFA5YUdxa0RKcUNxY3NldW5BWGd5SXdWeHZXMk5MZENMaE9nUUZ3eW9lS3M5WUZNM3p1RTYwOG43T3FpdjFhY3pCY2ZpT0RLQ2tEclNMd0pWeUE?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -7397,23 +7397,6 @@
       ]
     },
     {
-      "id": "f59034797d96bb39ab46",
-      "title": "配管からガス漏れ、引火か=イオンモール熊本の爆発―専門家",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T10:06:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
-      "first_seen": "2026-08-01T01:30:51Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "08c1ae0d593607f4cbbb",
       "title": "【令和8年熊本地震】中川家、イオンシネマ熊本で開催予定だったライブビューイングの中止発表「営業見合わせに伴い」",
       "source": "産経新聞",
@@ -8427,6 +8410,23 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQVlzbU8weVNIUTFaNC1rcHY4VGlwb29MVWFMbGFnMkhQalBxb2pwV3MtRlUyZ2pXSmdRN2pockFoYzdhUUpJR0FmMlk3UnppZWJzVHRwR21HLUFLMnhOMXBtSkpTOUE?oc=5",
       "first_seen": "2026-07-30T05:30:47Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f59034797d96bb39ab46",
+      "title": "配管からガス漏れ、引火か=イオンモール熊本の爆発―専門家",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
+      "first_seen": "2026-08-01T01:30:51Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -16261,7 +16261,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
