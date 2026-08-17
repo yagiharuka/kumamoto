@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T12:30:39Z",
-  "updated_at_jst": "2026/08/17 21:30 JST",
+  "updated_at": "2026-08-17T13:00:38Z",
+  "updated_at_jst": "2026/08/17 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1012,
@@ -759,6 +759,22 @@
     },
     {
       "id": "c614a36787100877b5c8",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "first_seen": "2026-08-13T12:35:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c614a36787100877b5c8",
       "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
@@ -782,22 +798,6 @@
       "published_at": "2026-08-12T07:17:00Z",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUstMWtFMTBEUmxSc2hveEJLeEN6UWFLYVJLOTZxVlRZMlY5UzdSb0o0R0dveXpqX2pDWkRCMnBtLUNOMzAxLWFlT18zUlRXUTBSalJzZXAzanpNd2VrYk5QUFZMR0ZCTXBUTEpiekxIamU0QlVsZC1EQU9udmpmdg?oc=5",
       "first_seen": "2026-08-12T09:00:57Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
-      "first_seen": "2026-08-13T12:35:38Z",
       "focus": [
         "現場状況"
       ],
@@ -3634,7 +3634,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -10916,6 +10916,24 @@
       ]
     },
     {
+      "id": "f0372933c917af355744",
+      "title": "イオン、イオンモール熊本の爆発事故について謝罪 従業員2700人の安否確認→「4名の方の安否については、依然不明」【全文】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1IzanltS2VyQ25pR2RVeEdVeC1hekV6RlRadlBIWG5Fc3hhSnF5YjRSN1ptSnotdTFuNlN2TzJldDlqSlRZSGh0SVJibHFGNWwwQ0JTTThCTURvMDRiMmVBYWpJXzRJajRlVWVYVFcwRThhTHlVSkJkS3BiYUdSYTdmRDRpdmdhUXhUdGVTajJ4ZXBySndyOHR5QQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "3f603210a03824e5f798",
       "title": "イオン、4人の安否が不明と発表 イオンモール熊本爆発事故 発表文書を全文掲載",
       "source": "産経新聞",
@@ -12859,24 +12877,6 @@
       "focus": [
         "救助・安否",
         "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "f0372933c917af355744",
-      "title": "イオン、イオンモール熊本の爆発事故について謝罪 従業員2700人の安否確認→「4名の方の安否については、依然不明」【全文】",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T05:31:08Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1IzanltS2VyQ25pR2RVeEdVeC1hekV6RlRadlBIWG5Fc3hhSnF5YjRSN1ptSnotdTFuNlN2TzJldDlqSlRZSGh0SVJibHFGNWwwQ0JTTThCTURvMDRiMmVBYWpJXzRJajRlVWVYVFcwRThhTHlVSkJkS3BiYUdSYTdmRDRpdmdhUXhUdGVTajJ4ZXBySndyOHR5QQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "現場状況"
       ],
       "category_ids": [
         "aeon"
