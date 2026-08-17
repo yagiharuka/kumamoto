@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T05:30:35Z",
-  "updated_at_jst": "2026/08/17 14:30 JST",
+  "updated_at": "2026-08-17T06:00:37Z",
+  "updated_at_jst": "2026/08/17 15:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1009,
@@ -654,7 +654,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-12T08:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5X3VTcHJ3ekxkVHJMZ2pveUx1WVBRcGREb1BweFVfXzVNZ1JBYlh2Q290U2UzVjJCa1ZaVTIyd2pBUEhOb05fT0FlSUpEVThxX1V0MlExaHVxbkltbFhVaFNKT2hRb1FETTFEQU1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeWFsY0owNDU2UmgtaXJZSXVNeFpJVUduRm1JOGFGNVc0TG1ZYzdVYmFLcVhsZkhib0ZpTXlncnJ6VC0yOFhrMDM1WmJRdG9kZmEzbGQ0aFlGa0IxTVNrZVpzdmRnLUQtRVFSZ05n?oc=5",
       "first_seen": "2026-08-14T16:30:41Z",
       "focus": [
         "避難状況",
@@ -4644,7 +4644,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
       "first_seen": "2026-08-02T23:01:06Z",
       "focus": [
         "現場状況"
@@ -5228,6 +5228,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "90f2d29a61a206e6a61e",
+      "title": "熊本地震で爆発したイオンモール熊本「がれき散乱し金属むき出し」...福岡県警機動隊が救助した1人は心肺停止",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10S1lDd09FOW80YzRVeTl2SnEtbmJLbk5GbEpXaThpUmlnaEZkc0JYVnJMMkZXYTkzSjZ5VFB4Z0tjdEdJT2RhXzdIbEZyME4xU3Z0T09XSi1wa09KYWVUVVhMbUhIZzMwaHotTUx4U3BuUQ?oc=5",
+      "first_seen": "2026-07-31T05:00:52Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -6032,23 +6049,6 @@
       "first_seen": "2026-07-31T05:00:52Z",
       "focus": [
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "90f2d29a61a206e6a61e",
-      "title": "熊本地震で爆発したイオンモール熊本「がれき散乱し金属むき出し」...福岡県警機動隊が救助した1人は心肺停止",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:51:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10S1lDd09FOW80YzRVeTl2SnEtbmJLbk5GbEpXaThpUmlnaEZkc0JYVnJMMkZXYTkzSjZ5VFB4Z0tjdEdJT2RhXzdIbEZyME4xU3Z0T09XSi1wa09KYWVUVVhMbUhIZzMwaHotTUx4U3BuUQ?oc=5",
-      "first_seen": "2026-07-31T05:00:52Z",
-      "focus": [
-        "救助・安否",
         "現場状況"
       ],
       "category_ids": [
