@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T02:30:35Z",
-  "updated_at_jst": "2026/08/17 11:30 JST",
+  "updated_at": "2026-08-17T03:00:35Z",
+  "updated_at_jst": "2026/08/17 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1006,
@@ -10326,6 +10326,20 @@
       ]
     },
     {
+      "id": "f9f30f110fa021801c5f",
+      "title": "熊本地震で大きな被害が出たイオンモール熊本(28日午後)",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VV9zblVJcEllMFF2by1ab19oZGVBU2JVY1paR2ZYOHo0c2N0NkNtRERSdjYtMlhabWluOUh0YldsZU55QmlRR1JsNU5LWXdLQnQyR3hURFpyZGM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "fe27c93cae4647e794aa",
       "title": "熊本地震、爆発した「イオンモール熊本」建物上部が崩れ床一面に破片が散乱...警察庁が内部の映像を公開",
       "source": "読売新聞",
@@ -13612,20 +13626,6 @@
       ]
     },
     {
-      "id": "f9f30f110fa021801c5f",
-      "title": "熊本地震で大きな被害が出たイオンモール熊本(28日午後)",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T21:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VV9zblVJcEllMFF2by1ab19oZGVBU2JVY1paR2ZYOHo0c2N0NkNtRERSdjYtMlhabWluOUh0YldsZU55QmlRR1JsNU5LWXdLQnQyR3hURFpyZGM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4cbfae9186ad997cba47",
       "title": "熊本地震で大きな被害が出たイオンモール熊本",
       "source": "読売新聞",
@@ -15985,7 +15985,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnIxTzN6VEdZRUNKajR5V01reFMwTVNzNDJJdDdmMkg4RXFjenNMcVMzM2t0RW1PUGJval9UQzliSnAxMVBHczMzdVBFTVU1WDd0NDVoYy1zeHRqekhDOW1sZWFmRjR5MmNyeTFtY0tRVkRTZjUxSFBfVGx5aWYwRUplRl93SndKVjA5bkFwbw?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
