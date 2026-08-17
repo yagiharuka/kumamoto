@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T20:00:36Z",
-  "updated_at_jst": "2026/08/18 05:00 JST",
+  "updated_at": "2026-08-17T20:30:42Z",
+  "updated_at_jst": "2026/08/18 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1015,
@@ -5018,7 +5018,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-01T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40YXBxMmMwa1gwZGl5bzVMRFVBMVpoMFE5aTlPNC12TkdmS2t5NGxMeEIzVlNoSTVHcFRleDVNQ1VwTXp5Z0w1X21Ialp2VmFEd1RRcHIxcHpMZnpxVG1yUjFrWkE2NkllLUhFSmNB?oc=5",
       "first_seen": "2026-08-10T00:30:41Z",
       "focus": [
         "救助・安否",
@@ -9550,23 +9550,6 @@
       ]
     },
     {
-      "id": "9840005d90ad551f7658",
-      "title": "イオン爆発事故の原因究明へ ガス引火の可能性で経産省―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T10:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzE2RkY4S0dyRWMwLUxfODNYc2Q5Nk5TeEh3Q2hWVENUMmhNRmJ3Y0pwZjBEQmYtRGhrN29xOVlfLWNRUHptMnd6WnlxYkI5RWlUYXhySzUxcGNnTWFyUkxRVVR2ZGNDcUxDczBBMmpmNnNWazVCdExlOVJualZ6OWhn?oc=5",
-      "first_seen": "2026-07-29T11:31:03Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "13c4466de0a6fc0be19e",
       "title": "【速報中】熊本地震、煙突倒壊の日本製紙八代工場で5人死亡...イオンモールでは3人が安否不明",
       "source": "読売新聞",
@@ -12456,6 +12439,23 @@
       "first_seen": "2026-07-29T13:00:18Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9840005d90ad551f7658",
+      "title": "イオン爆発事故の原因究明へ ガス引火の可能性で経産省―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jc28tZ1pPUWdsMkVEc2JQY3NiMWp6T1gwb3ctRllna05YOEE4TTB4SEZOczNwVDZQSWs5Y0FvQTJ4aGppVjQtUDk5RFFxWTVfTUVlTWxJcUJoaldwSk50T3FUWQ?oc=5",
+      "first_seen": "2026-07-29T11:31:03Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
