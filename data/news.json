@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T13:30:37Z",
-  "updated_at_jst": "2026/08/17 22:30 JST",
+  "updated_at": "2026-08-17T14:00:34Z",
+  "updated_at_jst": "2026/08/17 23:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1012,
@@ -3634,7 +3634,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -6011,6 +6011,22 @@
       ]
     },
     {
+      "id": "234b983124ab2f9361bf",
+      "title": "イオンモール熊本事故、オンワードHDの従業員計3人死亡",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Zk5GTldUdHVqU3JKc1N4czFmMUc2bGhNd3V2V25aWTlYRUJzcmROUjZVMTZuTUhMSE9lMU5sNFFRNHlCeFBjZGwxWlFubllJcGFHUUhXUVU2UTRlY0tzSEZfQ1E5dXY0TnhpZQ?oc=5",
+      "first_seen": "2026-07-31T02:30:59Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a75383b9826343e2640c",
       "title": "熊本地震 日本製紙 八代工場 11人が閉じ込められ うち9人死亡",
       "source": "NHK",
@@ -6441,22 +6457,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTmdUQWM5bTlYbTZXdk81VUZITV9HZjBNcENqd2xfanhwOVBrbE9mdkpkUFVMX0pGY1N6QXBOc3VuOXdJd0ZSZ3VpVXFhX3FWemJCZ2JiRHBoMi1pOUE?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "234b983124ab2f9361bf",
-      "title": "イオンモール熊本事故、オンワードHDの従業員計3人死亡",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Zk5GTldUdHVqU3JKc1N4czFmMUc2bGhNd3V2V25aWTlYRUJzcmROUjZVMTZuTUhMSE9lMU5sNFFRNHlCeFBjZGwxWlFubllJcGFHUUhXUVU2UTRlY0tzSEZfQ1E5dXY0TnhpZQ?oc=5",
-      "first_seen": "2026-07-31T02:30:59Z",
-      "focus": [
-        "避難状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -7410,23 +7410,6 @@
       ]
     },
     {
-      "id": "43eb18d642f1a4046908",
-      "title": "懸命の救助活動続く=イオンモールや製紙工場、倒壊民家で―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T08:46:30Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yR0NaajZPWV95MFJpdVZFTzBhRFlROERjZFZ5cWcwcUtoeHVkYnpta3JhVi03QkFpT3JWY0RBYTQxT2gyVFhsVURkN3ZsUm10YlhzQw?oc=5",
-      "first_seen": "2026-07-31T18:00:53Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e81ae6d8663bcc921c6b",
       "title": "◎懸命の救助活動続く=イオンモールや製紙工場、倒壊民家で―熊本震度7",
       "source": "時事通信",
@@ -7594,7 +7577,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
@@ -8408,7 +8391,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
@@ -8486,6 +8469,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "43eb18d642f1a4046908",
+      "title": "懸命の救助活動続く=イオンモールや製紙工場、倒壊民家で―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZXpTZV8xemhSR2sydUtJcWpjS0xJMzZJNkpST2R6TzRObUtOWk5CcUU2ZHYydTFnZHFubm5NZTJkNXdtYURwaHdRWW5aM3EyTEhaVU9veldFcWlnX2c?oc=5",
+      "first_seen": "2026-07-31T18:00:53Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -9778,6 +9778,20 @@
       "source_group": "全国紙",
       "published_at": "2026-07-29T08:26:47Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGlleTFSS1BHbjd4VGlmTkdWU2Npd3BqMEduTS1JeXJuSlI3OWhITk5oVlkzVDFiZExkcUlKMkp0dFU5bnAzdU1ZdklGN0ZKb2lNb3RsWjdKQzAxTnY0QlBJLVh1YmJoQkhJelFLRXczYi1MVHpsUWg5UnppQ0RpWE1vN2VDUDVVY2dSMFRLR2tnVFBEUFZJLUQ5S0MyRnRpVmc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "05304302578fc19788c3",
+      "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T08:26:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zUXVkS1JvcnNTT0EtSEJsa3YxX2tIVTFLWWotejJsUklLak9OMzBrR085YUk0d3hoaWNYMEx0anAtOXNPbUJ5dU1rRVFuYlJpODUwWmZKNXBqeHh5STlMLWVYUDlyeVA3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -11456,20 +11470,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "05304302578fc19788c3",
-      "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zUXVkS1JvcnNTT0EtSEJsa3YxX2tIVTFLWWotejJsUklLak9OMzBrR085YUk0d3hoaWNYMEx0anAtOXNPbUJ5dU1rRVFuYlJpODUwWmZKNXBqeHh5STlMLWVYUDlyeVA3?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
