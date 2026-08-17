@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T22:56:48Z",
-  "updated_at_jst": "2026/08/18 07:56 JST",
+  "updated_at": "2026-08-17T23:00:37Z",
+  "updated_at_jst": "2026/08/18 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1015,
@@ -7593,7 +7593,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
@@ -11541,6 +11541,22 @@
       ]
     },
     {
+      "id": "69e7f0d67c9ba1ee0b72",
+      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "05304302578fc19788c3",
       "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
       "source": "毎日新聞",
@@ -13670,22 +13686,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "69e7f0d67c9ba1ee0b72",
-      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T23:33:39Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
