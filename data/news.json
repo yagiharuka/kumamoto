@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T09:30:39Z",
-  "updated_at_jst": "2026/08/17 18:30 JST",
+  "updated_at": "2026-08-17T10:00:38Z",
+  "updated_at_jst": "2026/08/17 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1011,
@@ -6042,6 +6042,22 @@
       ]
     },
     {
+      "id": "d7bc56eac11d05abcb81",
+      "title": "日本製紙八代工場 安否不明の1人を救助 容体不明 捜索終了",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tMVVtc2lpYzFpM3BoMGk2OEctOVdtNTZZaDRmOXRyN2dzUzFrOGRrc2ZzX2dFTkVtc2pKZjFCYXFYSGttNTNLV21NNWtPdmFpUDhfa3BfSEI?oc=5",
+      "first_seen": "2026-07-30T15:30:16Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "7ec6d4c3e0808a87e7b4",
       "title": "日本製紙 八代工場 残る1人救助 容体不明 捜索活動が終了",
       "source": "NHK",
@@ -6927,22 +6943,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "d7bc56eac11d05abcb81",
-      "title": "日本製紙八代工場 安否不明の1人を救助 容体不明 捜索終了",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-30T15:08:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tMVVtc2lpYzFpM3BoMGk2OEctOVdtNTZZaDRmOXRyN2dzUzFrOGRrc2ZzX2dFTkVtc2pKZjFCYXFYSGttNTNLV21NNWtPdmFpUDhfa3BfSEI?oc=5",
-      "first_seen": "2026-07-30T15:30:16Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -9676,20 +9676,6 @@
       ]
     },
     {
-      "id": "fba37c08789f1f4d5f4b",
-      "title": "イオンモール熊本で活動する消防隊員:ニュース動画:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T09:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONWFxa2EzZXdtX3p5YzhSMVl5ZXE4RWdTdjNSZVpvOGR4cE1nT01Fd3dpeGY3N1oxendKdG9LbjJLbTJ3UTBlWEpyUWdWOFEz?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1c0b68616b72eda9a457",
       "title": "【速報】イオンモール熊本での死者4人に 地元消防",
       "source": "熊本日日新聞",
@@ -12322,6 +12308,20 @@
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10RzhCQlpyVVVWOTFCcmtvYjJYYU04dldGVU1qYmdlWkJxaU5lWTNnWU84RXAxXzhXcG00XzZNQUdCd09kSXVxYTBhYzJ2Q2lI?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fba37c08789f1f4d5f4b",
+      "title": "イオンモール熊本で活動する消防隊員:ニュース動画:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONWFxa2EzZXdtX3p5YzhSMVl5ZXE4RWdTdjNSZVpvOGR4cE1nT01Fd3dpeGY3N1oxendKdG9LbjJLbTJ3UTBlWEpyUWdWOFEz?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
