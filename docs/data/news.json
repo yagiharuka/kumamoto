@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T08:00:37Z",
-  "updated_at_jst": "2026/08/17 17:00 JST",
+  "updated_at": "2026-08-17T08:30:38Z",
+  "updated_at_jst": "2026/08/17 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1011,
@@ -4660,7 +4660,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
       "first_seen": "2026-08-02T23:01:06Z",
       "focus": [
         "現場状況"
@@ -11943,7 +11943,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTQ1NWxfeERhdDlGSlJmODZ6Wm9pVERXbUdLTGp1VUlxdXNmYVRKYXFHMjZYbWhLNld5X1JiSG52dDVYbGhPRlpfN3JEWFByc19jZkhkc1ptYW1aaE9KNjlOelhITDJlNXc1WGRIRWxnRWNnZWhFU0h4WDJkR3NzNWFSVWRrblpna2V2NUhB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RY01QcTdObFJJUWVXZDVsRmlMMTRmNFF6MVU0M05yY1U5UHA5dkhScXhRWGwwNEJlRHBOV2lEU1JDbk42Ylp2T1prZU5Qb2VVZUd2c0VZaFNRWklSWmRsRkprQ0dEWkxrbG1ReHp3?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -12324,6 +12324,23 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10RzhCQlpyVVVWOTFCcmtvYjJYYU04dldGVU1qYmdlWkJxaU5lWTNnWU84RXAxXzhXcG00XzZNQUdCd09kSXVxYTBhYzJ2Q2lI?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "3ab63f6d727c0d438e7b",
+      "title": "イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止 熊本地震:ニュース動画:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwZV9UR0F0TlBTWEVPa3lfbGFtYmFobFR6ZE80N3YzWUlPNkNlZzRWZ0pZOExqQ01UZFh0ZnA0aUEyVEhpQkVndGRkRV9CMlpi?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -13507,23 +13524,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1MybmhveEo5WW5Nek1XZnR6VnhlcG9MX3RacE5ZRkVyU0l0czVTOV9JekZrdWtuMjlGWXlEeEE1cmpxMXRhc1NyQUVCckhEQXc5c1NlY1k0OXBRY3JPRktyVmViZFdJcV9qTG5Yc01MM2lHN3Y1bzJXWDBOQjNjcDc2SzZ2U29EQUNLYzRVcGViNW1DckxMVlNyVHp1YzRVbEE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "3ab63f6d727c0d438e7b",
-      "title": "イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止 熊本地震:ニュース動画:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T00:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwZV9UR0F0TlBTWEVPa3lfbGFtYmFobFR6ZE80N3YzWUlPNkNlZzRWZ0pZOExqQ01UZFh0ZnA0aUEyVEhpQkVndGRkRV9CMlpi?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
