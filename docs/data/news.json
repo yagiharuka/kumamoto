@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T04:00:36Z",
-  "updated_at_jst": "2026/08/17 13:00 JST",
+  "updated_at": "2026-08-17T04:30:34Z",
+  "updated_at_jst": "2026/08/17 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1006,
+  "article_count": 1008,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "asahi": 118,
     "sankei": 169,
     "kumanichi": 148,
-    "yomiuri": 133,
+    "yomiuri": 135,
     "nikkei": 59,
     "jiji": 170,
     "mainichi": 128,
-    "asahi": 118,
     "nhk": 81
   },
   "tracked_categories": [
@@ -76,11 +76,29 @@
     }
   ],
   "category_counts": {
-    "aeon": 812,
+    "aeon": 813,
     "power": 119,
-    "paper": 92
+    "paper": 93
   },
   "items": [
+    {
+      "id": "68c56fd1243b366c2fd2",
+      "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-17T02:28:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkNSY1hLNEgtVkpNUTRfRnl5QUEzWDlobkRtZHBhV3Y0WlB3cFRidkxydnlxX2lqU3RTV2tTRlZ5WGpPUmJZNkJWS0hvZ2czSTd3RTZnMmVaalF5ZGlpMy1JOExCOG9mdmFwc3phRjUxQ0l4WG1RejJqb0xzUHF1UXB0eU5hSFM3WXN1LUx3?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "85bdf9931e87c1f0a835",
       "title": "宝くじ収益を熊本支援に活用 林総務相が表明、特別交付税配分も イオンモール熊本で献花",
@@ -3169,6 +3187,23 @@
       ]
     },
     {
+      "id": "dd5e0bcbb9d74e4702e6",
+      "title": "日本製紙八代工場の救助活動「余震で倒壊の危険がある中、酷暑で困難を極めた」...帰還した福岡市の消防署長:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80ZkU0Um9JeEZlMnZHQ2tqNFJ6YWZnTnM1c1dTSTZPTGJpenJOYjY2X1BHYklNWUtGSzA2SkVPRkRRVnE1Tk0xMV9wWnd2OEJ4ZURCNXdiUmRUYnFsdkp6ZkxxOTBqVF94dGc?oc=5",
+      "first_seen": "2026-08-17T04:30:34Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "4d8a1fbde3aca7683111",
       "title": "日本製紙八代工場の救助活動「余震で倒壊の危険がある中、酷暑で困難を極めた」...帰還した福岡市の消防署長",
       "source": "読売新聞",
@@ -4593,7 +4628,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXlBZExqZS1DMmVQRkViQXRIeEk0dzRkcWFQc216bnlKTWNoTkhBMjUwbk1VbjNPeXNOaVdHM0dhNC1EZXFUR2RjYXpTQkpPTFRGa1lnYzloaEN4LUYzajNOemxJZ19HdXA0YjUxMFRhQkVKeXl5dG0yMVFkNU9uNXlHQUJpM2dveVpuMXhB?oc=5",
       "first_seen": "2026-08-02T23:01:06Z",
       "focus": [
         "現場状況"
@@ -8234,24 +8269,6 @@
       ]
     },
     {
-      "id": "68c56fd1243b366c2fd2",
-      "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LU0E0UkpLaGdhWlN5NjFwdW5lSVVTbFNGWm8yYTA3V3psbHM4dXZaWERvTUF4emN2OWlINklwQk0wcGxCTk12cDFKQ0JGdlRfbGF3YUh2QzlUZTBY?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "118064b03e1e0c55c9a9",
       "title": "配管からガス漏れ、引火か イオンモール熊本の爆発―専門家",
       "source": "時事通信",
@@ -10527,6 +10544,20 @@
       ]
     },
     {
+      "id": "36cad8ad4bdc4d9e9947",
+      "title": "「イオンモール熊本」内部の映像、警察庁が公開...床一面に崩れた壁などの破片が散乱・骨組みむき出し:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRGlJb3dTUE9oNHVDdGRDTHVhdjY4NS0wQVRTWmFxSEJyVld2d0N6WnR5LWxqNm5wYXQwZzV5R1pDOGc4eWFUUFBYcGx6RjEtV0NFZVVBRU5tSkI4S2hqM2QzVXEyNVlRelE?oc=5",
+      "first_seen": "2026-08-17T04:30:34Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b3c98c4f4a00e7f8b6a3",
       "title": "「イオンモール熊本」内部の映像、警察庁が公開...床一面に崩れた壁などの破片が散乱・骨組みむき出し",
       "source": "読売新聞",
@@ -11859,7 +11890,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTQ1NWxfeERhdDlGSlJmODZ6Wm9pVERXbUdLTGp1VUlxdXNmYVRKYXFHMjZYbWhLNld5X1JiSG52dDVYbGhPRlpfN3JEWFByc19jZkhkc1ptYW1aaE9KNjlOelhITDJlNXc1WGRIRWxnRWNnZWhFU0h4WDJkR3NzNWFSVWRrblpna2V2NUhB?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
