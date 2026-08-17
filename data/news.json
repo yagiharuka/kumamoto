@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T14:30:36Z",
-  "updated_at_jst": "2026/08/17 23:30 JST",
+  "updated_at": "2026-08-17T15:01:39Z",
+  "updated_at_jst": "2026/08/18 00:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1012,
+  "article_count": 1014,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "asahi": 118,
     "nhk": 82,
     "sankei": 169,
-    "yomiuri": 137,
+    "yomiuri": 139,
     "nikkei": 59,
     "jiji": 170,
     "mainichi": 128
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 816,
+    "aeon": 818,
     "power": 120,
     "paper": 93
   },
@@ -1892,6 +1892,23 @@
       ]
     },
     {
+      "id": "f2d9edfec7b37a9b5b96",
+      "title": "イオンモール熊本の爆発事故、LPガス提供会社「重く受け止めている」...安全装置の作動状況「調査中」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNmF3YVMzSVVIRXBzSVlmMl9tYXFxQlBnanppbElsaHF6ZUdqb1FjenEtVk9lY2pUUzNnSHdaX05qcEFnWm0weFNTZEZHS3pXanZlelRJY0kyQWo5S0h3dGtrZks1SS1YRFE?oc=5",
+      "first_seen": "2026-08-17T15:01:39Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "8c223f068fd3828f72c2",
       "title": "イオンモール熊本の爆発事故、LPガス提供会社「重く受け止めている」...安全装置の作動状況「調査中」",
       "source": "読売新聞",
@@ -3187,6 +3204,22 @@
       ]
     },
     {
+      "id": "f5b5298a4f3055379bce",
+      "title": "熊本地震:イオンモール爆発で犠牲となった妻、告別式にウェディングドレス飾った夫「生前に着させてあげたかった」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90SmVjSm1ncXk3cHFZYTZjZ3RXeXZacVBQMUZrYUtXMV9ZbFVRWi1uVjFrVWxuQ1oyQkNnMk96eWdUVngzME5mN0I5SDdXTDBVcWJ3N0FhLVBnQXNjc3FseEpScXFQZw?oc=5",
+      "first_seen": "2026-08-17T15:01:39Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "dd5e0bcbb9d74e4702e6",
       "title": "日本製紙八代工場の救助活動「余震で倒壊の危険がある中、酷暑で困難を極めた」...帰還した福岡市の消防署長:写真",
       "source": "読売新聞",
@@ -3618,7 +3651,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
@@ -7490,22 +7523,6 @@
       ]
     },
     {
-      "id": "c6d83b41671d13ab77ae",
-      "title": "イオン、イオンモール熊本の爆発事故について7人死亡と発表 30日午後1時に「4名の方の死亡が確認された」(写真・画像 1/1)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T08:08:39Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2dTZmxQQ0ZYUks3b1BKc3VqZWhLRkJ4eEpOWmdSTGhzQXE3Tk83aFUwUk5NdnktZE42YmRDZXBCS2ZyOVVROUlSemJUQlI4aThwMk9CNlJyRVZYV2U4dlAzZGFRTDJ5bHFUYUM3c3BWRDh2cFE3ZU5GOU5Ibmk4ZHRpTTVldGtzVkxwd0xKVE9ndjNaSjZ1dlJRc1B0cUFmMlE?oc=5",
-      "first_seen": "2026-07-30T11:30:10Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "6fd7d8d9991056fe519b",
       "title": "オリコンニュース:[令和8年熊本地震]イオン、イオンモール熊本の爆発事故について7人死亡と発表 30日午後1時に「4名の方の死亡が確認された」",
       "source": "毎日新聞",
@@ -7866,6 +7883,22 @@
       "first_seen": "2026-07-30T02:30:50Z",
       "focus": [
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c6d83b41671d13ab77ae",
+      "title": "イオン、イオンモール熊本の爆発事故について7人死亡と発表 30日午後1時に「4名の方の死亡が確認された」(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2dTZmxQQ0ZYUks3b1BKc3VqZWhLRkJ4eEpOWmdSTGhzQXE3Tk83aFUwUk5NdnktZE42YmRDZXBCS2ZyOVVROUlSemJUQlI4aThwMk9CNlJyRVZYV2U4dlAzZGFRTDJ5bHFUYUM3c3BWRDh2cFE3ZU5GOU5Ibmk4ZHRpTTVldGtzVkxwd0xKVE9ndjNaSjZ1dlJRc1B0cUFmMlE?oc=5",
+      "first_seen": "2026-07-30T11:30:10Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -9771,20 +9804,6 @@
       ]
     },
     {
-      "id": "c29e986ed23d4482f645",
-      "title": "イオンモール熊本内の猫カフェ「Cat Cafe MOFF」について公式インスタグラムが報告(企業サイトより)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:26:47Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGlleTFSS1BHbjd4VGlmTkdWU2Npd3BqMEduTS1JeXJuSlI3OWhITk5oVlkzVDFiZExkcUlKMkp0dFU5bnAzdU1ZdklGN0ZKb2lNb3RsWjdKQzAxTnY0QlBJLVh1YmJoQkhJelFLRXczYi1MVHpsUWg5UnppQ0RpWE1vN2VDUDVVY2dSMFRLR2tnVFBEUFZJLUQ5S0MyRnRpVmc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e6eb2d7441e1a8f8a5de",
       "title": "天井崩落、床一面に資材 イオンと日本製紙内部映像(共同通信)",
       "source": "熊本日日新聞",
@@ -10845,6 +10864,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c29e986ed23d4482f645",
+      "title": "イオンモール熊本内の猫カフェ「Cat Cafe MOFF」について公式インスタグラムが報告(企業サイトより)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGlleTFSS1BHbjd4VGlmTkdWU2Npd3BqMEduTS1JeXJuSlI3OWhITk5oVlkzVDFiZExkcUlKMkp0dFU5bnAzdU1ZdklGN0ZKb2lNb3RsWjdKQzAxTnY0QlBJLVh1YmJoQkhJelFLRXczYi1MVHpsUWg5UnppQ0RpWE1vN2VDUDVVY2dSMFRLR2tnVFBEUFZJLUQ5S0MyRnRpVmc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -16212,7 +16245,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
