@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-17T17:00:39Z",
-  "updated_at_jst": "2026/08/18 02:00 JST",
+  "updated_at": "2026-08-17T18:00:16Z",
+  "updated_at_jst": "2026/08/18 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1015,
@@ -3619,7 +3619,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tLW9RbzAyS3VzMWM5YWRwRGJDQWlibFRhUk1DMHV0dXlCWUV3aVM0OEU3NTJudVNvdHV4dVBDeVhoX0M3d2lFOEt4cFhxY1hESkZSZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GLWxXR1o5M0wzbm9MM1BlV3l0LUlab3FUckpwMnhaRDFDeHBORGFKampwZzZGTktkbGhfc3pLNWM4RnlGVXNfNHlpNzZuX2ljbl9yTG1Vd1hVUnA1b0E?oc=5",
       "first_seen": "2026-08-04T18:01:11Z",
       "focus": [
         "現場状況"
@@ -4799,23 +4799,6 @@
       ]
     },
     {
-      "id": "670845b3b80231babe11",
-      "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が | NHKニュース | 令和8年熊本地震、地震、熊本県",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-01T11:23:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSllOejJ0cU1kXy0wMzJpTDVOOHZfc295NExZTXVDX3BKSm5qZkRRNnhxRDFYRjJ0QVBnR05rSXVseS1sek9GWlFvU1hmbm1GTTUxZEdkLU9Ma0c3VWM4?oc=5",
-      "first_seen": "2026-08-01T11:30:54Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "507ec1e27ea879060b5e",
       "title": "救助活動が終了したイオンモール熊本=8月1日午後、熊本県嘉島町",
       "source": "産経新聞",
@@ -5056,6 +5039,23 @@
       "first_seen": "2026-08-01T15:30:17Z",
       "focus": [
         "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "670845b3b80231babe11",
+      "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSllOejJ0cU1kXy0wMzJpTDVOOHZfc295NExZTXVDX3BKSm5qZkRRNnhxRDFYRjJ0QVBnR05rSXVseS1sek9GWlFvU1hmbm1GTTUxZEdkLU9Ma0c3VWM4?oc=5",
+      "first_seen": "2026-08-01T11:30:54Z",
+      "focus": [
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -12265,7 +12265,21 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMHdMelAyeDBVU09RMlhGN3l1WjlFRGlFeHhHZjdlbHdjTTJSaV9pbXhVa2N0ZE9XOHV0ZWhxMWducEU3VmJScWM2SThERWg4QWcxZFM0UGViRncyX3VPeW55dnAyZENXeFc5Zy1WaTQ0bTlHUmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4Q2tYNXdVYjQxNmlUNm90NlpWd1dtZG1GamVZd2Q3ZWJOakpHNTB3QTZEbXloY29meXZ1QmdLcFFGaXJNeFQ4eFVDMUdFWFEtQzM0SU0zY1Q5OUNDcnlqc0dINA?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7d1a55d1425e58d0fcd7",
+      "title": "飛び散る破片、壁や天井崩れ 警察庁、イオンモール内部映像公開 熊本震度7:ニュース動画:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WQ1dCMExRYmhFaHZjcnhBcjFRQ1kydzg1elJxcjh2NnRUdHR3N3hhNVNsQlBpUHRNbkF3M0Y5dmxKbHB6Z2VpMkU2empQX2JG?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
@@ -13152,20 +13166,6 @@
       "source_group": "通信社",
       "published_at": "2026-07-29T03:34:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55SWFuQWJ5TFdQeTVhMnA1SDJMU1dKcXNQTVROWWxHRklCRS01bWtMeXVvUkxhLTdrNlpPblRhaFplUVQ0UUx3a3lhNU9fMWM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "7d1a55d1425e58d0fcd7",
-      "title": "飛び散る破片、壁や天井崩れ 警察庁、イオンモール内部映像公開 熊本震度7:ニュース動画:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T03:25:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WQ1dCMExRYmhFaHZjcnhBcjFRQ1kydzg1elJxcjh2NnRUdHR3N3hhNVNsQlBpUHRNbkF3M0Y5dmxKbHB6Z2VpMkU2empQX2JG?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
