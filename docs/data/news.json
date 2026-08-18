@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T21:00:37Z",
-  "updated_at_jst": "2026/08/19 06:00 JST",
+  "updated_at": "2026-08-18T21:30:33Z",
+  "updated_at_jst": "2026/08/19 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1025,
@@ -5806,6 +5806,22 @@
       ]
     },
     {
+      "id": "d69dd029f19837b70759",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集3/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM21JS05UTDB2TzljVDQ0Ymk4NVdpT2ltTVZGRGpjdWJ6dDFMVXR3djFxRWs4MWFpM0MycklEVFZDM3BJQlpmX3JDS0hSdjhYeWRGMUwxUW5HaVV5RnNqMUk0bHVLaFlQdDdNR1VuVHVYZWRkbU5oTHNBUGhSVURhaHVJTWJkRzA?oc=5",
+      "first_seen": "2026-08-02T18:00:17Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "29f0d7c14fdf562b4136",
       "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集23/20]",
       "source": "毎日新聞",
@@ -6498,22 +6514,6 @@
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZzZ2NxWDhFSXhRbmFwY1IxeVVwRjNCZ0tfZ0hKS05USGRVemExUWw2VG92dVFUeFB4QnVZTHhURFB3em4wWE5wY0ZQR2lVR0NSMVFwRzFtNm1YNWgtcDc1dDlmMEhkWWxyLWtpNDE5Ny0zdHFqb08zSVQ2Y1kwVXJTX3JaSHM?oc=5",
       "first_seen": "2026-08-01T17:30:17Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d69dd029f19837b70759",
-      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集3/20]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM21JS05UTDB2TzljVDQ0Ymk4NVdpT2ltTVZGRGpjdWJ6dDFMVXR3djFxRWs4MWFpM0MycklEVFZDM3BJQlpmX3JDS0hSdjhYeWRGMUwxUW5HaVV5RnNqMUk0bHVLaFlQdDdNR1VuVHVYZWRkbU5oTHNBUGhSVURhaHVJTWJkRzA?oc=5",
-      "first_seen": "2026-08-02T18:00:17Z",
       "focus": [
         "現場状況"
       ],
