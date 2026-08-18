@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T10:30:24Z",
-  "updated_at_jst": "2026/08/18 19:30 JST",
+  "updated_at": "2026-08-18T11:00:24Z",
+  "updated_at_jst": "2026/08/18 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1019,
+  "article_count": 1020,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "mainichi": 130,
     "asahi": 120,
     "kumanichi": 150,
     "nhk": 82,
     "sankei": 169,
     "yomiuri": 140,
     "nikkei": 59,
-    "jiji": 170,
-    "mainichi": 129
+    "jiji": 170
   },
   "tracked_categories": [
     {
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 821,
     "power": 120,
-    "paper": 95
+    "paper": 96
   },
   "items": [
+    {
+      "id": "e27e8cfd797ef3df44a9",
+      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T10:13:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
+      "first_seen": "2026-08-18T11:00:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "ddcb1b69708811f785b7",
       "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
