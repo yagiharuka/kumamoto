@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T14:00:27Z",
-  "updated_at_jst": "2026/08/18 23:00 JST",
+  "updated_at": "2026-08-18T14:30:26Z",
+  "updated_at_jst": "2026/08/18 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1021,
+  "article_count": 1022,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "asahi": 120,
     "kumanichi": 151,
     "mainichi": 130,
-    "asahi": 120,
     "nhk": 82,
     "sankei": 169,
     "yomiuri": 140,
     "nikkei": 59,
-    "jiji": 170
+    "jiji": 171
   },
   "tracked_categories": [
     {
@@ -76,11 +76,29 @@
     }
   ],
   "category_counts": {
-    "aeon": 821,
+    "aeon": 822,
     "power": 120,
     "paper": 97
   },
   "items": [
+    {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T13:42:44Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVYtX0libzQ1c0FEWkdNaGFxWm5iRnVXMm9OMW4yZGNYbkpvazVmZ2pSY1NkT2lpV0JWcjVreEdJWjV2R0JpQ0owSFRKOGsxMmtIQ2RsZ1NlLXlsV3VsUVhtcnZVWC1LMWxnZ1BUWlp2bk1PQTZyNEdwUmxMSllDalpyVVF0bTc0UjJMTDd3?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "25ba772c1facd20e83ab",
       "title": "設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
@@ -2825,6 +2843,23 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWWFzUUw4aml2ejZMWnU3R0xPS2d3TlIzWFU4aGxvbll3NE1KYUVwNGo0MWw2TzBiSkctS1V0Q3ZtQ2QtODFxVnI0YWxKcDMzMnpQS3pCbjhybjc1ZndLQUhwWQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6c3e1014049bfb560f34",
+      "title": "◎LPガス「原因の可能性高い」=イオンモール爆発事故で経産省―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUEtKNG9ENnlVUm44RWJDM09PNnNCNnZkaE44NmNuaUZYWjk5bHpYcmtUN1ljOHZsM3kza2sxaEUwbkhzbG5uNVphSmVtdkszZTFaWA?oc=5",
+      "first_seen": "2026-08-18T14:30:26Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -8454,24 +8489,6 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTmFCUzc2MVp6dUJmbDBlVnR2d3JncllpTWtrWFJkeUxBaUowcDlTQk1CWTcwdDhnZ0daX0dPbzhKejVBaWVVRDA4VTVnTlBfbG1sbWJmc2lNeGFQbkpITlVTTlRwbG8?oc=5",
       "first_seen": "2026-07-30T14:00:11Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
       "focus": [
         "避難状況",
         "目撃証言",
