@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T09:00:29Z",
-  "updated_at_jst": "2026/08/18 18:00 JST",
+  "updated_at": "2026-08-18T09:30:26Z",
+  "updated_at_jst": "2026/08/18 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -7282,23 +7282,6 @@
       ]
     },
     {
-      "id": "85a9c993a985c861effd",
-      "title": "避難所、暑さ対策に奔走 電源車やクーラー活用(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T11:55:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TazJUaHlyeV9zb0ZlNFo4Q1RYUWZnSEVDYndkTEo1c0NicXBZTUYwYzdGRnVIWEdfNXFEa3hlNTd4QnlnbzZ6Y2ZEX1ZVNzA?oc=5",
-      "first_seen": "2026-07-30T12:30:12Z",
-      "focus": [
-        "避難状況",
-        "電源車・代替電源"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "44542886a57264d1f4e6",
       "title": "イオンモール熊本 爆発前に店舗に戻った従業員が証言",
       "source": "NHK",
@@ -7949,6 +7932,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "85a9c993a985c861effd",
+      "title": "避難所、暑さ対策に奔走 電源車やクーラー活用(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TazJUaHlyeV9zb0ZlNFo4Q1RYUWZnSEVDYndkTEo1c0NicXBZTUYwYzdGRnVIWEdfNXFEa3hlNTd4QnlnbzZ6Y2ZEX1ZVNzA?oc=5",
+      "first_seen": "2026-07-30T12:30:12Z",
+      "focus": [
+        "避難状況",
+        "電源車・代替電源"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
