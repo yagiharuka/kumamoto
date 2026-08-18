@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T00:30:36Z",
-  "updated_at_jst": "2026/08/18 09:30 JST",
+  "updated_at": "2026-08-18T01:00:38Z",
+  "updated_at_jst": "2026/08/18 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -467,7 +467,7 @@
     },
     {
       "id": "efdb8930d93ab572bbde",
-      "title": "(2026熊本地震)「再入館認めた」イオン謝罪 遺族に説明 補償「早期に対応」",
+      "title": "(2026年熊本地震)「再入館認めた」イオン謝罪 遺族に説明 補償「早期に対応」",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
@@ -8665,6 +8665,22 @@
       ]
     },
     {
+      "id": "fabf348a0068a82147fe",
+      "title": "【熊本 地震 30日】イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9feXhZaFE0UTlGNlZoWm03bVhBeFVGaW5uMktaVWxEZl9odjgxeG84SHB2UjZ0ZG0yRFNvZDVXTEo2WW9LeG0ydTFoRldsSFBuNHVUVmtzY3V3NGNMTUVn?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e08e8fda853f86323e8c",
       "title": "イオン九州、CM全て「公共広告」に差し替え 熊本での惨事受け「適切ではないと判断」",
       "source": "産経新聞",
@@ -8968,22 +8984,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "fabf348a0068a82147fe",
-      "title": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-30T01:02:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9feXhZaFE0UTlGNlZoWm03bVhBeFVGaW5uMktaVWxEZl9odjgxeG84SHB2UjZ0ZG0yRFNvZDVXTEo2WW9LeG0ydTFoRldsSFBuNHVUVmtzY3V3NGNMTUVn?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
