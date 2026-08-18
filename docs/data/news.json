@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T07:00:24Z",
-  "updated_at_jst": "2026/08/18 16:00 JST",
+  "updated_at": "2026-08-18T07:30:21Z",
+  "updated_at_jst": "2026/08/18 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -1196,6 +1196,23 @@
       ]
     },
     {
+      "id": "c49403c0423fb5a25c47",
+      "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T08:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSUNsT1d2MXRvX094cnJBNzFVdWg3Nmpoc1BuM2ZOMTRNWnJhTlNCLWtiRGdMRW1BamNNSUFvYVQ0UEwzQW1EX1VPS1BVWjA1UXQtMVFGNGtMNnRORWc?oc=5",
+      "first_seen": "2026-08-11T05:00:42Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "62f4f874cf49926d6935",
       "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
@@ -1358,23 +1375,6 @@
       "published_at": "2026-08-11T05:52:27Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XSm1JQS1wR0xNQVp4eDR3VFduaDNBeUx6N3c3Mi1wUmk1MmRnV1JLQ0tuNmNpei0zNmxmeV93UWdIdDFXOHJ1dGlFdS1lWWFWMHZpMw?oc=5",
       "first_seen": "2026-08-11T11:30:43Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c49403c0423fb5a25c47",
-      "title": "イオン、従業員に再入館許可=爆発事故前、レジ対応など理由に―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T04:35:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSUNsT1d2MXRvX094cnJBNzFVdWg3Nmpoc1BuM2ZOMTRNWnJhTlNCLWtiRGdMRW1BamNNSUFvYVQ0UEwzQW1EX1VPS1BVWjA1UXQtMVFGNGtMNnRORWc?oc=5",
-      "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -11603,22 +11603,6 @@
       ]
     },
     {
-      "id": "69e7f0d67c9ba1ee0b72",
-      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "05304302578fc19788c3",
       "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
       "source": "毎日新聞",
@@ -13701,6 +13685,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "69e7f0d67c9ba1ee0b72",
+      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:33:39Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
