@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T20:00:41Z",
-  "updated_at_jst": "2026/08/19 05:00 JST",
+  "updated_at": "2026-08-18T20:30:32Z",
+  "updated_at_jst": "2026/08/19 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1023,
+  "article_count": 1025,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "asahi": 120,
+    "asahi": 122,
     "kumanichi": 152,
     "mainichi": 130,
     "nhk": 82,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 822,
+    "aeon": 824,
     "power": 120,
     "paper": 98
   },
   "items": [
+    {
+      "id": "e164450ce9456b43af53",
+      "title": "(社説)イオン熊本爆発 「想定外」の検証 丁寧に",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yQWRSM3dIdmREQWhpVGZ2akhPVFpPdXRnOGdfN1BlckVPVEk5amNUQWtUcU1TZTJSOE9ISHI5RmptMXVySlVKbHFTVVBWSGtCY2U1a0Z6ZUNWSDhJ?oc=5",
+      "first_seen": "2026-08-18T20:30:32Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "45303564edb818204714",
       "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
@@ -194,6 +211,23 @@
       "published_at": "2026-08-18T10:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wRHFiamdPZGpBZnVOczl0Tlc1M3FpeE9rVTB5TVNZVzk0Q24tUzRxZE1uNVBEYlZib2lxQ3hfS2pOeV93REdXc0VzOVZEM3c3eHR4cDZaZWpULXo2dzFoUHhKQWRtNEU?oc=5",
       "first_seen": "2026-08-18T10:30:24Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "575d45f60e455ff25195",
+      "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T10:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icC05dHBGdUI4NmRoNWdIb2pyYUJjSFpQbmxNTThvWWJ0Vkx2MW1iWmdQaXoxR1hmdkh6TzIybWdNQlkyYmRvQXF5Vnhzd2gtbFZyeG80MFNFRV9FWi1SMTNYdGhxWFlRVS1fQVZn?oc=5",
+      "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
         "現場状況"
@@ -5836,6 +5870,22 @@
       ]
     },
     {
+      "id": "4f2f66ab3727fbb4ddcd",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集19/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmVCckMyTTdpUEVudnRMd3NTWkJhUnpGV2hpcTFNS3NjbHQ0aU0yMUlHNVIwSTlKZkh6ejZuODNMcTJ5UkwxSDZScFJadWdMS2Rad2ZkbTdRNmxERjREbzZzZ2hFcXlDQjBpNFBsRXZxTG80MHVYa0puM1F1Y2dVYkRkelUwenM?oc=5",
+      "first_seen": "2026-08-04T01:30:32Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2d70689b78e0c6a02629",
       "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集18/20]",
       "source": "毎日新聞",
@@ -6480,22 +6530,6 @@
       "published_at": "2026-07-31T04:11:58Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXhWRVE5SC1NYWVuaVNORW1IY1BpaVVZVkhwamRjNDh6aUFIMEI1OXlIcTZKWGhFZ09PVExReXBvTWpOeXljYzdiajlwMEp2UkJKb25KRmVxSlRFOE83UklvOFp6N2t0QW8yN2daUERGbF9lcUZIQm1mWEpMR0hWMEpRYXRGeFE?oc=5",
       "first_seen": "2026-08-01T19:00:15Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4f2f66ab3727fbb4ddcd",
-      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集19/20]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmVCckMyTTdpUEVudnRMd3NTWkJhUnpGV2hpcTFNS3NjbHQ0aU0yMUlHNVIwSTlKZkh6ejZuODNMcTJ5UkwxSDZScFJadWdMS2Rad2ZkbTdRNmxERjREbzZzZ2hFcXlDQjBpNFBsRXZxTG80MHVYa0puM1F1Y2dVYkRkelUwenM?oc=5",
-      "first_seen": "2026-08-04T01:30:32Z",
       "focus": [
         "現場状況"
       ],
