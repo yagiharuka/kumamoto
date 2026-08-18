@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T02:00:35Z",
-  "updated_at_jst": "2026/08/18 11:00 JST",
+  "updated_at": "2026-08-18T02:30:36Z",
+  "updated_at_jst": "2026/08/18 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -7872,6 +7872,20 @@
       ]
     },
     {
+      "id": "f3573ddf348616e1d5ef",
+      "title": "イオンモール熊本の猫カフェ「MOFF」から救出された猫25頭、広島店舗に到着 現在の様子を報告【令和8年熊本地震】",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaExiS1g4eFJVanJhZGRCREdpbHVtTVpVbmZqckUwUElMRVJ1Y3pRQ3N0cGVlRHVoUFFnU0JHUFRmLVllYW9seGlnMlhxV05FM0tvcVFMeTlYamVvZGd0TUI4RzRlMHh3T1cwMDM0a21nT0RFeElLUi1iXzREMVlFb2RGM3ZvS0c4VERFczFyYzZrYmc2ZDZKdjV1TQ?oc=5",
+      "first_seen": "2026-07-30T04:30:49Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c6d83b41671d13ab77ae",
       "title": "イオン、イオンモール熊本の爆発事故について7人死亡と発表 30日午後1時に「4名の方の死亡が確認された」(写真・画像 1/1)",
       "source": "産経新聞",
@@ -8841,20 +8855,6 @@
       "focus": [
         "救助・安否"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "f3573ddf348616e1d5ef",
-      "title": "イオンモール熊本の猫カフェ「MOFF」から救出された猫25頭、広島店舗に到着 現在の様子を報告【令和8年熊本地震】",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T04:01:08Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaExiS1g4eFJVanJhZGRCREdpbHVtTVpVbmZqckUwUElMRVJ1Y3pRQ3N0cGVlRHVoUFFnU0JHUFRmLVllYW9seGlnMlhxV05FM0tvcVFMeTlYamVvZGd0TUI4RzRlMHh3T1cwMDM0a21nT0RFeElLUi1iXzREMVlFb2RGM3ZvS0c4VERFczFyYzZrYmc2ZDZKdjV1TQ?oc=5",
-      "first_seen": "2026-07-30T04:30:49Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -10973,6 +10973,20 @@
       "focus": [
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2136e8cec7e47b56f539",
+      "title": "イオンモール熊本、営業休止",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdE5HUmhWRDJJWHVoS1l5UFoyYTdzQWNPVmpoZ3l2eFItRGJLbmpmTjh0bGZjYU41LWUtNDlDeWU4ZFhNdVV0c2g1dHJCcldkbzVqOVpxTUNucmc0UGdNWUh2TE1uaFBRZmxWOTFyYmhoQnpPVDJYb0NwX3F6dmhyNGxGRl9Rd2I1RjgxTXc5Ymt3MHNiclpGUGF5d1ZRaEZBOXc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -13141,20 +13155,6 @@
       ]
     },
     {
-      "id": "2136e8cec7e47b56f539",
-      "title": "イオンモール熊本、営業休止",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T04:56:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdE5HUmhWRDJJWHVoS1l5UFoyYTdzQWNPVmpoZ3l2eFItRGJLbmpmTjh0bGZjYU41LWUtNDlDeWU4ZFhNdVV0c2g1dHJCcldkbzVqOVpxTUNucmc0UGdNWUh2TE1uaFBRZmxWOTFyYmhoQnpPVDJYb0NwX3F6dmhyNGxGRl9Rd2I1RjgxTXc5Ymt3MHNiclpGUGF5d1ZRaEZBOXc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1b8ddfb2274d659ab32e",
       "title": "主な被災状況 : 熊本地震、イオンで2人死亡・製紙工場で2人心肺停止...1万人が避難・停電や交通への影響続く:写真",
       "source": "読売新聞",
@@ -14827,22 +14827,6 @@
       ]
     },
     {
-      "id": "d026ad410f6226a67745",
-      "title": "爆発で外壁などが大きく崩れたイオンモール熊本=28日午後6時38分、熊本県嘉島町(共同通信社ヘリから)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T10:31:44Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNl9vQUlZaV91SnVpQ2paQkRSVzJCYWZQNVNNR3Z3aXEzODNXdGdfb0FRNlMwTzh6Y0JoSV9fWWRiU2tTMF9kbmhaODdSOTBBVjcydU56YzBwSGVlblA0NUNpeWhQbjkyWmQwWkZlQUZsdmpIZk91QUxidGRsYWFsZURuVTBQWHFWWGdtY3JTWF9QTVU3MWJ3UWpUZFJlSE9aeGc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "0f416be258462c849642",
       "title": "外壁などが大きく崩れたイオンモール熊本=28日午後6時38分、熊本県嘉島町",
       "source": "産経新聞",
@@ -15439,6 +15423,22 @@
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1ctWFVnc2NXcVBnWFlfcnZKVURpVVo1dkFHekYtYW11Y3pTeEwySVY4eWRpblotQUpLN3NXLS1LRU5zbGF0V09WRnRuOW9memNSelExa2kxNzFxZndnYVpha0J1VVFPbHFMVDZiV1JzYkFwNW5LV1FheUxMZ1VGSFhlUmh5RTQ1WUhGNF9YU0NjOU1ubWZZejhVNUtiV0NoSGc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d026ad410f6226a67745",
+      "title": "爆発で外壁などが大きく崩れたイオンモール熊本=28日午後6時38分、熊本県嘉島町(共同通信社ヘリから)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNl9vQUlZaV91SnVpQ2paQkRSVzJCYWZQNVNNR3Z3aXEzODNXdGdfb0FRNlMwTzh6Y0JoSV9fWWRiU2tTMF9kbmhaODdSOTBBVjcydU56YzBwSGVlblA0NUNpeWhQbjkyWmQwWkZlQUZsdmpIZk91QUxidGRsYWFsZURuVTBQWHFWWGdtY3JTWF9QTVU3MWJ3UWpUZFJlSE9aeGc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
