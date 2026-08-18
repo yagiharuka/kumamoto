@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T11:00:24Z",
-  "updated_at_jst": "2026/08/18 20:00 JST",
+  "updated_at": "2026-08-18T11:30:26Z",
+  "updated_at_jst": "2026/08/18 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1020,
+  "article_count": 1021,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 151,
     "mainichi": 130,
     "asahi": 120,
-    "kumanichi": 150,
     "nhk": 82,
     "sankei": 169,
     "yomiuri": 140,
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 821,
     "power": 120,
-    "paper": 96
+    "paper": 97
   },
   "items": [
+    {
+      "id": "25ba772c1facd20e83ab",
+      "title": "設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-18T11:15:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWTNSZ2JqZXdkemZtS0JfWTVEN3dIekVxbzdPRWpBbjc4VFdVZTBkaVRac2hpbGtiVUVnSFVUejAxV2RsS3didDZqVGVBYXc?oc=5",
+      "first_seen": "2026-08-18T11:30:26Z",
+      "focus": [
+        "現場状況",
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "e27e8cfd797ef3df44a9",
       "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
@@ -10527,6 +10544,20 @@
       ]
     },
     {
+      "id": "c014406a6e244cdd13b9",
+      "title": "熊本地震 「イオンモール熊本」付近の道路にはがれきが散乱(28日)",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVkMxNzRoVkxnN3JTRTFyREE3SFhuUU83WlhxWU5uZGUwWk9PRWNzRnh3TkxVaWllaVpqTHBwNUxQM0FPaWFDYjEtNTdVQ0JSS1EyclJ1MThwa0E?oc=5",
+      "first_seen": "2026-07-30T00:00:52Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6f73479051fe2773a5be",
       "title": "日本製紙八代工場、救助された2人が心肺停止・9人安否不明...煙突折れる被害確認",
       "source": "読売新聞",
@@ -13600,20 +13631,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c014406a6e244cdd13b9",
-      "title": "熊本地震 「イオンモール熊本」付近の道路にはがれきが散乱(28日)",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T01:55:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLVkMxNzRoVkxnN3JTRTFyREE3SFhuUU83WlhxWU5uZGUwWk9PRWNzRnh3TkxVaWllaVpqTHBwNUxQM0FPaWFDYjEtNTdVQ0JSS1EyclJ1MThwa0E?oc=5",
-      "first_seen": "2026-07-30T00:00:52Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
