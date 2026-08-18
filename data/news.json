@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T05:00:20Z",
-  "updated_at_jst": "2026/08/18 14:00 JST",
+  "updated_at": "2026-08-18T05:30:23Z",
+  "updated_at_jst": "2026/08/18 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -4015,22 +4015,6 @@
       ]
     },
     {
-      "id": "c0c81e9cdd8a3f4fc361",
-      "title": "イオンモール熊本爆発事故、建屋の現地調査開始 経産省や警察など",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T09:36:44Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QM2pxQVZCNU1oUnl1bVE3VlBkekU2ZFFnX2ZvcXZ2TTItdDN5cm1DdVROU3g2NmdXVFozY3JuZUFoSjdVQkNzMWpXSEQxV2JMWnJyOFY3N0VPLU1XbTFrOUdYYXFrSGNjYVctVA?oc=5",
-      "first_seen": "2026-08-03T10:01:16Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ada73ccc14d311c8fbd2",
       "title": "経産省がイオンモール熊本を本格調査 (共同通信)",
       "source": "熊本日日新聞",
@@ -4408,6 +4392,22 @@
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c0c81e9cdd8a3f4fc361",
+      "title": "イオンモール熊本爆発事故、建屋の現地調査開始 経産省や警察など",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QM2pxQVZCNU1oUnl1bVE3VlBkekU2ZFFnX2ZvcXZ2TTItdDN5cm1DdVROU3g2NmdXVFozY3JuZUFoSjdVQkNzMWpXSEQxV2JMWnJyOFY3N0VPLU1XbTFrOUdYYXFrSGNjYVctVA?oc=5",
+      "first_seen": "2026-08-03T10:01:16Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
