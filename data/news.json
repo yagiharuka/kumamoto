@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T09:30:26Z",
-  "updated_at_jst": "2026/08/18 18:30 JST",
+  "updated_at": "2026-08-18T10:00:27Z",
+  "updated_at_jst": "2026/08/18 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -1028,6 +1028,22 @@
       "published_at": "2026-08-12T02:46:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQWtDcXJ1SXVLMkQ1WFNKVG1vTmN6ZHpzLWIzbjFiTWNmV0hoTXBrbXgtSHdJVEQzVFRpSUtOS0kyNGhiUGFRbTg1blVfUFE?oc=5",
       "first_seen": "2026-08-12T03:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aa2d7e108a09cce1f739",
+      "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T00:51:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sczFrTks1RnNKdXhRUlNkcndnLTlYd0owZ0JwcEFoUGFjY2Q4SUhtbWU2WE9rRUZPRUViNjVkbGIta3haTk9jT1N4andsNG1CSzEyVV9Xb0djNmx6Q0tPUXlHZXh5eFZz?oc=5",
+      "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
       ],
@@ -3651,22 +3667,6 @@
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "aa2d7e108a09cce1f739",
-      "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WUDlyRk1VTlhyTHN3Y242TzZmeHdNTm9XMm9XRVlqckc1LTFxbWhiblQ3aFZnaFhBN3g5NTc4MThNM2tjWXJHenc1Vk9ZZjk3amZybzJpRzlReW9STFdCdk16ekotdnV6?oc=5",
-      "first_seen": "2026-08-06T21:30:28Z",
-      "focus": [
-        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -12446,6 +12446,23 @@
       ]
     },
     {
+      "id": "50c628c7e01090efb54a",
+      "title": "爆発事故「深くおわび」 熊本震度7で4人安否不明―イオン",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kcXI4bzBpTGxEbElkR1JkczktU3N3allTTGpXMHdtVWtZbnlqX1ZMX3MzWlFkQW5TVTlxYk1GTXN4SUN5SnZadzRIMTFFaGwzT3h5eGhZbWtRZkMxTGNCZ0dubw?oc=5",
+      "first_seen": "2026-07-29T08:31:04Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "254139dde58c28140923",
       "title": "死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人―8700人避難・熊本震度7",
       "source": "時事通信",
@@ -13161,23 +13178,6 @@
       "published_at": "2026-07-29T05:22:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FRFFBMTVBYzU2UHRlSjhOb3M3Z0VvTld1LTdDVXRxWGdoRzJHUEt3T0FHLVQ1NGpVa2FudFlSeEVfUzNvNVVlUmdHUENZX0tFVWRwRw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "50c628c7e01090efb54a",
-      "title": "爆発事故「深くおわび」 熊本震度7で4人安否不明―イオン",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T05:22:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kcXI4bzBpTGxEbElkR1JkczktU3N3allTTGpXMHdtVWtZbnlqX1ZMX3MzWlFkQW5TVTlxYk1GTXN4SUN5SnZadzRIMTFFaGwzT3h5eGhZbWtRZkMxTGNCZ0dubw?oc=5",
-      "first_seen": "2026-07-29T08:31:04Z",
       "focus": [
         "救助・安否",
         "現場状況"
@@ -16229,7 +16229,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
