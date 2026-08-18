@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T11:30:26Z",
-  "updated_at_jst": "2026/08/18 20:30 JST",
+  "updated_at": "2026-08-18T12:00:30Z",
+  "updated_at_jst": "2026/08/18 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1021,
@@ -1332,23 +1332,6 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "536a961ec1a7644e4a7a",
       "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
@@ -1365,13 +1348,30 @@
       ]
     },
     {
+      "id": "536a961ec1a7644e4a7a",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T08:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "23a469c46e0ec63e195c",
       "title": "○イオン、熊本地震発生後に従業員に再入館許可",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T08:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96NXhsVXpEZWczZURLNUhpNXo3eEtCN1dNcE5SVnlkYld0RjFNUTJTYUF3R2p5VkJKYURBUUxFLVI1TDN6R2xuZHp2TDFWeEZ5VUlWNjhXMFoxYmZHTHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZcFhGWjk0eGJBQjRjanUtTVBUSDd6NVIyWVJ0VElST1lxdEQ4M2w4SkE2T2MxVzdHNlFuQ0szU3pZcmZFUWs1V1lLaXExUnFmWlJfRg?oc=5",
       "first_seen": "2026-08-11T10:30:43Z",
       "focus": [
         "避難状況"
@@ -1897,20 +1897,6 @@
       ]
     },
     {
-      "id": "4a60d91b3dcfb31e1075",
-      "title": "「戦争は止められる」 イオンモール熊本で被災の高校生平和誓う",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-08T07:22:04Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bDVlblMzSmFjVVZrdWFBdEJFaUV1VHd2N2ZnZUltS2xoNnhaOHRkdzQyU2ZWOFY5ZEtuOFR1Z1ZKMzdFcGJJVktTNUZNdW1uU3BDM1JLQTVpTUc1Zzhwai05dG01dnpy?oc=5",
-      "first_seen": "2026-08-08T08:00:14Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d3945e40cd9b6f57d943",
       "title": "<2026年熊本地震>「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
       "source": "熊本日日新聞",
@@ -1956,6 +1942,20 @@
       "focus": [
         "目撃証言"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4a60d91b3dcfb31e1075",
+      "title": "「戦争は止められる」 イオンモール熊本で被災の高校生平和誓う",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bDVlblMzSmFjVVZrdWFBdEJFaUV1VHd2N2ZnZUltS2xoNnhaOHRkdzQyU2ZWOFY5ZEtuOFR1Z1ZKMzdFcGJJVktTNUZNdW1uU3BDM1JLQTVpTUc1Zzhwai05dG01dnpy?oc=5",
+      "first_seen": "2026-08-08T08:00:14Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
