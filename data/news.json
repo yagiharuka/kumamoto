@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T03:00:34Z",
-  "updated_at_jst": "2026/08/18 12:00 JST",
+  "updated_at": "2026-08-18T03:30:22Z",
+  "updated_at_jst": "2026/08/18 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -11139,6 +11139,23 @@
       ]
     },
     {
+      "id": "f1b839238c82ed088385",
+      "title": "「捜索時にガス臭」と木原官房長官、爆発2人死亡のイオンモール熊本 事業者に点検要請へ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lcWJzSm5KMUJhWS1Wa00xbkZ2eWxYeWZGOVFNbWtjVnZTQUZEdEZpOTVOZm1CRTBwTUpYMjhuTkNIYmhwb1FiUXM4NjlZSUNSY1dMVC1FNWF4UzlldWlqNWk1NThnbUZidjJNemFTeXl3RGRmU3c?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "354ab46e4f219f17e732",
       "title": "「お客さんが顔を合わせて元気になれば」熊本地震で停電、店外で営業する氷川町のスーパー(写真・画像 1/3)",
       "source": "産経新聞",
@@ -11568,6 +11585,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "69e7f0d67c9ba1ee0b72",
+      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -13235,23 +13268,6 @@
       ]
     },
     {
-      "id": "f1b839238c82ed088385",
-      "title": "「捜索時にガス臭」と木原官房長官、爆発2人死亡のイオンモール熊本 事業者に点検要請へ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lcWJzSm5KMUJhWS1Wa00xbkZ2eWxYeWZGOVFNbWtjVnZTQUZEdEZpOTVOZm1CRTBwTUpYMjhuTkNIYmhwb1FiUXM4NjlZSUNSY1dMVC1FNWF4UzlldWlqNWk1NThnbUZidjJNemFTeXl3RGRmU3c?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "254424352098149df0f3",
       "title": "震度7地震で爆発したイオンモール熊本 警察が捜索、内部動画を公開 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -13670,22 +13686,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "69e7f0d67c9ba1ee0b72",
-      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T23:33:39Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -16259,7 +16259,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlUtRXFZVHl6RFp4ZEdOS2J5YmZfcHJHYzF0cVE0Wk9nTUVGenNLU3hhRmxreUxKbFZ0empjWjc4d1doRnE2YzNqb09GNlVjX2Rpbnk5U1BRcklrUWpVWnMzdnJJU3NLTks0ZVJhQW93bmdYMmdoWHVSQ0lySURTVDh3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04cURzanVfcDd4RXFWSU9RdWJ3SUNueDB3NmVZT2xYR1R4eFZsYkItS2paSFZfSk1yc3pmS3ZWZVFwZnZhMERiVkhVb3FyMlJTWWdsb3dqSms0STRRUzNheHZ2TQ?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
