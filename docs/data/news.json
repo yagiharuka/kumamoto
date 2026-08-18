@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T17:00:30Z",
-  "updated_at_jst": "2026/08/19 02:00 JST",
+  "updated_at": "2026-08-18T17:30:25Z",
+  "updated_at_jst": "2026/08/19 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1022,
+  "article_count": 1023,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "asahi": 120,
-    "kumanichi": 151,
+    "kumanichi": 152,
     "mainichi": 130,
     "nhk": 82,
     "sankei": 169,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 822,
     "power": 120,
-    "paper": 97
+    "paper": 98
   },
   "items": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "id": "25ba772c1facd20e83ab",
-      "title": "設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
+      "title": "2026年熊本地震>設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -111,6 +111,24 @@
       "focus": [
         "現場状況",
         "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "f06ae4a2c440c5d525f1",
+      "title": "<2026年熊本地震>日本製紙八代工場の煙突被害、専門家委が原因分析",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-18T10:48:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DQ282Y2U0RjhERmNsanhFQXNnaDhMSWV5d3NUelVuTjV1QUVqZFRXaGtBYl9JbWtnWlhLeEpiUGlOc0dsVFBOWXRRbC1YUTA?oc=5",
+      "first_seen": "2026-08-18T17:30:25Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
