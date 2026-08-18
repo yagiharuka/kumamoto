@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T04:30:22Z",
-  "updated_at_jst": "2026/08/18 13:30 JST",
+  "updated_at": "2026-08-18T05:00:20Z",
+  "updated_at_jst": "2026/08/18 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1016,
@@ -3721,6 +3721,20 @@
       ]
     },
     {
+      "id": "8ada77ca7ce258816ddc",
+      "title": "イオンモール熊本で亡くなった30代女性の通夜 営まれる",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XdHFob2R0eWplOEE1czJIVTZMdVUzZEdiSm9rbm9UZmp2S2h0Qk41MFpDdlAzZC1CSzlOcHJtVENBRk9KeDBabXVibTRqTVlJX1k3M0x6Qi0?oc=5",
+      "first_seen": "2026-08-04T05:00:28Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "95d227e367408113b0ef",
       "title": "イオンテナント会社の責任は 熊本地震、専門家「業過致死も」(共同通信)",
       "source": "熊本日日新聞",
@@ -3824,20 +3838,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8ada77ca7ce258816ddc",
-      "title": "イオンモール熊本で亡くなった30代女性の通夜 営まれる",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-03T20:20:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XdHFob2R0eWplOEE1czJIVTZMdVUzZEdiSm9rbm9UZmp2S2h0Qk41MFpDdlAzZC1CSzlOcHJtVENBRk9KeDBabXVibTRqTVlJX1k3M0x6Qi0?oc=5",
-      "first_seen": "2026-08-04T05:00:28Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -11602,22 +11602,6 @@
       ]
     },
     {
-      "id": "69e7f0d67c9ba1ee0b72",
-      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "05304302578fc19788c3",
       "title": "オリコンニュース:[令和8年熊本地震]イオンモール熊本の猫カフェ「MOFF」、25頭すべて救出・搬出「無事に保護できました」",
       "source": "毎日新聞",
@@ -12276,7 +12260,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaFE5a2JEVEhQNUV2VDAzc1UwQ2xobE1nSEJIUTF6RUx4TnA5NjRuS0hwZDVQUVdnN2t3dkExYkdvV25uSFE1eUt2ZXhmSHFsR2VUYzlsQ29MSnVtWlNDR19xRmRlMkhkSGtBREd3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
@@ -13700,6 +13684,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "69e7f0d67c9ba1ee0b72",
+      "title": "オリコンニュース:有働由美子アナ、被災時に役立つ実用情報を発信 「停電」「熱中症対策」「スマホ節電」を図解「少しでもお役に立てば」[令和8年熊本地震]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T23:33:39Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2OTJCSXJrRTJtbzFrUExaS1FrWW1RYnlNS0ZUdV9NUzNVZDJUYmluamJHb2dQd08xaFk0M1I5dUU0TmgzUlg4TE5FbzQ3NjJPTEpTcDloVmd0eWZEc2ZMMFZobDNBWVhu?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
