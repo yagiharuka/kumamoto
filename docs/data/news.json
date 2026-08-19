@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T12:30:27Z",
-  "updated_at_jst": "2026/08/19 21:30 JST",
+  "updated_at": "2026-08-19T13:00:25Z",
+  "updated_at_jst": "2026/08/19 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1030,
@@ -7504,20 +7504,6 @@
       ]
     },
     {
-      "id": "f0d4a14fe0126187b0e2",
-      "title": "イオンモール熊本の現場調査開始と経産省 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T11:32:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vOUdjNXBtQ2JpZUZoS0J3ZnUwV2ZnUHdXSTlmbUhoRmgyV3hDdXlwMUxldEx3Yzg1U1A2ZTJoZXBPZUpjX0UwQm1QaDBJOUU?oc=5",
-      "first_seen": "2026-07-30T12:00:10Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "dbdddced7b50003ae638",
       "title": "熊本地震、死者34人と県発表 イオンモール熊本では従業員7人死亡 動画",
       "source": "朝日新聞",
@@ -8102,6 +8088,20 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "f0d4a14fe0126187b0e2",
+      "title": "イオンモール熊本の現場調査開始と経産省 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vOUdjNXBtQ2JpZUZoS0J3ZnUwV2ZnUHdXSTlmbUhoRmgyV3hDdXlwMUxldEx3Yzg1U1A2ZTJoZXBPZUpjX0UwQm1QaDBJOUU?oc=5",
+      "first_seen": "2026-07-30T12:00:10Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
