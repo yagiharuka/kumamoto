@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T07:30:25Z",
-  "updated_at_jst": "2026/08/19 16:30 JST",
+  "updated_at": "2026-08-19T08:00:26Z",
+  "updated_at_jst": "2026/08/19 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1030,
@@ -1302,22 +1302,6 @@
       ]
     },
     {
-      "id": "d4aa885f5753c9fbdf25",
-      "title": "【動画】イオンモール熊本 爆発後の捜索活動の映像 被害克明に",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-11T09:35:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0M4ai1iWndoREFqT0E5YjEyc0dFQUtER0pocS1oU1R2dEVSZkdxLVZ4TUpnZUIwNUNVQU5XWmxJSGNfejJ3R1VZM1MxS3VmZ2lsODlUdnBkTnFDR29r?oc=5",
-      "first_seen": "2026-08-11T10:00:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "56d862961fb4cdb769cf",
       "title": "熊本地震から2週間 イオンモール熊本近くの献花台に多くの人",
       "source": "NHK",
@@ -1431,23 +1415,6 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "536a961ec1a7644e4a7a",
       "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
@@ -1475,20 +1442,6 @@
       "focus": [
         "避難状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b3dc42496b0202d7a8f4",
-      "title": "画像・写真:イオンモール熊本に献花次々:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:38:43Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUmdQX3drWmw3akZGekRmenZGMU1LTzZ3anQ4OUlaS3JjczhjWTVNUmVlNHY3bHN0ZWMySXBtTDBES281a0R6Q3kzTTlKaUsxMHNLRHFOcXVEcXk3Rm5hU195c18?oc=5",
-      "first_seen": "2026-08-11T08:00:41Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -1522,20 +1475,6 @@
       ]
     },
     {
-      "id": "8fd26f51d141da19149e",
-      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbEdBNG05UlNkd2JBSmlGWmZ0eWRSZEdJWDl5YjNYLUtqSWV2S2tqdy1oRDdKLWNsVmFLRDh0bjhVMTdzNmdSNEhzakhkTWlBamktZF9vaE92QjR0aUF3MEYyRQ?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4328a51ec716e2569d83",
       "title": "◎イオンモール熊本に献花次々=知事も追悼、熊本地震2週間",
       "source": "時事通信",
@@ -1545,6 +1484,23 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04djlpZDVUWmcyeV9jQjRITHVJV19BbHhabGdvVWFVQVVUckxqcDNNRVdBRUNaRGNQYmVOc3d5M1VtSmkzdE5qZjlCQmxaQnRjTEMwQg?oc=5",
       "first_seen": "2026-08-16T10:30:43Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d8fb42a5484187626437",
+      "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PR242QWN0cnp2RjB0bVlCR3h0Q05JUW14TlhEbjJkaGJycW9PcnhUcjRJM3NxUU5BZ3dfZVdETUNIczJIN1B6Z2ZYQWUxYkNqajA3WkN5TlpwbmRjOFh0TFJ3aWwwRkxhMV9CZ3o1VzZxdw?oc=5",
+      "first_seen": "2026-08-11T06:30:49Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -1567,16 +1523,60 @@
       ]
     },
     {
-      "id": "d8fb42a5484187626437",
-      "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T06:13:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PR242QWN0cnp2RjB0bVlCR3h0Q05JUW14TlhEbjJkaGJycW9PcnhUcjRJM3NxUU5BZ3dfZVdETUNIczJIN1B6Z2ZYQWUxYkNqajA3WkN5TlpwbmRjOFh0TFJ3aWwwRkxhMV9CZ3o1VzZxdw?oc=5",
-      "first_seen": "2026-08-11T06:30:49Z",
+      "id": "b3dc42496b0202d7a8f4",
+      "title": "画像・写真:イオンモール熊本に献花次々:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUmdQX3drWmw3akZGekRmenZGMU1LTzZ3anQ4OUlaS3JjczhjWTVNUmVlNHY3bHN0ZWMySXBtTDBES281a0R6Q3kzTTlKaUsxMHNLRHFOcXVEcXk3Rm5hU195c18?oc=5",
+      "first_seen": "2026-08-11T08:00:41Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbEdBNG05UlNkd2JBSmlGWmZ0eWRSZEdJWDl5YjNYLUtqSWV2S2tqdy1oRDdKLWNsVmFLRDh0bjhVMTdzNmdSNEhzakhkTWlBamktZF9vaE92QjR0aUF3MEYyRQ?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "536a961ec1a7644e4a7a",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
-        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d4aa885f5753c9fbdf25",
+      "title": "【動画】イオンモール熊本 爆発後の捜索活動の映像 被害克明に",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0M4ai1iWndoREFqT0E5YjEyc0dFQUtER0pocS1oU1R2dEVSZkdxLVZ4TUpnZUIwNUNVQU5XWmxJSGNfejJ3R1VZM1MxS3VmZ2lsODlUdnBkTnFDR29r?oc=5",
+      "first_seen": "2026-08-11T10:00:42Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -7412,20 +7412,6 @@
       ]
     },
     {
-      "id": "841f232dcff4e67d2150",
-      "title": "炎天下のイオンモール熊本で捜索活動に加わる警視庁の警察犬=30日午後、熊本県嘉島町(渡辺大樹撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T12:16:36Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWE1EVm1Iek5XS0FGUGhwUXA4eU5LeUZXeE5LeGJiMkhYd3VuaFIwd2dqNFluYjhJYUJOcGZUR0dScVkxWlFfNFJwVlBLYWJnaFlfYWVoVXVxWGJrZDMxUFc2b0lzUnBmS044b2J0Sm5XVl9SZmNZM2ZYN1B3eXlOVG9nV2J2Sl9jdnQ5YXhHYUdMZFRKXzZ4LWpxd0FETVJjNGc?oc=5",
-      "first_seen": "2026-07-30T16:00:19Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "576d5d65e53e53380c2d",
       "title": "イオンモール熊本の駐車場に並ぶ各地の消防車両ら=30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -7911,6 +7897,20 @@
       "category_ids": [
         "aeon",
         "paper"
+      ]
+    },
+    {
+      "id": "841f232dcff4e67d2150",
+      "title": "炎天下のイオンモール熊本で捜索活動に加わる警視庁の警察犬=30日午後、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWE1EVm1Iek5XS0FGUGhwUXA4eU5LeUZXeE5LeGJiMkhYd3VuaFIwd2dqNFluYjhJYUJOcGZUR0dScVkxWlFfNFJwVlBLYWJnaFlfYWVoVXVxWGJrZDMxUFc2b0lzUnBmS044b2J0Sm5XVl9SZmNZM2ZYN1B3eXlOVG9nV2J2Sl9jdnQ5YXhHYUdMZFRKXzZ4LWpxd0FETVJjNGc?oc=5",
+      "first_seen": "2026-07-30T16:00:19Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -9700,22 +9700,6 @@
       ]
     },
     {
-      "id": "8cdfc700487b5dbcc9c7",
-      "title": "会見速報>地震と爆発 イオンが説明した事故経緯や対応の時系列 見えてきた惨事の一端 熊本地震・イオン社長会見(5)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T11:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMmd0WV94dS1LQm5fMFRHTi11T1RNLVNZdTd5TDV5eVZ6SEpHWl8wMUlaUlZxZnBJYllrUzdlcFVXVHl4c21jQzhRUV9Mekcyam41RlhCM2tEZGFXemxEU1F2M2xLTkw1Z201anVsR0FNeHBOZlE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "cda8b1d58e17106fd830",
       "title": "イオン社長謝罪、爆発想定できず 地震時4000人が館内に(共同通信)",
       "source": "熊本日日新聞",
@@ -10268,20 +10252,6 @@
       "published_at": "2026-07-29T07:40:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvQU96MjZhTzY0dGh2cVVqU0swYnNEdFk0a2lPaHl5bmV2b0lXSlU4QzNuREZVOGpaN2lUUmVCNEkteldQQmpBV1A2b19hSDQ?oc=5",
       "first_seen": "2026-07-29T08:01:00Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b368b611353bc40e632c",
-      "title": "「ワンちゃんネコちゃん達は無事です!」 イオンモール熊本内のペットショップが報告",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:31:12Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -11063,6 +11033,22 @@
       ]
     },
     {
+      "id": "8cdfc700487b5dbcc9c7",
+      "title": "会見速報>地震と爆発 イオンが説明した事故経緯や対応の時系列 見えてきた惨事の一端 熊本地震・イオン社長会見(5)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvMmd0WV94dS1LQm5fMFRHTi11T1RNLVNZdTd5TDV5eVZ6SEpHWl8wMUlaUlZxZnBJYllrUzdlcFVXVHl4c21jQzhRUV9Mekcyam41RlhCM2tEZGFXemxEU1F2M2xLTkw1Z201anVsR0FNeHBOZlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "cf4b1f0efcb5bbceb2e6",
       "title": "会見速報>イオン社長会見「命が奪われる事態招き重く受け止める」とお詫び 爆発事故 熊本地震・イオン社長会見(1)",
       "source": "産経新聞",
@@ -11349,6 +11335,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b368b611353bc40e632c",
+      "title": "「ワンちゃんネコちゃん達は無事です!」 イオンモール熊本内のペットショップが報告",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbEJ5Z0NDU0YwNmY4V2xlRkxWbGVlQU5xSXZfUWZiZUFkeVZUTUlNMy1hUU55Sk1GVnd2WmJVZ04tQXM1NVFtbmRLS3cySG1RWnRuNFFZdkpRZ05zMTM0NTBUQy16ejgzOEN6Rk9vR1lab1Iyb01MWUJYNU9aUXRXSWxfZHJQckFnRzhzVlRxdDFoc195YWk0dTd5WQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
