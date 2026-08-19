@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T04:30:26Z",
-  "updated_at_jst": "2026/08/19 13:30 JST",
+  "updated_at": "2026-08-19T05:00:26Z",
+  "updated_at_jst": "2026/08/19 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1029,
+  "article_count": 1030,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 143,
+    "yomiuri": 144,
     "asahi": 122,
     "nikkei": 60,
     "kumanichi": 152,
@@ -78,9 +78,25 @@
   "category_counts": {
     "aeon": 826,
     "power": 120,
-    "paper": 100
+    "paper": 101
   },
   "items": [
+    {
+      "id": "0f198fce40774e1d89b9",
+      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-19T04:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oQUFIWUUwS0J0NUk1Z3JSNVphX3JMSzJzN041bDlSQkJaR1I2MFdUV2Q4SE5JOUhfaEh3UkwzdnRxUUxXYkR5X3ZGWlN6QlpRaURvdlJSUkZSbVVuT3pMb2duXzJmcWNqNWZhOXo0VmtsUQ?oc=5",
+      "first_seen": "2026-08-19T05:00:26Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "0c8192e09094cab46684",
       "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊",
@@ -12237,23 +12253,6 @@
       ]
     },
     {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1b646655783a6e3ad564",
       "title": "余震、夜通しの救出活動 イオン、親族が中に「会いに行く」 熊本地震",
       "source": "朝日新聞",
@@ -16249,6 +16248,23 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
