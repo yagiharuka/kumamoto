@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T08:00:26Z",
-  "updated_at_jst": "2026/08/19 17:00 JST",
+  "updated_at": "2026-08-19T08:30:25Z",
+  "updated_at_jst": "2026/08/19 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1030,
@@ -919,7 +919,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-12T07:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50Z0l2QVZFOGtTSWZMUjBIQ3Vxc19lSEZrd3NEUzhaYWVpOTVmQjZmYjhlbXpMUGV3UVhtOHFzQndSVzYyZVhSakpUM21vdXVhRGZCZQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rRVNHR2JpX3ZrQ2hXclFyN2tHRm1fQndXTWlaNlJBOTE0NkUxcHJZNzVGWFh0UXNONUc4czIwaXkxTl9rODhsU3NJVzMwWmFpbkNWMlR5V2hoU3NwTEE?oc=5",
       "first_seen": "2026-08-12T08:30:54Z",
       "focus": [],
       "category_ids": [
@@ -1302,6 +1302,22 @@
       ]
     },
     {
+      "id": "d4aa885f5753c9fbdf25",
+      "title": "【動画】イオンモール熊本 爆発後の捜索活動の映像 被害克明に",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-11T09:35:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0M4ai1iWndoREFqT0E5YjEyc0dFQUtER0pocS1oU1R2dEVSZkdxLVZ4TUpnZUIwNUNVQU5XWmxJSGNfejJ3R1VZM1MxS3VmZ2lsODlUdnBkTnFDR29r?oc=5",
+      "first_seen": "2026-08-11T10:00:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "56d862961fb4cdb769cf",
       "title": "熊本地震から2週間 イオンモール熊本近くの献花台に多くの人",
       "source": "NHK",
@@ -1561,22 +1577,6 @@
       "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d4aa885f5753c9fbdf25",
-      "title": "【動画】イオンモール熊本 爆発後の捜索活動の映像 被害克明に",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iY0M4ai1iWndoREFqT0E5YjEyc0dFQUtER0pocS1oU1R2dEVSZkdxLVZ4TUpnZUIwNUNVQU5XWmxJSGNfejJ3R1VZM1MxS3VmZ2lsODlUdnBkTnFDR29r?oc=5",
-      "first_seen": "2026-08-11T10:00:42Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -6313,6 +6313,20 @@
       ]
     },
     {
+      "id": "3ab1e4e0643b7aebf2b9",
+      "title": "イオンモール、続く入念な捜索=「72時間」前に、がれき撤去も―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTmdUQWM5bTlYbTZXdk81VUZITV9HZjBNcENqd2xfanhwOVBrbE9mdkpkUFVMX0pGY1N6QXBOc3VuOXdJd0ZSZ3VpVXFhX3FWemJCZ2JiRHBoMi1pOUE?oc=5",
+      "first_seen": "2026-07-31T02:30:59Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d2885ec3451b9e7bf24d",
       "title": "イオンモール、続く入念な捜索 「72時間」前に、がれき撤去も―熊本",
       "source": "時事通信",
@@ -6777,20 +6791,6 @@
       "published_at": "2026-07-31T02:16:09Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGxNUXlueVlaci02UzNCaW8zM3B6eVEzNmJyXzZHYjkyRHRPNF9Wb3FNRWZxNFhFUUx0UXczT3BMeTBEVC1SQmtZNjQ1TWxFU3E5R1BsaC1Wa2UxdUgtN1RLZGY5eUp2TEd3ZVp6Q1V6MkN4MS1ra21HemR6SVFpNUwtcTZfOTl5QlI0c0t5NzZkX1Jtb1NKS0FB?oc=5",
       "first_seen": "2026-08-02T04:30:17Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "3ab1e4e0643b7aebf2b9",
-      "title": "イオンモール、続く入念な捜索=「72時間」前に、がれき撤去も―熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T02:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTmdUQWM5bTlYbTZXdk81VUZITV9HZjBNcENqd2xfanhwOVBrbE9mdkpkUFVMX0pGY1N6QXBOc3VuOXdJd0ZSZ3VpVXFhX3FWemJCZ2JiRHBoMi1pOUE?oc=5",
-      "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
         "aeon"
