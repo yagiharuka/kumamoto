@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T21:31:04Z",
-  "updated_at_jst": "2026/08/20 06:31 JST",
+  "updated_at": "2026-08-19T22:01:01Z",
+  "updated_at_jst": "2026/08/20 07:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1032,
@@ -2393,22 +2393,6 @@
       ]
     },
     {
-      "id": "da5ccda66b324df9f4b9",
-      "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVnAzN0RxdTk4LU9JZXpTempFWjVzdEZ4ZlpJRFhuOWdkN1huSVRVdnZMaWRJbFlYLWdlZWFteGEzSGhBWXJlT0FYb1RHNE5wa2NxdzUwZWlnQVpGaE03Y19Da1AzM0U1?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "e34bef7395c5ae6711c3",
       "title": "熊本地震 「LPガスの可能性」 イオン爆発原因言及 経産省",
       "source": "毎日新聞",
@@ -2535,6 +2519,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "da5ccda66b324df9f4b9",
+      "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T17:02:31Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVnAzN0RxdTk4LU9JZXpTempFWjVzdEZ4ZlpJRFhuOWdkN1huSVRVdnZMaWRJbFlYLWdlZWFteGEzSGhBWXJlT0FYb1RHNE5wa2NxdzUwZWlnQVpGaE03Y19Da1AzM0U1?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
