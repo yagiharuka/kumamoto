@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T11:00:26Z",
-  "updated_at_jst": "2026/08/19 20:00 JST",
+  "updated_at": "2026-08-19T11:30:26Z",
+  "updated_at_jst": "2026/08/19 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1030,
@@ -272,7 +272,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-18T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icC05dHBGdUI4NmRoNWdIb2pyYUJjSFpQbmxNTThvWWJ0Vkx2MW1iWmdQaXoxR1hmdkh6TzIybWdNQlkyYmRvQXF5Vnhzd2gtbFZyeG80MFNFRV9FWi1SMTNYdGhxWFlRVS1fQVZn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVE1xVWdybV9OZTVkZHVVSnhPVVpsc3cydE00QWFHRU1zT2xOX29Xb3RxeUQ1QnUxRHhtNHBiSk1VY1NaeWxJUWVnMXlhMjByZGtuMnhJcDdlMmlUcEwza2pRd1hQQUFBZUhyeWln?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
@@ -1539,6 +1539,22 @@
       ]
     },
     {
+      "id": "496df599b70f9a7e95af",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4ZVFGWUJOMjFCdlFYVWVITmNnYm40Y0F4MmNZY3h6MnJsLUtodWY1NXByQ0NzdGxlRzYwcnFySmk4aF90RjJxR2xUWml3aUYyS2NJQnJQMzBNN1hGZm1SVS0xZTAzc0E?oc=5",
+      "first_seen": "2026-08-11T04:00:49Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b3dc42496b0202d7a8f4",
       "title": "画像・写真:イオンモール熊本に献花次々:時事ドットコム",
       "source": "時事通信",
@@ -1740,22 +1756,6 @@
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "496df599b70f9a7e95af",
-      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4ZVFGWUJOMjFCdlFYVWVITmNnYm40Y0F4MmNZY3h6MnJsLUtodWY1NXByQ0NzdGxlRzYwcnFySmk4aF90RjJxR2xUWml3aUYyS2NJQnJQMzBNN1hGZm1SVS0xZTAzc0E?oc=5",
-      "first_seen": "2026-08-11T04:00:49Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -12331,6 +12331,23 @@
       ]
     },
     {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1b646655783a6e3ad564",
       "title": "余震、夜通しの救出活動 イオン、親族が中に「会いに行く」 熊本地震",
       "source": "朝日新聞",
@@ -16248,23 +16265,6 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
