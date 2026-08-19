@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T03:30:23Z",
-  "updated_at_jst": "2026/08/19 12:30 JST",
+  "updated_at": "2026-08-19T04:00:23Z",
+  "updated_at_jst": "2026/08/19 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1028,
+  "article_count": 1029,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 143,
     "asahi": 122,
     "nikkei": 60,
     "kumanichi": 152,
     "mainichi": 130,
     "nhk": 82,
     "sankei": 169,
-    "yomiuri": 142,
     "jiji": 171
   },
   "tracked_categories": [
@@ -78,9 +78,25 @@
   "category_counts": {
     "aeon": 826,
     "power": 120,
-    "paper": 99
+    "paper": 100
   },
   "items": [
+    {
+      "id": "0c8192e09094cab46684",
+      "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-19T03:32:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55U2l0eWt0WGRGTGlSaUpIekhWZUtJR2hYaDZjYTF3N01jbHMxREVIeVJMQnpQMFN2cGV0Qmx5VzNpRG5WVVZaS1ZjbjdZX1h6YmlvWlMtU1dKbS1ESEhSUTlyek5jWmJzdHFNSjl0ZUxrQQ?oc=5",
+      "first_seen": "2026-08-19T04:00:23Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "e164450ce9456b43af53",
       "title": "(社説)イオン熊本爆発 「想定外」の検証 丁寧に",
