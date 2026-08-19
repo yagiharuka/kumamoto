@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T00:00:34Z",
-  "updated_at_jst": "2026/08/19 09:00 JST",
+  "updated_at": "2026-08-19T00:30:34Z",
+  "updated_at_jst": "2026/08/19 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1028,
@@ -14493,22 +14493,6 @@
       ]
     },
     {
-      "id": "ce378be3960a61568007",
-      "title": "爆発で外壁などが大きく崩れたイオンモール熊本=7月28日午後9時16分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T14:13:34Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDRPeno2N2l6MHFnb2M2MnJFWmNFZW5iOWtGWlVFVFMtUUZ5bWdEZl9hbElFMkZVdXZ5OXRkTWtraWdjMkhaOFVsVkstbU5YbE51VFZLTjdINnZLR2dyMm5mYkhubHp5SXVzZUtRSnR2M0psRkZCTk1lYmdKS0I1aHRhODNkUTVpcUxzZUV1T1F1ck9yakdGMGtRdkNFcC1BTWc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1c9077a0ca6078c29d30",
       "title": "爆発のあったイオンモール熊本の周辺に集まる消防隊員ら=7月28日午後10時、熊本県嘉島町",
       "source": "産経新聞",
@@ -15496,6 +15480,22 @@
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ce378be3960a61568007",
+      "title": "爆発で外壁などが大きく崩れたイオンモール熊本=7月28日午後9時16分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDRPeno2N2l6MHFnb2M2MnJFWmNFZW5iOWtGWlVFVFMtUUZ5bWdEZl9hbElFMkZVdXZ5OXRkTWtraWdjMkhaOFVsVkstbU5YbE51VFZLTjdINnZLR2dyMm5mYkhubHp5SXVzZUtRSnR2M0psRkZCTk1lYmdKS0I1aHRhODNkUTVpcUxzZUV1T1F1ck9yakdGMGtRdkNFcC1BTWc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
