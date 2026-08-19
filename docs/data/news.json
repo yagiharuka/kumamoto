@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T06:30:26Z",
-  "updated_at_jst": "2026/08/19 15:30 JST",
+  "updated_at": "2026-08-19T07:00:32Z",
+  "updated_at_jst": "2026/08/19 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1030,
@@ -2206,23 +2206,6 @@
       ]
     },
     {
-      "id": "ee9ea8ad70e7a7297f61",
-      "title": "<2026年熊本地震>「重く受け止めている」 ガス供給元の福岡酸素 イオン爆発事故",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-06T07:38:27Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mZlhieHVHUUVVN2tJRW5VTWxZN25LU2pabWxQa2FHdENoY2VseW44UDRRWDN1TEFtZ01mNElhWWNiTzdSUWRURkwyLUd2TFE?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "74d441b2106eb927070a",
       "title": "イオンモール熊本の大規模爆発 福岡酸素「調査に全面協力」",
       "source": "NHK",
@@ -2372,6 +2355,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "ee9ea8ad70e7a7297f61",
+      "title": "<2026年熊本地震>「重く受け止めている」 ガス供給元の福岡酸素 イオン爆発事故",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mZlhieHVHUUVVN2tJRW5VTWxZN25LU2pabWxQa2FHdENoY2VseW44UDRRWDN1TEFtZ01mNElhWWNiTzdSUWRURkwyLUd2TFE?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
