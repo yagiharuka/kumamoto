@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T18:00:23Z",
-  "updated_at_jst": "2026/08/20 03:00 JST",
+  "updated_at": "2026-08-19T18:30:23Z",
+  "updated_at_jst": "2026/08/20 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1032,
@@ -1878,6 +1878,20 @@
       ]
     },
     {
+      "id": "52df7898be5a37c2f45e",
+      "title": "イオン1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXTUwxSUZ5ZjBHdXVfT2Rxc0Q2TVRoQWhQNnFoWHNzeGh3cmRVV2hIUVFIeGFMMXAyZnNEZkFCbTNnbXVwbHZ1SVNkeGlwQkxIQVhQZEFuZ1llSWk5VnItZEdHVXZNVEpXci1qeQ?oc=5",
+      "first_seen": "2026-08-10T01:00:40Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "fbc7e53ec19c954eb758",
       "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
       "source": "時事通信",
@@ -1907,20 +1921,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "52df7898be5a37c2f45e",
-      "title": "イオン1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T00:54:15Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXTUwxSUZ5ZjBHdXVfT2Rxc0Q2TVRoQWhQNnFoWHNzeGh3cmRVV2hIUVFIeGFMMXAyZnNEZkFCbTNnbXVwbHZ1SVNkeGlwQkxIQVhQZEFuZ1llSWk5VnItZEdHVXZNVEpXci1qeQ?oc=5",
-      "first_seen": "2026-08-10T01:00:40Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -3885,7 +3885,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
