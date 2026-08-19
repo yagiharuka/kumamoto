@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T04:00:23Z",
-  "updated_at_jst": "2026/08/19 13:00 JST",
+  "updated_at": "2026-08-19T04:30:26Z",
+  "updated_at_jst": "2026/08/19 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1029,
@@ -3190,22 +3190,6 @@
       ]
     },
     {
-      "id": "28a43ebf5e32c9b4f917",
-      "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T12:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bDE1alNqTXhSQVljbDktMXRoZXRncG5XSTlHa2k1OGlKR2xOQU5CNGRuVk9oNjJiNlZzRHhCcUxSMVhMcFNEWlc3NDNtbFFlZEhVYmt2MlV6Qnc2ZEE?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "897d42a95d92e4439c28",
       "title": "爆発が起きたイオンモール熊本で、手を合わせる親子=4日午後4時12分、嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -3872,6 +3856,22 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "28a43ebf5e32c9b4f917",
+      "title": "「雑魚寝痛い」「断水いつまで」=避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bDE1alNqTXhSQVljbDktMXRoZXRncG5XSTlHa2k1OGlKR2xOQU5CNGRuVk9oNjJiNlZzRHhCcUxSMVhMcFNEWlc3NDNtbFFlZEhVYmt2MlV6Qnc2ZEE?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -12237,6 +12237,23 @@
       ]
     },
     {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1b646655783a6e3ad564",
       "title": "余震、夜通しの救出活動 イオン、親族が中に「会いに行く」 熊本地震",
       "source": "朝日新聞",
@@ -15002,20 +15019,6 @@
       ]
     },
     {
-      "id": "0f416be258462c849642",
-      "title": "外壁などが大きく崩れたイオンモール熊本=28日午後6時38分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T10:27:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTJPNzFZcXROX0FFSElUc0VfWndUTEI2QjR0d3pkZU9pZExMSUFxalVNYldOMFpkR1BGQUxZOWNBaG5meTV2QzQxSDRsb3pvWFU0M0s2ZkFoOUwxWW5DaklXQ1E2QnFOWHQ5ME1rdUFDVk01dDBwcjVLSzZ2Sm1UZnI2d3BWeC1ELUdQYk5pN0N1bDlrMFQzYmxicmVHNmFxZ0E?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4664edc9bff048a8510d",
       "title": "【速報】イオンモール熊本で爆発、閉じ込め多数 熊本で震度7",
       "source": "熊本日日新聞",
@@ -15634,6 +15637,20 @@
       ]
     },
     {
+      "id": "0f416be258462c849642",
+      "title": "外壁などが大きく崩れたイオンモール熊本=28日午後6時38分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTJPNzFZcXROX0FFSElUc0VfWndUTEI2QjR0d3pkZU9pZExMSUFxalVNYldOMFpkR1BGQUxZOWNBaG5meTV2QzQxSDRsb3pvWFU0M0s2ZkFoOUwxWW5DaklXQ1E2QnFOWHQ5ME1rdUFDVk01dDBwcjVLSzZ2Sm1UZnI2d3BWeC1ELUdQYk5pN0N1bDlrMFQzYmxicmVHNmFxZ0E?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "898232ea9785a40859d3",
       "title": "地震の影響で折れた日本製紙の八代工場の煙突=28日午後7時5分、熊本県八代市(共同通信社ヘリから)",
       "source": "産経新聞",
@@ -16232,23 +16249,6 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
