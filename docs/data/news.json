@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-18T23:30:32Z",
-  "updated_at_jst": "2026/08/19 08:30 JST",
+  "updated_at": "2026-08-19T00:00:34Z",
+  "updated_at_jst": "2026/08/19 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1026,
+  "article_count": 1028,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -55,7 +55,7 @@
     "mainichi": 130,
     "nhk": 82,
     "sankei": 169,
-    "yomiuri": 140,
+    "yomiuri": 142,
     "jiji": 171
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 824,
+    "aeon": 826,
     "power": 120,
     "paper": 99
   },
@@ -5550,6 +5550,23 @@
       ]
     },
     {
+      "id": "f5e9a3b60238c71e26ad",
+      "title": "熊本地震で派遣された福岡市消防局の隊員ら、爆発したイオンモールで捜索・救助...公式SNSで活動伝える:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4REJpV1JyQ29XU1hrYWh6Q1VZdU91bHppdXVMNTlFWXFPdlh3X0NndjRYMUtKU1ZoV25laGZBMEc2REhTMFlFOGxCTC02b3pnWnJtM0tHM3J2YWx3aHhUTFlRU05DV0ZubEE?oc=5",
+      "first_seen": "2026-08-19T00:00:34Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "57922df64b24fe8cbd0f",
       "title": "熊本地震で派遣された福岡市消防局の隊員ら、爆発したイオンモールで捜索・救助...公式SNSで活動伝える",
       "source": "読売新聞",
@@ -10320,6 +10337,22 @@
       ]
     },
     {
+      "id": "c8c850c8d9d163ed2426",
+      "title": "爆発後の「イオンモール熊本」を3D化...被害状況を様々な角度から:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNEhkLV9TLXA4dHBZZXpXcXRTSmVEMnl1MFczSUJtM0diNzRWQlBSTDFNUkJEVTRZRHN2UUhCUHdVZWMtdmFSUC03eGVfa0l5SkxIRU9JaWxpNG5BM0M2OU9iejhhXzg2Ymc?oc=5",
+      "first_seen": "2026-08-19T00:00:34Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a31039cb641f07a1818e",
       "title": "爆発後の「イオンモール熊本」を3D化...被害状況を様々な角度から",
       "source": "読売新聞",
@@ -12603,7 +12636,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVm04eF9zYnktR0Z3MkhleHpVNW5UdXY1VTdhZE44QnZkd1ViZU5kYXpVTnJia0Z5OEhsbUM0Vk9lV2dQTDg1SHNlUVluY09IMkZKdnVoaGhSekhIMlp0NUNNWWVhdkRGX0llSVJuNFJudG5mNGZ1eUJLbkR4Vzd0cUhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlUX2RLaUVMLVY4WTM4ejZUY1NKczlYX29FSFdVRFh0MDFvRURFc3BDWkF3R3NVR0dHNUNnaVNsV1Y2WUtPXy1INTJXNXBRNGw2N2NRSGVvRGNtS0V1dGs0VklBbHlTd0NtSUZ5OWczYUNDUHc1cml5ZzhHY2E4ZEtR?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
