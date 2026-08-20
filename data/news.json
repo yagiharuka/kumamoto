@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T08:00:34Z",
-  "updated_at_jst": "2026/08/20 17:00 JST",
+  "updated_at": "2026-08-20T08:30:32Z",
+  "updated_at_jst": "2026/08/20 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1043,
+  "article_count": 1044,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "nhk": 83,
+    "nhk": 84,
     "asahi": 123,
     "mainichi": 131,
     "jiji": 174,
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 835,
     "power": 120,
-    "paper": 105
+    "paper": 106
   },
   "items": [
+    {
+      "id": "8902ca1190e97f661cea",
+      "title": "日本製紙八代工場 地震で損傷の煙突1本 来月中旬めど撤去へ",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-20T08:12:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80UEYzMDd1WkNCTnJKZ2ljZW80S0Fpc2FQcTdJX1ZTVnZ5Z0xMcjQ5cG1wWXo0MFg0eU9xeExyMVJqaGttZGlQTS0yakNuV1RJMW0tRTZHVGk?oc=5",
+      "first_seen": "2026-08-20T08:30:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "350aa65eb386e702f660",
       "title": "イオンモール熊本爆発事故 事故調査委員会が発足 原因究明へ",
@@ -793,7 +810,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-13T06:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
       "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
@@ -1728,7 +1745,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOako1MFd5MFZOTzlfbGxTNkdTa1gzT0xPZVdickJlamhfNHMwNEFDTWR2bEFQb0pvdVZrQUVQeUtGSnFkVzExTnlUZFoxWUFJeGVicGJ2OTV5ZXFzaGNIYVY5MG02VFpMSzV5emR5clJzSTBHcWIzUzZYcWhqdUVPa0dn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
       "focus": [
         "現場状況"
@@ -2058,6 +2075,22 @@
       ]
     },
     {
+      "id": "fbc7e53ec19c954eb758",
+      "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmZQTFhvS2R5QzVIcVE2MU8yQ3dfTjh1aHdFM1BKSEV1cFhSN2NPbF80V3oxaDUxWDExS0NtNVVhU0xhdnpsYXlSRmJDcENRRHotZl8wb2s1Vks0ZkE?oc=5",
+      "first_seen": "2026-08-13T20:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "52df7898be5a37c2f45e",
       "title": "イオン1115億円起債、熊本地震の影響「限定的」 注目度増す財務規律",
       "source": "日本経済新聞",
@@ -2080,22 +2113,6 @@
       "published_at": "2026-08-10T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSnlKaldqMjJTeGwzMWhmQ2VQWEhCb1pDZVQ1OUE3OTc0ZmhtYkR1Y04zTDZJUERucVYzd01DWDFTWnI5bzBUYlJfc2JFeUNETkh0VV9taXA3T3ZWLXBWNHJiR2NtOWtaUGxPOQ?oc=5",
       "first_seen": "2026-08-10T00:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "fbc7e53ec19c954eb758",
-      "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-10T05:18:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zTENCSU9MVGtzSi12dzM5T3VHTzFCbUR5Ri1fdzJEbXM1YmI4Vm5qSlBucTZuSHoyZkd4NzJTQ2huUWYtSnRvZHdfMzY1b09VbFJzOQ?oc=5",
-      "first_seen": "2026-08-13T20:00:57Z",
       "focus": [
         "現場状況"
       ],
@@ -2782,22 +2799,6 @@
       ]
     },
     {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3139,6 +3140,22 @@
       "focus": [
         "原因・検証",
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
