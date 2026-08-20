@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T22:00:51Z",
-  "updated_at_jst": "2026/08/21 07:00 JST",
+  "updated_at": "2026-08-20T22:30:47Z",
+  "updated_at_jst": "2026/08/21 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1053,
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
@@ -7928,6 +7928,22 @@
       ]
     },
     {
+      "id": "69a4e921d262b182ff95",
+      "title": "【2026年熊本地震】イオンモール熊本で爆発",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T09:55:40Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWFwQ09qMHBvdEsyQnJ0UDh5dzdjMFRocDVaTnpEVDhEZ1lKX29qZ1JLVXRZdWF3MEdNakRGYlhqdzM4OXV3cEREOXptU1lXVEJVSFRhY2pOWE5lM3Y0Qjhzb1VvQXJqMHgxYWpKaVRkNmxjdndqUV9rTTRINmJxZ3ZubzYzSVhJYUJTbW1rVnU2Z0JKZ1NDSmtGRTFxcDNpbXJvUXEtYlZiTEU3SW1PbQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6421ffc7c9f675807ca4",
       "title": "「思い出の詰まったイオンモール熊本」熊本出身のMBS・山崎香佳アナ、長文で思いつづる「無力さを感じています」",
       "source": "読売新聞",
@@ -9939,22 +9955,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:30:00Z",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRlRfbTV4Wjl6WEF3aVo4X3hXNEE0MzM5LUVVVUVxbzZrVmtOR2RZY3BvLThGMWNwNDNXSmRyOWEwMnZPQVRhd0ZkNUFNQ2tFQ004?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "69a4e921d262b182ff95",
-      "title": "【2026年熊本地震】イオンモール熊本で爆発",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T11:15:52Z",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNzJ4c1VyVUM2ejFtS2pXRmNqNUlqWnBabFJCSkFWeHdYVjdWYWJmc3lqeTRmWkIyQVhWSE1aTDlkaFdJREpKYUUtbndvNmV0eG1KTzgteHBZRV9XdlVhd3BYWnlsemVtZTh4cXFBbjlPa2ZXbWlBRV9BMWQyZ0FrSlh0dldpY2JsV0EzbzBudF9uR2dtSTR5U2E3NVJuczR6anZRLWVVNTRfemd6MVd3YUFTV3BZVkp5dGp5VHNhQlJGUnIzOXJVZUgwdWNBdHFVYS1GYUV5TzBDSlQ4RmdOMEQ0dGx5Zy1iR1JmWGhHVVQtOHJOQVplS2Z5N1pzNW5BbkdJWW5zTlpLdFhsNkE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -12885,7 +12885,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
