@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T22:30:47Z",
-  "updated_at_jst": "2026/08/21 07:30 JST",
+  "updated_at": "2026-08-20T23:00:54Z",
+  "updated_at_jst": "2026/08/21 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1053,
@@ -1209,22 +1209,6 @@
       ]
     },
     {
-      "id": "ee0e7753904fd9ad1658",
-      "title": "イオン、遺族に補償の方針=爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UXNETGVlUUFURF9SSVB6SXdfTXUwdDZZeURTV1I0VUtLOGNMbURCSWVYR0VqWUpGa2FERUpGdTBZbmc2WE56WHdVSnVaQW1wTnRUN0xMZWxlSFRVd0E?oc=5",
-      "first_seen": "2026-08-12T07:31:03Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c614a36787100877b5c8",
       "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
@@ -1360,6 +1344,22 @@
       "first_seen": "2026-08-12T08:00:58Z",
       "focus": [
         "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ee0e7753904fd9ad1658",
+      "title": "イオン、遺族に補償の方針=爆発事故「解明待たず早期対応」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UXNETGVlUUFURF9SSVB6SXdfTXUwdDZZeURTV1I0VUtLOGNMbURCSWVYR0VqWUpGa2FERUpGdTBZbmc2WE56WHdVSnVaQW1wTnRUN0xMZWxlSFRVd0E?oc=5",
+      "first_seen": "2026-08-12T07:31:03Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -12885,7 +12885,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
