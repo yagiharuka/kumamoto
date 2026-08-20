@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T11:00:36Z",
-  "updated_at_jst": "2026/08/20 20:00 JST",
+  "updated_at": "2026-08-20T11:30:33Z",
+  "updated_at_jst": "2026/08/20 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1048,
+  "article_count": 1049,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "kumanichi": 158,
     "nhk": 85,
     "asahi": 123,
-    "mainichi": 131,
+    "mainichi": 132,
     "jiji": 174,
     "sankei": 171,
     "yomiuri": 146,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 837,
+    "aeon": 838,
     "power": 120,
     "paper": 108
   },
@@ -6204,6 +6204,22 @@
       "published_at": "2026-07-31T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM21JS05UTDB2TzljVDQ0Ymk4NVdpT2ltTVZGRGpjdWJ6dDFMVXR3djFxRWs4MWFpM0MycklEVFZDM3BJQlpmX3JDS0hSdjhYeWRGMUwxUW5HaVV5RnNqMUk0bHVLaFlQdDdNR1VuVHVYZWRkbU5oTHNBUGhSVURhaHVJTWJkRzA?oc=5",
       "first_seen": "2026-08-02T18:00:17Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6a3a525d937b71e294b1",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集26/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ4UVlpU3ZndTFmQzNCTjRsVS1tMGxPX3ZKOFhxRmZPMkphYVIzTGs4VnVXekZEMm90TFdVMm9hUFItRXRCZ0RvREJQMEhsQWw4UHZiRkwtMHB0YlBNTlJEZVdCNG9JQldxUUlUeHpJY09tbkZvaERzNVdvTnQ1dWo5aG4wUjA?oc=5",
+      "first_seen": "2026-08-20T11:30:33Z",
       "focus": [
         "現場状況"
       ],
