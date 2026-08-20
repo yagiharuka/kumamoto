@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T18:30:29Z",
-  "updated_at_jst": "2026/08/21 03:30 JST",
+  "updated_at": "2026-08-20T19:00:30Z",
+  "updated_at_jst": "2026/08/21 04:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1050,
@@ -876,7 +876,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-13T06:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
       "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
@@ -1599,23 +1599,6 @@
       ]
     },
     {
-      "id": "c49403c0423fb5a25c47",
-      "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T08:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSUNsT1d2MXRvX094cnJBNzFVdWg3Nmpoc1BuM2ZOMTRNWnJhTlNCLWtiRGdMRW1BamNNSUFvYVQ0UEwzQW1EX1VPS1BVWjA1UXQtMVFGNGtMNnRORWc?oc=5",
-      "first_seen": "2026-08-11T05:00:42Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "62f4f874cf49926d6935",
       "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
@@ -1846,6 +1829,23 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RbEdBNG05UlNkd2JBSmlGWmZ0eWRSZEdJWDl5YjNYLUtqSWV2S2tqdy1oRDdKLWNsVmFLRDh0bjhVMTdzNmdSNEhzakhkTWlBamktZF9vaE92QjR0aUF3MEYyRQ?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c49403c0423fb5a25c47",
+      "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSUNsT1d2MXRvX094cnJBNzFVdWg3Nmpoc1BuM2ZOMTRNWnJhTlNCLWtiRGdMRW1BamNNSUFvYVQ0UEwzQW1EX1VPS1BVWjA1UXQtMVFGNGtMNnRORWc?oc=5",
+      "first_seen": "2026-08-11T05:00:42Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -15731,7 +15731,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMWMxLVJKZFBSM25MNmVtdkV0anFwX3pvS3lqdGZOMTlESEkxZmNyazVmeUJ2akE2WkZuajkxb0dXdGN6VGlkcHhUaS1QY3EwSjVIVlJHeEJMZHZnSVhZWnJPV3YyaGYwUkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UWpCRzRabktRRUhOUzVaRGRoc2NvOVlPQWJLM3liWVFmUGc2THBsSTZXUHdmcmxpUTNHLU5XRUlEeEI4cmlCbk1sWWlFNkpaMHllbnI3cVJHd3ZkeUdMdVM1VWYya1g4dnc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
