@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T20:00:49Z",
-  "updated_at_jst": "2026/08/21 05:00 JST",
+  "updated_at": "2026-08-20T20:30:50Z",
+  "updated_at_jst": "2026/08/21 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1050,
+  "article_count": 1052,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "mainichi": 133,
+    "yomiuri": 148,
     "jiji": 174,
     "kumanichi": 158,
     "nhk": 85,
     "asahi": 123,
-    "mainichi": 132,
     "sankei": 171,
-    "yomiuri": 147,
     "nikkei": 60
   },
   "tracked_categories": [
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 839,
+    "aeon": 841,
     "power": 120,
     "paper": 108
   },
   "items": [
+    {
+      "id": "ff7e9b97896f3e44458d",
+      "title": "熊本地震 イオン爆発事故 外部調査委発足",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T20:06:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAydEN2U05Yb3pSVWFlam9hLXpvRnJuODZHcWZBS29sRmVBdlA5Wk1zcnhhMnJEUkZENUtZZlZnUDJ6eWl3ZlhubjdkQmZPV0VvdUNkTDA1al9xVjZzcmJTS3llQTc2b1FO?oc=5",
+      "first_seen": "2026-08-20T20:30:50Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9a825229e4235ad2f96e",
+      "title": "社説:熊本イオン爆発 二次災害にどう備えるべきか",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQUlvT3JvU3NJODVicUxaSVVybHl6dWxNWTFXbmdCMUlrMFhHY0xhWHV5aGRJYVpDMkVjaWw2RnhRcE50RktzS3F1TUxuOU5fenJoYTFtek5IZDdjRzZMcktWYlJVTHc?oc=5",
+      "first_seen": "2026-08-20T20:30:50Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "6ee10c0699fd3d1dce12",
       "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。",
@@ -12837,7 +12869,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
