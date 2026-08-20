@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T07:30:29Z",
-  "updated_at_jst": "2026/08/20 16:30 JST",
+  "updated_at": "2026-08-20T08:00:34Z",
+  "updated_at_jst": "2026/08/20 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1041,
+  "article_count": 1043,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nhk": 83,
+    "asahi": 123,
     "mainichi": 131,
     "jiji": 174,
     "kumanichi": 155,
     "sankei": 171,
     "yomiuri": 146,
-    "asahi": 122,
-    "nikkei": 60,
-    "nhk": 82
+    "nikkei": 60
   },
   "tracked_categories": [
     {
@@ -76,11 +76,46 @@
     }
   ],
   "category_counts": {
-    "aeon": 833,
+    "aeon": 835,
     "power": 120,
     "paper": 105
   },
   "items": [
+    {
+      "id": "350aa65eb386e702f660",
+      "title": "イオンモール熊本爆発事故 事故調査委員会が発足 原因究明へ",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-20T07:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91S2xUMEw4bk9mR3hQVTJZTmVLbkNEUERGWTVNUEtMcTJaVlZXVUNDVXVpUVZxdHFaenJBUGk4c2kzZjFOcFZ1Z0ZJOGdNY1pLbl9iVG93MnM?oc=5",
+      "first_seen": "2026-08-20T08:00:34Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4e7b23c9e618fcdf4e80",
+      "title": "イオン、爆発事故の調査委発足 委員にガスや避難に知見持つ専門家ら [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T07:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yY1UzUGVoNVdjOENnV1d0czFPMVNyTWE5WEpVSmNhUXJKN0Y0eDE3MjBVZFdLU1h1SmtEbXRLbW04LVNYYTZHTUxBNnJUMnVYUjEzbWFzbDZpWF9FbFpuU2ZtZE1VTEE?oc=5",
+      "first_seen": "2026-08-20T08:00:34Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "04c52d77d722233426d9",
       "title": "イオンモール熊本の爆発巡り調査委員会発足 原因究明目指す",
