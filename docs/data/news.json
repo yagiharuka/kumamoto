@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T16:30:31Z",
-  "updated_at_jst": "2026/08/21 01:30 JST",
+  "updated_at": "2026-08-20T17:00:33Z",
+  "updated_at_jst": "2026/08/21 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1049,
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "jiji": 174,
     "kumanichi": 158,
     "nhk": 85,
     "asahi": 123,
     "mainichi": 132,
-    "jiji": 174,
     "sankei": 171,
     "yomiuri": 146,
     "nikkei": 60
@@ -81,6 +81,22 @@
     "paper": 108
   },
   "items": [
+    {
+      "id": "6ee10c0699fd3d1dce12",
+      "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-20T15:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nQ0g3bUwtWmh4ZGZyT1hoQkRUNEQydjBlQWJNR1ZqTWZ2dmgxMWpqbVEzTVJUTEdfWVBxQzBFWWxlYi1yR1puQWVwNVlYYmxGUG8tajVZY1dqS292b2h1cXhBYldWX0tFWjhJ?oc=5",
+      "first_seen": "2026-08-20T06:30:33Z",
+      "focus": [
+        "復旧情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "74d2642ad49a97b2f8ba",
       "title": "<2026年熊本地震>先端破損の110メートル煙突、9月撤去へ 八代市の日本製紙八代工場",
@@ -246,22 +262,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "6ee10c0699fd3d1dce12",
-      "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-20T05:46:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nQ0g3bUwtWmh4ZGZyT1hoQkRUNEQydjBlQWJNR1ZqTWZ2dmgxMWpqbVEzTVJUTEdfWVBxQzBFWWxlYi1yR1puQWVwNVlYYmxGUG8tajVZY1dqS292b2h1cXhBYldWX0tFWjhJ?oc=5",
-      "first_seen": "2026-08-20T06:30:33Z",
-      "focus": [
-        "復旧情報"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
