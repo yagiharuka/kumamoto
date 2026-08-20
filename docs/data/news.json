@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T04:30:32Z",
-  "updated_at_jst": "2026/08/20 13:30 JST",
+  "updated_at": "2026-08-20T05:00:31Z",
+  "updated_at_jst": "2026/08/20 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1035,
+  "article_count": 1036,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 154,
     "sankei": 171,
-    "kumanichi": 153,
     "yomiuri": 146,
     "asahi": 122,
     "nikkei": 60,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 828,
+    "aeon": 829,
     "power": 120,
     "paper": 104
   },
   "items": [
+    {
+      "id": "6f3d0f50fc1df3e349ec",
+      "title": "イオンモール熊本の爆発事故調査委が発足 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-20T04:26:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMU40Q2MxY0F1NjZtekkxWklTcHc1aEUyUTctWEtDbjRzZWlRNjJxOFQxVjlHejItUG5qYms4OUttcTFUSlZ5NFBtYXB2MDg?oc=5",
+      "first_seen": "2026-08-20T05:00:31Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "5d5cebd9b1a68169dfad",
       "title": "日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
@@ -1383,22 +1399,6 @@
       ]
     },
     {
-      "id": "9d3b995ca526c0562d55",
-      "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T08:24:22Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRmFNYmFBRTdLaU1DWXExQlhNSW9pcS1VbERuX1MyV092YnR5OUVLc3pFRTVlZXgzYW9zOEpHY2lHVll5SjQtVDhrTEY3eGVDSnQ5a2lob3ZLMU1TTGk1RnVMeGxuNENvREMweA?oc=5",
-      "first_seen": "2026-08-11T08:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c49403c0423fb5a25c47",
       "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
@@ -1691,6 +1691,22 @@
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9d3b995ca526c0562d55",
+      "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRmFNYmFBRTdLaU1DWXExQlhNSW9pcS1VbERuX1MyV092YnR5OUVLc3pFRTVlZXgzYW9zOEpHY2lHVll5SjQtVDhrTEY3eGVDSnQ5a2lob3ZLMU1TTGk1RnVMeGxuNENvREMweA?oc=5",
+      "first_seen": "2026-08-11T08:30:41Z",
       "focus": [
         "現場状況"
       ],
@@ -2440,22 +2456,6 @@
       ]
     },
     {
-      "id": "da5ccda66b324df9f4b9",
-      "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-06T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVnAzN0RxdTk4LU9JZXpTempFWjVzdEZ4ZlpJRFhuOWdkN1huSVRVdnZMaWRJbFlYLWdlZWFteGEzSGhBWXJlT0FYb1RHNE5wa2NxdzUwZWlnQVpGaE03Y19Da1AzM0U1?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "e34bef7395c5ae6711c3",
       "title": "熊本地震 「LPガスの可能性」 イオン爆発原因言及 経産省",
       "source": "毎日新聞",
@@ -2585,6 +2585,22 @@
       ]
     },
     {
+      "id": "da5ccda66b324df9f4b9",
+      "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T17:02:31Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVnAzN0RxdTk4LU9JZXpTempFWjVzdEZ4ZlpJRFhuOWdkN1huSVRVdnZMaWRJbFlYLWdlZWFteGEzSGhBWXJlT0FYb1RHNE5wa2NxdzUwZWlnQVpGaE03Y19Da1AzM0U1?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "c7cc91a72f11ac6a7f08",
       "title": "<2026年熊本地震>日本製紙とイオンに現地再建を要望 木村知事",
       "source": "熊本日日新聞",
@@ -2641,22 +2657,6 @@
       "published_at": "2026-08-05T09:09:14Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GSHItSElJdnNtOUlnWUZHcHNjb3NVNEpmRV9FV3I3QnlxOTAzREpvcTBnc0cybmhZYzBZRVFES2FXQ1NIZzljN0lYQTZPSC0zcDA2alF1MWlKaWc4Rm1v?oc=5",
       "first_seen": "2026-08-07T11:00:30Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
       ],
@@ -3006,6 +3006,22 @@
       "focus": [
         "原因・検証",
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -7765,7 +7781,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
