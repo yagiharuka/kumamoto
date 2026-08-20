@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T01:01:04Z",
-  "updated_at_jst": "2026/08/20 10:01 JST",
+  "updated_at": "2026-08-20T01:31:02Z",
+  "updated_at_jst": "2026/08/20 10:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1032,
+  "article_count": 1033,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "sankei": 170,
     "kumanichi": 153,
     "yomiuri": 145,
     "asahi": 122,
     "nikkei": 60,
     "mainichi": 130,
     "nhk": 82,
-    "sankei": 169,
     "jiji": 171
   },
   "tracked_categories": [
@@ -78,9 +78,25 @@
   "category_counts": {
     "aeon": 828,
     "power": 120,
-    "paper": 101
+    "paper": 102
   },
   "items": [
+    {
+      "id": "35e92c5d8892f9e2a336",
+      "title": "新聞用紙週内にも代替供給 王子など業界3社支援 熊本地震で日本製紙八代工場が操業停止",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T01:26:29Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SekZBTVJtMXcxV043TGotSDY4OEo5bGFKLVBNYWxhdnRuN0FxZjljWXk3VHpjRng5dUw2Q3Y2dm9GdFVWcnliOUMtNXppQk5kWEdlbU1QS1ZuSnRqSUdyWjFvMVZydjA5eTFHMGE4aTVZYXdkWlE?oc=5",
+      "first_seen": "2026-08-20T01:31:02Z",
+      "focus": [
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "479bc2e874a2a3cead4a",
       "title": "<2026年熊本地震>イオンモール熊本爆発、一時避難後「客も戻れた」 店舗従業員らが証言",
@@ -978,6 +994,22 @@
     },
     {
       "id": "c614a36787100877b5c8",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "first_seen": "2026-08-13T12:35:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c614a36787100877b5c8",
       "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
@@ -1001,22 +1033,6 @@
       "published_at": "2026-08-12T07:17:00Z",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUstMWtFMTBEUmxSc2hveEJLeEN6UWFLYVJLOTZxVlRZMlY5UzdSb0o0R0dveXpqX2pDWkRCMnBtLUNOMzAxLWFlT18zUlRXUTBSalJzZXAzanpNd2VrYk5QUFZMR0ZCTXBUTEpiekxIamU0QlVsZC1EQU9udmpmdg?oc=5",
       "first_seen": "2026-08-12T09:00:57Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
-      "first_seen": "2026-08-13T12:35:38Z",
       "focus": [
         "現場状況"
       ],
@@ -2393,6 +2409,22 @@
       ]
     },
     {
+      "id": "da5ccda66b324df9f4b9",
+      "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-06T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVnAzN0RxdTk4LU9JZXpTempFWjVzdEZ4ZlpJRFhuOWdkN1huSVRVdnZMaWRJbFlYLWdlZWFteGEzSGhBWXJlT0FYb1RHNE5wa2NxdzUwZWlnQVpGaE03Y19Da1AzM0U1?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "e34bef7395c5ae6711c3",
       "title": "熊本地震 「LPガスの可能性」 イオン爆発原因言及 経産省",
       "source": "毎日新聞",
@@ -2519,22 +2551,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "da5ccda66b324df9f4b9",
-      "title": "熊本地震 車中泊で災害関連死疑い 姉の命、暑さに奪われ 停電解消前日、ガソリン乏しく",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-05T17:02:31Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrVnAzN0RxdTk4LU9JZXpTempFWjVzdEZ4ZlpJRFhuOWdkN1huSVRVdnZMaWRJbFlYLWdlZWFteGEzSGhBWXJlT0FYb1RHNE5wa2NxdzUwZWlnQVpGaE03Y19Da1AzM0U1?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -12566,6 +12582,20 @@
       ]
     },
     {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "869d731b1d604f3af940",
       "title": "「真っ暗で煙吸った」 崩落のイオンモール、途絶えた彼女のLINE=公開停止 [熊本県]",
       "source": "朝日新聞",
@@ -16353,20 +16383,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sS3N0Y0hPZnZiMlB5em41U25iMkh6OUtkNVhJbjVBLWZ6Ni1jWERMMDhRTWEzU2Jvc2hpa183WVF1MXNzVXdmMEJzNUg1cWY5OXgySWxTdjJnQnRPaDJxYWpKcEtKcHRTTTRfc0V3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
