@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T20:30:50Z",
-  "updated_at_jst": "2026/08/21 05:30 JST",
+  "updated_at": "2026-08-20T21:00:48Z",
+  "updated_at_jst": "2026/08/21 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1052,
+  "article_count": 1053,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "mainichi": 133,
-    "yomiuri": 148,
+    "yomiuri": 149,
     "jiji": 174,
     "kumanichi": 158,
     "nhk": 85,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 841,
+    "aeon": 842,
     "power": 120,
     "paper": 108
   },
@@ -106,6 +106,22 @@
       "published_at": "2026-08-20T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQUlvT3JvU3NJODVicUxaSVVybHl6dWxNWTFXbmdCMUlrMFhHY0xhWHV5aGRJYVpDMkVjaWw2RnhRcE50RktzS3F1TUxuOU5fenJoYTFtek5IZDdjRzZMcktWYlJVTHc?oc=5",
       "first_seen": "2026-08-20T20:30:50Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "077c527ebaf9c8189cc5",
+      "title": "[社説]熊本イオン爆発 二次災害にどう備えるべきか",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93X0dYWFAxSEVmQkxjM0hJTVk2Z2JHNUtJRXJncDdveklCSW1jcFRyZGk3SUxzUkNwV2s4TE1icHlRNFk3WWZ6MVREcDA4dlAtbGJHMk9UR0FJaS1lTW9rZjA0bw?oc=5",
+      "first_seen": "2026-08-20T21:00:48Z",
       "focus": [
         "現場状況"
       ],
@@ -12869,7 +12885,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
