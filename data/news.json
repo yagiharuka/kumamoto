@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T10:30:35Z",
-  "updated_at_jst": "2026/08/20 19:30 JST",
+  "updated_at": "2026-08-20T11:00:36Z",
+  "updated_at_jst": "2026/08/20 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1047,
+  "article_count": 1048,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 157,
+    "kumanichi": 158,
     "nhk": 85,
     "asahi": 123,
     "mainichi": 131,
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 837,
     "power": 120,
-    "paper": 107
+    "paper": 108
   },
   "items": [
+    {
+      "id": "74d2642ad49a97b2f8ba",
+      "title": "<2026年熊本地震>先端破損の110メートル煙突、9月撤去へ 八代市の日本製紙八代工場",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-20T10:27:01Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OV2llRTExczNRZ2RCdzM3S3dGWlM5R3BycnFXVXlyVFBTVlprYy1BdjRUNjBKeHY2Y0VMV1ctQjNGWUJhMHBJckIyRjF0RW8?oc=5",
+      "first_seen": "2026-08-20T11:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "44ab2a2edd97d62ba597",
       "title": "<2026年熊本地震>学校再開後の心のケアを 嘉島町教委が教職員研修 イオン爆発さらにストレス",
@@ -103,7 +120,7 @@
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-20T09:03:54Z",
+      "published_at": "2026-08-20T09:03:00Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkZ4SDlJUXpZdnBpTE5VTkdPMDVkODdNTHVtUXExZmRmT1cyYllxQVJQdnhWeE1ndXcycmFYSzQwWE91Q0RxOGpONmVzVWQ4eUdibTc0V2JGNXhaTUZn?oc=5",
       "first_seen": "2026-08-20T09:30:34Z",
       "focus": [
@@ -1857,7 +1874,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlExV1ZzcExrWTNOQkpiN0dQclRpVDRreDBBRjBIZUhzaG5IWkRIUS1KMFRFV2Z6eHY3RlU3UUV1YmxDdFV5aE44YTNrUndId0JRWGJIZ0w3ems4YnVfcy1hOHptYWhxb09wdlBydmk2Z1RKSjdVdjZfOE1BMXpGM19R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
@@ -2848,6 +2865,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T09:05:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3189,22 +3222,6 @@
       "focus": [
         "原因・検証",
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -4110,7 +4127,7 @@
     },
     {
       "id": "aeddbba8e11ba200dce4",
-      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7",
+      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
@@ -13057,7 +13074,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlUX2RLaUVMLVY4WTM4ejZUY1NKczlYX29FSFdVRFh0MDFvRURFc3BDWkF3R3NVR0dHNUNnaVNsV1Y2WUtPXy1INTJXNXBRNGw2N2NRSGVvRGNtS0V1dGs0VklBbHlTd0NtSUZ5OWczYUNDUHc1cml5ZzhHY2E4ZEtR?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
@@ -13274,7 +13291,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45a2k5Y1ZId2ZfdURBV2l5YWdBbFpMdHdhTDhWUFY4WFdqQ0hPZkNpbGtBTU9QZnFVOE5qd0hsbnRyY2dkZ0tYcl9iTjdRRFBscTh3Yw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sS0NXdHh5STBWbUVPQjFXZlN2N2pyanVDcTAwSVJqdzRYZ2ptTmtNRU9KZnVKX0hpVVdQUDlmNHJTQ2ZibU5iMUloUEk3bGotbkpha0J5Qko3SGRKeUE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
