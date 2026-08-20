@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T21:00:48Z",
-  "updated_at_jst": "2026/08/21 06:00 JST",
+  "updated_at": "2026-08-20T21:30:49Z",
+  "updated_at_jst": "2026/08/21 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1053,
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
