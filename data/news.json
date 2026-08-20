@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T14:30:36Z",
-  "updated_at_jst": "2026/08/20 23:30 JST",
+  "updated_at": "2026-08-20T15:00:34Z",
+  "updated_at_jst": "2026/08/21 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1049,
@@ -4479,20 +4479,6 @@
       ]
     },
     {
-      "id": "2cd3c9df8d034d060e7d",
-      "title": "福岡市、熊本地震の支援職員が帰庁報告 イオン事故「経験ない現場」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T09:27:10Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWkhvUVR4VTdkMWx0UUl2SHpnaHB1WTJYY1lnNXJqVGxFMEEzc1lCaXNyeEVxX0ktNVdIakxDY1UyZW1rako5NzdvbzRCd1RITGNQTWxhQ0Z2VEtmdVUwQzJlUU91eXd2UTBkeQ?oc=5",
-      "first_seen": "2026-08-03T09:31:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "427e388011f1a19d1ec6",
       "title": "「イオンモール熊本」死亡した雑貨店の従業員、売上金を金庫に移すよう指示され館内に戻る...遺族に謝罪:写真",
       "source": "読売新聞",
@@ -4925,6 +4911,20 @@
         "避難状況",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2cd3c9df8d034d060e7d",
+      "title": "福岡市、熊本地震の支援職員が帰庁報告 イオン事故「経験ない現場」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWkhvUVR4VTdkMWx0UUl2SHpnaHB1WTJYY1lnNXJqVGxFMEEzc1lCaXNyeEVxX0ktNVdIakxDY1UyZW1rako5NzdvbzRCd1RITGNQTWxhQ0Z2VEtmdVUwQzJlUU91eXd2UTBkeQ?oc=5",
+      "first_seen": "2026-08-03T09:31:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
