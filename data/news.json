@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T23:31:10Z",
-  "updated_at_jst": "2026/08/20 08:31 JST",
+  "updated_at": "2026-08-20T00:01:01Z",
+  "updated_at_jst": "2026/08/20 09:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1032,
@@ -1336,22 +1336,6 @@
       ]
     },
     {
-      "id": "ddac5ed2326962d1c700",
-      "title": "<2026年熊本地震>爆発事故のイオンモール熊本 献花相次ぐ",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-11T08:27:12Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DWTctaTlBWkxNZE9Yc3VRckxFak14WnVlYUczc3pKVFdveHJNYXNJeFZUUWd3dWlyRW52N2MzM2hLZFVRcnA4VHkzQ2FrZWs?oc=5",
-      "first_seen": "2026-08-11T09:00:40Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "9d3b995ca526c0562d55",
       "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
       "source": "日本経済新聞",
@@ -1518,6 +1502,22 @@
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVOWp4OWQ1aUNXbXgtZUJJa09TdXRmRzZwS1BLRjFpNFlpRm02ZkFTSmZXREJTMWgtam4wS2pNVUhaVmcyWElIUm5XWEc1akVicU5zOTBKelZFQ0Z6TEdicWtHMTA4Y0FDdUppTHZONWM1QUE2a1E?oc=5",
       "first_seen": "2026-08-11T04:00:49Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ddac5ed2326962d1c700",
+      "title": "<2026年熊本地震>爆発事故のイオンモール熊本 献花相次ぐ",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DWTctaTlBWkxNZE9Yc3VRckxFak14WnVlYUczc3pKVFdveHJNYXNJeFZUUWd3dWlyRW52N2MzM2hLZFVRcnA4VHkzQ2FrZWs?oc=5",
+      "first_seen": "2026-08-11T09:00:40Z",
       "focus": [
         "現場状況"
       ],
