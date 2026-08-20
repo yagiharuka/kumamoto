@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T12:30:34Z",
-  "updated_at_jst": "2026/08/20 21:30 JST",
+  "updated_at": "2026-08-20T13:00:37Z",
+  "updated_at_jst": "2026/08/20 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1049,
@@ -426,24 +426,6 @@
       ]
     },
     {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T13:42:44Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVYtX0libzQ1c0FEWkdNaGFxWm5iRnVXMm9OMW4yZGNYbkpvazVmZ2pSY1NkT2lpV0JWcjVreEdJWjV2R0JpQ0owSFRKOGsxMmtIQ2RsZ1NlLXlsV3VsUVhtcnZVWC1LMWxnZ1BUWlp2bk1PQTZyNEdwUmxMSllDalpyVVF0bTc0UjJMTDd3?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "25ba772c1facd20e83ab",
       "title": "2026年熊本地震>設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
       "source": "熊本日日新聞",
@@ -577,24 +559,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "68c56fd1243b366c2fd2",
-      "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-17T02:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkNSY1hLNEgtVkpNUTRfRnl5QUEzWDlobkRtZHBhV3Y0WlB3cFRidkxydnlxX2lqU3RTV2tTRlZ5WGpPUmJZNkJWS0hvZ2czSTd3RTZnMmVaalF5ZGlpMy1JOExCOG9mdmFwc3phRjUxQ0l4WG1RejJqb0xzUHF1UXB0eU5hSFM3WXN1LUx3?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -4046,6 +4010,24 @@
       ]
     },
     {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SbG02UkFfTnpOdDlGMEZqaW9pek04V2NjTURhdXp0bFAyMjBjSzNEOGxuUmdjSXF0bXlLNmYyLW9PTVluZHJSUXpxeV9meTR3c3VwTGFsRVd2VVcyMGV0bjdjYUZGeERpMVJXNjFB?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "fd9e21435fd5c3e2fa5d",
       "title": "イオンモールでイベント中止次々 酷暑下の集客より爆発事故受け点検 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -5532,7 +5514,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-01T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40YXBxMmMwa1gwZGl5bzVMRFVBMVpoMFE5aTlPNC12TkdmS2t5NGxMeEIzVlNoSTVHcFRleDVNQ1VwTXp5Z0w1X21Ialp2VmFEd1RRcHIxcHpMZnpxVG1yUjFrWkE2NkllLUhFSmNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeGNreU9GZEM0aVpnSGZwQUR4WVRnZzdXTE1fWFY4TnBJYmdneTdVWGxmb1huaUYweTE4LW5SVmFiMm8tZUxuWGdQWk9pbEN3T2l3UzI1NmJmb3F4ZVFZQTg1b0g3WlFNdGtXVzNR?oc=5",
       "first_seen": "2026-08-10T00:30:41Z",
       "focus": [
         "救助・安否",
@@ -8882,7 +8864,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EXzg3TW5fTGN0OU80U3d2LW00aVF0WFZnWmVaSVhjSnlEdnVzcW9qSko3OGNoTWRXVENtay1Pc3o1dDlHTVdNZW5kcERqSGhpUTgxNl9oWG9MUzFQSHh6dV9zVnJNc1lldlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -8919,6 +8901,24 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQVlzbU8weVNIUTFaNC1rcHY4VGlwb29MVWFMbGFnMkhQalBxb2pwV3MtRlUyZ2pXSmdRN2pockFoYzdhUUpJR0FmMlk3UnppZWJzVHRwR21HLUFLMnhOMXBtSkpTOUE?oc=5",
       "first_seen": "2026-07-30T05:30:47Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "68c56fd1243b366c2fd2",
+      "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LU0E0UkpLaGdhWlN5NjFwdW5lSVVTbFNGWm8yYTA3V3psbHM4dXZaWERvTUF4emN2OWlINklwQk0wcGxCTk12cDFKQ0JGdlRfbGF3YUh2QzlUZTBY?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -12682,7 +12682,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2dhWVl3RWdNbnBaeUZNVFI2S2FvSmt3SEtJUjlRODhKclpFYXdnQ2dZNXBYTGhmT0dEckhiWDRSbFh0Rk9PLTg2bFZXQTR0RlBHNkF2cjZWX0ZabXNVbm9SRG1WV2Q5eGZaYXFBQnBFNVZZVjJqbzVJQ0M5OGNLb0hHS05FQ1cyS0h5MlF5YzE?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -12837,7 +12837,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
