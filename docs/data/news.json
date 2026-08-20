@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T03:30:29Z",
-  "updated_at_jst": "2026/08/20 12:30 JST",
+  "updated_at": "2026-08-20T04:00:30Z",
+  "updated_at_jst": "2026/08/20 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1035,
@@ -1383,22 +1383,6 @@
       ]
     },
     {
-      "id": "9d3b995ca526c0562d55",
-      "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T08:24:22Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRmFNYmFBRTdLaU1DWXExQlhNSW9pcS1VbERuX1MyV092YnR5OUVLc3pFRTVlZXgzYW9zOEpHY2lHVll5SjQtVDhrTEY3eGVDSnQ5a2lob3ZLMU1TTGk1RnVMeGxuNENvREMweA?oc=5",
-      "first_seen": "2026-08-11T08:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c49403c0423fb5a25c47",
       "title": "イオン、従業員に再入館許可=爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
@@ -1471,6 +1455,20 @@
       "published_at": "2026-08-11T07:17:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4328a51ec716e2569d83",
+      "title": "◎イオンモール熊本に献花次々=知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:16:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04djlpZDVUWmcyeV9jQjRITHVJV19BbHhabGdvVWFVQVVUckxqcDNNRVdBRUNaRGNQYmVOc3d5M1VtSmkzdE5qZjlCQmxaQnRjTEMwQg?oc=5",
+      "first_seen": "2026-08-16T10:30:43Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -1611,7 +1609,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOako1MFd5MFZOTzlfbGxTNkdTa1gzT0xPZVdickJlamhfNHMwNEFDTWR2bEFQb0pvdVZrQUVQeUtGSnFkVzExTnlUZFoxWUFJeGVicGJ2OTV5ZXFzaGNIYVY5MG02VFpMSzV5emR5clJzSTBHcWIzUzZYcWhqdUVPa0dn?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
       "focus": [
         "現場状況"
@@ -1669,15 +1667,33 @@
       ]
     },
     {
-      "id": "4328a51ec716e2569d83",
-      "title": "◎イオンモール熊本に献花次々=知事も追悼、熊本地震2週間",
+      "id": "c18f27277b30e43a30a7",
+      "title": "【速報】イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04djlpZDVUWmcyeV9jQjRITHVJV19BbHhabGdvVWFVQVVUckxqcDNNRVdBRUNaRGNQYmVOc3d5M1VtSmkzdE5qZjlCQmxaQnRjTEMwQg?oc=5",
-      "first_seen": "2026-08-16T10:30:43Z",
-      "focus": [],
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9d3b995ca526c0562d55",
+      "title": "熊本地震、イオンモール熊本で知事ら献花 爆発事故「胸が痛む」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRmFNYmFBRTdLaU1DWXExQlhNSW9pcS1VbERuX1MyV092YnR5OUVLc3pFRTVlZXgzYW9zOEpHY2lHVll5SjQtVDhrTEY3eGVDSnQ5a2lob3ZLMU1TTGk1RnVMeGxuNENvREMweA?oc=5",
+      "first_seen": "2026-08-11T08:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -1811,22 +1827,6 @@
       ]
     },
     {
-      "id": "c18f27277b30e43a30a7",
-      "title": "【速報】イオンは、イオンモール熊本の爆発事故で、レジ締めなどが必要な場合は再入館を認めていた事実があったと発表した",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T03:54:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05RWVaaVhHcldsaF9tdzMzbVVkX1djekZiSWtPV2Y3NDUydFpUNktsbEhNLTFRQzVnVFlGQmExM0J4ZzQwRXRsNF85MGF4a3p2SGVneHB5bzVXUVFDcGNDMzlxbXR5dw?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "508b89157ab6b89b13d8",
       "title": "イオンモール熊本で知事が献花 爆発で7人犠牲、経産省が原因を調査 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1939,6 +1939,22 @@
       ]
     },
     {
+      "id": "eb910bebd824a38f72b0",
+      "title": "【熊本地震】イオンモール爆発の法的責任は 専門家「危険認識、対策怠れば刑事罰も」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSnlKaldqMjJTeGwzMWhmQ2VQWEhCb1pDZVQ1OUE3OTc0ZmhtYkR1Y04zTDZJUERucVYzd01DWDFTWnI5bzBUYlJfc2JFeUNETkh0VV9taXA3T3ZWLXBWNHJiR2NtOWtaUGxPOQ?oc=5",
+      "first_seen": "2026-08-10T00:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "fbc7e53ec19c954eb758",
       "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
       "source": "時事通信",
@@ -1980,22 +1996,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hV0NvNm9NRGVMUFIwNGw0WnVFakNkeWZoVDFCUlJvTFZvbml0T0NSSTVIcVBsdHNudEJsb2FtV0xlZ0Qya3R2aEtVSXdud3VGTkFwQkUzaGxJcktQNTdN?oc=5",
       "first_seen": "2026-08-10T21:30:42Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "eb910bebd824a38f72b0",
-      "title": "イオン爆発の法的責任は 専門家「危険認識、対策怠れば刑事罰も」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-09T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSnlKaldqMjJTeGwzMWhmQ2VQWEhCb1pDZVQ1OUE3OTc0ZmhtYkR1Y04zTDZJUERucVYzd01DWDFTWnI5bzBUYlJfc2JFeUNETkh0VV9taXA3T3ZWLXBWNHJiR2NtOWtaUGxPOQ?oc=5",
-      "first_seen": "2026-08-10T00:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -6428,7 +6428,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdDgxX0MtT1pBRnpseGpTWnBsUk1NdE9CcmM5THpZdnMxeWgzdy10d05SLW56UXRpQTAtQjI5Vkxac3NGVkxQbXRwdFQ5LWVQMHJldHlsY3ljTEw5eWM4RkRoWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yclRKUFFwSGNaMWpfUHViUXBTRzJIdGotcC1CUV9IVnJMbkI0amY2Xy1YLWEtX1RZcEhFOGF2UWlBeHZTYmFUby03blJiUG5RdVA2aFhvNlFNcE5SRkpuQm5Ebw?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
