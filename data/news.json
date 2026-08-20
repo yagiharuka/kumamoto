@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-20T17:00:33Z",
-  "updated_at_jst": "2026/08/21 02:00 JST",
+  "updated_at": "2026-08-20T18:00:08Z",
+  "updated_at_jst": "2026/08/21 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1049,
+  "article_count": 1050,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -55,7 +55,7 @@
     "asahi": 123,
     "mainichi": 132,
     "sankei": 171,
-    "yomiuri": 146,
+    "yomiuri": 147,
     "nikkei": 60
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 838,
+    "aeon": 839,
     "power": 120,
     "paper": 108
   },
@@ -7997,7 +7997,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
@@ -15652,6 +15652,24 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HVEpMRXNOSzlkb0pCSUowanNWMXBQdEFlRXpBbzJpUmp1MXB2eUlXTjE5NWdSZWYtYXpNZHhJTGNDT1k3MUpWekgxTklDY2c5eVZLODJrY3B0UElGU1JCQ3NLUkRkVEg3SW9r?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "108beb834d195bad5b0b",
+      "title": "イオンモール熊本で爆発、2階部分が崩落し10人安否不明...従業員が客の避難誘導をして戻った後に爆発か:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrM1gtX2NDTk5IT1JNUW8yUWhwVkFHY041S25WQjZONEkxVk9iZFdjaDg0V3A5RVZmTEstVFN0OW84R0c3T1BwVjBlblFCbkVWQVN3RHhsZDBPN3hTdGNyUllDRlM3bkZaUEE?oc=5",
+      "first_seen": "2026-08-20T18:00:08Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
