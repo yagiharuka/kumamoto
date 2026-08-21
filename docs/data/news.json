@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T08:01:01Z",
-  "updated_at_jst": "2026/08/21 17:01 JST",
+  "updated_at": "2026-08-21T08:31:01Z",
+  "updated_at_jst": "2026/08/21 17:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1057,
@@ -936,6 +936,22 @@
       ]
     },
     {
+      "id": "2a1fd4674688aeec0a52",
+      "title": "イオンモール熊本の爆発事故、30年以上同居する妹が犠牲「海外留学中でいないだけ」...思い込もうとする兄",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
+      "first_seen": "2026-08-13T06:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "239e3413c7921d9550f8",
       "title": "イオンモール熊本の再入館許可、識者「施設に残った私物への対応など検討し実践的なマニュアルの整備が必要」",
       "source": "読売新聞",
@@ -945,6 +961,22 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qU05JX0EtWTVONjJNWmZJMGFTYXQ3OFdDQTgzNl9wY0VlSzhmS1JJdmw2dEgxNWQ4TmlDRTlWdURid180QTM5WHI0RHpHOWhmODVZT1REWXc1NlZYYk1FeE5CQ3pibTB2SlR2Vk95WXFRQQ?oc=5",
       "first_seen": "2026-08-13T07:00:56Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b3d5725f951798ffd8ae",
+      "title": "「イオンモール熊本」爆発事故、再入館を認めたイオンが遺族に補償方針「法的責任の解明を待たず対応する」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTGxxWkhnbzRKQkJEbGxDaWU0ZUUxUnVwZVY4T2U0LTU2MXZJaHJha2NfdjhxUU8zR0g3djRPSGFoQTFFdFlYZzRnN0hrOG1ZZDlVWHNvQnBkWC0xZml4NEtxTVR0TE1JNHRZX2FFQXc2Zw?oc=5",
+      "first_seen": "2026-08-13T01:01:06Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -966,22 +998,6 @@
       ]
     },
     {
-      "id": "2a1fd4674688aeec0a52",
-      "title": "イオンモール熊本の爆発事故、30年以上同居する妹が犠牲「海外留学中でいないだけ」...思い込もうとする兄",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-13T06:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
-      "first_seen": "2026-08-13T06:31:06Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4aba69f924c81e914d24",
       "title": "イオンモール爆発、地震直後「片付けして帰らないと」と伝えてきた責任感強い妹...真相解明求め遺影に誓い",
       "source": "読売新聞",
@@ -990,22 +1006,6 @@
       "published_at": "2026-08-13T05:30:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95LTBoSFdqRlV1RWlJczZrRy11UjNub0pQa1A5V1EtUkQ1MWRMYzNVUzVTaXFId3JyWUk0MkFLNkNuMkZ0bnAtVmxfUkdQbzMtMEJ0TXpFSDBUQ3hiY0pTQjg4X0tGdw?oc=5",
       "first_seen": "2026-08-13T10:00:58Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b3d5725f951798ffd8ae",
-      "title": "「イオンモール熊本」爆発事故、再入館を認めたイオンが遺族に補償方針「法的責任の解明を待たず対応する」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-13T00:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTGxxWkhnbzRKQkJEbGxDaWU0ZUUxUnVwZVY4T2U0LTU2MXZJaHJha2NfdjhxUU8zR0g3djRPSGFoQTFFdFlYZzRnN0hrOG1ZZDlVWHNvQnBkWC0xZml4NEtxTVR0TE1JNHRZX2FFQXc2Zw?oc=5",
-      "first_seen": "2026-08-13T01:01:06Z",
       "focus": [
         "現場状況"
       ],
@@ -15845,7 +15845,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UWpCRzRabktRRUhOUzVaRGRoc2NvOVlPQWJLM3liWVFmUGc2THBsSTZXUHdmcmxpUTNHLU5XRUlEeEI4cmlCbk1sWWlFNkpaMHllbnI3cVJHd3ZkeUdMdVM1VWYya1g4dnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMWMxLVJKZFBSM25MNmVtdkV0anFwX3pvS3lqdGZOMTlESEkxZmNyazVmeUJ2akE2WkZuajkxb0dXdGN6VGlkcHhUaS1QY3EwSjVIVlJHeEJMZHZnSVhZWnJPV3YyaGYwUkE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
