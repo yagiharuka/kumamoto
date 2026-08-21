@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T21:00:15Z",
-  "updated_at_jst": "2026/08/22 06:00 JST",
+  "updated_at": "2026-08-21T21:30:18Z",
+  "updated_at_jst": "2026/08/22 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1059,
@@ -10739,6 +10739,24 @@
       ]
     },
     {
+      "id": "94c31a8c7c447cbbe567",
+      "title": "熊本県で震度7、爆発したイオンモール熊本で2人死亡・1人心肺停止...日本製紙八代工場では2人心肺停止:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTjFYY2Uxbk9fQW5DeEdXTVpwcWlVeGJNd1VCSEhtRWUyamt5SVQ2Y1BvNnBjNmFnTW1MTkQzRHdBdGRVWVkydWp5VmZ0VXJERU1GSHJCLWE2UWtKeld6YndHUkNGNUpEX0E?oc=5",
+      "first_seen": "2026-08-02T11:30:18Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon",
+        "paper"
+      ]
+    },
+    {
       "id": "299ac2b4fcdbd8e2d399",
       "title": "熊本県で震度7、爆発したイオンモール熊本で2人死亡・1人心肺停止...日本製紙八代工場では2人心肺停止",
       "source": "読売新聞",
@@ -13874,24 +13892,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "94c31a8c7c447cbbe567",
-      "title": "熊本県で震度7、爆発したイオンモール熊本で2人死亡・1人心肺停止...日本製紙八代工場では2人心肺停止:写真",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T06:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZ1NkXzFuZzhSZDY0ZG5qZzl3SWtaT3U4SXR2cC1KOHJZcVpCcTQzNWxIanpmSEN0ZWV1SmFrbFlzdExXQnNsVTltcExhUEQ5OTZQZDJHYkFCSF9GSVh2d2NKN0VwZzhHdmc?oc=5",
-      "first_seen": "2026-08-02T11:30:18Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon",
-        "paper"
       ]
     },
     {
