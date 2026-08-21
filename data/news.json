@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T07:00:57Z",
-  "updated_at_jst": "2026/08/21 16:00 JST",
+  "updated_at": "2026-08-21T07:30:58Z",
+  "updated_at_jst": "2026/08/21 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1057,
@@ -941,7 +941,7 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-13T06:33:00Z",
+      "published_at": "2026-08-13T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qU05JX0EtWTVONjJNWmZJMGFTYXQ3OFdDQTgzNl9wY0VlSzhmS1JJdmw2dEgxNWQ4TmlDRTlWdURid180QTM5WHI0RHpHOWhmODVZT1REWXc1NlZYYk1FeE5CQ3pibTB2SlR2Vk95WXFRQQ?oc=5",
       "first_seen": "2026-08-13T07:00:56Z",
       "focus": [],
@@ -2961,6 +2961,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T09:05:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3302,22 +3318,6 @@
       "focus": [
         "原因・検証",
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -9024,7 +9024,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lazd3UHR6LTJpOFQ0eXdKOFdZS2dURGJIZmV6N1BRaHdWVXVBbWg5UnNYM0xYUU55NzQ0Skt3ajFjWEthMEcyMWRPM2NpSTcyVmgzLUY4RUk0SGUtRDJtSS10UXBycGxFX0E?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
