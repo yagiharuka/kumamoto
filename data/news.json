@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T09:30:58Z",
-  "updated_at_jst": "2026/08/21 18:30 JST",
+  "updated_at": "2026-08-21T10:01:01Z",
+  "updated_at_jst": "2026/08/21 19:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1057,
@@ -936,6 +936,22 @@
       ]
     },
     {
+      "id": "955912260055f8f3836c",
+      "title": "イオンモール熊本の爆発事故、再入館を許可したイオン側「個人ではなく全て会社の責任」...遺族「誠意が見えた」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IMW42UWN2VFZiSHZRUGxEbzAtRUxLTUtNLS13czVCWnF2dDJJZHFRUU1xU3QzRU43WnE1SUl2Z1NiX2tXVlZ4ejhMU0hFN1kzVEVDcXJwSHQ2TVJ4cE8yQ2JTQVBtTGFSYXdDMVNpUDRUZw?oc=5",
+      "first_seen": "2026-08-13T06:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "239e3413c7921d9550f8",
       "title": "イオンモール熊本の再入館許可、識者「施設に残った私物への対応など検討し実践的なマニュアルの整備が必要」",
       "source": "読売新聞",
@@ -958,22 +974,6 @@
       "published_at": "2026-08-13T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTGxxWkhnbzRKQkJEbGxDaWU0ZUUxUnVwZVY4T2U0LTU2MXZJaHJha2NfdjhxUU8zR0g3djRPSGFoQTFFdFlYZzRnN0hrOG1ZZDlVWHNvQnBkWC0xZml4NEtxTVR0TE1JNHRZX2FFQXc2Zw?oc=5",
       "first_seen": "2026-08-13T01:01:06Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "955912260055f8f3836c",
-      "title": "イオンモール熊本の爆発事故、再入館を許可したイオン側「個人ではなく全て会社の責任」...遺族「誠意が見えた」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-13T06:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IMW42UWN2VFZiSHZRUGxEbzAtRUxLTUtNLS13czVCWnF2dDJJZHFRUU1xU3QzRU43WnE1SUl2Z1NiX2tXVlZ4ejhMU0hFN1kzVEVDcXJwSHQ2TVJ4cE8yQ2JTQVBtTGFSYXdDMVNpUDRUZw?oc=5",
-      "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
       ],
@@ -1164,6 +1164,22 @@
       ]
     },
     {
+      "id": "84ef70b802d3d0988843",
+      "title": "イオンモール熊本爆発で2人犠牲「ハビタ」、遺族への「補償を模索」 第三者委も「検討」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T09:10:56Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55anVZcHdWT25oZHl0RzVHcE5Tb3dQRmdOdDdJR0c1YjJGX0hmWjdNNl9UYkdWM0dGNFlmb19vZWRZRVRoSVNsWGdUUW9XMEw0Z0pjUzVyMnUwVm1qbTVfbXZXcENRaTh0R3B4S3hZVkxzOGVrNmc?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "58c8e6eed960656a762c",
       "title": "妹亡くした男性「事実知りたい」 イオン爆発、再入館巡り情報錯綜(共同通信)",
       "source": "熊本日日新聞",
@@ -1190,22 +1206,6 @@
       "first_seen": "2026-08-14T16:30:41Z",
       "focus": [
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "ae697571b2227d02d20c",
-      "title": "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-12T07:58:50Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieW1LeTJhWUgyNHhIUjdxSVZWYm9kUXFqWUtVUmhmUks1LWl2WkRGVGhESTlYTEhnOGZlcVI5WXg1ckdfd29wdE9oV29ud2NVTVN5dzV5SmFVY3VXNlFz?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -1281,22 +1281,6 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRmxPV3JaR2dRRG1VMVZiODZPNkttNnRwOUdPanJhckhsNlJXMGlNdHJxZnN4WVl0UTBLQkg5MC10amMwc2ZYZ0t0VE1nbmIzWnRtZG1LV0FxX0hXVUFpSHY2RTdTX1pKQjduN3N3eUh5Zw?oc=5",
       "first_seen": "2026-08-12T05:30:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "84ef70b802d3d0988843",
-      "title": "イオンモール熊本爆発で2人犠牲「ハビタ」、遺族への「補償を模索」 第三者委も「検討」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55anVZcHdWT25oZHl0RzVHcE5Tb3dQRmdOdDdJR0c1YjJGX0hmWjdNNl9UYkdWM0dGNFlmb19vZWRZRVRoSVNsWGdUUW9XMEw0Z0pjUzVyMnUwVm1qbTVfbXZXcENRaTh0R3B4S3hZVkxzOGVrNmc?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
       "focus": [
         "現場状況"
       ],
@@ -1438,6 +1422,22 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dTBDMl83UC1aWlNoNjFnTTB4amhRSEgzXzEzTHllenlpOFk0REs3dTJZUVNhQUNRN3RYMzgyb1lXR2drZEttREVQTGVVRFNwMEZwN2RoR0FCNmdzNi1rYllNVmJKZw?oc=5",
       "first_seen": "2026-08-12T04:00:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ae697571b2227d02d20c",
+      "title": "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieW1LeTJhWUgyNHhIUjdxSVZWYm9kUXFqWUtVUmhmUks1LWl2WkRGVGhESTlYTEhnOGZlcVI5WXg1ckdfd29wdE9oV29ud2NVTVN5dzV5SmFVY3VXNlFz?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
       "focus": [
         "現場状況"
       ],
@@ -2961,22 +2961,6 @@
       ]
     },
     {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3318,6 +3302,22 @@
       "focus": [
         "原因・検証",
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
         "現場状況"
       ],
       "category_ids": [
