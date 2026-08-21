@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T10:30:58Z",
-  "updated_at_jst": "2026/08/21 19:30 JST",
+  "updated_at": "2026-08-21T11:00:59Z",
+  "updated_at_jst": "2026/08/21 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1057,
@@ -2961,22 +2961,6 @@
       ]
     },
     {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T09:05:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3325,6 +3309,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f505ca27dcb78843a794",
       "title": "イオン、爆発事故で調査委設置 店員再入館「重く受け止め」―熊本地震:時事ドットコム",
       "source": "時事通信",
@@ -3652,23 +3652,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnFrUW9JRERzQWFDalMxM1pfTUFRWFF4WWlTbnFyVS1ZNEpacDU1U1FkVmltbl9uVTJZMlpOU3F0d2podm5jV2NLUHdyV3JmOFRJeWc5d0w1b2dSOEdudWxFQnpMYk9nOWZ2RUNscXRKSVZWSXlGc0g0NzNuVWdHRUVjSE5fRmJYbkpESzA4OXNIU25reEZJODkwTzhYSWxMaHc?oc=5",
       "first_seen": "2026-08-05T03:00:40Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b6c0cb454774e4785888",
-      "title": "「あなたがいたから笑い楽しめた」色紙 熊本・爆発イオン、訪れた人が女性従業員ら追悼",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T09:24:44Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BOXJmbVVnNlBBUXpHbVAzT1dyd2RYY1NWZXpSUHRQRzVBb0RweUo2U3NqZTJ4eDcyZktzS01MSnpKNzlJMUVyR2pBXy1YalRlc244UUpObEdJZGlqQWZMX1JTWlhEcGVsS1dSVGtyMjlGOU1fWFE?oc=5",
-      "first_seen": "2026-08-04T11:01:04Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -4019,6 +4002,23 @@
       ]
     },
     {
+      "id": "b6c0cb454774e4785888",
+      "title": "「あなたがいたから笑い楽しめた」色紙 熊本・爆発イオン、訪れた人が女性従業員ら追悼",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BOXJmbVVnNlBBUXpHbVAzT1dyd2RYY1NWZXpSUHRQRzVBb0RweUo2U3NqZTJ4eDcyZktzS01MSnpKNzlJMUVyR2pBXy1YalRlc244UUpObEdJZGlqQWZMX1JTWlhEcGVsS1dSVGtyMjlGOU1fWFE?oc=5",
+      "first_seen": "2026-08-04T11:01:04Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "0bdcbfec3de99cbb3a6d",
       "title": "<2026年熊本地震>イオンモール熊本の「水春」再開 「足伸ばして安らいで」 被災者は無料で入浴可",
       "source": "熊本日日新聞",
@@ -4223,7 +4223,7 @@
     },
     {
       "id": "aeddbba8e11ba200dce4",
-      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7:時事ドットコム",
+      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
