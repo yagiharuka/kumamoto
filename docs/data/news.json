@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T23:00:15Z",
-  "updated_at_jst": "2026/08/22 08:00 JST",
+  "updated_at": "2026-08-21T23:30:15Z",
+  "updated_at_jst": "2026/08/22 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1060,
+  "article_count": 1061,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,12 +50,12 @@
   ],
   "source_counts": {
     "kumanichi": 159,
+    "asahi": 124,
     "nhk": 87,
     "yomiuri": 152,
     "mainichi": 133,
     "nikkei": 61,
     "jiji": 174,
-    "asahi": 123,
     "sankei": 171
   },
   "tracked_categories": [
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 846,
     "power": 122,
-    "paper": 109
+    "paper": 110
   },
   "items": [
     {
@@ -95,6 +95,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "144b65e5e43c2000d878",
+      "title": "煙突の撤去始まる 日本製紙",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nRy1nQ2wzSGl1cmh6WUsyb1hWZERpSXBpUDRuV1BSVjVsTDUzbk50N1hCaUJIX0JFbUN0QU44NDRWZVZlQjNBVWEySDlEWExhclpCWF9NNjNLNURX?oc=5",
+      "first_seen": "2026-08-21T23:30:15Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
