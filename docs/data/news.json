@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T01:00:51Z",
-  "updated_at_jst": "2026/08/21 10:00 JST",
+  "updated_at": "2026-08-21T01:30:47Z",
+  "updated_at_jst": "2026/08/21 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1053,
+  "article_count": 1054,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 150,
     "mainichi": 133,
-    "yomiuri": 149,
     "jiji": 174,
     "kumanichi": 158,
     "nhk": 85,
@@ -76,11 +76,29 @@
     }
   ],
   "category_counts": {
-    "aeon": 842,
+    "aeon": 843,
     "power": 120,
     "paper": 108
   },
   "items": [
+    {
+      "id": "193f7f044670cc240808",
+      "title": "イオンモール熊本の爆発事故、イオンが事故調査委員会を発足...外部専門家で避難誘導マニュアルや運用を検証",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T01:14:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uLVg4YzQwcVhTUVVRdHdBM2h6VW9kc1htbzNuZHBoNGQ3a3I3WTYtcjRfTkFQMTBKN2Y5R2NqZ216dlJNSVhRcWZUSlhqaFpVbnFPSTFxbVV1REg0X052bkw5UEVKTVFfS1dSSV95SERSdw?oc=5",
+      "first_seen": "2026-08-21T01:30:47Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "ff7e9b97896f3e44458d",
       "title": "熊本地震 イオン爆発事故 外部調査委発足",
@@ -1900,13 +1918,13 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -1922,8 +1940,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS21xQklBcHBUT1VyRlU1S3JIcEVfYmpVbzAxMkNqZl9fM29ySkU5SnphYUZjX0VqNzJ6NmstbVN5Yy12T2psUGlKdFNicnVMMHVuUnl1QTR0aG5pQmJEd01ET2h5OHJiZWc3cmNrRHd4aXV5alpJWGQ2RU9CblRJTDl3?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -8061,7 +8079,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
