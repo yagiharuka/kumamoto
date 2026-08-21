@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T10:01:01Z",
-  "updated_at_jst": "2026/08/21 19:01 JST",
+  "updated_at": "2026-08-21T10:30:58Z",
+  "updated_at_jst": "2026/08/21 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1057,
@@ -1164,22 +1164,6 @@
       ]
     },
     {
-      "id": "84ef70b802d3d0988843",
-      "title": "イオンモール熊本爆発で2人犠牲「ハビタ」、遺族への「補償を模索」 第三者委も「検討」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T09:10:56Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55anVZcHdWT25oZHl0RzVHcE5Tb3dQRmdOdDdJR0c1YjJGX0hmWjdNNl9UYkdWM0dGNFlmb19vZWRZRVRoSVNsWGdUUW9XMEw0Z0pjUzVyMnUwVm1qbTVfbXZXcENRaTh0R3B4S3hZVkxzOGVrNmc?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "58c8e6eed960656a762c",
       "title": "妹亡くした男性「事実知りたい」 イオン爆発、再入館巡り情報錯綜(共同通信)",
       "source": "熊本日日新聞",
@@ -1281,6 +1265,22 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRmxPV3JaR2dRRG1VMVZiODZPNkttNnRwOUdPanJhckhsNlJXMGlNdHJxZnN4WVl0UTBLQkg5MC10amMwc2ZYZ0t0VE1nbmIzWnRtZG1LV0FxX0hXVUFpSHY2RTdTX1pKQjduN3N3eUh5Zw?oc=5",
       "first_seen": "2026-08-12T05:30:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "84ef70b802d3d0988843",
+      "title": "イオンモール熊本爆発で2人犠牲「ハビタ」、遺族への「補償を模索」 第三者委も「検討」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55anVZcHdWT25oZHl0RzVHcE5Tb3dQRmdOdDdJR0c1YjJGX0hmWjdNNl9UYkdWM0dGNFlmb19vZWRZRVRoSVNsWGdUUW9XMEw0Z0pjUzVyMnUwVm1qbTVfbXZXcENRaTh0R3B4S3hZVkxzOGVrNmc?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
       "focus": [
         "現場状況"
       ],
@@ -2961,6 +2961,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T09:05:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3302,22 +3318,6 @@
       "focus": [
         "原因・検証",
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
