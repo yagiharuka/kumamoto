@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T14:30:56Z",
-  "updated_at_jst": "2026/08/21 23:30 JST",
+  "updated_at": "2026-08-21T15:01:00Z",
+  "updated_at_jst": "2026/08/22 00:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1057,
+  "article_count": 1058,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "nhk": 86,
+    "nhk": 87,
     "yomiuri": 151,
     "mainichi": 133,
     "nikkei": 61,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 845,
+    "aeon": 846,
     "power": 120,
     "paper": 109
   },
   "items": [
+    {
+      "id": "a0d41f3f0c18d6b265cf",
+      "title": "「イオンモール熊本」 ガス会社が報告 “配管損傷し漏えい”",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-21T09:24:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LY3c4OWQ2Ty13ZWxGSDdESXVxc3E1V0N6bnNVa1NmM2dVcW81alByaG8xczRhazRSTXpsbVNxYXJnb2wxczZ2SUdaS0ZKTnc0T3dHeFBCX0c?oc=5",
+      "first_seen": "2026-08-21T15:01:00Z",
+      "focus": [
+        "原因・検証"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "834c20a3989c20a2b435",
       "title": "木原官房長官 熊本の被災地訪問 イオンモールなど被害状況確認",
@@ -13437,7 +13453,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sS0NXdHh5STBWbUVPQjFXZlN2N2pyanVDcTAwSVJqdzRYZ2ptTmtNRU9KZnVKX0hpVVdQUDlmNHJTQ2ZibU5iMUloUEk3bGotbkpha0J5Qko3SGRKeUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45a2k5Y1ZId2ZfdURBV2l5YWdBbFpMdHdhTDhWUFY4WFdqQ0hPZkNpbGtBTU9QZnFVOE5qd0hsbnRyY2dkZ0tYcl9iTjdRRFBscTh3Yw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
