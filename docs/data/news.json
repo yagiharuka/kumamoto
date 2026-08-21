@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T19:31:00Z",
-  "updated_at_jst": "2026/08/22 04:31 JST",
+  "updated_at": "2026-08-21T20:00:15Z",
+  "updated_at_jst": "2026/08/22 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1058,
@@ -8985,6 +8985,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -9246,7 +9263,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
@@ -12659,23 +12676,6 @@
       ]
     },
     {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "673c2ab5cb60a17fe211",
       "title": "爆発・崩落のイオンモール熊本で2人死亡、1人心肺停止 県が発表",
       "source": "朝日新聞",
@@ -15730,7 +15730,7 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-07-28T08:05:00Z",
+      "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMEcxOTNmZXhMVUxmSmZJWFBKR2xpYnRoN1RQc2JGOFVFRXpIMzAwakpfMENxS080dl8zVHdxR2F4Wk85U1pUQl9hZ0IzZkdxV0h2S3pBSGN3YWNjdDlOODNuakVpQQ?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
