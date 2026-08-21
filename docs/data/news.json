@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T13:30:57Z",
-  "updated_at_jst": "2026/08/21 22:30 JST",
+  "updated_at": "2026-08-21T14:00:59Z",
+  "updated_at_jst": "2026/08/21 23:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1057,
@@ -2961,6 +2961,22 @@
       ]
     },
     {
+      "id": "a2cfa27107c089a2b6a8",
+      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T09:05:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbE5XR2pOWUgwM0Z3dG0tel8tSGVobGpxLVg2OUVnTDRxbmpwQ3VZN0xtVGZYZGJnLVBLVl9Vc1VqODkwSU9GQUFJNkVRQ3J0Q2xPczF0aV9OQVAycHc?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2b56244f321e6f2dbcf5",
       "title": "イオン爆発、LPガスの可能性高いと経産省 (共同通信)",
       "source": "熊本日日新聞",
@@ -3302,22 +3318,6 @@
       "focus": [
         "原因・検証",
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a2cfa27107c089a2b6a8",
-      "title": "イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EUkl6R3J2NEh3ak9jMG90NG9jRy11ZWhaSnQ0VVg1Rlh1b0JrZThrUTBlcWl1WG9qd0VoVHJDZlFkcEpmejRpSlZGODJwcTVZUXlRTm5nR3owOGpmbHc?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -6756,7 +6756,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaS1lT1doTW1nRVhHelF6RjU4ZWE0WTNHOTVWSkh6M0laY1B1c0wzS2lwTDVTUXVicE85bzdscnNvR09uRG45aW8wTUV2cGpGOUIweGM2UG9aZTluamFDUXA2VXJQamtKVURCX3R6QmFMb192MXR0YUN3bUdSYnlZYg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yclRKUFFwSGNaMWpfUHViUXBTRzJIdGotcC1CUV9IVnJMbkI0amY2Xy1YLWEtX1RZcEhFOGF2UWlBeHZTYmFUby03blJiUG5RdVA2aFhvNlFNcE5SRkpuQm5Ebw?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
