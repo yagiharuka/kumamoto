@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-21T03:30:58Z",
-  "updated_at_jst": "2026/08/21 12:30 JST",
+  "updated_at": "2026-08-21T04:00:58Z",
+  "updated_at_jst": "2026/08/21 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1056,
@@ -339,7 +339,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
@@ -677,24 +677,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "68c56fd1243b366c2fd2",
-      "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-17T02:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkNSY1hLNEgtVkpNUTRfRnl5QUEzWDlobkRtZHBhV3Y0WlB3cFRidkxydnlxX2lqU3RTV2tTRlZ5WGpPUmJZNkJWS0hvZ2czSTd3RTZnMmVaalF5ZGlpMy1JOExCOG9mdmFwc3phRjUxQ0l4WG1RejJqb0xzUHF1UXB0eU5hSFM3WXN1LUx3?oc=5",
-      "first_seen": "2026-07-29T20:30:10Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -1434,22 +1416,6 @@
       ]
     },
     {
-      "id": "106d38c3dd363c1b4ad9",
-      "title": "【速報】イオンは、イオンモール熊本の爆発事故の遺族に補償を行う意向を明らかにした",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dTBDMl83UC1aWlNoNjFnTTB4amhRSEgzXzEzTHllenlpOFk0REs3dTJZUVNhQUNRN3RYMzgyb1lXR2drZEttREVQTGVVRFNwMEZwN2RoR0FCNmdzNi1rYllNVmJKZw?oc=5",
-      "first_seen": "2026-08-12T04:00:52Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2427761c6a9e1dbee94a",
       "title": "ハビタ、第三者委員会設置を検討 イオンモール熊本爆発で2人死亡(共同通信)",
       "source": "熊本日日新聞",
@@ -1594,6 +1560,22 @@
       "published_at": "2026-08-12T03:38:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WERrT0NFVnpNbGZYM0VzWnhoeEU4X1JudVFYajc1Wnk0RUI4aGxuVlJjYmVkTmFwWGNyQWRMSDR0U0FLTTdYeGxYRHRuTEtDOGhPaFJLN3RyeXQ2WThJNmw0aw?oc=5",
       "first_seen": "2026-08-12T18:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "106d38c3dd363c1b4ad9",
+      "title": "【速報】イオンは、イオンモール熊本の爆発事故の遺族に補償を行う意向を明らかにした",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T03:25:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dTBDMl83UC1aWlNoNjFnTTB4amhRSEgzXzEzTHllenlpOFk0REs3dTJZUVNhQUNRN3RYMzgyb1lXR2drZEttREVQTGVVRFNwMEZwN2RoR0FCNmdzNi1rYllNVmJKZw?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
       "focus": [
         "現場状況"
       ],
@@ -9035,6 +9017,24 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQVlzbU8weVNIUTFaNC1rcHY4VGlwb29MVWFMbGFnMkhQalBxb2pwV3MtRlUyZ2pXSmdRN2pockFoYzdhUUpJR0FmMlk3UnppZWJzVHRwR21HLUFLMnhOMXBtSkpTOUE?oc=5",
       "first_seen": "2026-07-30T05:30:47Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "68c56fd1243b366c2fd2",
+      "title": "(時時刻刻)イオン爆発、壁ごと破壊 客3千人避難後、社長「ガス漏れの可能性高い」 熊本",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LU0E0UkpLaGdhWlN5NjFwdW5lSVVTbFNGWm8yYTA3V3psbHM4dXZaWERvTUF4emN2OWlINklwQk0wcGxCTk12cDFKQ0JGdlRfbGF3YUh2QzlUZTBY?oc=5",
+      "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
