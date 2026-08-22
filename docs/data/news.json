@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T09:00:14Z",
-  "updated_at_jst": "2026/08/22 18:00 JST",
+  "updated_at": "2026-08-22T09:30:18Z",
+  "updated_at_jst": "2026/08/22 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1062,
@@ -13612,24 +13612,6 @@
       ]
     },
     {
-      "id": "3588e0330a3a290684fb",
-      "title": "熊本県で震度7 イオンモール熊本の爆発はガス漏れか、10人安否不明",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTnZ4MmI0VXQ0STZsVUhXalNLSlVDZHpTQzN2WTQzRW12SG91blFEQ0tKcTA1S2Z0c052c2VzRkJ5YndyekYwRExqMUE1YXlwQy02MjVFVzc0RGxqTGwyNE9vRzZlSWFDUGs2eg?oc=5",
-      "first_seen": "2026-07-28T13:50:41Z",
-      "focus": [
-        "原因・検証",
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ac14b0048f69edfaa128",
       "title": "熊本地震で12人死亡6人心肺停止 イオンモールで3人死亡",
       "source": "日本経済新聞",
@@ -16214,22 +16196,6 @@
       ]
     },
     {
-      "id": "4adf1318b2a99acd1e9b",
-      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "82e76c3e27ae0a3533c6",
       "title": "イオンモール熊本で爆発か 閉じ込め多数 消防など救助急ぐ 近くの男性「ドンという音」",
       "source": "産経新聞",
@@ -16337,6 +16303,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4adf1318b2a99acd1e9b",
+      "title": "【フォトギャラリー】イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85NGpjMWM5OU4zU0lSOVlDNFlkMjBmb210blRNc2FlX3Q2NlE3empEN3pHUnhLakJWcUZ5Y0FlWHZBSkJJczl3Q05UUVhUSHdoYnVMLVFaOUs2cXNBYmVXcVQ0QzN4a2tVYmhxaXdIZHVNQjBRU0E?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -16992,6 +16974,24 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Tld1VnR3bXRZRTdGQlVqQ1hqSjdjWGR1VFB0WFhGOGhZaEpWQlJwSUNwT0FzZkdPY25EcThrQXduWHQyRXcxVjlacUFtSXFZYk5vc0lR?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "3588e0330a3a290684fb",
+      "title": "熊本県で震度7 イオンモール熊本の爆発はガス漏れか、10人安否不明",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wTnZ4MmI0VXQ0STZsVUhXalNLSlVDZHpTQzN2WTQzRW12SG91blFEQ0tKcTA1S2Z0c052c2VzRkJ5YndyekYwRExqMUE1YXlwQy02MjVFVzc0RGxqTGwyNE9vRzZlSWFDUGs2eg?oc=5",
+      "first_seen": "2026-07-28T13:50:41Z",
+      "focus": [
+        "原因・検証",
+        "救助・安否",
         "現場状況"
       ],
       "category_ids": [
