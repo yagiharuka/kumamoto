@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T20:00:15Z",
-  "updated_at_jst": "2026/08/23 05:00 JST",
+  "updated_at": "2026-08-22T20:30:17Z",
+  "updated_at_jst": "2026/08/23 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1064,
@@ -641,8 +641,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-18T13:42:44Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVYtX0libzQ1c0FEWkdNaGFxWm5iRnVXMm9OMW4yZGNYbkpvazVmZ2pSY1NkT2lpV0JWcjVreEdJWjV2R0JpQ0owSFRKOGsxMmtIQ2RsZ1NlLXlsV3VsUVhtcnZVWC1LMWxnZ1BUWlp2bk1PQTZyNEdwUmxMSllDalpyVVF0bTc0UjJMTDd3?oc=5",
+      "published_at": "2026-08-18T13:53:41Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3RwczhsY1BvNEl3RDdfRHVrbFJ6YnhmWWdIWDE0RHpCNjhfSjgwU05PX0NELWV3YllISGxtTFhoeUd4VFFvV1BfOXFzem5wemNNSGRuXzBwVFBLS08zRHFyUlVXcWFhajMtaUVUSkdWWk9HVXpaQjRaVm1NdGc3RzQwRkhqZl9Oei1MQV9B?oc=5",
       "first_seen": "2026-08-04T05:31:06Z",
       "focus": [
         "避難状況",
@@ -1510,6 +1510,22 @@
       ]
     },
     {
+      "id": "045f68339d856888babc",
+      "title": "イオン、遺族に補償の方針=爆発事故「解明待たず早期対応」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYlhvNDBYWGJLSndBQnRnb1dpc1hRMUJraTU1RVBjMXJnUWx1SjhjeWtVS2hnbW1YSjFqbmRnYXFXYmZoc05uSF9yQjVVRXJDbHZObg?oc=5",
+      "first_seen": "2026-08-12T04:00:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c614a36787100877b5c8",
       "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
       "source": "時事通信",
@@ -1657,22 +1673,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdHNmeGdqb2xBNXpFckQtbzN2YlAyMmpwLWV1TzBLeHBCbTUtdDNfUzB6UEwzNHprOUZLZ2VsLVBFa0tVbG5wM3UxSWcxdGdxNzZLX3JUXzNnclllalk1aW1UbzhMajVY?oc=5",
       "first_seen": "2026-08-12T04:30:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "045f68339d856888babc",
-      "title": "イオン、遺族に補償の方針=爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T03:44:16Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYlhvNDBYWGJLSndBQnRnb1dpc1hRMUJraTU1RVBjMXJnUWx1SjhjeWtVS2hnbW1YSjFqbmRnYXFXYmZoc05uSF9yQjVVRXJDbHZObg?oc=5",
-      "first_seen": "2026-08-12T04:00:52Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -4260,7 +4260,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xa3JTVlhUeDRSbWlld2tKTWJoY2Vrd0N5NWhIcGhXWEp3Q05HNTlFbjNuYXNTTG9fZ2ZKb1Y5U2tUa1VBaXlNeGJwZTd1cjBTZHp3aDRNS2tDN0V6UlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSlNUR1FQTEo4VnNLaXhLczZUbTBYYmQxZUpwTHpETERMYm1nVnd1d21WUXc0NURwRlZrdXAyNkVEM3RQWEVVeWh6Mno1U0tZN1VVSQ?oc=5",
       "first_seen": "2026-08-04T09:31:05Z",
       "focus": [
         "現場状況"
@@ -12942,7 +12942,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
