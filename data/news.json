@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T04:30:16Z",
-  "updated_at_jst": "2026/08/22 13:30 JST",
+  "updated_at": "2026-08-22T05:00:15Z",
+  "updated_at_jst": "2026/08/22 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1061,
@@ -1180,22 +1180,6 @@
       ]
     },
     {
-      "id": "2d50300f8858fbbc6e45",
-      "title": "爆発で大きな被害が出たイオンモール熊本=熊本県嘉島町(安元雄太撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T09:10:56Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnRpN1czLVdKdzVWVjIwaklVbmhQekx1M250YWJ2OTFVM3NqRnp5QmxpeVlUcW9hM2ZIc21waGtGZWRBU1hGR2RVWldvcUtsVlhqcEhfa3FadURpWmNvaGZGOTk5ZFBkcDV6NkkwWjE5a2lkVmtTUS1sWlc3OVFfY216M1JYYXprSmFNZ29sRGlfNGFhd1hQOVBzMWVSdkhJZ1E?oc=5",
-      "first_seen": "2026-08-12T12:00:59Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "58c8e6eed960656a762c",
       "title": "妹亡くした男性「事実知りたい」 イオン爆発、再入館巡り情報錯綜(共同通信)",
       "source": "熊本日日新聞",
@@ -1297,6 +1281,22 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRmxPV3JaR2dRRG1VMVZiODZPNkttNnRwOUdPanJhckhsNlJXMGlNdHJxZnN4WVl0UTBLQkg5MC10amMwc2ZYZ0t0VE1nbmIzWnRtZG1LV0FxX0hXVUFpSHY2RTdTX1pKQjduN3N3eUh5Zw?oc=5",
       "first_seen": "2026-08-12T05:30:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2d50300f8858fbbc6e45",
+      "title": "爆発で大きな被害が出たイオンモール熊本=熊本県嘉島町(安元雄太撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMnRpN1czLVdKdzVWVjIwaklVbmhQekx1M250YWJ2OTFVM3NqRnp5QmxpeVlUcW9hM2ZIc21waGtGZWRBU1hGR2RVWldvcUtsVlhqcEhfa3FadURpWmNvaGZGOTk5ZFBkcDV6NkkwWjE5a2lkVmtTUS1sWlc3OVFfY216M1JYYXprSmFNZ29sRGlfNGFhd1hQOVBzMWVSdkhJZ1E?oc=5",
+      "first_seen": "2026-08-12T12:00:59Z",
       "focus": [
         "現場状況"
       ],
