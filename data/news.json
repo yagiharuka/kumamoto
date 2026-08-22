@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T19:00:14Z",
-  "updated_at_jst": "2026/08/23 04:00 JST",
+  "updated_at": "2026-08-22T19:30:15Z",
+  "updated_at_jst": "2026/08/23 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1064,
@@ -1094,6 +1094,23 @@
       ]
     },
     {
+      "id": "915bfdce8393c2883a0d",
+      "title": "イオンが一時入館認める 熊本、モール爆発で避難後に 遺族補償「早期に対応」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcjB4blItbDJFYUUzRlRfajRFVlJOektkeDFiLWRjcU52TkgyQU9Cb1VaS0JqV25zZXhPa2R4WXM3OTdWcTVOR3c5dmMxMk5ieVhoa0l5WUJVZ3dBX0NuVl9vYWJMejhESXhxdw?oc=5",
+      "first_seen": "2026-08-12T17:30:53Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "4aba69f924c81e914d24",
       "title": "イオンモール爆発、地震直後「片付けして帰らないと」と伝えてきた責任感強い妹...真相解明求め遺影に誓い",
       "source": "読売新聞",
@@ -1177,23 +1194,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWXB1ME9Wd0xzTXFfTjJGVm8zSVQ3LU9xTUJFdUJ2TjFySmp6c0V5bm1uQTJPZmZYclMxZFpkYThSbmk0MExkbG5LS2pQUGxGRnVYUlBJZnpTNnpIUHpWWFFRVUdEV1Nf?oc=5",
       "first_seen": "2026-08-12T20:30:59Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "915bfdce8393c2883a0d",
-      "title": "イオンが一時入館認める 熊本、モール爆発で避難後に 遺族補償「早期に対応」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HcjB4blItbDJFYUUzRlRfajRFVlJOektkeDFiLWRjcU52TkgyQU9Cb1VaS0JqV25zZXhPa2R4WXM3OTdWcTVOR3c5dmMxMk5ieVhoa0l5WUJVZ3dBX0NuVl9vYWJMejhESXhxdw?oc=5",
-      "first_seen": "2026-08-12T17:30:53Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -1558,22 +1558,6 @@
       ]
     },
     {
-      "id": "cb9bc188db224a7b333d",
-      "title": "熊本のイオンモール爆発、知事ら献花「胸が痛む」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VE9YU0hNRS1qa1U4MGl0bm9CYUpabUt1VWQ2T2htWG90RDVJcTFSdGQ3TjJkQjJQNTV1X213SWRwaW9FUUh6ZVNuRjdadkEzdGxQdDJRaU9VSTYtR0I3VjZReUlOY1pCNTZ5OQ?oc=5",
-      "first_seen": "2026-08-12T07:00:55Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ae697571b2227d02d20c",
       "title": "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
       "source": "NHK",
@@ -1629,6 +1613,22 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZjRjckk3R09qaUtjZTRXT3BlM0RhVTlfOGRDVjByekwzQTZXMUZzbHF1X3MwZ09ENF9NLS1PTk1ubDhSTWFQeGZqTW1ia3c?oc=5",
       "first_seen": "2026-08-12T06:00:58Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cb9bc188db224a7b333d",
+      "title": "熊本のイオンモール爆発、知事ら献花「胸が痛む」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T05:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VE9YU0hNRS1qa1U4MGl0bm9CYUpabUt1VWQ2T2htWG90RDVJcTFSdGQ3TjJkQjJQNTV1X213SWRwaW9FUUh6ZVNuRjdadkEzdGxQdDJRaU9VSTYtR0I3VjZReUlOY1pCNTZ5OQ?oc=5",
+      "first_seen": "2026-08-12T07:00:55Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
