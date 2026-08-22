@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T06:00:15Z",
-  "updated_at_jst": "2026/08/22 15:00 JST",
+  "updated_at": "2026-08-22T06:30:16Z",
+  "updated_at_jst": "2026/08/22 15:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1061,
+  "article_count": 1062,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 159,
+    "kumanichi": 160,
     "asahi": 124,
     "nhk": 87,
     "yomiuri": 152,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 846,
+    "aeon": 847,
     "power": 122,
     "paper": 110
   },
   "items": [
+    {
+      "id": "52f0be31766dcda67596",
+      "title": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は...」(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-22T06:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RNEstV1dGSGJNMi15S3lkVFZWeTZIRTY1V3J1MDFERUFnZWFrZi0wZEdmV050THkzUHQ0RXFfZTFtUWo4WG0xelRvNzZqaUk?oc=5",
+      "first_seen": "2026-08-22T06:30:16Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "dc057c29e22733480d11",
       "title": "地下設備のリスク浮き彫り 千葉豪雨でマンション停電(共同通信)",
@@ -13034,7 +13051,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
@@ -13535,7 +13552,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sS0NXdHh5STBWbUVPQjFXZlN2N2pyanVDcTAwSVJqdzRYZ2ptTmtNRU9KZnVKX0hpVVdQUDlmNHJTQ2ZibU5iMUloUEk3bGotbkpha0J5Qko3SGRKeUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45a2k5Y1ZId2ZfdURBV2l5YWdBbFpMdHdhTDhWUFY4WFdqQ0hPZkNpbGtBTU9QZnFVOE5qd0hsbnRyY2dkZ0tYcl9iTjdRRFBscTh3Yw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
