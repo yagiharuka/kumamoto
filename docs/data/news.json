@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T10:00:14Z",
-  "updated_at_jst": "2026/08/22 19:00 JST",
+  "updated_at": "2026-08-22T10:30:16Z",
+  "updated_at_jst": "2026/08/22 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1062,
@@ -1496,6 +1496,22 @@
       ]
     },
     {
+      "id": "cb9bc188db224a7b333d",
+      "title": "熊本のイオンモール爆発、知事ら献花「胸が痛む」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VE9YU0hNRS1qa1U4MGl0bm9CYUpabUt1VWQ2T2htWG90RDVJcTFSdGQ3TjJkQjJQNTV1X213SWRwaW9FUUh6ZVNuRjdadkEzdGxQdDJRaU9VSTYtR0I3VjZReUlOY1pCNTZ5OQ?oc=5",
+      "first_seen": "2026-08-12T07:00:55Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ae697571b2227d02d20c",
       "title": "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
       "source": "NHK",
@@ -1567,22 +1583,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZjRjckk3R09qaUtjZTRXT3BlM0RhVTlfOGRDVjByekwzQTZXMUZzbHF1X3MwZ09ENF9NLS1PTk1ubDhSTWFQeGZqTW1ia3c?oc=5",
       "first_seen": "2026-08-12T06:00:58Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "cb9bc188db224a7b333d",
-      "title": "熊本のイオンモール爆発、知事ら献花「胸が痛む」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T05:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VE9YU0hNRS1qa1U4MGl0bm9CYUpabUt1VWQ2T2htWG90RDVJcTFSdGQ3TjJkQjJQNTV1X213SWRwaW9FUUh6ZVNuRjdadkEzdGxQdDJRaU9VSTYtR0I3VjZReUlOY1pCNTZ5OQ?oc=5",
-      "first_seen": "2026-08-12T07:00:55Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -6839,7 +6839,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yclRKUFFwSGNaMWpfUHViUXBTRzJIdGotcC1CUV9IVnJMbkI0amY2Xy1YLWEtX1RZcEhFOGF2UWlBeHZTYmFUby03blJiUG5RdVA2aFhvNlFNcE5SRkpuQm5Ebw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaS1lT1doTW1nRVhHelF6RjU4ZWE0WTNHOTVWSkh6M0laY1B1c0wzS2lwTDVTUXVicE85bzdscnNvR09uRG45aW8wTUV2cGpGOUIweGM2UG9aZTluamFDUXA2VXJQamtKVURCX3R6QmFMb192MXR0YUN3bUdSYnlZYg?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
@@ -9312,7 +9312,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
@@ -10953,6 +10953,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "1e2590b7d7b5fee72658",
+      "title": "熊本地震 被災地で携帯電話が利用しづらい状況続く...配達の受け付け停止や遅れ・コンビニや外食の休業相次ぐ、停電も",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Mckx5WlZjQWVoTnE4dnZIZzJsRGQzMWo1djMwYUllMUlRaUw0MVJHbnVFb1dYVUJLVldYQmZkWGpMT1FlSGtnaFpCM3g4dHBkNlJkUGtKemxrLVpzbjEtZk5WSnBFZw?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -13051,7 +13067,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
@@ -13552,7 +13568,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sS0NXdHh5STBWbUVPQjFXZlN2N2pyanVDcTAwSVJqdzRYZ2ptTmtNRU9KZnVKX0hpVVdQUDlmNHJTQ2ZibU5iMUloUEk3bGotbkpha0J5Qko3SGRKeUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45a2k5Y1ZId2ZfdURBV2l5YWdBbFpMdHdhTDhWUFY4WFdqQ0hPZkNpbGtBTU9QZnFVOE5qd0hsbnRyY2dkZ0tYcl9iTjdRRFBscTh3Yw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
@@ -14451,22 +14467,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "1e2590b7d7b5fee72658",
-      "title": "熊本地震 被災地で携帯電話サービスが利用しづらい状況続く...停電も熊本地方の3万4690戸で",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T01:22:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Mckx5WlZjQWVoTnE4dnZIZzJsRGQzMWo1djMwYUllMUlRaUw0MVJHbnVFb1dYVUJLVldYQmZkWGpMT1FlSGtnaFpCM3g4dHBkNlJkUGtKemxrLVpzbjEtZk5WSnBFZw?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
