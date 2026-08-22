@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T22:00:16Z",
-  "updated_at_jst": "2026/08/23 07:00 JST",
+  "updated_at": "2026-08-22T22:30:15Z",
+  "updated_at_jst": "2026/08/23 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1064,
@@ -984,6 +984,22 @@
       ]
     },
     {
+      "id": "d22be4610e31dbb59bdc",
+      "title": "千葉県内で停電4万5千軒超 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-13T12:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ydHgzeXV3ajl4a0x5WWF0YUNOcFA5elZBejZYV3ZyTDJlRGh5aWNFa2lJdVZFZUF0ZDYyclJycVhpZS1FeVMzTDBOSUtsQWc?oc=5",
+      "first_seen": "2026-08-13T14:31:01Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "d8b9bf250af98d693ba6",
       "title": "2026年熊本地震>「同じ犠牲者、二度と出さないで」 イオン爆発事故で妻亡くした男性 最後のデートかなわず後悔",
       "source": "熊本日日新聞",
@@ -1038,7 +1054,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-13T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
       "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
@@ -1075,22 +1091,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "d22be4610e31dbb59bdc",
-      "title": "千葉県内で停電4万5千軒超 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-13T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ydHgzeXV3ajl4a0x5WWF0YUNOcFA5elZBejZYV3ZyTDJlRGh5aWNFa2lJdVZFZUF0ZDYyclJycVhpZS1FeVMzTDBOSUtsQWc?oc=5",
-      "first_seen": "2026-08-13T14:31:01Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -12942,7 +12942,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -15958,7 +15958,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMWMxLVJKZFBSM25MNmVtdkV0anFwX3pvS3lqdGZOMTlESEkxZmNyazVmeUJ2akE2WkZuajkxb0dXdGN6VGlkcHhUaS1QY3EwSjVIVlJHeEJMZHZnSVhZWnJPV3YyaGYwUkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UWpCRzRabktRRUhOUzVaRGRoc2NvOVlPQWJLM3liWVFmUGc2THBsSTZXUHdmcmxpUTNHLU5XRUlEeEI4cmlCbk1sWWlFNkpaMHllbnI3cVJHd3ZkeUdMdVM1VWYya1g4dnc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
