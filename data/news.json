@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T12:30:41Z",
-  "updated_at_jst": "2026/08/23 21:30 JST",
+  "updated_at": "2026-08-23T13:00:48Z",
+  "updated_at_jst": "2026/08/23 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1066,
@@ -10058,20 +10058,6 @@
       ]
     },
     {
-      "id": "8de112183823235f0920",
-      "title": "警察庁が動画を公開したイオンモール熊本の内部(同庁提供)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T13:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXg2RlNCTTJIcUhOYUZqckVuX3I0cll6cjBoQzU2SS16aTlqVlNKMmJXaHUyTW5jNnVmaXltdV9fYzNoRF9EaUdrSmNfejRCOGVtc0s0MU8zaHMtaFlIbmRQSVZwRnNJUUVNMUxyaF9kRmJwLVpnNDNtTW9FMlhZM0ttVWxha3hjQnh1U1Uta3ZvbkY1Y1FhVjVtdldjQkZSWlE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e8cc9518cfc3870249ee",
       "title": "【動画】死亡12人、心肺停止6人 イオンと日本製紙工場で死者8人 8700人避難・熊本震度7",
       "source": "時事通信",
@@ -11274,6 +11260,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8de112183823235f0920",
+      "title": "警察庁が動画を公開したイオンモール熊本の内部(同庁提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXg2RlNCTTJIcUhOYUZqckVuX3I0cll6cjBoQzU2SS16aTlqVlNKMmJXaHUyTW5jNnVmaXltdV9fYzNoRF9EaUdrSmNfejRCOGVtc0s0MU8zaHMtaFlIbmRQSVZwRnNJUUVNMUxyaF9kRmJwLVpnNDNtTW9FMlhZM0ttVWxha3hjQnh1U1Uta3ZvbkY1Y1FhVjVtdldjQkZSWlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
