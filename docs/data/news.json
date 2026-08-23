@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T21:00:17Z",
-  "updated_at_jst": "2026/08/24 06:00 JST",
+  "updated_at": "2026-08-23T21:30:17Z",
+  "updated_at_jst": "2026/08/24 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1069,
@@ -497,7 +497,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeWh5UHJPSHhFWF9aUDV6MV9YZWNpV2FBM1lnUTYyY2tCc2pWZkNrc0hIMU5NV1JxZVdXcTV5Ymo0T0t5X1Z3Yk5iTXVOZVo1azc4S3VTdkJZejRQWFRzN2d4bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzAyMG9lMF9sTFVYNGZMQURHb1Jib3F5bE1Bbld6bzVyYzFYVFJ1bkVzT2M5WjRmRFllQUxycml3dFpiM01Iai1tdE5veXpZbmJCUGVxNXlLS0l2YTFXcVlJSWxGLUM3THJ3Zk55S3JmTUZHZy04dlRxWGxJREx6YQ?oc=5",
       "first_seen": "2026-08-20T07:30:29Z",
       "focus": [
         "現場状況"
@@ -2092,13 +2092,13 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlExV1ZzcExrWTNOQkpiN0dQclRpVDRreDBBRjBIZUhzaG5IWkRIUS1KMFRFV2Z6eHY3RlU3UUV1YmxDdFV5aE44YTNrUndId0JRWGJIZ0w3ems4YnVfcy1hOHptYWhxb09wdlBydmk2Z1RKSjdVdjZfOE1BMXpGM19R?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -2114,8 +2114,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlExV1ZzcExrWTNOQkpiN0dQclRpVDRreDBBRjBIZUhzaG5IWkRIUS1KMFRFV2Z6eHY3RlU3UUV1YmxDdFV5aE44YTNrUndId0JRWGJIZ0w3ems4YnVfcy1hOHptYWhxb09wdlBydmk2Z1RKSjdVdjZfOE1BMXpGM19R?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -2381,6 +2381,22 @@
       ]
     },
     {
+      "id": "fc8a386e31afe4e83b57",
+      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
+      "first_seen": "2026-08-11T11:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "fbc7e53ec19c954eb758",
       "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
       "source": "時事通信",
@@ -2440,22 +2456,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "fc8a386e31afe4e83b57",
-      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T01:52:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
-      "first_seen": "2026-08-11T11:30:43Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -16036,7 +16036,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMWMxLVJKZFBSM25MNmVtdkV0anFwX3pvS3lqdGZOMTlESEkxZmNyazVmeUJ2akE2WkZuajkxb0dXdGN6VGlkcHhUaS1QY3EwSjVIVlJHeEJMZHZnSVhZWnJPV3YyaGYwUkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83UWpCRzRabktRRUhOUzVaRGRoc2NvOVlPQWJLM3liWVFmUGc2THBsSTZXUHdmcmxpUTNHLU5XRUlEeEI4cmlCbk1sWWlFNkpaMHllbnI3cVJHd3ZkeUdMdVM1VWYya1g4dnc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
