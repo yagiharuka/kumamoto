@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T10:30:45Z",
-  "updated_at_jst": "2026/08/23 19:30 JST",
+  "updated_at": "2026-08-23T11:00:46Z",
+  "updated_at_jst": "2026/08/23 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1066,
@@ -984,6 +984,22 @@
       ]
     },
     {
+      "id": "d22be4610e31dbb59bdc",
+      "title": "千葉県内で停電4万5千軒超 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-13T12:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ydHgzeXV3ajl4a0x5WWF0YUNOcFA5elZBejZYV3ZyTDJlRGh5aWNFa2lJdVZFZUF0ZDYyclJycVhpZS1FeVMzTDBOSUtsQWc?oc=5",
+      "first_seen": "2026-08-13T14:31:01Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "d8b9bf250af98d693ba6",
       "title": "2026年熊本地震>「同じ犠牲者、二度と出さないで」 イオン爆発事故で妻亡くした男性 最後のデートかなわず後悔",
       "source": "熊本日日新聞",
@@ -1091,22 +1107,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "d22be4610e31dbb59bdc",
-      "title": "千葉県内で停電4万5千軒超 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-13T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ydHgzeXV3ajl4a0x5WWF0YUNOcFA5elZBejZYV3ZyTDJlRGh5aWNFa2lJdVZFZUF0ZDYyclJycVhpZS1FeVMzTDBOSUtsQWc?oc=5",
-      "first_seen": "2026-08-13T14:31:01Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
