@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T23:00:15Z",
-  "updated_at_jst": "2026/08/24 08:00 JST",
+  "updated_at": "2026-08-23T23:30:17Z",
+  "updated_at_jst": "2026/08/24 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1070,
@@ -98,23 +98,6 @@
       ]
     },
     {
-      "id": "a3295beae8a425d79bd5",
-      "title": "[スキャナー]イオンモール熊本爆発事故「再入館」マニュアル浸透せず...事故原因の調査続く",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-23T21:56:08Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR29KRGNrZU05dzFtcXM1M1hTcjB0WUQ5cE1GMEliMVJETE9Uc2JvNEJGb0t0S25lcUhtUGRCRG8yampRWXQ1dkJWeHZENmJSQXZDbkFMdlJyOUM0YXA0YUtKbWNldw?oc=5",
-      "first_seen": "2026-08-23T20:30:16Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "4c10199702b4c8c5f821",
       "title": "[スキャナー]被災施設 安全確認に課題 イオン熊本爆発 再入館 マニュアル浸透せず",
       "source": "読売新聞",
@@ -124,6 +107,23 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Mkx5ME1PR0dnYU9oNEFvTnhPaHNLcWlWT1oxYmpZZk5yb3ZpMzJQRzM5bUt2cjZoYmp1OTNSWEw0OTJhQjRyMTBiUGdSV0doNXhLOFFpUkNVbHl3bFhzRHRJWQ?oc=5",
       "first_seen": "2026-08-23T21:00:17Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a3295beae8a425d79bd5",
+      "title": "[スキャナー]イオンモール熊本爆発事故「再入館」マニュアル浸透せず...事故原因の調査続く",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-23T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR29KRGNrZU05dzFtcXM1M1hTcjB0WUQ5cE1GMEliMVJETE9Uc2JvNEJGb0t0S25lcUhtUGRCRG8yampRWXQ1dkJWeHZENmJSQXZDbkFMdlJyOUM0YXA0YUtKbWNldw?oc=5",
+      "first_seen": "2026-08-23T20:30:16Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -6964,7 +6964,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaS1lT1doTW1nRVhHelF6RjU4ZWE0WTNHOTVWSkh6M0laY1B1c0wzS2lwTDVTUXVicE85bzdscnNvR09uRG45aW8wTUV2cGpGOUIweGM2UG9aZTluamFDUXA2VXJQamtKVURCX3R6QmFMb192MXR0YUN3bUdSYnlZYg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdDgxX0MtT1pBRnpseGpTWnBsUk1NdE9CcmM5THpZdnMxeWgzdy10d05SLW56UXRpQTAtQjI5Vkxac3NGVkxQbXRwdFQ5LWVQMHJldHlsY3ljTEw5eWM4RkRoWQ?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
