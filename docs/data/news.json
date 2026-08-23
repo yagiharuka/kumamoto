@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T11:30:42Z",
-  "updated_at_jst": "2026/08/23 20:30 JST",
+  "updated_at": "2026-08-23T12:00:47Z",
+  "updated_at_jst": "2026/08/23 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1066,
@@ -2317,6 +2317,22 @@
       ]
     },
     {
+      "id": "81abec939c02ace4072a",
+      "title": "~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-10T12:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oTmxXb29aYzMxSEJYcnR1OWZkSE5yeTYzNEZubmU4d2FURjZ2Q3pLYU80Y3lpY25sM0RGSk52R2IxeGk4Y2dpSE5VVkxGNTdzQk51aEpwRnMzck5DN2lmZGNRblIzMVlrb1BV?oc=5",
+      "first_seen": "2026-08-10T02:30:39Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "ff907db5985395e27ef0",
       "title": "イオンモール イベントの中止や延期相次ぐ 熊本での爆発受けて",
       "source": "NHK",
@@ -2346,22 +2362,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "81abec939c02ace4072a",
-      "title": "~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oTmxXb29aYzMxSEJYcnR1OWZkSE5yeTYzNEZubmU4d2FURjZ2Q3pLYU80Y3lpY25sM0RGSk52R2IxeGk4Y2dpSE5VVkxGNTdzQk51aEpwRnMzck5DN2lmZGNRblIzMVlrb1BV?oc=5",
-      "first_seen": "2026-08-10T02:30:39Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
