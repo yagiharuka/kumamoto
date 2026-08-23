@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T23:30:14Z",
-  "updated_at_jst": "2026/08/23 08:30 JST",
+  "updated_at": "2026-08-23T00:00:13Z",
+  "updated_at_jst": "2026/08/23 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1064,
@@ -5827,24 +5827,6 @@
       ]
     },
     {
-      "id": "4d7a1023be19d81f075d",
-      "title": "猛暑の捜索続く、72時間経過=死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-31T13:32:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UUFhqckhoY0lEM2tGOUJpenhDcE1CUF9zR2tIZTRFMDlVcXhEUTdIczF6RmhTcGJuamwtd1JIbGFLdHh0T1AzWlZxVnRFaXp0UU1NTw?oc=5",
-      "first_seen": "2026-08-04T11:31:05Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8682ef002108c04388c1",
       "title": "猛暑の捜索続く、72時間経過 死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
       "source": "時事通信",
@@ -6828,6 +6810,24 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "4d7a1023be19d81f075d",
+      "title": "猛暑の捜索続く、72時間経過=死者36人、避難9000人超―熱中症に警戒、停電は復旧・熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ka2ZGbmQ3MHpJZ1ZJUUZkQzBTemg1a2FkWlBTY3FUMFBJd0tmUjNqNmduNUVta1NaQUNGZkNHVE4xUEhFdm82STFWYlpJREltdnZ3cg?oc=5",
+      "first_seen": "2026-08-04T11:31:05Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
