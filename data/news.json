@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T20:30:16Z",
-  "updated_at_jst": "2026/08/24 05:30 JST",
+  "updated_at": "2026-08-23T21:00:17Z",
+  "updated_at_jst": "2026/08/24 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1068,
+  "article_count": 1069,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 156,
+    "yomiuri": 157,
     "kumanichi": 162,
     "asahi": 124,
     "nhk": 87,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 851,
+    "aeon": 852,
     "power": 122,
     "paper": 112
   },
@@ -90,6 +90,22 @@
       "published_at": "2026-08-23T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR29KRGNrZU05dzFtcXM1M1hTcjB0WUQ5cE1GMEliMVJETE9Uc2JvNEJGb0t0S25lcUhtUGRCRG8yampRWXQ1dkJWeHZENmJSQXZDbkFMdlJyOUM0YXA0YUtKbWNldw?oc=5",
       "first_seen": "2026-08-23T20:30:16Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4c10199702b4c8c5f821",
+      "title": "[スキャナー]被災施設 安全確認に課題 イオン熊本爆発 再入館 マニュアル浸透せず",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-23T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Mkx5ME1PR0dnYU9oNEFvTnhPaHNLcWlWT1oxYmpZZk5yb3ZpMzJQRzM5bUt2cjZoYmp1OTNSWEw0OTJhQjRyMTBiUGdSV0doNXhLOFFpUkNVbHl3bFhzRHRJWQ?oc=5",
+      "first_seen": "2026-08-23T21:00:17Z",
       "focus": [
         "現場状況"
       ],
