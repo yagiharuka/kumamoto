@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T01:00:19Z",
-  "updated_at_jst": "2026/08/23 10:00 JST",
+  "updated_at": "2026-08-23T01:30:14Z",
+  "updated_at_jst": "2026/08/23 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1064,
+  "article_count": 1066,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "kumanichi": 162,
     "asahi": 124,
     "nhk": 87,
-    "yomiuri": 152,
+    "yomiuri": 154,
     "mainichi": 133,
     "nikkei": 61,
     "jiji": 174,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 848,
+    "aeon": 850,
     "power": 122,
     "paper": 111
   },
@@ -1024,6 +1024,22 @@
       "published_at": "2026-08-13T07:22:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PQnNpRVBTNVg5MmNvcGRUSUZTcXZ1ZFVzMjU0a1VoYThXNldEMUFua05GTk93bEZMOWxvMUpIM0N2VDNmTTRSWUplb0hjMTg?oc=5",
       "first_seen": "2026-08-13T07:30:58Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ca5a3d5a99870b9cf9c7",
+      "title": "イオンモール熊本の爆発事故、再入館を許可したイオン側「個人ではなく全て会社の責任」...遺族「誠意が見えた」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84RmltSE1YV0M0azhwM3ItbTJFdS1KR3k4NlJFT3VMUGlpd3N4Q0tVaE9MbGR1OHZua2xOZUQ2c1A4c2hFUmFJTC1MNGdiekdUd2JTUnloamRwT3BTT0E5Mk16MVNiS1FnaWc?oc=5",
+      "first_seen": "2026-08-23T01:30:14Z",
       "focus": [
         "現場状況"
       ],
@@ -4689,13 +4705,27 @@
       ]
     },
     {
+      "id": "07830f7c1f3046f9ef58",
+      "title": "「イオンモール熊本」一度は無事を確認した妻が犠牲...「どうして戻るなと声をかけなかったのか」夫が後悔:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4SnpBd1NwWVRrMkZOQW12b1ZhWmp4R3dtUkZzempaSXh5LTI1bFVTcVBlcEx6U25VYlh2NVh6YTJLSDNPNWkwTGRUOFJfQjQ1djBXOFA5RTRBMW4zcHV6NDc2QVlhX2wxT1E?oc=5",
+      "first_seen": "2026-08-23T01:30:14Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "aea06ee2e90b01596f13",
       "title": "「イオンモール熊本」一度は無事を確認した妻が犠牲...「どうして戻るなと声をかけなかったのか」夫が後悔",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yaVNZMmxJRGVRVV9pakVHMlRoT2paT0RVd1hzLThJN0gzcXdmdnREOTY2SWU0RElaT3dqNjdoWnQwTFBvbEJOdTBkUWhNLWY3czlxNUlzakZ0LVVyMTEydkNGRnJBYjdxWldwMjFOcm9jQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1ckVMWEowa1Boa2NNblZFRUpCYXUwU3NzQ2w4R3psdTFfenJabVJyM1dOdUpBZXA4U0QzVE5MMG1BbGpSZEpGc21RQzZIZk9YSHdZczRPSHVwRTlnTW9JdE5WdWtONmdxdW56MEdfbmtReHBS?oc=5",
       "first_seen": "2026-08-03T01:31:06Z",
       "focus": [],
       "category_ids": [
