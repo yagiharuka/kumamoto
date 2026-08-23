@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-23T09:30:38Z",
-  "updated_at_jst": "2026/08/23 18:30 JST",
+  "updated_at": "2026-08-23T10:00:42Z",
+  "updated_at_jst": "2026/08/23 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1066,
@@ -1110,6 +1110,20 @@
       ]
     },
     {
+      "id": "efdb8930d93ab572bbde",
+      "title": "(2026年熊本地震)「再入館認めた」イオン謝罪 遺族に説明 補償「早期に対応」",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbkpFLVJwVS1rR25fMmYyQV9xSXFCWUtfcE1GcEhxb1NEc3Z5a3g0aVo4SFdhSkhrNVRKZjJFcXVEQ183ZE1nMWZwNHBWclY2N2pqNmM0YmNoSW0x?oc=5",
+      "first_seen": "2026-08-12T20:30:59Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "915bfdce8393c2883a0d",
       "title": "イオンが一時入館認める 熊本、モール爆発で避難後に 遺族補償「早期に対応」",
       "source": "日本経済新聞",
@@ -1168,20 +1182,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "efdb8930d93ab572bbde",
-      "title": "(2026年熊本地震)「再入館認めた」イオン謝罪 遺族に説明 補償「早期に対応」",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-12T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbkpFLVJwVS1rR25fMmYyQV9xSXFCWUtfcE1GcEhxb1NEc3Z5a3g0aVo4SFdhSkhrNVRKZjJFcXVEQ183ZE1nMWZwNHBWclY2N2pqNmM0YmNoSW0x?oc=5",
-      "first_seen": "2026-08-12T20:30:59Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -2317,6 +2317,22 @@
       ]
     },
     {
+      "id": "81abec939c02ace4072a",
+      "title": "~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-10T12:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oTmxXb29aYzMxSEJYcnR1OWZkSE5yeTYzNEZubmU4d2FURjZ2Q3pLYU80Y3lpY25sM0RGSk52R2IxeGk4Y2dpSE5VVkxGNTdzQk51aEpwRnMzck5DN2lmZGNRblIzMVlrb1BV?oc=5",
+      "first_seen": "2026-08-10T02:30:39Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "ff907db5985395e27ef0",
       "title": "イオンモール イベントの中止や延期相次ぐ 熊本での爆発受けて",
       "source": "NHK",
@@ -2346,22 +2362,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "81abec939c02ace4072a",
-      "title": "~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oTmxXb29aYzMxSEJYcnR1OWZkSE5yeTYzNEZubmU4d2FURjZ2Q3pLYU80Y3lpY25sM0RGSk52R2IxeGk4Y2dpSE5VVkxGNTdzQk51aEpwRnMzck5DN2lmZGNRblIzMVlrb1BV?oc=5",
-      "first_seen": "2026-08-10T02:30:39Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -5061,7 +5061,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTllYRTY3cHVsWllGLWppMWNrQTcxdkU2alVHMTM0bVZGbUxKZFB2SmZIMkxUemJlTk5tcUhVS1R6amZnZ3FPTWR6QVVYRDdYUHVYeDh0OHlISGlydHphNnFlT0swVmN0cUJsSzVudWhMOXNIYzBBUTYzXy0tQ1Y0RFdyb3NJcW9KblFhZVln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
