@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T16:00:19Z",
-  "updated_at_jst": "2026/08/25 01:00 JST",
+  "updated_at": "2026-08-24T16:30:16Z",
+  "updated_at_jst": "2026/08/25 01:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1073,
@@ -5154,6 +5154,22 @@
       ]
     },
     {
+      "id": "96ed96cc4470402b2992",
+      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZVh0NExCY3J0NTBRQld5ZGtWNXBQTTg5RHVmNlFxN1FZLUtrX1RaQmZKZjRTWUR0VV9qS09rM3RPYnVZaXlkZGNldHQ5bnhTbW4xR182VGZDNFgxVV9wLW5sZzRIamFIdkE?oc=5",
+      "first_seen": "2026-08-03T06:01:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "9dead67f8b4ac689a49e",
       "title": "イオン熊本の爆発、暗闇で極限の捜索 バックヤード周辺に犠牲者多数",
       "source": "朝日新聞",
@@ -5275,22 +5291,6 @@
       "published_at": "2026-08-03T03:27:15Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDVS1CTnVPbk85Z0pkYVgzR3hNVndTOFoyakFTZjVjcFVNOVRmYmYyVVdRNDJWdjdpY25Cc211cFFuT01hMUdaNjMtVVo1NFFqUmw1bmlrRGVQTFl5ejU4?oc=5",
       "first_seen": "2026-08-03T06:31:15Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "96ed96cc4470402b2992",
-      "title": "イオン爆発で2人犠牲 「売上金を金庫に」と指示、店舗幹部が謝罪 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-03T03:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZVh0NExCY3J0NTBRQld5ZGtWNXBQTTg5RHVmNlFxN1FZLUtrX1RaQmZKZjRTWUR0VV9qS09rM3RPYnVZaXlkZGNldHQ5bnhTbW4xR182VGZDNFgxVV9wLW5sZzRIamFIdkE?oc=5",
-      "first_seen": "2026-08-03T06:01:18Z",
       "focus": [
         "現場状況"
       ],
@@ -10159,6 +10159,20 @@
       ]
     },
     {
+      "id": "e8287480ed0772b64472",
+      "title": "画像・写真:イオンモール熊本で活動する消防隊員:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T13:42:38Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYUk4RjdtaXh6VmpBRHFUYV9jOVNlUVVpWGlSRnRsYVZIMzYtRXp1aktBLUtFOUFQMzBlWDZTVVAyLVVZb2IwNGx4c19OdjNpbzlScnVBdFlZS0FqbmUzQ2phbWg?oc=5",
+      "first_seen": "2026-07-30T10:00:13Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c808ef4da3b11c8176f0",
       "title": "イオンモール熊本の爆発事故を謝罪するイオンの吉田昭夫社長(中央)=29日午後、熊本市内",
       "source": "産経新聞",
@@ -13189,7 +13203,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -13519,20 +13533,6 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03d1dCLXlTQXRjdUY5Tmo2eHluT3ZhQUVVd1NHV2Y0ZEdZSDV1eXhYRU5XOHp4YTVXUnlqOXloQ2xLWm9weXI2b2RGeTJuRjZqTVB5R0piUEVmS2YwNGhhZFd1aDc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "e8287480ed0772b64472",
-      "title": "画像・写真:イオンモール熊本で活動する消防隊員:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYUk4RjdtaXh6VmpBRHFUYV9jOVNlUVVpWGlSRnRsYVZIMzYtRXp1aktBLUtFOUFQMzBlWDZTVVAyLVVZb2IwNGx4c19OdjNpbzlScnVBdFlZS0FqbmUzQ2phbWg?oc=5",
-      "first_seen": "2026-07-30T10:00:13Z",
       "focus": [],
       "category_ids": [
         "aeon"
