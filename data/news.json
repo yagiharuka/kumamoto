@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T15:00:20Z",
-  "updated_at_jst": "2026/08/25 00:00 JST",
+  "updated_at": "2026-08-24T15:30:18Z",
+  "updated_at_jst": "2026/08/25 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1073,
@@ -862,7 +862,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-18T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVU2TldwaW4xV1VwaVhtcUxIc0JYNmdCS0pqRWdBWEtQaFpvMVJJMEtTOWJuQUlLU3NMaTlLa09MakNHcXYwdzBia003c0xqd3YtbHlrWTdXVjNySlFMcTVfd1ZXMzJkZUtmMXRVb0NEOGZydEw1clpjWEZRLXd0YVVCdXkwdVBfTWVBMDJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVE1xVWdybV9OZTVkZHVVSnhPVVpsc3cydE00QWFHRU1zT2xOX29Xb3RxeUQ1QnUxRHhtNHBiSk1VY1NaeWxJUWVnMXlhMjByZGtuMnhJcDdlMmlUcEwza2pRd1hQQUFBZUhyeWln?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
@@ -920,6 +920,22 @@
       ]
     },
     {
+      "id": "f2c63259b376068b2053",
+      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG1zS2h3WWM0aWZzYnEwZVZEejZRUHJyX0NsRmhBMlZBdG5PU3VTcmg1VjFQVkZhR1NtNTJzZkVWUnFNSmZuLV9IUVRpTWhQSmhJclg5RkFBazNBVkJobmVrcWZnX2U5Uk5GVVVxQkVDbERFa1lBSFhQajVjcGMtMjBCMUFfVGNGX0s5TmpaV2NIMDhValp1TWJnRVRYcFQ4NVE?oc=5",
+      "first_seen": "2026-08-16T10:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "3e7307e1bafd50085541",
       "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
       "source": "日本経済新聞",
@@ -934,22 +950,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f2c63259b376068b2053",
-      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-16T06:45:49Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG1zS2h3WWM0aWZzYnEwZVZEejZRUHJyX0NsRmhBMlZBdG5PU3VTcmg1VjFQVkZhR1NtNTJzZkVWUnFNSmZuLV9IUVRpTWhQSmhJclg5RkFBazNBVkJobmVrcWZnX2U5Uk5GVVVxQkVDbERFa1lBSFhQajVjcGMtMjBCMUFfVGNGX0s5TmpaV2NIMDhValp1TWJnRVRYcFQ4NVE?oc=5",
-      "first_seen": "2026-08-16T10:30:43Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -5160,7 +5160,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTllYRTY3cHVsWllGLWppMWNrQTcxdkU2alVHMTM0bVZGbUxKZFB2SmZIMkxUemJlTk5tcUhVS1R6amZnZ3FPTWR6QVVYRDdYUHVYeDh0OHlISGlydHphNnFlT0swVmN0cUJsSzVudWhMOXNIYzBBUTYzXy0tQ1Y0RFdyb3NJcW9KblFhZVln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
@@ -10159,20 +10159,6 @@
       ]
     },
     {
-      "id": "e8287480ed0772b64472",
-      "title": "画像・写真:イオンモール熊本で活動する消防隊員:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T13:42:38Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYUk4RjdtaXh6VmpBRHFUYV9jOVNlUVVpWGlSRnRsYVZIMzYtRXp1aktBLUtFOUFQMzBlWDZTVVAyLVVZb2IwNGx4c19OdjNpbzlScnVBdFlZS0FqbmUzQ2phbWg?oc=5",
-      "first_seen": "2026-07-30T10:00:13Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "c808ef4da3b11c8176f0",
       "title": "イオンモール熊本の爆発事故を謝罪するイオンの吉田昭夫社長(中央)=29日午後、熊本市内",
       "source": "産経新聞",
@@ -13171,7 +13157,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -13203,7 +13189,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -13533,6 +13519,20 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03d1dCLXlTQXRjdUY5Tmo2eHluT3ZhQUVVd1NHV2Y0ZEdZSDV1eXhYRU5XOHp4YTVXUnlqOXloQ2xLWm9weXI2b2RGeTJuRjZqTVB5R0piUEVmS2YwNGhhZFd1aDc?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e8287480ed0772b64472",
+      "title": "画像・写真:イオンモール熊本で活動する消防隊員:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tYUk4RjdtaXh6VmpBRHFUYV9jOVNlUVVpWGlSRnRsYVZIMzYtRXp1aktBLUtFOUFQMzBlWDZTVVAyLVVZb2IwNGx4c19OdjNpbzlScnVBdFlZS0FqbmUzQ2phbWg?oc=5",
+      "first_seen": "2026-07-30T10:00:13Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -16356,22 +16356,6 @@
       ]
     },
     {
-      "id": "4adf1318b2a99acd1e9b",
-      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "82e76c3e27ae0a3533c6",
       "title": "イオンモール熊本で爆発か 閉じ込め多数 消防など救助急ぐ 近くの男性「ドンという音」",
       "source": "産経新聞",
@@ -16479,6 +16463,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4adf1318b2a99acd1e9b",
+      "title": "【フォトギャラリー】イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85NGpjMWM5OU4zU0lSOVlDNFlkMjBmb210blRNc2FlX3Q2NlE3empEN3pHUnhLakJWcUZ5Y0FlWHZBSkJJczl3Q05UUVhUSHdoYnVMLVFaOUs2cXNBYmVXcVQ0QzN4a2tVYmhxaXdIZHVNQjBRU0E?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
