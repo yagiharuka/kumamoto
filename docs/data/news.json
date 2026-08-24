@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T13:30:19Z",
-  "updated_at_jst": "2026/08/24 22:30 JST",
+  "updated_at": "2026-08-24T14:00:17Z",
+  "updated_at_jst": "2026/08/24 23:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1073,
@@ -920,6 +920,22 @@
       ]
     },
     {
+      "id": "f2c63259b376068b2053",
+      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG1zS2h3WWM0aWZzYnEwZVZEejZRUHJyX0NsRmhBMlZBdG5PU3VTcmg1VjFQVkZhR1NtNTJzZkVWUnFNSmZuLV9IUVRpTWhQSmhJclg5RkFBazNBVkJobmVrcWZnX2U5Uk5GVVVxQkVDbERFa1lBSFhQajVjcGMtMjBCMUFfVGNGX0s5TmpaV2NIMDhValp1TWJnRVRYcFQ4NVE?oc=5",
+      "first_seen": "2026-08-16T10:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "3e7307e1bafd50085541",
       "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
       "source": "日本経済新聞",
@@ -934,22 +950,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f2c63259b376068b2053",
-      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-16T06:45:49Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWG1zS2h3WWM0aWZzYnEwZVZEejZRUHJyX0NsRmhBMlZBdG5PU3VTcmg1VjFQVkZhR1NtNTJzZkVWUnFNSmZuLV9IUVRpTWhQSmhJclg5RkFBazNBVkJobmVrcWZnX2U5Uk5GVVVxQkVDbERFa1lBSFhQajVjcGMtMjBCMUFfVGNGX0s5TmpaV2NIMDhValp1TWJnRVRYcFQ4NVE?oc=5",
-      "first_seen": "2026-08-16T10:30:43Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -3046,7 +3046,7 @@
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-06T06:54:19Z",
+      "published_at": "2026-08-06T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zVXp6V0FfQXZCeUVEb0FHVE9sNEY2dW0xcW5JNkcyVENfczZ2YTZETXhqZjExYm43WXlod2o4c25NQUxPWnl2dnFkUDVTU3FTQjFaZGRUbGJCOFB6a0tV?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
@@ -3129,23 +3129,6 @@
       "source_group": "地元紙",
       "published_at": "2026-08-05T09:46:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BLTFhWTFnWmpFNW12WXZwS0RxV3hiUjJPc0hRbjdlVmJfb002RXpKMjhyZnNzWnQwbWR1NDVySWVidUVQQVR3TGF5N1k3d3M?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "ff6eceffad7dfc6d8a5c",
-      "title": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-05T09:35:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SQmdURzd0UWdKYVlkaDZKYVRKVVNOSHNiVm45eXZEXzVIY3JWMjZoTDVnMHVTbXJEbjRmOEtubUtFb0RXdllfUndyX18xajNCeUdlVlVWWVFabTYyRTZF?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "原因・検証",
@@ -3683,6 +3666,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "ff6eceffad7dfc6d8a5c",
+      "title": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SQmdURzd0UWdKYVlkaDZKYVRKVVNOSHNiVm45eXZEXzVIY3JWMjZoTDVnMHVTbXJEbjRmOEtubUtFb0RXdllfUndyX18xajNCeUdlVlVWWVFabTYyRTZF?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -5226,7 +5226,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -9368,7 +9368,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
@@ -15853,23 +15853,6 @@
       ]
     },
     {
-      "id": "69adc53e02b879b7548b",
-      "title": "「イオンモール熊本」で爆発 客は地震後避難か 熊本 嘉島町",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-28T09:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TSU1WcUNNRFVvanhaTmlZQTdjc3JWN0hjbW9GTlZJcjQ3ZVMyVF9xNWpkTWJTUVZEV2FTcUVhMmhqWjhfZ0tOMFdoV1Z0bDh2SU85Vm16Ykw?oc=5",
-      "first_seen": "2026-07-28T14:41:46Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "398308bd46340d90e3a3",
       "title": "【地震】熊本県内の約4万8000戸で停電(17:45)",
       "source": "NHK",
@@ -16373,22 +16356,6 @@
       ]
     },
     {
-      "id": "4adf1318b2a99acd1e9b",
-      "title": "イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nQzJ4Y0FweENmTlZuYTVMSzVXV09ST2YtQ1EyVUNob2tPRE01c3pIbWVmdFNGcklBZ050Z3VxODF4LWhlNUhmSXVrVHlFeUpONVBldWFXdXFFbkZ2V2drMWpVbGF1ZDJyd2x5YW1TNGVGSVg0bVE?oc=5",
-      "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "82e76c3e27ae0a3533c6",
       "title": "イオンモール熊本で爆発か 閉じ込め多数 消防など救助急ぐ 近くの男性「ドンという音」",
       "source": "産経新聞",
@@ -16496,6 +16463,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4adf1318b2a99acd1e9b",
+      "title": "【フォトギャラリー】イオンモール熊本の安否不明者は20~30人程度か 警察関係者",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85NGpjMWM5OU4zU0lSOVlDNFlkMjBmb210blRNc2FlX3Q2NlE3empEN3pHUnhLakJWcUZ5Y0FlWHZBSkJJczl3Q05UUVhUSHdoYnVMLVFaOUs2cXNBYmVXcVQ0QzN4a2tVYmhxaXdIZHVNQjBRU0E?oc=5",
+      "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -17268,6 +17251,23 @@
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "69adc53e02b879b7548b",
+      "title": "「イオンモール熊本」で爆発 客は地震後避難か 熊本 嘉島町",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TSU1WcUNNRFVvanhaTmlZQTdjc3JWN0hjbW9GTlZJcjQ3ZVMyVF9xNWpkTWJTUVZEV2FTcUVhMmhqWjhfZ0tOMFdoV1Z0bDh2SU85Vm16Ykw?oc=5",
+      "first_seen": "2026-07-28T14:41:46Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
