@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T10:30:15Z",
-  "updated_at_jst": "2026/08/24 19:30 JST",
+  "updated_at": "2026-08-24T11:00:19Z",
+  "updated_at_jst": "2026/08/24 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1073,
@@ -920,6 +920,23 @@
       ]
     },
     {
+      "id": "3e7307e1bafd50085541",
+      "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93VG9qMGZDN0luYmFBYmdlRWt5a1l5MjYtZHUzM1NOOTBvdHlxdzUxcm9yQURKQTRPcE9Ea2tCdjNDQmhNSm5KMGhKdTJTTEJiRHlWa0t1Q1FxT005aUhiLWNVdUVWOW5pRXUwSQ?oc=5",
+      "first_seen": "2026-08-15T19:01:16Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f2c63259b376068b2053",
       "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に(写真・画像 1/1)",
       "source": "産経新聞",
@@ -999,23 +1016,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "3e7307e1bafd50085541",
-      "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-15T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93VG9qMGZDN0luYmFBYmdlRWt5a1l5MjYtZHUzM1NOOTBvdHlxdzUxcm9yQURKQTRPcE9Ea2tCdjNDQmhNSm5KMGhKdTJTTEJiRHlWa0t1Q1FxT005aUhiLWNVdUVWOW5pRXUwSQ?oc=5",
-      "first_seen": "2026-08-15T19:01:16Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -17065,7 +17065,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
