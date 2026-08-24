@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T13:00:17Z",
-  "updated_at_jst": "2026/08/24 22:00 JST",
+  "updated_at": "2026-08-24T13:30:19Z",
+  "updated_at_jst": "2026/08/24 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1073,
@@ -862,7 +862,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-18T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVE1xVWdybV9OZTVkZHVVSnhPVVpsc3cydE00QWFHRU1zT2xOX29Xb3RxeUQ1QnUxRHhtNHBiSk1VY1NaeWxJUWVnMXlhMjByZGtuMnhJcDdlMmlUcEwza2pRd1hQQUFBZUhyeWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVU2TldwaW4xV1VwaVhtcUxIc0JYNmdCS0pqRWdBWEtQaFpvMVJJMEtTOWJuQUlLU3NMaTlLa09MakNHcXYwdzBia003c0xqd3YtbHlrWTdXVjNySlFMcTVfd1ZXMzJkZUtmMXRVb0NEOGZydEw1clpjWEZRLXd0YVVCdXkwdVBfTWVBMDJn?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
@@ -915,6 +915,23 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91cmxwRjVhMm9tMFl2OEJ1aVI3cTJsZEVRQ3ZTQzdRWUhSd3dBX2Z2RHVDMVdOWG9HLU1IM3MxaUo3ZGJvdEhsN0VBTkljYks5TVkxYi1qdWdaX3FqNG1IVlNMR0IzcTZzRFFFRnpqSlo3UHRTZlE?oc=5",
       "first_seen": "2026-08-16T12:00:42Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "3e7307e1bafd50085541",
+      "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93VG9qMGZDN0luYmFBYmdlRWt5a1l5MjYtZHUzM1NOOTBvdHlxdzUxcm9yQURKQTRPcE9Ea2tCdjNDQmhNSm5KMGhKdTJTTEJiRHlWa0t1Q1FxT005aUhiLWNVdUVWOW5pRXUwSQ?oc=5",
+      "first_seen": "2026-08-15T19:01:16Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -999,23 +1016,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "3e7307e1bafd50085541",
-      "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-15T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93VG9qMGZDN0luYmFBYmdlRWt5a1l5MjYtZHUzM1NOOTBvdHlxdzUxcm9yQURKQTRPcE9Ea2tCdjNDQmhNSm5KMGhKdTJTTEJiRHlWa0t1Q1FxT005aUhiLWNVdUVWOW5pRXUwSQ?oc=5",
-      "first_seen": "2026-08-15T19:01:16Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -13189,7 +13189,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
