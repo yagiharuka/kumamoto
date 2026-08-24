@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T02:00:17Z",
-  "updated_at_jst": "2026/08/24 11:00 JST",
+  "updated_at": "2026-08-24T02:30:15Z",
+  "updated_at_jst": "2026/08/24 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1071,
@@ -2034,6 +2034,22 @@
       ]
     },
     {
+      "id": "4396a6d8083ff9865865",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wUjFKYjZmY1JmTXdCX1FqZG5qOEVuQmFLS3p3VDNyZGVMLTJleUpKT1pXY3RYY1ZYR2plZGgwbzVzZWdOcnNNY013Rk03b2tQSExIYWlld19feGZVMDJxVE90NFZJRzFWbGc?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b3dc42496b0202d7a8f4",
       "title": "画像・写真:イオンモール熊本に献花次々:時事ドットコム",
       "source": "時事通信",
@@ -2344,22 +2360,6 @@
       "first_seen": "2026-08-11T05:00:42Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4396a6d8083ff9865865",
-      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-11T03:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHM4NDM1dEJ1R19WTFY4eGIwQVlsQ3o1MzNsdXVGRmw4ZzJnWFIyVWhKcG1xcjNha0NhejVQT3hUaUV1cGpHM2g1c3dSTFlqc3hWYjJDWlR4UXVWXzJmeVUyXzM1NmZFWVlSaVJ2aGZsaTI2RmgzNktRdTB0WHg1bTByMnFPMWdOYU43c05NQ3MzZGV0Zzd6X0JR?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -10518,22 +10518,6 @@
       ]
     },
     {
-      "id": "12550c9001269077e709",
-      "title": "放射線量データ、熊本県内6か所で確認できない状態に...停電の影響か",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T08:24:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXWGNZbFpyNkRDVTJ3T0k3bzN0b0VmbnMtZjRjMnNTWlZxcEhFYnQ3LXpzalNmY0oxeTdSdFBOSmlaTmM0T19ibGxpSGsxWWJNeHoxbmVNRkVXbV8yUDNFanlqU18?oc=5",
-      "first_seen": "2026-07-29T09:01:08Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "69c6202293e591ac45f3",
       "title": "【動画で見る熊本地震】爆発したイオンモール、脱線など各地で被害",
       "source": "朝日新聞",
@@ -11176,6 +11160,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "12550c9001269077e709",
+      "title": "放射線量データ、熊本県内6か所で確認できない状態に...停電の影響か",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXWGNZbFpyNkRDVTJ3T0k3bzN0b0VmbnMtZjRjMnNTWlZxcEhFYnQ3LXpzalNmY0oxeTdSdFBOSmlaTmM0T19ibGxpSGsxWWJNeHoxbmVNRkVXbV8yUDNFanlqU18?oc=5",
+      "first_seen": "2026-07-29T09:01:08Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
