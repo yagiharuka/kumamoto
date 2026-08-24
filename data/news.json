@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T09:00:19Z",
-  "updated_at_jst": "2026/08/24 18:00 JST",
+  "updated_at": "2026-08-24T09:30:17Z",
+  "updated_at_jst": "2026/08/24 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1072,
@@ -2414,6 +2414,22 @@
       ]
     },
     {
+      "id": "fc8a386e31afe4e83b57",
+      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
+      "first_seen": "2026-08-11T11:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "fbc7e53ec19c954eb758",
       "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
       "source": "時事通信",
@@ -2473,22 +2489,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "fc8a386e31afe4e83b57",
-      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T01:52:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
-      "first_seen": "2026-08-11T11:30:43Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -15852,22 +15852,6 @@
       ]
     },
     {
-      "id": "ea3215bf72ae86d13999",
-      "title": "熊本県内の停電4万8170戸...八代市1万3770戸、宇城市1万2060戸など",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T09:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Uy1waTc0SFpjdzEyOTM5Sjd4S0RYUm0yMkRBMHgtLTM4VXRvZGs5eG51anNsWGhSUlFWeXIySkdjV2twc2JpWGs5Nm9sTDl3QVllaXpFRElYcFZWQmpWNHJHWC1pUQ?oc=5",
-      "first_seen": "2026-07-29T02:13:56Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "398308bd46340d90e3a3",
       "title": "【地震】熊本県内の約4万8000戸で停電(17:45)",
       "source": "NHK",
@@ -15974,6 +15958,22 @@
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMEcxOTNmZXhMVUxmSmZJWFBKR2xpYnRoN1RQc2JGOFVFRXpIMzAwakpfMENxS080dl8zVHdxR2F4Wk85U1pUQl9hZ0IzZkdxV0h2S3pBSGN3YWNjdDlOODNuakVpQQ?oc=5",
+      "first_seen": "2026-07-29T02:13:56Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "ea3215bf72ae86d13999",
+      "title": "熊本県内の停電4万8170戸...八代市1万3770戸、宇城市1万2060戸など",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Uy1waTc0SFpjdzEyOTM5Sjd4S0RYUm0yMkRBMHgtLTM4VXRvZGs5eG51anNsWGhSUlFWeXIySkdjV2twc2JpWGs5Nm9sTDl3QVllaXpFRElYcFZWQmpWNHJHWC1pUQ?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
         "停電状況"
@@ -17047,7 +17047,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HanVKVWJ4eGw0eXlsQUNDNTBSakYxd19XUmpQQ1FyM2RmYnVET2doOG1TTjJOdmtMNTNzTWhTVVNpb1RvVUdTRVA4YVZzYjA3c3FQTl9vUy04OEJ2cndMOWdVazg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
