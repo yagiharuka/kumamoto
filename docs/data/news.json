@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-24T05:00:19Z",
-  "updated_at_jst": "2026/08/24 14:00 JST",
+  "updated_at": "2026-08-24T05:30:18Z",
+  "updated_at_jst": "2026/08/24 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1072,
@@ -2432,22 +2432,6 @@
       ]
     },
     {
-      "id": "fc8a386e31afe4e83b57",
-      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
-      "first_seen": "2026-08-11T11:30:43Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "fbc7e53ec19c954eb758",
       "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
       "source": "時事通信",
@@ -2507,6 +2491,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "fc8a386e31afe4e83b57",
+      "title": "プレスリリース:~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す(PR TIMES)",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T01:52:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZW1GSW95eHdoYWJSN1ZFOXlPTnVuOTduYWVwc01nX1prcXVIM0ZmYUF0dDgzRkFveEVDbnF1Yk9ZQlZXMklEQVNCaVl6SXhtdHhXQUEzcVRrY21lbmZZT3NNUHJYZlU0?oc=5",
+      "first_seen": "2026-08-11T11:30:43Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
