@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T14:00:20Z",
-  "updated_at_jst": "2026/08/25 23:00 JST",
+  "updated_at": "2026-08-25T14:30:19Z",
+  "updated_at_jst": "2026/08/25 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1085,
@@ -747,7 +747,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzAyMG9lMF9sTFVYNGZMQURHb1Jib3F5bE1Bbld6bzVyYzFYVFJ1bkVzT2M5WjRmRFllQUxycml3dFpiM01Iai1tdE5veXpZbmJCUGVxNXlLS0l2YTFXcVlJSWxGLUM3THJ3Zk55S3JmTUZHZy04dlRxWGxJREx6YQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeWh5UHJPSHhFWF9aUDV6MV9YZWNpV2FBM1lnUTYyY2tCc2pWZkNrc0hIMU5NV1JxZVdXcTV5Ymo0T0t5X1Z3Yk5iTXVOZVo1azc4S3VTdkJZejRQWFRzN2d4bw?oc=5",
       "first_seen": "2026-08-20T07:30:29Z",
       "focus": [
         "現場状況"
