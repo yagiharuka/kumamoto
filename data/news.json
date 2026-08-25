@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T15:00:23Z",
-  "updated_at_jst": "2026/08/26 00:00 JST",
+  "updated_at": "2026-08-25T16:00:19Z",
+  "updated_at_jst": "2026/08/26 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1086,
+  "article_count": 1087,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 160,
+    "yomiuri": 161,
     "kumanichi": 167,
     "nhk": 90,
     "asahi": 125,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 864,
+    "aeon": 865,
     "power": 123,
     "paper": 116
   },
@@ -104,7 +104,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-08-25T09:17:00Z",
+      "published_at": "2026-08-25T09:23:21Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQNUtBTFJKMTJQYlFnWDlCNDBhZmVuSmF2bXU2V1lWRmxBVVYyTmhaY0hCMmd6bW5rMVpPRlhid1ZrSy0xVlJJTi1PTmw0YzA?oc=5",
       "first_seen": "2026-08-25T09:30:18Z",
       "focus": [
@@ -255,6 +255,22 @@
       "published_at": "2026-08-25T04:19:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LQl8yVW9yZHlRU1cyOTFPTE85SFB6RGQxSTBiYTlOTDN2RkxGdUZ0Rmo0VmVrQmVDalZKUTBQSWtWV1kwdkNUWVhJQ0RpNVE?oc=5",
       "first_seen": "2026-08-25T04:30:15Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "22d24a200fd71bbe01ff",
+      "title": "イオン爆発 病院内外で活動「想定外」 熊本赤十字病院長が会見",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-24T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NUNlM1FOSm1OTHhSZV9iYnhhZXNmMG1TdEpGd25CN1l0dEhobjJZN29JMEZXdHlyTWpoYmZwaHJNRXpSYnhDd2QyRlBIdEROdmRRTE1RYjVFR21fNU5BVlB6bHdvdw?oc=5",
+      "first_seen": "2026-08-25T16:00:19Z",
       "focus": [
         "現場状況"
       ],
@@ -1164,6 +1180,22 @@
       ]
     },
     {
+      "id": "99b8996d78048f9b5c5f",
+      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-16T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
+      "first_seen": "2026-08-16T07:30:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "7df9fada7e5474534100",
       "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
       "source": "熊本日日新聞",
@@ -1194,22 +1226,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "99b8996d78048f9b5c5f",
-      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-16T06:45:49Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
-      "first_seen": "2026-08-16T07:30:44Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -5453,7 +5469,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
