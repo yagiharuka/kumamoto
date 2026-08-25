@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T00:00:17Z",
-  "updated_at_jst": "2026/08/25 09:00 JST",
+  "updated_at": "2026-08-25T00:30:17Z",
+  "updated_at_jst": "2026/08/25 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1074,
@@ -969,22 +969,6 @@
       ]
     },
     {
-      "id": "7df9fada7e5474534100",
-      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-16T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
-      "first_seen": "2026-08-16T07:30:44Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "3e7307e1bafd50085541",
       "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
       "source": "日本経済新聞",
@@ -1009,6 +993,22 @@
       "source_group": "全国紙",
       "published_at": "2026-08-16T06:45:49Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
+      "first_seen": "2026-08-16T07:30:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "7df9fada7e5474534100",
+      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-16T06:33:17Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
       "first_seen": "2026-08-16T07:30:44Z",
       "focus": [
         "停電状況"
