@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T08:00:19Z",
-  "updated_at_jst": "2026/08/25 17:00 JST",
+  "updated_at": "2026-08-25T08:30:17Z",
+  "updated_at_jst": "2026/08/25 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1078,
@@ -631,7 +631,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeWh5UHJPSHhFWF9aUDV6MV9YZWNpV2FBM1lnUTYyY2tCc2pWZkNrc0hIMU5NV1JxZVdXcTV5Ymo0T0t5X1Z3Yk5iTXVOZVo1azc4S3VTdkJZejRQWFRzN2d4bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzAyMG9lMF9sTFVYNGZMQURHb1Jib3F5bE1Bbld6bzVyYzFYVFJ1bkVzT2M5WjRmRFllQUxycml3dFpiM01Iai1tdE5veXpZbmJCUGVxNXlLS0l2YTFXcVlJSWxGLUM3THJ3Zk55S3JmTUZHZy04dlRxWGxJREx6YQ?oc=5",
       "first_seen": "2026-08-20T07:30:29Z",
       "focus": [
         "現場状況"
@@ -1034,22 +1034,6 @@
       ]
     },
     {
-      "id": "7df9fada7e5474534100",
-      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-16T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
-      "first_seen": "2026-08-16T07:30:44Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "3e7307e1bafd50085541",
       "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
       "source": "日本経済新聞",
@@ -1074,6 +1058,22 @@
       "source_group": "全国紙",
       "published_at": "2026-08-16T06:45:49Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
+      "first_seen": "2026-08-16T07:30:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "7df9fada7e5474534100",
+      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-16T06:33:17Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
       "first_seen": "2026-08-16T07:30:44Z",
       "focus": [
         "停電状況"
@@ -2535,7 +2535,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmZQTFhvS2R5QzVIcVE2MU8yQ3dfTjh1aHdFM1BKSEV1cFhSN2NPbF80V3oxaDUxWDExS0NtNVVhU0xhdnpsYXlSRmJDcENRRHotZl8wb2s1Vks0ZkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMFhrckpDaXhGXzZ1Yi10YlFMMXdOUm5TWS1jMERsdHVmbW5aalhvYmhxeGRwUE51djBOajhhSGQ1RVExSTU1OVI4YUtmQ19lS2tjWg?oc=5",
       "first_seen": "2026-08-13T20:00:57Z",
       "focus": [
         "現場状況"
@@ -4472,7 +4472,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -5323,7 +5323,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -7065,7 +7065,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90aWhUeHBkTkxObHZ3MlRnNnZnbVhhX0NyMHQ3a1p3bG0xZHY5Z3ZvN01XMkZydGpvdFhlZmtsQmc2bklMQzlzWGY3LTRaUzhKUGxxQg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dy11OFpkUnI3aXBpY3FqNU9Ha21nQzR0N0dRUUpJZmpoc0t3M2JIU3hfbTRHd213RVRkRzNqRlBUcnFKTVVEUmJ2bDZJX1Zaa0Q4Mg?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -7079,7 +7079,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaS1lT1doTW1nRVhHelF6RjU4ZWE0WTNHOTVWSkh6M0laY1B1c0wzS2lwTDVTUXVicE85bzdscnNvR09uRG45aW8wTUV2cGpGOUIweGM2UG9aZTluamFDUXA2VXJQamtKVURCX3R6QmFMb192MXR0YUN3bUdSYnlZYg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdDgxX0MtT1pBRnpseGpTWnBsUk1NdE9CcmM5THpZdnMxeWgzdy10d05SLW56UXRpQTAtQjI5Vkxac3NGVkxQbXRwdFQ5LWVQMHJldHlsY3ljTEw5eWM4RkRoWQ?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
@@ -13674,7 +13674,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlUX2RLaUVMLVY4WTM4ejZUY1NKczlYX29FSFdVRFh0MDFvRURFc3BDWkF3R3NVR0dHNUNnaVNsV1Y2WUtPXy1INTJXNXBRNGw2N2NRSGVvRGNtS0V1dGs0VklBbHlTd0NtSUZ5OWczYUNDUHc1cml5ZzhHY2E4ZEtR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
