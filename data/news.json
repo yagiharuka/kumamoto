@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T20:00:24Z",
-  "updated_at_jst": "2026/08/26 05:00 JST",
+  "updated_at": "2026-08-25T20:30:16Z",
+  "updated_at_jst": "2026/08/26 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1089,
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
-    "nikkei": 65,
     "yomiuri": 161,
+    "nikkei": 65,
     "kumanichi": 167,
     "nhk": 90,
     "asahi": 125,
@@ -82,13 +82,29 @@
   },
   "items": [
     {
+      "id": "22d24a200fd71bbe01ff",
+      "title": "イオン爆発 病院内外で活動「想定外」 熊本赤十字病院長が会見",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54WU5ZVURaMWVid0dVRUhiWFFvZjJadnJzV1didC1MYVVLenkzTGFNaWlfWDFuQ1RIdkdRRGxBaXFSNWpxUVlfQ21xV2hWcnAyb01YTF9xdHZpN2JJNUJ3LUNNTQ?oc=5",
+      "first_seen": "2026-08-25T16:00:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1ccc44004aff8470ec61",
       "title": "熊本地震1カ月 災害列島の死角(中)防災シナリオ、揺らぐ前提 イオン爆発や南九州道分断...",
       "source": "日本経済新聞",
       "source_id": "nikkei",
       "source_group": "全国紙",
       "published_at": "2026-08-25T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZZzRadXZzTUVoRV8taTFjN3ZkN1lSRk9MQUhpc2dCWGZQZU11Q0s3WlpacWZpMkk2N3UybmkzWjhSTTlmU0o1SEo2QnlleEhUbG1qUXJDSlI2X1B2LVhhcnVXRWVkVmwtdjFV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CYnJxV2Z6OGIzOHFsSlhHQWJiY05JOVNUZjI0N1NwMGhJWFRjVzJzTkVZck9OQmVCVFhWQWoydjBxNy1mVk1ZS0hsREQ1TE9WN0xQNENoYVZLYlpfNWE0cUtSTVNRV0M0Z2VF?oc=5",
       "first_seen": "2026-08-25T17:30:19Z",
       "focus": [
         "現場状況"
@@ -287,22 +303,6 @@
       "published_at": "2026-08-25T04:19:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LQl8yVW9yZHlRU1cyOTFPTE85SFB6RGQxSTBiYTlOTDN2RkxGdUZ0Rmo0VmVrQmVDalZKUTBQSWtWV1kwdkNUWVhJQ0RpNVE?oc=5",
       "first_seen": "2026-08-25T04:30:15Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "22d24a200fd71bbe01ff",
-      "title": "イオン爆発 病院内外で活動「想定外」 熊本赤十字病院長が会見",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-24T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0NUNlM1FOSm1OTHhSZV9iYnhhZXNmMG1TdEpGd25CN1l0dEhobjJZN29JMEZXdHlyTWpoYmZwaHJNRXpSYnhDd2QyRlBIdEROdmRRTE1RYjVFR21fNU5BVlB6bHdvdw?oc=5",
-      "first_seen": "2026-08-25T16:00:19Z",
       "focus": [
         "現場状況"
       ],
@@ -2418,13 +2418,13 @@
     },
     {
       "id": "536a961ec1a7644e4a7a",
-      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震:時事ドットコム",
+      "title": "イオン、従業員に再入館許可 爆発事故前、私物回収など理由に―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
-      "first_seen": "2026-08-12T01:30:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlExV1ZzcExrWTNOQkpiN0dQclRpVDRreDBBRjBIZUhzaG5IWkRIUS1KMFRFV2Z6eHY3RlU3UUV1YmxDdFV5aE44YTNrUndId0JRWGJIZ0w3ems4YnVfcy1hOHptYWhxb09wdlBydmk2Z1RKSjdVdjZfOE1BMXpGM19R?oc=5",
+      "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -2440,8 +2440,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlExV1ZzcExrWTNOQkpiN0dQclRpVDRreDBBRjBIZUhzaG5IWkRIUS1KMFRFV2Z6eHY3RlU3UUV1YmxDdFV5aE44YTNrUndId0JRWGJIZ0w3ems4YnVfcy1hOHptYWhxb09wdlBydmk2Z1RKSjdVdjZfOE1BMXpGM19R?oc=5",
-      "first_seen": "2026-08-11T04:30:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QRWJkOGJzOXZzenFxQmxFb0xTR1FXY3ljSzQ5Q1U0ZVVYS1doejZmdkY1LUJEYmRuOEhRbk0wMUZoek03TUtzRnU0ZmM4TnhPUm1MNS1hRTRsREJFc2o4N1RFYw?oc=5",
+      "first_seen": "2026-08-12T01:30:54Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -4650,7 +4650,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -5501,7 +5501,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -12225,6 +12225,20 @@
       ]
     },
     {
+      "id": "d5ce6c79f8dae1171302",
+      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcG90UjJSdHFHY2tmc0JOQjNLMU5USVNWeWN6STdvSl9hRkVzemlBc1JhN1I0Mm9rQjlFbjNVOWFrdlJpT1pWVllIZnJIdlZXckkyQnM2TVljbmxrUHdOdU1ZYW9fS01SVWFhU0w5M0lORjFHOVo3MERWXzlLOFpkTWoxQ2pNVVJfXzV6VjJQOXB5a3EzTVlpWjBHQ1ViOHM0SlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c22709c86c65e42e5274",
       "title": "【動画】鉄骨むき出し、床に建材散乱 爆発起きたイオンモール熊本内部の映像を警察庁が公開",
       "source": "産経新聞",
@@ -13838,7 +13852,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlUX2RLaUVMLVY4WTM4ejZUY1NKczlYX29FSFdVRFh0MDFvRURFc3BDWkF3R3NVR0dHNUNnaVNsV1Y2WUtPXy1INTJXNXBRNGw2N2NRSGVvRGNtS0V1dGs0VklBbHlTd0NtSUZ5OWczYUNDUHc1cml5ZzhHY2E4ZEtR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
@@ -16661,20 +16675,6 @@
         "避難状況",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d5ce6c79f8dae1171302",
-      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm1LS1Fjc0xOeGU2M1VsbHhOMkV6RGo0S0tjWE53UjRJOFZzM2lyNmpBV2Q5dlg2VlVGbHlHZklUVW1KSlg3TWxBLTl1cGZybmdkNDl2SFY1N2M3V0ExdXdpY2hfZEVVaTRMYnlQR00xRHVrNHFjYURvenlJT2dsaDdzZV9LSkVXaTFQZHBnZ2dRY3pVekMyWldkZ29jbmRRZHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
