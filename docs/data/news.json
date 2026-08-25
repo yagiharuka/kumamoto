@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T17:00:18Z",
-  "updated_at_jst": "2026/08/26 02:00 JST",
+  "updated_at": "2026-08-25T17:30:19Z",
+  "updated_at_jst": "2026/08/26 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1087,
+  "article_count": 1089,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "nikkei": 65,
     "yomiuri": 161,
     "kumanichi": 167,
     "nhk": 90,
     "asahi": 125,
-    "nikkei": 63,
     "mainichi": 134,
     "sankei": 172,
     "jiji": 175
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 865,
+    "aeon": 867,
     "power": 123,
     "paper": 116
   },
   "items": [
+    {
+      "id": "1ccc44004aff8470ec61",
+      "title": "熊本地震1カ月 災害列島の死角(中)防災シナリオ、揺らぐ前提 イオン爆発や南九州道分断...",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YS1ppbWhadk10S012UHNpbWpXaGJpVHdiUWxKUHo0d3NZeGczT0xySGNQMnVSZUJkTC1ZNmVDb2dhWmhqX3o0Wmc5Y2dWZzg1NmxIdW5hb053Z25WSDdmZnVUcFpvbjd1dklPbQ?oc=5",
+      "first_seen": "2026-08-25T17:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "19bcf22b15abdc304bbc",
+      "title": "熊本イオン爆発、経産省が調査委 来月に初会合",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNWNYY21BR2NHRVFIRGpDcUZTMVlzdXBLVHcwNElHbFYxMnYtaW9iUVNMQ2NuOWl5TGk3VHB5ZGdIOG9ZZktTNkVZVUVVU2d1VXBKbU9sdWNrYkhtcWFMejBMRFBnUHdZUmFFSA?oc=5",
+      "first_seen": "2026-08-25T17:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "2ffa8ad76a416b6e97f0",
       "title": "「イオンモール熊本」爆発原因究明へ、LPGなどの専門家による事故調査委を設置...9月に初会合",
