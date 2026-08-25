@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T14:30:19Z",
-  "updated_at_jst": "2026/08/25 23:30 JST",
+  "updated_at": "2026-08-25T15:00:23Z",
+  "updated_at_jst": "2026/08/26 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1085,
+  "article_count": 1086,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "kumanichi": 167,
     "nhk": 90,
     "asahi": 125,
-    "nikkei": 62,
+    "nikkei": 63,
     "mainichi": 134,
     "sankei": 172,
     "jiji": 175
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 864,
     "power": 123,
-    "paper": 115
+    "paper": 116
   },
   "items": [
     {
@@ -134,7 +134,7 @@
     },
     {
       "id": "b0b68e45b4ec525f3588",
-      "title": "<2026年熊本地震>経産省が事故調査委立ち上げ イオンモール爆発",
+      "title": "<2026年熊本地震>イオンモール爆発、経産相「事故調査委立ち上げる」",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -294,6 +294,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "398689e647e77019a3e4",
+      "title": "老いる日本の工場、主要国ワースト2位の古さ 熊本地震でリスク顕在",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-24T02:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGUENDOW1IS1JoMUYyVkIxa2R5d1h1anhhVk1PSkR1TFhubXlFRGdCeHBMNHFFd2pmRFYwcUpPUkc5ci05bWxrblhwV1gzRkJVbFQtTGxETHRJbFpoaW00MEZTbjEybGNON1Y0Wg?oc=5",
+      "first_seen": "2026-08-25T15:00:23Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -5439,7 +5453,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
