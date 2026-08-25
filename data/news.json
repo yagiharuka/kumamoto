@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T09:00:19Z",
-  "updated_at_jst": "2026/08/25 18:00 JST",
+  "updated_at": "2026-08-25T09:30:18Z",
+  "updated_at_jst": "2026/08/25 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1080,
+  "article_count": 1083,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 166,
+    "kumanichi": 167,
+    "nhk": 89,
     "asahi": 125,
+    "nikkei": 62,
     "mainichi": 134,
     "sankei": 172,
-    "nhk": 88,
     "yomiuri": 159,
-    "nikkei": 61,
     "jiji": 175
   },
   "tracked_categories": [
@@ -76,11 +76,45 @@
     }
   ],
   "category_counts": {
-    "aeon": 861,
-    "power": 122,
-    "paper": 114
+    "aeon": 862,
+    "power": 123,
+    "paper": 115
   },
   "items": [
+    {
+      "id": "dc0da6159ad62238a927",
+      "title": "プライバシー配慮した避難所新設 集合住宅の停電継続受け、千葉市(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-25T09:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQNUtBTFJKMTJQYlFnWDlCNDBhZmVuSmF2bXU2V1lWRmxBVVYyTmhaY0hCMmd6bW5rMVpPRlhid1ZrSy0xVlJJTi1PTmw0YzA?oc=5",
+      "first_seen": "2026-08-25T09:30:18Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "f256d3fffd767b14c446",
+      "title": "八代 地震で9人死亡の日本製紙 煙突の撤去作業始まる",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-25T08:59:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TNjk5aEd2cElSdzJLamdMVGs2QjdWWlB5Y0dVUkVpUHFhYmpGeTYtTEFqS3Y3MkVsWVNWaDczNmZPMElQOWZvRmhYVDBiY3d5TENYVEhraTE?oc=5",
+      "first_seen": "2026-08-25T09:30:18Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "b0b68e45b4ec525f3588",
       "title": "<2026年熊本地震>経産省が事故調査委立ち上げ イオンモール爆発",
@@ -106,6 +140,22 @@
       "published_at": "2026-08-25T08:41:47Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oT0s5ZXFMM3BIUzM4a00tcTZVSUtXQzhXYXVIRjJaX18td2xTV3Vfa2xFWjhvaWEtNVpFcTJtS1B4WmcxUWZHeFpPaWRBVlBDS3hVQVFRMzNhdm1aNTFaYThHUEJJeVk?oc=5",
       "first_seen": "2026-08-25T09:00:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7e32458c57897da67999",
+      "title": "イオンモール熊本の爆発事故、経済産業省が調査委を立ち上げ",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T07:41:34Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYjI4d1hrc1RHSWlRLVVFRjZFenVBRk9UZjN0clprcm1ZYTFaU003OUFPeEZzWTJfaHJYTTgyOEVxSjNxdmJ3YjMtSFotcFA2Y3JOZWJVYmMzODBHQm04bFQtcWJTZW9vMFpUTg?oc=5",
+      "first_seen": "2026-08-25T09:30:18Z",
       "focus": [
         "現場状況"
       ],
@@ -180,7 +230,7 @@
     },
     {
       "id": "c3d619eb3a71d929d7b9",
-      "title": "イオンモール爆発事故 雑貨店運営会社 遺族に事実と異なる説明",
+      "title": "熊本地震 イオンモール爆発事故で雑貨店運営会社が遺族に事実と異なる説明 | NHKニュース | 令和8年熊本地震、熊本県",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -1066,6 +1116,22 @@
       ]
     },
     {
+      "id": "7df9fada7e5474534100",
+      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-16T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
+      "first_seen": "2026-08-16T07:30:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "3e7307e1bafd50085541",
       "title": "イオンモール熊本爆発 「災害に強い」LPガス誤算 防災拠点の自負崩れる",
       "source": "日本経済新聞",
@@ -1090,22 +1156,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-16T06:45:49Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
-      "first_seen": "2026-08-16T07:30:44Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "7df9fada7e5474534100",
-      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-16T06:33:17Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
       "first_seen": "2026-08-16T07:30:44Z",
       "focus": [
         "停電状況"
@@ -5355,7 +5405,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -13362,7 +13412,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3T3llUU1ta1NPZEE2N0taNkc4LXJsSF9tSFI4M0duTTZHZ21oczhjSTRmMVJieUdzNWxvVkI2TUZ5ZWlLTGs0MWtJZl9ib0RmT3BiNFJVYmlXNXB0dkpZQ3AtTkNWamxOb1ZscWJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS09oa2JxaVJBV0JFTGxFMmNQb1RfY1hUdkJIVUhDME1rNi1zM2JRRDlpdlBVTDNGUFRSMVFaQnZZNW01TTkwS0NKdFN6bFpFZkNPRTcyWkxmZHB3Wi1CN1lHM1JKa2NTSkJGNEpMNTNCY2VUWjRiWWFKN2l5SVlUc19TQlctbUI5d19xamRB?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
