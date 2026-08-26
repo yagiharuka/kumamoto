@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T10:00:17Z",
-  "updated_at_jst": "2026/08/26 19:00 JST",
+  "updated_at": "2026-08-26T10:30:18Z",
+  "updated_at_jst": "2026/08/26 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1094,
+  "article_count": 1095,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "nhk": 91,
     "sankei": 175,
     "mainichi": 135,
     "yomiuri": 162,
     "nikkei": 65,
     "kumanichi": 167,
-    "nhk": 90,
     "asahi": 125,
     "jiji": 175
   },
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 871,
+    "aeon": 872,
     "power": 123,
     "paper": 117
   },
   "items": [
+    {
+      "id": "d35dc8860fa3ab15e045",
+      "title": "学校でLPガスの安全点検 熊本地震のイオン爆発を受け 韮崎",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-26T09:35:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01VU8xRlhscDZWNzUyb25YUmhoRHB6WEFvY0Q5ajhGWXJpSnFlOGhILW9JT1JoVWdXclI4SktaQmRiZnBUUVFXR091blljSG9qNXo1VktqMzA?oc=5",
+      "first_seen": "2026-08-26T10:30:18Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "620f9cbda66d5ca02aa0",
       "title": "イオン爆発など熊本地震を巡る報道に高い関心 新聞協会が7月の調査結果を発表",
@@ -1202,8 +1219,8 @@
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
-      "published_at": "2026-08-18T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVU2TldwaW4xV1VwaVhtcUxIc0JYNmdCS0pqRWdBWEtQaFpvMVJJMEtTOWJuQUlLU3NMaTlLa09MakNHcXYwdzBia003c0xqd3YtbHlrWTdXVjNySlFMcTVfd1ZXMzJkZUtmMXRVb0NEOGZydEw1clpjWEZRLXd0YVVCdXkwdVBfTWVBMDJn?oc=5",
+      "published_at": "2026-08-17T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icC05dHBGdUI4NmRoNWdIb2pyYUJjSFpQbmxNTThvWWJ0Vkx2MW1iWmdQaXoxR1hmdkh6TzIybWdNQlkyYmRvQXF5Vnhzd2gtbFZyeG80MFNFRV9FWi1SMTNYdGhxWFlRVS1fQVZn?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
