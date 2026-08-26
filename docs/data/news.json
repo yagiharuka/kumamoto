@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T06:30:17Z",
-  "updated_at_jst": "2026/08/26 15:30 JST",
+  "updated_at": "2026-08-26T07:00:19Z",
+  "updated_at_jst": "2026/08/26 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1092,
+  "article_count": 1093,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,12 +50,12 @@
   ],
   "source_counts": {
     "sankei": 175,
+    "mainichi": 135,
     "yomiuri": 161,
     "nikkei": 65,
     "kumanichi": 167,
     "nhk": 90,
     "asahi": 125,
-    "mainichi": 134,
     "jiji": 175
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 870,
+    "aeon": 871,
     "power": 123,
     "paper": 116
   },
@@ -125,6 +125,22 @@
       "focus": [
         "救助・安否",
         "操業情報"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7c75e3aca378522b036e",
+      "title": "熊本地震 経産省が調査委 イオン爆発究明へ",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T20:06:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yYVFmSEVDWXg0UEZWZ1c0ZUlIUzJfYmlQblVXem9nNTIzbUo5Mkp1T29vMXRQUHZaYnA1UXNoSDZ2UVQwdG85WFlPRC1pZ2dNMkhfYnFpRDRwX1N3Z2MtejBuQVhLWTlr?oc=5",
+      "first_seen": "2026-08-26T07:00:19Z",
+      "focus": [
+        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -842,7 +858,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
