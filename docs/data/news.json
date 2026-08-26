@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T12:00:19Z",
-  "updated_at_jst": "2026/08/26 21:00 JST",
+  "updated_at": "2026-08-26T12:30:17Z",
+  "updated_at_jst": "2026/08/26 21:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1097,
@@ -974,22 +974,6 @@
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "80b4e90c1a21053da44e",
-      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-20T04:49:09Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2kzR3U2cTNNVk9kUzNEVmEzcHJLeDkxZ21HdmNHZThCUEgydlIxZmlnT3RKbkJSZVZyWFc0a2lCSFBWQ2xNV0lQRUJWc0RJUzdBMGZwMTQ1ZWRCMGNDemtEUjhDTlY5eUZxdEowNU5wa3VYRXI0T0VlYUNLTHEwS1MxdjFGYVdwY0dRTUI3eV9DSUdjTTZuaGppYVJmTlZtdkE?oc=5",
-      "first_seen": "2026-08-04T04:00:29Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -4516,6 +4500,22 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1JQUFZvNVMydmdCM1lyU2QzaC1HS0ozdnROelB2dzR2S1NaeUctYl91d0luaEViaWZIVno4YXNZRXZJdXh3SkVUQW1XN2NFMm01aHJIeHQ1MHVodDhVZ3ZVZjY4dGdKam43UTJqSFBFcEdlSjUzR2tWODRtZzM1S195MmN0S3J6ZjB4TmlfQ1RHcG5RR0gwZGx6OHVqZ0NKMXc?oc=5",
       "first_seen": "2026-08-04T15:01:05Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "80b4e90c1a21053da44e",
+      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGtweUZseWdGVnhoWlRwLTBtWUJUMy1yMGNSVEpBWVZaT3pzcWVUV0toSmViWmRVcHo2YkdqZGo5aG1Ecld0TTBkTFJ3d3hTT3dXRFJzMkZkc25lV1ZiMTdTelZjYzc2dHBpbW9sR0ctWndiRmpkOW9BVXo2YTlsaS1ZdVpyMnJhSXgzbF9xZjZVNF8xaDlkTGk2aXBlcXRWNnc?oc=5",
+      "first_seen": "2026-08-04T04:00:29Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -12213,7 +12213,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREFRZ1A5SjRJSEJQWUw2SzdCRkswX3pHOGNTdEpPWTl5aEFiNi1xU0p2NWtGVDlHaDRvcWdndGRUZF95TWdYai1LVC1mUFRKZ0w1WjRfbEtzaGhwaVZHNUhCNzVub1M1RzFxZWY1bHhZNlZBcEtiWDRwdGJkSjZfd2kzMG9hb20yT3djVmlLOEFic3pObVF6RVlvLW1sM0dFQ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDEwNGZENWxoSloyZzZ3c2ZtZ04xQTZ5eGlkeGJ3TENvc3dIbWk2X1QtWjJHYUZweW5OOEJUR3ZORnNXR3F3SHJka3dHTmVHWGpoTWxidVFVUnZQODlQY2lOVVNRZWlCdDVBWFIxUDNQOEdvVGJfS3ZQOUp2RWNfYzExeDVOODluVFctTjZwcDExYzNrZnR6Y1hETVJ4WlJvTFE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -12349,6 +12349,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d5ce6c79f8dae1171302",
+      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcG90UjJSdHFHY2tmc0JOQjNLMU5USVNWeWN6STdvSl9hRkVzemlBc1JhN1I0Mm9rQjlFbjNVOWFrdlJpT1pWVllIZnJIdlZXckkyQnM2TVljbmxrUHdOdU1ZYW9fS01SVWFhU0w5M0lORjFHOVo3MERWXzlLOFpkTWoxQ2pNVVJfXzV6VjJQOXB5a3EzTVlpWjBHQ1ViOHM0SlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -16790,20 +16804,6 @@
         "避難状況",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d5ce6c79f8dae1171302",
-      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm1LS1Fjc0xOeGU2M1VsbHhOMkV6RGo0S0tjWE53UjRJOFZzM2lyNmpBV2Q5dlg2VlVGbHlHZklUVW1KSlg3TWxBLTl1cGZybmdkNDl2SFY1N2M3V0ExdXdpY2hfZEVVaTRMYnlQR00xRHVrNHFjYURvenlJT2dsaDdzZV9LSkVXaTFQZHBnZ2dRY3pVekMyWldkZ29jbmRRZHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
