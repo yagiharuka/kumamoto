@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T05:00:18Z",
-  "updated_at_jst": "2026/08/26 14:00 JST",
+  "updated_at": "2026-08-26T05:30:16Z",
+  "updated_at_jst": "2026/08/26 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1091,
+  "article_count": 1092,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 174,
+    "sankei": 175,
     "yomiuri": 161,
     "nikkei": 65,
     "kumanichi": 167,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 869,
+    "aeon": 870,
     "power": 123,
     "paper": 116
   },
   "items": [
+    {
+      "id": "620f9cbda66d5ca02aa0",
+      "title": "イオン爆発など熊本地震を巡る報道に高い関心 新聞協会が7月の調査結果を発表",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T04:58:03Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rV2hpd3RyRzBUWlpXSnpWRkdLUjYzeEZPQVZQUEl4N09SOWVWUDkzUlg0TkZReDFDUUo4S0ptWjJyOVAzWUFRSzhXT2ZpWFdfNE83aEZfakM1azR4cGtMMlZ3VXV3NWhncE5zUXdCYjBKZkUwOUE?oc=5",
+      "first_seen": "2026-08-26T05:30:16Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "14f16fd2eac2116fec47",
       "title": "爆発が起きたイオンモール熊本で、内部調査のため飛行するドローン=7月30日、熊本県嘉島町(JUIDA提供)",
@@ -826,7 +842,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
@@ -842,7 +858,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeWh5UHJPSHhFWF9aUDV6MV9YZWNpV2FBM1lnUTYyY2tCc2pWZkNrc0hIMU5NV1JxZVdXcTV5Ymo0T0t5X1Z3Yk5iTXVOZVo1azc4S3VTdkJZejRQWFRzN2d4bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzAyMG9lMF9sTFVYNGZMQURHb1Jib3F5bE1Bbld6bzVyYzFYVFJ1bkVzT2M5WjRmRFllQUxycml3dFpiM01Iai1tdE5veXpZbmJCUGVxNXlLS0l2YTFXcVlJSWxGLUM3THJ3Zk55S3JmTUZHZy04dlRxWGxJREx6YQ?oc=5",
       "first_seen": "2026-08-20T07:30:29Z",
       "focus": [
         "現場状況"
