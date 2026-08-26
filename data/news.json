@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T13:00:17Z",
-  "updated_at_jst": "2026/08/26 22:00 JST",
+  "updated_at": "2026-08-26T13:30:19Z",
+  "updated_at_jst": "2026/08/26 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1097,
@@ -981,6 +981,22 @@
       ]
     },
     {
+      "id": "80b4e90c1a21053da44e",
+      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T04:49:09Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2kzR3U2cTNNVk9kUzNEVmEzcHJLeDkxZ21HdmNHZThCUEgydlIxZmlnT3RKbkJSZVZyWFc0a2lCSFBWQ2xNV0lQRUJWc0RJUzdBMGZwMTQ1ZWRCMGNDemtEUjhDTlY5eUZxdEowNU5wa3VYRXI0T0VlYUNLTHEwS1MxdjFGYVdwY0dRTUI3eV9DSUdjTTZuaGppYVJmTlZtdkE?oc=5",
+      "first_seen": "2026-08-04T04:00:29Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6f3d0f50fc1df3e349ec",
       "title": "イオンモール熊本の爆発事故調査委が発足 (共同通信)",
       "source": "熊本日日新聞",
@@ -1244,6 +1260,22 @@
       ]
     },
     {
+      "id": "9e603221cabd146574b8",
+      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-17T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
+      "first_seen": "2026-08-17T05:30:35Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "575d45f60e455ff25195",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に",
       "source": "朝日新聞",
@@ -1258,22 +1290,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "9e603221cabd146574b8",
-      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-17T05:14:54Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
-      "first_seen": "2026-08-17T05:30:35Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -4500,22 +4516,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU1JQUFZvNVMydmdCM1lyU2QzaC1HS0ozdnROelB2dzR2S1NaeUctYl91d0luaEViaWZIVno4YXNZRXZJdXh3SkVUQW1XN2NFMm01aHJIeHQ1MHVodDhVZ3ZVZjY4dGdKam43UTJqSFBFcEdlSjUzR2tWODRtZzM1S195MmN0S3J6ZjB4TmlfQ1RHcG5RR0gwZGx6OHVqZ0NKMXc?oc=5",
       "first_seen": "2026-08-04T15:01:05Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "80b4e90c1a21053da44e",
-      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGtweUZseWdGVnhoWlRwLTBtWUJUMy1yMGNSVEpBWVZaT3pzcWVUV0toSmViWmRVcHo2YkdqZGo5aG1Ecld0TTBkTFJ3d3hTT3dXRFJzMkZkc25lV1ZiMTdTelZjYzc2dHBpbW9sR0ctWndiRmpkOW9BVXo2YTlsaS1ZdVpyMnJhSXgzbF9xZjZVNF8xaDlkTGk2aXBlcXRWNnc?oc=5",
-      "first_seen": "2026-08-04T04:00:29Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
