@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T17:00:16Z",
-  "updated_at_jst": "2026/08/27 02:00 JST",
+  "updated_at": "2026-08-26T17:30:18Z",
+  "updated_at_jst": "2026/08/27 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1099,
@@ -11163,22 +11163,6 @@
       ]
     },
     {
-      "id": "1bd1dc8798a609161328",
-      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明 | NHKニュース | 令和8年熊本地震、地震、熊本県",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-29T07:46:50Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhNmF0N2dQaWhWanNZT0RtY3VyelJTaHYtVWRKdXR0aFJmUG1DZDY5WW5MQUFYaTZfYW4zUWxEVG5NWVMyU3poejFsM2VYbzQxeUxRcU4yYnJPZEF6VEtj?oc=5",
-      "first_seen": "2026-07-29T08:01:00Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "ad53342b1fb99add5a71",
       "title": "【速報】イオン社長「ご遺族に深くおわび」 地震後の爆発事故受け会見",
       "source": "熊本日日新聞",
@@ -14502,6 +14486,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "1bd1dc8798a609161328",
+      "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhNmF0N2dQaWhWanNZT0RtY3VyelJTaHYtVWRKdXR0aFJmUG1DZDY5WW5MQUFYaTZfYW4zUWxEVG5NWVMyU3poejFsM2VYbzQxeUxRcU4yYnJPZEF6VEtj?oc=5",
+      "first_seen": "2026-07-29T08:01:00Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
