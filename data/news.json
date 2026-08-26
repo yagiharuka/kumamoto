@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T10:30:18Z",
-  "updated_at_jst": "2026/08/26 19:30 JST",
+  "updated_at": "2026-08-26T11:00:18Z",
+  "updated_at_jst": "2026/08/26 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1095,
+  "article_count": 1097,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "nhk": 91,
-    "sankei": 175,
+    "sankei": 177,
     "mainichi": 135,
     "yomiuri": 162,
     "nikkei": 65,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 872,
+    "aeon": 874,
     "power": 123,
     "paper": 117
   },
@@ -94,6 +94,36 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a855d32ab85bb6e1e62f",
+      "title": "一部が損壊したイオンモール熊本の建物(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T06:00:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzJ4SmZrRkFHMjdmWXZCLUlVclJpV3RQSGZwQzctdkJOTENEWjk3bUZIeHd6TzhiZEM4bnRvSkttOGtXQlNQeDNJREUyWEJhQjlCcGpiZHNKaG1IUWxCTmdvb0ZmcmdWdTdDajR0dDZaMjRaTHNIUmpGaXBZVzhNX0N6N1EtTGRCc0lzYndVUFpJOEI2WmJ3T085SmNMU253UVE?oc=5",
+      "first_seen": "2026-08-26T11:00:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d2788fa12d54855efa89",
+      "title": "イオンモール熊本の駐車場入り口に設置された献花台=25日午後、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T06:00:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS1M4QnBfQUg4LWVDT3d1Nk50aTJzRzI5UmNZTEg1emhCSjc4NG51b2huVVJiSzYyMmhJWjRuTTR6VnFuZGxXVEdWcXVUb0laamE5YmU2Nm5CM1JYU1poY0JhdzQ3YW4ySzBDOFhCQlE0Sk9ZNE5RM3d1UVRLQVJ1TUo0TlhSY0d4Q0FKdm9UN1o3cTlILVJPMzI3X1FrMFlBTUE?oc=5",
+      "first_seen": "2026-08-26T11:00:18Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -951,6 +981,22 @@
       ]
     },
     {
+      "id": "80b4e90c1a21053da44e",
+      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T04:49:09Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2kzR3U2cTNNVk9kUzNEVmEzcHJLeDkxZ21HdmNHZThCUEgydlIxZmlnT3RKbkJSZVZyWFc0a2lCSFBWQ2xNV0lQRUJWc0RJUzdBMGZwMTQ1ZWRCMGNDemtEUjhDTlY5eUZxdEowNU5wa3VYRXI0T0VlYUNLTHEwS1MxdjFGYVdwY0dRTUI3eV9DSUdjTTZuaGppYVJmTlZtdkE?oc=5",
+      "first_seen": "2026-08-04T04:00:29Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6f3d0f50fc1df3e349ec",
       "title": "イオンモール熊本の爆発事故調査委が発足 (共同通信)",
       "source": "熊本日日新聞",
@@ -1214,6 +1260,22 @@
       ]
     },
     {
+      "id": "9e603221cabd146574b8",
+      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-17T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
+      "first_seen": "2026-08-17T05:30:35Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "575d45f60e455ff25195",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に",
       "source": "朝日新聞",
@@ -1228,22 +1290,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "9e603221cabd146574b8",
-      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-17T05:14:54Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
-      "first_seen": "2026-08-17T05:30:35Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -4475,22 +4521,6 @@
       ]
     },
     {
-      "id": "80b4e90c1a21053da44e",
-      "title": "ドローンで撮影した、イオンモール熊本の爆発翌日の様子=7月29日午後、熊本県嘉島町(嶋田俊光さん提供)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGtweUZseWdGVnhoWlRwLTBtWUJUMy1yMGNSVEpBWVZaT3pzcWVUV0toSmViWmRVcHo2YkdqZGo5aG1Ecld0TTBkTFJ3d3hTT3dXRFJzMkZkc25lV1ZiMTdTelZjYzc2dHBpbW9sR0ctWndiRmpkOW9BVXo2YTlsaS1ZdVpyMnJhSXgzbF9xZjZVNF8xaDlkTGk2aXBlcXRWNnc?oc=5",
-      "first_seen": "2026-08-04T04:00:29Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "b6a7ddf99ebb36aec699",
       "title": "ガス遮断弁は作動したのか イオンモール熊本の惨劇 「想定外」の爆発と法的責任の行方(写真・画像 1/2)",
       "source": "産経新聞",
@@ -4857,7 +4887,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamFyR1VfXzVvYk40cjZGYXNwak5Bc0lkNmtJYUxXUUhnc28wV3RjVGtVUHNTYWpkdWFaaFJXZDRQeXFMVEVuTDJURXEwckgwQVJtUElENkFoRTNLbVNlS3FGQWhqSzRJc2RsVkc2MVNCSUlHS3NtVXl1Ty1wT1JkdHNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
       "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
