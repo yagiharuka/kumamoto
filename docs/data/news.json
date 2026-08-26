@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T00:00:18Z",
-  "updated_at_jst": "2026/08/26 09:00 JST",
+  "updated_at": "2026-08-26T00:30:19Z",
+  "updated_at_jst": "2026/08/26 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1089,
+  "article_count": 1090,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "sankei": 173,
     "yomiuri": 161,
     "nikkei": 65,
     "kumanichi": 167,
     "nhk": 90,
     "asahi": 125,
     "mainichi": 134,
-    "sankei": 172,
     "jiji": 175
   },
   "tracked_categories": [
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 867,
+    "aeon": 868,
     "power": 123,
     "paper": 116
   },
   "items": [
+    {
+      "id": "98a44508a7b747da8df0",
+      "title": "イオンモール内を飛行、迅速救助と二次災害防止に貢献 熊本で稼働した最新鋭ドローンの力",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T00:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sSXM2bWNPTXJRRl9IWVVZZEZxX2g2bHJUM2Y2VG5VMUJ0ei14SjJLNUFjb0dNbDNIVDNTSG1ybHNGbjVxM05Ec2xkbjkyOVlsbGdYU00xeUQyU2RFWW1lcjlvaWNOYmZ2S21aYmdoQzl0eElaT0E?oc=5",
+      "first_seen": "2026-08-26T00:30:19Z",
+      "focus": [
+        "救助・安否",
+        "操業情報"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "22d24a200fd71bbe01ff",
       "title": "イオン爆発 病院内外で活動「想定外」 熊本赤十字病院長が会見",
