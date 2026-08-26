@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T04:00:22Z",
-  "updated_at_jst": "2026/08/26 13:00 JST",
+  "updated_at": "2026-08-26T04:30:18Z",
+  "updated_at_jst": "2026/08/26 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1090,
+  "article_count": 1091,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 173,
+    "sankei": 174,
     "yomiuri": 161,
     "nikkei": 65,
     "kumanichi": 167,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 868,
+    "aeon": 869,
     "power": 123,
     "paper": 116
   },
   "items": [
+    {
+      "id": "14f16fd2eac2116fec47",
+      "title": "爆発が起きたイオンモール熊本で、内部調査のため飛行するドローン=7月30日、熊本県嘉島町(JUIDA提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T00:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNS13cTVvRktZZ2JteEc4blhwRE13MTRHcE16eTNoejBNRTdFVlA2RTBpY0dpenlYb1ZHVnZjUGtoWUxQM1dLZ1hwMEdRbU9pVV9IX29kWUZUazhNMFVEVFFQRGM0Smh6Q0h6XzdhZlJjNktwQjd2Zk5PeE1KSVo3QmcyWWFNY0h1LVRMVUFMWmViYS10SjVxMmkyUHN5QTZWVUE?oc=5",
+      "first_seen": "2026-08-26T04:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "98a44508a7b747da8df0",
       "title": "イオンモール内を飛行、迅速救助と二次災害防止に貢献 熊本で稼働した最新鋭ドローンの力",
