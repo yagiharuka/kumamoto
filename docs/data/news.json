@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T13:30:19Z",
-  "updated_at_jst": "2026/08/26 22:30 JST",
+  "updated_at": "2026-08-26T14:00:18Z",
+  "updated_at_jst": "2026/08/26 23:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1097,
+  "article_count": 1099,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "sankei": 179,
     "nhk": 91,
-    "sankei": 177,
     "mainichi": 135,
     "yomiuri": 162,
     "nikkei": 65,
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 874,
+    "aeon": 876,
     "power": 123,
     "paper": 117
   },
   "items": [
+    {
+      "id": "3ef53a58d82b43cf3b7a",
+      "title": "爆発があったイオンモール熊本の内部。ドローンで撮影した=令和8年8月24日、熊本県嘉島町(提供 JUIDA)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T12:37:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW5TR2RXRUJjQko1TlVFQzhlVV8ySGJZOGhRWWFFNG1GRW5aYlIxN1YwNzJ6R2txTmhoamk1a3h1Z0d0Vzl5UEw1Z2JLU21HdXpJdk5Ja2k3OVpyYktfYkxVaUxycUEteVJVTXJnZWZEU3hMNEUxbmZlZnZJTG1wNndIaFl1c3NveFlBdTc0WUtMcjJDTE03eDI0VmpwbUpubkE?oc=5",
+      "first_seen": "2026-08-26T14:00:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7cb6bd3b121dfb946aa7",
+      "title": "爆発事故があったイオンモール熊本=26日午前9時10分、熊本県嘉島町(安元雄太撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T10:00:27Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ19Gbi1KZnhIZ0hlQXZrbFpGYVZxRTdxbmtmemswSG5UOWhIaElaYVZmamhCSlJlZjhVcTQxeFFlQjhyaFp6b1ZNS0JsYng2X0JrWkxFZEpLLV95bzl6Rml0eHpsM2h1aFljTkZIQWFCaUhuOEUxTEpTUFg4RjRZaVMyUWpiYlFiWmJ3ZUlzQUNSbU9aMDEwazVZQm1aN0RlNUE?oc=5",
+      "first_seen": "2026-08-26T14:00:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "d35dc8860fa3ab15e045",
       "title": "学校でLPガスの安全点検 熊本地震のイオン爆発を受け 韮崎",
@@ -1260,22 +1292,6 @@
       ]
     },
     {
-      "id": "9e603221cabd146574b8",
-      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-17T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
-      "first_seen": "2026-08-17T05:30:35Z",
-      "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "575d45f60e455ff25195",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に",
       "source": "朝日新聞",
@@ -1290,6 +1306,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "9e603221cabd146574b8",
+      "title": "ハワイで停電20万戸超 ハリケーン「ララ」(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-17T05:14:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jbC1vcV9fR0JEUDNHMXZXRXEzYVNCRUVSN1dSYmFJeWxwQUl0ZzBUUEd6SDk2NnJnQlIzVDFyd3dZR013NkpncWhvcTlzZ3M?oc=5",
+      "first_seen": "2026-08-17T05:30:35Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
