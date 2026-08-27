@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T12:30:21Z",
-  "updated_at_jst": "2026/08/27 21:30 JST",
+  "updated_at": "2026-08-27T13:00:22Z",
+  "updated_at_jst": "2026/08/27 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1103,
@@ -1144,22 +1144,6 @@
       ]
     },
     {
-      "id": "0f198fce40774e1d89b9",
-      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-19T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oQUFIWUUwS0J0NUk1Z3JSNVphX3JMSzJzN041bDlSQkJaR1I2MFdUV2Q4SE5JOUhfaEh3UkwzdnRxUUxXYkR5X3ZGWlN6QlpRaURvdlJSUkZSbVVuT3pMb2duXzJmcWNqNWZhOXo0VmtsUQ?oc=5",
-      "first_seen": "2026-08-19T05:00:26Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "35eb0d25091db071a26a",
       "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」:写真",
       "source": "読売新聞",
@@ -1168,6 +1152,22 @@
       "published_at": "2026-08-19T04:30:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb3NmR3hveU9zMjI2RHBtN3N3ZEpuZ1BOMnRlcU9RTUh2M3dZT1lfWkxVZDA3eWpXcVRNZFVXV3VGZVB5TWFkd2EySTBWTTlJTVBsS29PVEUwNW11WGJ4VS1kOUVpaFNWTEE?oc=5",
       "first_seen": "2026-08-23T15:00:46Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "0f198fce40774e1d89b9",
+      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-19T04:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oQUFIWUUwS0J0NUk1Z3JSNVphX3JMSzJzN041bDlSQkJaR1I2MFdUV2Q4SE5JOUhfaEh3UkwzdnRxUUxXYkR5X3ZGWlN6QlpRaURvdlJSUkZSbVVuT3pMb2duXzJmcWNqNWZhOXo0VmtsUQ?oc=5",
+      "first_seen": "2026-08-19T05:00:26Z",
       "focus": [
         "救助・安否"
       ],
@@ -1254,6 +1254,23 @@
       ]
     },
     {
+      "id": "e27e8cfd797ef3df44a9",
+      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T10:13:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
+      "first_seen": "2026-08-18T11:00:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "363f293f8d30dbaa2371",
       "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
       "source": "熊本日日新聞",
@@ -1298,23 +1315,6 @@
       "first_seen": "2026-08-18T17:30:25Z",
       "focus": [
         "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "e27e8cfd797ef3df44a9",
-      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
-      "first_seen": "2026-08-18T11:00:24Z",
-      "focus": [
         "目撃証言",
         "現場状況"
       ],
