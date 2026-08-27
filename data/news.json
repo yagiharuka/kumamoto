@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T17:30:21Z",
-  "updated_at_jst": "2026/08/28 02:30 JST",
+  "updated_at": "2026-08-27T18:00:21Z",
+  "updated_at_jst": "2026/08/28 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1105,
@@ -1285,23 +1285,6 @@
       ]
     },
     {
-      "id": "e27e8cfd797ef3df44a9",
-      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T10:13:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
-      "first_seen": "2026-08-18T11:00:24Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "363f293f8d30dbaa2371",
       "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
       "source": "熊本日日新聞",
@@ -1346,6 +1329,23 @@
       "first_seen": "2026-08-18T17:30:25Z",
       "focus": [
         "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "e27e8cfd797ef3df44a9",
+      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
+      "first_seen": "2026-08-18T11:00:24Z",
+      "focus": [
         "目撃証言",
         "現場状況"
       ],
@@ -2983,7 +2983,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xMldqRS1fU29XVEZlMWhXUDBtWFpiZjNYNjRfUUMtYkxWVmhMS0ZaNGlmV28xa0x2V00tWmJaQmxEZmVlVU1QWUFreWhDdU5MMVBqQ1BWR1J4RzBfcnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmZQTFhvS2R5QzVIcVE2MU8yQ3dfTjh1aHdFM1BKSEV1cFhSN2NPbF80V3oxaDUxWDExS0NtNVVhU0xhdnpsYXlSRmJDcENRRHotZl8wb2s1Vks0ZkE?oc=5",
       "first_seen": "2026-08-13T20:00:57Z",
       "focus": [
         "現場状況"
@@ -4906,7 +4906,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSlNUR1FQTEo4VnNLaXhLczZUbTBYYmQxZUpwTHpETERMYm1nVnd1d21WUXc0NURwRlZrdXAyNkVEM3RQWEVVeWh6Mno1U0tZN1VVSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xa3JTVlhUeDRSbWlld2tKTWJoY2Vrd0N5NWhIcGhXWEp3Q05HNTlFbjNuYXNTTG9fZ2ZKb1Y5U2tUa1VBaXlNeGJwZTd1cjBTZHp3aDRNS2tDN0V6UlE?oc=5",
       "first_seen": "2026-08-04T09:31:05Z",
       "focus": [
         "現場状況"
@@ -4922,7 +4922,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
