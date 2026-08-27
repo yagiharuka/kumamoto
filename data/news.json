@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T09:30:19Z",
-  "updated_at_jst": "2026/08/27 18:30 JST",
+  "updated_at": "2026-08-27T10:00:22Z",
+  "updated_at_jst": "2026/08/27 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1103,
@@ -1254,6 +1254,23 @@
       ]
     },
     {
+      "id": "e27e8cfd797ef3df44a9",
+      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T10:13:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
+      "first_seen": "2026-08-18T11:00:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "363f293f8d30dbaa2371",
       "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
       "source": "熊本日日新聞",
@@ -1298,23 +1315,6 @@
       "first_seen": "2026-08-18T17:30:25Z",
       "focus": [
         "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "e27e8cfd797ef3df44a9",
-      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
-      "first_seen": "2026-08-18T11:00:24Z",
-      "focus": [
         "目撃証言",
         "現場状況"
       ],
