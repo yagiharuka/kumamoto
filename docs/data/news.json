@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T07:30:18Z",
-  "updated_at_jst": "2026/08/27 16:30 JST",
+  "updated_at": "2026-08-27T08:00:22Z",
+  "updated_at_jst": "2026/08/27 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1102,
+  "article_count": 1103,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "sankei": 181,
     "nhk": 91,
     "mainichi": 135,
-    "yomiuri": 162,
+    "yomiuri": 163,
     "nikkei": 65,
     "kumanichi": 167,
     "asahi": 126,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 878,
+    "aeon": 879,
     "power": 123,
     "paper": 118
   },
@@ -1254,6 +1254,23 @@
       ]
     },
     {
+      "id": "e27e8cfd797ef3df44a9",
+      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T10:13:25Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
+      "first_seen": "2026-08-18T11:00:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "363f293f8d30dbaa2371",
       "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
       "source": "熊本日日新聞",
@@ -1298,23 +1315,6 @@
       "first_seen": "2026-08-18T17:30:25Z",
       "focus": [
         "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "e27e8cfd797ef3df44a9",
-      "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
-      "first_seen": "2026-08-18T11:00:24Z",
-      "focus": [
         "目撃証言",
         "現場状況"
       ],
@@ -1913,6 +1913,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c8956453096d39877928",
+      "title": "イオンモール熊本:再入館認めたイオン側「全て会社の責任」と遺族に謝罪...「誠意は見えた」「まだ納得できる説明とは」",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51SEpsYjVRRjZkZnh2bmozQTZYYWxBV0NHZE5mam5saG5FNV95a0pEZ01wd180bDI4RFp2d2ZKekNSWXZzYjlCUFlEc1NnMi1Wd3QydThzYzNJbW02VHFVejRMd0pGZw?oc=5",
+      "first_seen": "2026-08-27T08:00:22Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
