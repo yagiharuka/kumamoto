@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T16:30:20Z",
-  "updated_at_jst": "2026/08/28 01:30 JST",
+  "updated_at": "2026-08-27T17:00:20Z",
+  "updated_at_jst": "2026/08/28 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1104,
@@ -4905,7 +4905,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -8633,23 +8633,6 @@
       ]
     },
     {
-      "id": "057cd69df23af0a77021",
-      "title": "「ここまで損壊するのか...」=イオン爆発、困難極める救助―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T10:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWXRfZDNFZENudmVhUFFQWGNiaVBma0paLVAzSE1XSmtxcFB2TlhoVFBrZDRabHlFT2NoYmRtbXppUWVmZEdPRXAyb3ZybXZOY3FCTQ?oc=5",
-      "first_seen": "2026-07-30T10:30:19Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "08c1ae0d593607f4cbbb",
       "title": "【令和8年熊本地震】中川家、イオンシネマ熊本で開催予定だったライブビューイングの中止発表「営業見合わせに伴い」",
       "source": "産経新聞",
@@ -10058,6 +10041,23 @@
       ]
     },
     {
+      "id": "057cd69df23af0a77021",
+      "title": "「ここまで損壊するのか...」=イオン爆発、困難極める救助―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YcDNScHRYamZnalFoZ29XM2d3NTlEcnVHbG5QM1AxWHZqOVJxdXZ0amx1d0gyXzlXUDNZWEs2RThpN2Jram5pWF9JWGYtczZpMEtSV21EOXU5Y1hDUEE?oc=5",
+      "first_seen": "2026-07-30T10:30:19Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "9657360688010ffb1f35",
       "title": "「ここまで損壊するのか...」 イオン爆発、困難極める救助―熊本震度7",
       "source": "時事通信",
@@ -10214,6 +10214,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "f0a9b2ab661efd142aab",
+      "title": "熊本県 “日本製紙八代工場で8人死亡 1人安否不明”",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tbXpJd2ZBRkFRb0FocVZBUFdzX3NlMzVaRzRvT0tyNUlHOC1pQjJtcFlESEpxTVFQSzFIYjVaYU9SOVJUeHRsdVNVRzJRbkY4N3B1LWZ3cGw?oc=5",
+      "first_seen": "2026-07-30T02:30:50Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -10434,22 +10450,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f0a9b2ab661efd142aab",
-      "title": "熊本県 “日本製紙八代工場で8人死亡 1人安否不明”",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-30T01:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tbXpJd2ZBRkFRb0FocVZBUFdzX3NlMzVaRzRvT0tyNUlHOC1pQjJtcFlESEpxTVFQSzFIYjVaYU9SOVJUeHRsdVNVRzJRbkY4N3B1LWZ3cGw?oc=5",
-      "first_seen": "2026-07-30T02:30:50Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
