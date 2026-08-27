@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T06:30:18Z",
-  "updated_at_jst": "2026/08/27 15:30 JST",
+  "updated_at": "2026-08-27T07:00:18Z",
+  "updated_at_jst": "2026/08/27 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1102,
@@ -1254,24 +1254,6 @@
       ]
     },
     {
-      "id": "f06ae4a2c440c5d525f1",
-      "title": "<2026年熊本地震>日本製紙八代工場の煙突被害、専門家委が原因分析",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-18T10:48:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DQ282Y2U0RjhERmNsanhFQXNnaDhMSWV5d3NUelVuTjV1QUVqZFRXaGtBYl9JbWtnWlhLeEpiUGlOc0dsVFBOWXRRbC1YUTA?oc=5",
-      "first_seen": "2026-08-18T17:30:25Z",
-      "focus": [
-        "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "e27e8cfd797ef3df44a9",
       "title": "全国の煙突、安全性調査へ 熊本地震の日本製紙八代工場事故受け",
       "source": "毎日新聞",
@@ -1320,6 +1302,24 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "f06ae4a2c440c5d525f1",
+      "title": "<2026年熊本地震>日本製紙八代工場の煙突被害、専門家委が原因分析",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-18T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DQ282Y2U0RjhERmNsanhFQXNnaDhMSWV5d3NUelVuTjV1QUVqZFRXaGtBYl9JbWtnWlhLeEpiUGlOc0dsVFBOWXRRbC1YUTA?oc=5",
+      "first_seen": "2026-08-18T17:30:25Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -7470,7 +7470,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90aWhUeHBkTkxObHZ3MlRnNnZnbVhhX0NyMHQ3a1p3bG0xZHY5Z3ZvN01XMkZydGpvdFhlZmtsQmc2bklMQzlzWGY3LTRaUzhKUGxxQg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2dy11OFpkUnI3aXBpY3FqNU9Ha21nQzR0N0dRUUpJZmpoc0t3M2JIU3hfbTRHd213RVRkRzNqRlBUcnFKTVVEUmJ2bDZJX1Zaa0Q4Mg?oc=5",
       "first_seen": "2026-07-31T02:30:59Z",
       "focus": [],
       "category_ids": [
@@ -17564,7 +17564,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
