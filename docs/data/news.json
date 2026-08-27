@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T17:00:20Z",
-  "updated_at_jst": "2026/08/28 02:00 JST",
+  "updated_at": "2026-08-27T17:30:21Z",
+  "updated_at_jst": "2026/08/28 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1104,
+  "article_count": 1105,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "mainichi": 136,
     "sankei": 182,
     "nhk": 91,
-    "mainichi": 135,
     "yomiuri": 163,
     "nikkei": 65,
     "kumanichi": 167,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 879,
+    "aeon": 880,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "5cc34e985abada9af33a",
+      "title": "熊本地震1カ月 商業施設避難「再考」 イオン爆発で各社",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-27T17:02:11Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tVDUycDEySnpSdk9aR2pQYm5jLVFUTjUxeXEteDBUUkpLZUNmRGh5eUc2YU9iVW1sMXZQWHdieGdmajFmdDJTNl9Ea3hXN3NBVmZZVVRzUkdfZVBycW5ZWkRzWEppWjhP?oc=5",
+      "first_seen": "2026-08-27T17:30:21Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "f0d35eddb702505c34db",
       "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
@@ -1856,20 +1873,6 @@
       ]
     },
     {
-      "id": "9352646e6b784d10f9f3",
-      "title": "画像・写真:イオン、遺族に補償の方針 熊本地震:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:47:09Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xaUNXS1hNZEdJRWdQY2RtMHAyNDlIRG0wRzhLMHdwTEZlQ2EyMkxwemtSU1NWSEhJVnJmRGEzN1oyb3VYcTN2X3RDN1pSYnB4VXVkNjB1QU40TFVYS0VUVkk3LXk?oc=5",
-      "first_seen": "2026-08-12T12:30:54Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f4b68339cd0287e2d256",
       "title": "◎イオン、遺族に補償の方針 熊本地震",
       "source": "時事通信",
@@ -2100,6 +2103,20 @@
       "focus": [
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9352646e6b784d10f9f3",
+      "title": "画像・写真:イオン、遺族に補償の方針 熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xaUNXS1hNZEdJRWdQY2RtMHAyNDlIRG0wRzhLMHdwTEZlQ2EyMkxwemtSU1NWSEhJVnJmRGEzN1oyb3VYcTN2X3RDN1pSYnB4VXVkNjB1QU40TFVYS0VUVkk3LXk?oc=5",
+      "first_seen": "2026-08-12T12:30:54Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -4905,7 +4922,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
