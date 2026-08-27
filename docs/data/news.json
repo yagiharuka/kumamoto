@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T11:30:20Z",
-  "updated_at_jst": "2026/08/27 20:30 JST",
+  "updated_at": "2026-08-27T12:00:23Z",
+  "updated_at_jst": "2026/08/27 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1103,
@@ -1144,14 +1144,14 @@
       ]
     },
     {
-      "id": "35eb0d25091db071a26a",
-      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」:写真",
+      "id": "0f198fce40774e1d89b9",
+      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-19T04:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb3NmR3hveU9zMjI2RHBtN3N3ZEpuZ1BOMnRlcU9RTUh2M3dZT1lfWkxVZDA3eWpXcVRNZFVXV3VGZVB5TWFkd2EySTBWTTlJTVBsS29PVEUwNW11WGJ4VS1kOUVpaFNWTEE?oc=5",
-      "first_seen": "2026-08-23T15:00:46Z",
+      "published_at": "2026-08-19T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oQUFIWUUwS0J0NUk1Z3JSNVphX3JMSzJzN041bDlSQkJaR1I2MFdUV2Q4SE5JOUhfaEh3UkwzdnRxUUxXYkR5X3ZGWlN6QlpRaURvdlJSUkZSbVVuT3pMb2duXzJmcWNqNWZhOXo0VmtsUQ?oc=5",
+      "first_seen": "2026-08-19T05:00:26Z",
       "focus": [
         "救助・安否"
       ],
@@ -1160,14 +1160,14 @@
       ]
     },
     {
-      "id": "0f198fce40774e1d89b9",
-      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」",
+      "id": "35eb0d25091db071a26a",
+      "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」:写真",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-19T04:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oQUFIWUUwS0J0NUk1Z3JSNVphX3JMSzJzN041bDlSQkJaR1I2MFdUV2Q4SE5JOUhfaEh3UkwzdnRxUUxXYkR5X3ZGWlN6QlpRaURvdlJSUkZSbVVuT3pMb2duXzJmcWNqNWZhOXo0VmtsUQ?oc=5",
-      "first_seen": "2026-08-19T05:00:26Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb3NmR3hveU9zMjI2RHBtN3N3ZEpuZ1BOMnRlcU9RTUh2M3dZT1lfWkxVZDA3eWpXcVRNZFVXV3VGZVB5TWFkd2EySTBWTTlJTVBsS29PVEUwNW11WGJ4VS1kOUVpaFNWTEE?oc=5",
+      "first_seen": "2026-08-23T15:00:46Z",
       "focus": [
         "救助・安否"
       ],
@@ -15830,24 +15830,6 @@
       ]
     },
     {
-      "id": "33d0100358e6e2c95b9f",
-      "title": "日本製紙八代工場で煙突崩落 複数人が安否不明との情報 熊本",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-07-28T12:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByMGhtVmZtWFo3NDBTWjZyLU84cGlhYnRfYmRSV1JZR25UODN2VTJOeWQ2anlrcE90Y1M2UEw5b19kSnhDSDU1bmpIT0h6T3pNRlJ6cU9SUlI?oc=5",
-      "first_seen": "2026-07-29T05:28:44Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "7a2ac365bd4c844178ce",
       "title": "イオンモール熊本で20~30人安否不明か (共同通信)",
       "source": "熊本日日新聞",
@@ -17562,7 +17544,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04cURzanVfcDd4RXFWSU9RdWJ3SUNueDB3NmVZT2xYR1R4eFZsYkItS2paSFZfSk1yc3pmS3ZWZVFwZnZhMERiVkhVb3FyMlJTWWdsb3dqSms0STRRUzNheHZ2TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2Q2M1Z6NG9wXzYwVGh3a3V3QUFfQ3h3YXc0MlhNT0ZwNVozVGp0U3piZmpNWm1XS0RxV3FjaDFjaUdHemFfU1JCMHFYeS1ZTjdMWXpvRDJwMDBUemtzZnBnMGtSc2NmMUphVmtXVmhyZ1BnUWNVZEZHSkFxbklPdXNB?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
       "focus": [
         "現場状況"
@@ -17737,6 +17719,24 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "33d0100358e6e2c95b9f",
+      "title": "日本製紙八代工場で煙突崩落 複数人が安否不明との情報 熊本",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByMGhtVmZtWFo3NDBTWjZyLU84cGlhYnRfYmRSV1JZR25UODN2VTJOeWQ2anlrcE90Y1M2UEw5b19kSnhDSDU1bmpIT0h6T3pNRlJ6cU9SUlI?oc=5",
+      "first_seen": "2026-07-29T05:28:44Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
