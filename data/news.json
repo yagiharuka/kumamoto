@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T05:00:19Z",
-  "updated_at_jst": "2026/08/27 14:00 JST",
+  "updated_at": "2026-08-27T05:30:18Z",
+  "updated_at_jst": "2026/08/27 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1101,
+  "article_count": 1102,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -55,7 +55,7 @@
     "yomiuri": 162,
     "nikkei": 65,
     "kumanichi": 167,
-    "asahi": 125,
+    "asahi": 126,
     "jiji": 175
   },
   "tracked_categories": [
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 877,
+    "aeon": 878,
     "power": 123,
     "paper": 118
   },
@@ -365,6 +365,22 @@
       "published_at": "2026-08-25T08:41:47Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oT0s5ZXFMM3BIUzM4a00tcTZVSUtXQzhXYXVIRjJaX18td2xTV3Vfa2xFWjhvaWEtNVpFcTJtS1B4WmcxUWZHeFpPaWRBVlBDS3hVQVFRMzNhdm1aNTFaYThHUEJJeVk?oc=5",
       "first_seen": "2026-08-25T09:00:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a5056546b8ccc886a046",
+      "title": "イオンモール熊本の爆発 経産省、「爆発事故調査委員会」設置へ [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T08:41:47Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOXZNc0tqWnZmdFVYM1d4LUVHV09ySHlQcUF2cjhWeFNhM0F1Q09obVdjM29neXN1bUNhSldNT1F2V1plWHBPZnNjNVVkOHJTdElHNmc3blNpQ19MdDNsaDg4R1o0cElwcXBHYURn?oc=5",
+      "first_seen": "2026-08-27T05:30:18Z",
       "focus": [
         "現場状況"
       ],
@@ -4925,7 +4941,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRHF3RktUQTQzYUdudlk1NVptSG5rQXB4ckNqbU1SVnYtNkZDMjhVVVlCY3JlVHhiQ3ZSa2pVck9PQ3F6YzdvSGlyanItMk1SU0FKTw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRGcyNDNZa0dyd2RKczZZVEh0cVFWSlVhcV9hUS1vMEFnQlBPblpndVVrYUtoaTRiRzhJd1hCZTdGMHBLdlJBWE5GNkhTNDM2OGsxbG92dXVZQ2prRFE?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [],
       "category_ids": [
