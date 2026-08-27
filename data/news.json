@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-26T23:30:17Z",
-  "updated_at_jst": "2026/08/27 08:30 JST",
+  "updated_at": "2026-08-27T00:00:24Z",
+  "updated_at_jst": "2026/08/27 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1099,
+  "article_count": 1100,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 179,
+    "sankei": 180,
     "nhk": 91,
     "mainichi": 135,
     "yomiuri": 162,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 876,
     "power": 123,
-    "paper": 117
+    "paper": 118
   },
   "items": [
     {
@@ -1042,6 +1042,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "5e70889655411ef353d7",
+      "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T03:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00cXVSYnJwd3Q3bnU1bzVCendCR3F5d3ZSNTZGYmQ0TmJwQ05SZU9PTzdESlhCcFBBNmxHa0FJR0pWTm15TzBTZ0xCN2F2RWlfRVVKdkI5Qk9MYzVvX0xFOTBHYlUtSXE3YjhESEFQSWZfYnpfaHFXX3Y4TQ?oc=5",
+      "first_seen": "2026-08-27T00:00:24Z",
+      "focus": [
+        "復旧情報"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
