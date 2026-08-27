@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T04:30:19Z",
-  "updated_at_jst": "2026/08/27 13:30 JST",
+  "updated_at": "2026-08-27T05:00:19Z",
+  "updated_at_jst": "2026/08/27 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1100,
+  "article_count": 1101,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 180,
+    "sankei": 181,
     "nhk": 91,
     "mainichi": 135,
     "yomiuri": 162,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 876,
+    "aeon": 877,
     "power": 123,
     "paper": 118
   },
@@ -185,6 +185,22 @@
       "published_at": "2026-08-26T00:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNS13cTVvRktZZ2JteEc4blhwRE13MTRHcE16eTNoejBNRTdFVlA2RTBpY0dpenlYb1ZHVnZjUGtoWUxQM1dLZ1hwMEdRbU9pVV9IX29kWUZUazhNMFVEVFFQRGM0Smh6Q0h6XzdhZlJjNktwQjd2Zk5PeE1KSVo3QmcyWWFNY0h1LVRMVUFMWmViYS10SjVxMmkyUHN5QTZWVUE?oc=5",
       "first_seen": "2026-08-26T04:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f6fa30baeab6134e5da0",
+      "title": "爆発が起きたイオンモール熊本で、ドローンを活用した調査を行う事業者ら=7月30日、熊本県嘉島町(JUIDA提供)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T00:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU9oa3h1ZDJPNlV6Y0V1bVhYZGxQVU5mZjlFRERaaEF0WjdyRnRtWmNpV2hnZkJyLUozLTZJbFBpR3dHYlY5QXZPVTBQbklqdHNaZmVBTV9UWnlVT0ZyVFFaYS1NdDNGYkJNdkNGc00tdHRNWS1TMTZRU2dKdDZGeWVUcmlmRHZoS2lidEI5azZ4OVEzSjk5UEljcXlfRHdmUHc?oc=5",
+      "first_seen": "2026-08-27T05:00:19Z",
       "focus": [
         "現場状況"
       ],
