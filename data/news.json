@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T17:00:22Z",
-  "updated_at_jst": "2026/08/29 02:00 JST",
+  "updated_at": "2026-08-28T17:30:19Z",
+  "updated_at_jst": "2026/08/29 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1130,
+  "article_count": 1132,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "mainichi": 140,
     "nhk": 96,
     "jiji": 179,
     "sankei": 189,
     "asahi": 131,
     "kumanichi": 168,
-    "mainichi": 138,
     "yomiuri": 164,
     "nikkei": 65
   },
@@ -76,11 +76,41 @@
     }
   ],
   "category_counts": {
-    "aeon": 905,
+    "aeon": 907,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "dc208fbf2e73757f80fa",
+      "title": "熊本地震1カ月 癒えぬ悲しみ胸に イオンで献花",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T17:02:51Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVUJVekpiNDFwNjJhQV9wdHM3WjNBUmZpSEN1U3dRbUtBUjZteG1YTlQyUHNFYWxVbXV4TmdFdmJ2ZmVtNHdPMXoxa096cGhOa1VXZjMwRVREMDg5MERfcXh0QmlyUlRG?oc=5",
+      "first_seen": "2026-08-28T17:30:19Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "68a63db9aa252864535a",
+      "title": "熊本地震1カ月 再入館なぜ、事実まだ イオン爆発 妹犠牲の40代、苦もん",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T17:00:36Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTWjlGUkdkZmZhdW8zN3AwR1VCNE96SGsyYWNfS2hjZmE5WmJRY0ZLam1QNkx1UXBRWGNiY0tlWnpPN1JoenNNVWxhMUluYUlPcHNZOV9zQV9FeXhxcHVGeEpvMFZyaHZs?oc=5",
+      "first_seen": "2026-08-28T17:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "ee0dd77d2fea916e47a6",
       "title": "イオンモール熊本 爆発で死亡した2人の遺族が献花 心境語る",
