@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T10:00:22Z",
-  "updated_at_jst": "2026/08/28 19:00 JST",
+  "updated_at": "2026-08-28T10:30:19Z",
+  "updated_at_jst": "2026/08/28 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1114,
+  "article_count": 1115,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "nhk": 94,
     "mainichi": 138,
-    "nhk": 93,
     "asahi": 130,
     "sankei": 182,
     "yomiuri": 164,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 889,
+    "aeon": 890,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "1bc4d98525f17fb67a49",
+      "title": "イオンモール熊本 爆発事故から1か月 実効性ある対策が課題",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-28T09:06:52Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wVjI4S1FHN1E2cG9lR1ZscTJDY21VaDg3aTgtQ3ZtZWRyZGlBZGpvRnIxbUlpaXN5a1c5S01hQllBMmY5OTB2a1BReVpPR1RLbFExNXFLcWtPM0tqRllJ?oc=5",
+      "first_seen": "2026-08-28T10:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "70fb71adc5b2e070aada",
       "title": "イオンモール熊本爆発 ハビタが遺族に補償へ、内容は今後協議",
@@ -178,7 +194,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qR042WFV5MDVJLU9OYTlYOTdDRV8yVVZCLVBMbzc0Z3UtNm9Zc3J5cDNMTmtrdHl6M1p4Ym1uNWJMbldiMG42Z2pLWHlRVTVZenlEckdETklRUXBYVlVMdF9ROFlabmgtejFv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMDZ1U2pOWHhXU0JZa3I3Nko3Ny1aa0xZaUVnbTFnTExRQ19rZy1sdU42RW5sQ3c0R1NCcjFBaHVEY0hfbGxmWW9RcGNWckc5cWNLX29Qa1k1RTZuWC1TRi1pU29WM00?oc=5",
       "first_seen": "2026-08-27T20:30:21Z",
       "focus": [
         "避難状況"
@@ -2557,20 +2573,6 @@
       ]
     },
     {
-      "id": "8fd26f51d141da19149e",
-      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d8fb42a5484187626437",
       "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
       "source": "読売新聞",
@@ -2754,6 +2756,20 @@
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWh6U2E4eWVDa1J4cm9ncUNpbUljOWtiSkVVdjBpODNncEpTTVkzc2U1NlZkOTd3WEEyQmlvSTQtLUhsRkFPeVI5WkJvU3NrWFhneXpFcW42bVhMSGo1SmdNempLaHR2T0NCQVU4LXJTS0lCbVh2M2ZFdWxicGFDY2VB?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -13820,7 +13836,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUl6VTZabGdJT2R3Q0NrajlLdmpJTktNazJ1ZnAwX2xrSDhmcERqc3pXdjdCbzZZby1NWmpmb01QUFQtbUVsOHdMWGgxbXJRVkpsUHNiTlVCaWxaZ2d6d1lrYl9PN3laMjBMUHJxZnJvSkRNY1k4ZWJWV2ZzWHBDWGdjd0RjTC05ZTZIWTZXc0x2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
