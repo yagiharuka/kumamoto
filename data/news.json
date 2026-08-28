@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T01:00:18Z",
-  "updated_at_jst": "2026/08/28 10:00 JST",
+  "updated_at": "2026-08-28T01:30:19Z",
+  "updated_at_jst": "2026/08/28 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1111,
@@ -1235,22 +1235,6 @@
       ]
     },
     {
-      "id": "0c8192e09094cab46684",
-      "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-19T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55U2l0eWt0WGRGTGlSaUpIekhWZUtJR2hYaDZjYTF3N01jbHMxREVIeVJMQnpQMFN2cGV0Qmx5VzNpRG5WVVZaS1ZjbjdZX1h6YmlvWlMtU1dKbS1ESEhSUTlyek5jWmJzdHFNSjl0ZUxrQQ?oc=5",
-      "first_seen": "2026-08-19T04:00:23Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "0f198fce40774e1d89b9",
       "title": "日本製紙八代工場での救助「隊員の命と要救助者の命とを天秤にかけながら活動、非常に過酷な現場だった」",
       "source": "読売新聞",
@@ -1307,6 +1291,22 @@
       "published_at": "2026-08-19T04:30:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hb3NmR3hveU9zMjI2RHBtN3N3ZEpuZ1BOMnRlcU9RTUh2M3dZT1lfWkxVZDA3eWpXcVRNZFVXV3VGZVB5TWFkd2EySTBWTTlJTVBsS29PVEUwNW11WGJ4VS1kOUVpaFNWTEE?oc=5",
       "first_seen": "2026-08-23T15:00:46Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "0c8192e09094cab46684",
+      "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-19T03:32:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55U2l0eWt0WGRGTGlSaUpIekhWZUtJR2hYaDZjYTF3N01jbHMxREVIeVJMQnpQMFN2cGV0Qmx5VzNpRG5WVVZaS1ZjbjdZX1h6YmlvWlMtU1dKbS1ESEhSUTlyek5jWmJzdHFNSjl0ZUxrQQ?oc=5",
+      "first_seen": "2026-08-19T04:00:23Z",
       "focus": [
         "救助・安否"
       ],
@@ -11583,7 +11583,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02ZUNfWjNGVnJac1Mya210c3VwNzhWdXktaGtrMTR5d1BEZkFIU2Rkd3VhT2JMYWhyY1laeWNHcnM3cVZ3VG5qWG5aWlNXYmJxQlJtTE9ZdWFlZWZtVzdMbWVwb3FLUXFOT3VZeW9CMW1pZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ISUtUTTdUMm0zLV9YeFJtODJneHdpTEFQWC1rUXh5bjhjaG9XOWJLel9wTVpxT0owZ1BWZ1VRTVRlTFdJc21TT2VrcDI3ajNrOGNmQWQ2MkZSTVV5TWNudy0xbWdhVmlOZm9NWUF1NXJwWGYw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否",
