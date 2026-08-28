@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T11:00:21Z",
-  "updated_at_jst": "2026/08/28 20:00 JST",
+  "updated_at": "2026-08-28T11:30:21Z",
+  "updated_at_jst": "2026/08/28 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1116,
+  "article_count": 1119,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "nhk": 94,
+    "jiji": 176,
+    "sankei": 184,
+    "nhk": 95,
     "mainichi": 138,
     "asahi": 130,
-    "sankei": 183,
     "yomiuri": 164,
     "nikkei": 65,
-    "kumanichi": 167,
-    "jiji": 175
+    "kumanichi": 167
   },
   "tracked_categories": [
     {
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 891,
+    "aeon": 894,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "e688ba086b3ef88b44b4",
+      "title": "被災1カ月、冥福祈る 見えぬ復興、不安の声も―イオンや避難所・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T10:14:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
+      "first_seen": "2026-08-28T11:30:21Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aaedd5ba674c0a72283c",
+      "title": "熊本地震1カ月 長引く避難生活に疲労の色濃く、募る喪失の悲しみ イオン前には献花も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T09:44:11Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51aUpDbFNUU1c5WF9MNFN5VjZQYlBRRUVjd0RCYWQ4cXQyVkdHY1N3UTF0WFYwZ0tvNDItdUV4ZmRaRmE0WFBldW90cXNMZ1FTRE9aOGR2aEhLZzdPR2RHdENlUzBvalJZUUdmNC1uVXZDOWJYNkE?oc=5",
+      "first_seen": "2026-08-28T11:30:21Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "1bc4d98525f17fb67a49",
       "title": "イオンモール熊本 爆発事故から1か月 実効性ある対策が課題",
@@ -93,6 +125,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "bc3ed1cc4c72a93a9694",
+      "title": "イオンモール熊本で死亡の女性の遺族 「残念でしかたがない」",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-28T08:12:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUS1UYmZsV1BSQ01tMEdYdk5JOWhpaUtQOHpQNUF6MkpLMzkxaEpXSncxUWxZRm5nREhZUkY5T2tYVlV3Y3VuOUliSmZqLWZWeExkOUd1U3g?oc=5",
+      "first_seen": "2026-08-28T11:30:21Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -10185,7 +10231,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12eEszQ2RQUkp6SExJNm5iOVR6YWFXdmF2WU1wOElsRlNhdUpvR2d3aTRuU3dlUjNRREdCRkNXeXlsSkVCWG54RDJuem9zOVJOaWlVcmNpVzNEVWFaRnRBZ3AyVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVd1elJrTHdTYTNrMkliS2Q5T1BtZGdsSXV5X2NkQ3ZGNHR2VTVpWmtpdEtPZ3U0emZEU1hoT2QwdzNEb0l3VVMwQmFxZUxMTW9PNVM0N1JUX0pqVEpWUzJ0bVNpOE1jSnF2QXQ1TklvaURyRnl6Y1RLVy16VG1fYlJ3?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "救助・安否",
