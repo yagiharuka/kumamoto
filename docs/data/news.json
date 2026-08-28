@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T12:00:20Z",
-  "updated_at_jst": "2026/08/28 21:00 JST",
+  "updated_at": "2026-08-28T12:30:18Z",
+  "updated_at_jst": "2026/08/28 21:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1121,
+  "article_count": 1124,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "jiji": 179,
     "kumanichi": 168,
-    "jiji": 177,
-    "sankei": 184,
+    "sankei": 185,
     "nhk": 95,
     "mainichi": 138,
     "asahi": 130,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 896,
+    "aeon": 899,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "01dd1e89dddf3bf25c0f",
+      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T11:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "a975ffe48a11ea317e2a",
       "title": "「日常に入れない感覚」とイオン爆発の遺族 (共同通信)",
@@ -130,6 +146,22 @@
       ]
     },
     {
+      "id": "e9022cd3a8a1e2c9c5e7",
+      "title": "◎被災1カ月、冥福祈る=見えぬ復興、不安の声も―イオンや避難所・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T10:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZnJVMXF4NkhfcnNOUTA3VWN3X0wtY1VPMkp2bGZBdURBNlVvSk9EMmVSQ0ZST0QzWEZ2YnlSa0Q5TGQtbFYtVDZUZUpWX1lJOWQyeg?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "aaedd5ba674c0a72283c",
       "title": "熊本地震1カ月 長引く避難生活に疲労の色濃く、募る喪失の悲しみ イオン前には献花も",
       "source": "産経新聞",
@@ -141,6 +173,20 @@
       "focus": [
         "避難状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d8fc798d96f73c247c0c",
+      "title": "イオンモール熊本の一般献花台で手を合わせる人たち=28日午前10時34分、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T09:44:11Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDNJdFVYaF9XWXNETWtVajdKUVRXR0FMQmlZMS1NMmJSdG8wS2pSUm43aVpXSFpRWG1yRTh4UFh1MGREM1RPVkJYYVlacEtIaFQyTkhrS2lSdFhEcFByajh3bzlJOV9pOThtWTNwNlJPcjlGNzB3R0x3NTNzemRmaDZ1bEl4ZlhHSlh5MnEzX1E1S3UweGRUaWN1MDlzdWxoa0E?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -2669,6 +2715,20 @@
       ]
     },
     {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d8fb42a5484187626437",
       "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
       "source": "読売新聞",
@@ -2852,20 +2912,6 @@
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8fd26f51d141da19149e",
-      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWh6U2E4eWVDa1J4cm9ncUNpbUljOWtiSkVVdjBpODNncEpTTVkzc2U1NlZkOTd3WEEyQmlvSTQtLUhsRkFPeVI5WkJvU3NrWFhneXpFcW42bVhMSGo1SmdNempLaHR2T0NCQVU4LXJTS0lCbVh2M2ZFdWxicGFDY2VB?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
