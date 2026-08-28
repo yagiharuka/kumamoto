@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T18:00:25Z",
-  "updated_at_jst": "2026/08/29 03:00 JST",
+  "updated_at": "2026-08-28T18:59:22Z",
+  "updated_at_jst": "2026/08/29 03:59 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1132,
@@ -1676,23 +1676,6 @@
       ]
     },
     {
-      "id": "363f293f8d30dbaa2371",
-      "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-18T10:01:39Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWGFlU0F3UERFaGhheHVCMFRQV0dHMU1TamFXSlZWOURrM0R6dWhJNTl0Y0UwajZhb0o3N0lxQUNxTXh5LV80aUZ0N0ZZYTA?oc=5",
-      "first_seen": "2026-08-18T10:30:24Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "0a05d45eeb85f5aa933b",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1707,6 +1690,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "363f293f8d30dbaa2371",
+      "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-18T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWGFlU0F3UERFaGhheHVCMFRQV0dHMU1TamFXSlZWOURrM0R6dWhJNTl0Y0UwajZhb0o3N0lxQUNxTXh5LV80aUZ0N0ZZYTA?oc=5",
+      "first_seen": "2026-08-18T10:30:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
