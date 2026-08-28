@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-27T23:30:20Z",
-  "updated_at_jst": "2026/08/28 08:30 JST",
+  "updated_at": "2026-08-28T00:00:19Z",
+  "updated_at_jst": "2026/08/28 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1109,
+  "article_count": 1111,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "mainichi": 137,
-    "asahi": 128,
+    "asahi": 130,
     "sankei": 182,
     "nhk": 91,
     "yomiuri": 164,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 884,
+    "aeon": 886,
     "power": 123,
     "paper": 119
   },
@@ -112,6 +112,22 @@
       ]
     },
     {
+      "id": "fb38c39377c75a40bd67",
+      "title": "イオン爆発に巻きこまれた妹、顔をさする母 兄「受け入れられない」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-27T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
+      "first_seen": "2026-08-28T00:00:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "558bed3c5034e4bd2064",
       "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -120,6 +136,22 @@
       "published_at": "2026-08-27T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qR042WFV5MDVJLU9OYTlYOTdDRV8yVVZCLVBMbzc0Z3UtNm9Zc3J5cDNMTmtrdHl6M1p4Ym1uNWJMbldiMG42Z2pLWHlRVTVZenlEckdETklRUXBYVlVMdF9ROFlabmgtejFv?oc=5",
       "first_seen": "2026-08-27T20:30:21Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b32ff1f54b63cb558b2a",
+      "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-27T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdTlKWEZ0UXc2amVaeHZMMmozSTNsbkM3ZEJPaUVUaWdHaTQzcTVab1lNNWM4Mlg4cERjcXZHYlJ0Z3JwWDFkSHZsN2VXOXZiV05rSHkxdHNfRktESHRUTFp1cTBQVUtIbkt4YjNB?oc=5",
+      "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "避難状況"
       ],
@@ -14138,7 +14170,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlUX2RLaUVMLVY4WTM4ejZUY1NKczlYX29FSFdVRFh0MDFvRURFc3BDWkF3R3NVR0dHNUNnaVNsV1Y2WUtPXy1INTJXNXBRNGw2N2NRSGVvRGNtS0V1dGs0VklBbHlTd0NtSUZ5OWczYUNDUHc1cml5ZzhHY2E4ZEtR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVm04eF9zYnktR0Z3MkhleHpVNW5UdXY1VTdhZE44QnZkd1ViZU5kYXpVTnJia0Z5OEhsbUM0Vk9lV2dQTDg1SHNlUVluY09IMkZKdnVoaGhSekhIMlp0NUNNWWVhdkRGX0llSVJuNFJudG5mNGZ1eUJLbkR4Vzd0cUhR?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
