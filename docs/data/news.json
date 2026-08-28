@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T15:00:23Z",
-  "updated_at_jst": "2026/08/29 00:00 JST",
+  "updated_at": "2026-08-28T15:30:19Z",
+  "updated_at_jst": "2026/08/29 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1128,
@@ -112,22 +112,6 @@
       ]
     },
     {
-      "id": "01dd1e89dddf3bf25c0f",
-      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T12:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
-      "first_seen": "2026-08-28T12:30:18Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "191ac9628a8d5ecd3198",
       "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も 動画",
       "source": "朝日新聞",
@@ -176,6 +160,22 @@
       ]
     },
     {
+      "id": "01dd1e89dddf3bf25c0f",
+      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T11:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2dCbnVvS29UaHdXdTZ3cWRRTFhSU1pQa29IeUdUU0VLald3SHRscUhkTFcyblB6ODZSTnR3QlJENDA5RjJWUjdudkYyNUpRajJJWHVaNFRHVzZ6Q044WjloZ2UzX3k1TFB4ODQ5ZXdDLU9TdFFsdzVwTWpQdUpjYU9B?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a975ffe48a11ea317e2a",
       "title": "「日常に入れない感覚」とイオン爆発の遺族 (共同通信)",
       "source": "熊本日日新聞",
@@ -198,7 +198,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T10:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QzQ2N1RDeEN5Y0F5N0luX1RWMUNfZkR1RTRvLU90eHRjNVAwQlo5ZFBqRGg3NEx0S2hsRG04dzU4aTdhSzlWQmFFaFpsb3pBaGs5WQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QaUc4b1JWdklvNnpmem5XY2Vwd3ZVWlk2WDhlZ0xFZC1QbmxKMjVkOUJmRzZ3MEZwN0hxdFVIX0JIelBXTUNXREY0RF93UUY5S2lhWQ?oc=5",
       "first_seen": "2026-08-28T12:00:20Z",
       "focus": [
         "避難状況"
@@ -1204,6 +1204,22 @@
       ]
     },
     {
+      "id": "44ab2a2edd97d62ba597",
+      "title": "<2026年熊本地震>学校再開後の心のケアを 嘉島町教委が教職員研修 イオン爆発さらにストレス",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-20T09:27:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQbU52NTh0OWdPbXNiY3FSUWZuYkVWa3VlWEo3Z3NUbWJRdGx4ajRtTGVJb1N3WXhwOS13bjFiQThpYWttdFV6XzdzT09Tb2s?oc=5",
+      "first_seen": "2026-08-20T10:00:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ec00103233b00fd978d6",
       "title": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
       "source": "NHK",
@@ -1264,22 +1280,6 @@
       "first_seen": "2026-08-20T08:00:34Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "44ab2a2edd97d62ba597",
-      "title": "<2026年熊本地震>学校再開後の心のケアを 嘉島町教委が教職員研修 イオン爆発さらにストレス",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQbU52NTh0OWdPbXNiY3FSUWZuYkVWa3VlWEo3Z3NUbWJRdGx4ajRtTGVJb1N3WXhwOS13bjFiQThpYWttdFV6XzdzT09Tb2s?oc=5",
-      "first_seen": "2026-08-20T10:00:38Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -1613,6 +1613,23 @@
       ]
     },
     {
+      "id": "363f293f8d30dbaa2371",
+      "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-18T10:01:39Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWGFlU0F3UERFaGhheHVCMFRQV0dHMU1TamFXSlZWOURrM0R6dWhJNTl0Y0UwajZhb0o3N0lxQUNxTXh5LV80aUZ0N0ZZYTA?oc=5",
+      "first_seen": "2026-08-18T10:30:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "0a05d45eeb85f5aa933b",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1627,23 +1644,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "363f293f8d30dbaa2371",
-      "title": "日本製紙八代工場の再建を支援 経産相、煙突が倒壊し9人死亡(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-18T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWGFlU0F3UERFaGhheHVCMFRQV0dHMU1TamFXSlZWOURrM0R6dWhJNTl0Y0UwajZhb0o3N0lxQUNxTXh5LV80aUZ0N0ZZYTA?oc=5",
-      "first_seen": "2026-08-18T10:30:24Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -2777,20 +2777,6 @@
       ]
     },
     {
-      "id": "8fd26f51d141da19149e",
-      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d8fb42a5484187626437",
       "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
       "source": "読売新聞",
@@ -2974,6 +2960,20 @@
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWh6U2E4eWVDa1J4cm9ncUNpbUljOWtiSkVVdjBpODNncEpTTVkzc2U1NlZkOTd3WEEyQmlvSTQtLUhsRkFPeVI5WkJvU3NrWFhneXpFcW42bVhMSGo1SmdNempLaHR2T0NCQVU4LXJTS0lCbVh2M2ZFdWxicGFDY2VB?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -5264,7 +5264,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -10237,7 +10237,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
