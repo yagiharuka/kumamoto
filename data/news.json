@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T22:00:26Z",
-  "updated_at_jst": "2026/08/29 07:00 JST",
+  "updated_at": "2026-08-28T22:30:20Z",
+  "updated_at_jst": "2026/08/29 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1133,
+  "article_count": 1134,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "nhk": 96,
     "jiji": 179,
     "sankei": 189,
-    "asahi": 132,
+    "asahi": 133,
     "kumanichi": 168,
     "yomiuri": 164,
     "nikkei": 65
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 908,
+    "aeon": 909,
     "power": 123,
     "paper": 119
   },
@@ -175,6 +175,22 @@
       ]
     },
     {
+      "id": "01dd1e89dddf3bf25c0f",
+      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T12:01:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "191ac9628a8d5ecd3198",
       "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も 動画",
       "source": "朝日新聞",
@@ -215,22 +231,6 @@
       "published_at": "2026-08-28T11:32:08Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3F4QnZKaV9JMjkwSzZMZThqalVkcVVmcFpVNkhLMklZcURsX2x4dnhUZm1rZFFEN1lLQWlwRVFaMTBESHN5a2FuVHdzNFFRUjZ3Vll3dXFsVVkwNUNubUlNLTQtcS1Xb2d2a1NQVmxwWnZUVFdZTUl0MnNZcnlnZTlUckg0ZEpZWnVod1lVb3BqRVljNk9ZUWNrQUUzVlR6SWc?oc=5",
       "first_seen": "2026-08-28T13:00:25Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "01dd1e89dddf3bf25c0f",
-      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T11:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2dCbnVvS29UaHdXdTZ3cWRRTFhSU1pQa29IeUdUU0VLald3SHRscUhkTFcyblB6ODZSTnR3QlJENDA5RjJWUjdudkYyNUpRajJJWHVaNFRHVzZ6Q044WjloZ2UzX3k1TFB4ODQ5ZXdDLU9TdFFsdzVwTWpQdUpjYU9B?oc=5",
-      "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
       ],
@@ -341,6 +341,22 @@
       "published_at": "2026-08-28T08:23:00Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
       "first_seen": "2026-08-28T20:00:24Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9bd4901f2c72535897ce",
+      "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T08:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNk1FWEpYaFJwbm1ZcDJLSDF4d3V5ejdtZVhzTjlNbXItem1iZEdrUEpma04yLXg5SlpzVkJ5NFJiby1MQ2taNnhGald5U2xESUpWUXBrRkI5OXRMOWlQYklsazFUQkU?oc=5",
+      "first_seen": "2026-08-28T22:30:20Z",
       "focus": [
         "現場状況"
       ],
@@ -1401,6 +1417,22 @@
       ]
     },
     {
+      "id": "017b8f7875acf8599adf",
+      "title": "イオン、爆発事故の調査委発足=再発防止策を提言へ―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
+      "first_seen": "2026-08-20T06:30:33Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "04c52d77d722233426d9",
       "title": "イオンモール熊本の爆発巡り調査委員会発足 原因究明目指す",
       "source": "毎日新聞",
@@ -1411,22 +1443,6 @@
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "017b8f7875acf8599adf",
-      "title": "イオン、爆発事故の調査委発足=再発防止策を提言へ―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
-      "first_seen": "2026-08-20T06:30:33Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -5343,7 +5359,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -10316,7 +10332,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
@@ -14513,7 +14529,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGh2aWxPZUNfOS1lc0FGR2l4ckk1TlA2LXJpRWRPTUN1WkhtMkVHS0trVmFsTFdBRF95T2htUFk4QVhDUEdOZVJqcFNlc3lHNHBzMTVWM1dLcEJOaTV2TWlqYmVUQ2RwekVYbEdWZDRFbmpJTTUyd3BXODV5cElkRi1R?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
@@ -18028,7 +18044,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
