@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T11:30:21Z",
-  "updated_at_jst": "2026/08/28 20:30 JST",
+  "updated_at": "2026-08-28T12:00:20Z",
+  "updated_at_jst": "2026/08/28 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1119,
+  "article_count": 1121,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "jiji": 176,
+    "kumanichi": 168,
+    "jiji": 177,
     "sankei": 184,
     "nhk": 95,
     "mainichi": 138,
     "asahi": 130,
     "yomiuri": 164,
-    "nikkei": 65,
-    "kumanichi": 167
+    "nikkei": 65
   },
   "tracked_categories": [
     {
@@ -76,11 +76,43 @@
     }
   ],
   "category_counts": {
-    "aeon": 894,
+    "aeon": 896,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "a975ffe48a11ea317e2a",
+      "title": "「日常に入れない感覚」とイオン爆発の遺族 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-28T10:58:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iRkdhRkJkSUpWSEViT1FLS243X3NTanhPWm1mRGNTbWJWYlMxSElwMnZ5cmZUcWl4aDVJNDJNUWxEUERaZ3hUVFdpbFU4dTA?oc=5",
+      "first_seen": "2026-08-28T12:00:20Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "480864b73f0ced732489",
+      "title": "被災1カ月、冥福祈る=見えぬ復興、不安の声も―イオンや避難所・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T10:14:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QzQ2N1RDeEN5Y0F5N0luX1RWMUNfZkR1RTRvLU90eHRjNVAwQlo5ZFBqRGg3NEx0S2hsRG04dzU4aTdhSzlWQmFFaFpsb3pBaGs5WQ?oc=5",
+      "first_seen": "2026-08-28T12:00:20Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "e688ba086b3ef88b44b4",
       "title": "被災1カ月、冥福祈る 見えぬ復興、不安の声も―イオンや避難所・熊本地震",
@@ -2637,20 +2669,6 @@
       ]
     },
     {
-      "id": "8fd26f51d141da19149e",
-      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d8fb42a5484187626437",
       "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
       "source": "読売新聞",
@@ -2834,6 +2852,20 @@
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWh6U2E4eWVDa1J4cm9ncUNpbUljOWtiSkVVdjBpODNncEpTTVkzc2U1NlZkOTd3WEEyQmlvSTQtLUhsRkFPeVI5WkJvU3NrWFhneXpFcW42bVhMSGo1SmdNempLaHR2T0NCQVU4LXJTS0lCbVh2M2ZFdWxicGFDY2VB?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -10097,7 +10129,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
