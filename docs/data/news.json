@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T19:30:21Z",
-  "updated_at_jst": "2026/08/29 04:30 JST",
+  "updated_at": "2026-08-28T20:00:24Z",
+  "updated_at_jst": "2026/08/29 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1132,
+  "article_count": 1133,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "nhk": 96,
     "jiji": 179,
     "sankei": 189,
-    "asahi": 131,
+    "asahi": 132,
     "kumanichi": 168,
     "yomiuri": 164,
     "nikkei": 65
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 907,
+    "aeon": 908,
     "power": 123,
     "paper": 119
   },
@@ -325,6 +325,22 @@
       "published_at": "2026-08-28T09:06:52Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wVjI4S1FHN1E2cG9lR1ZscTJDY21VaDg3aTgtQ3ZtZWRyZGlBZGpvRnIxbUlpaXN5a1c5S01hQllBMmY5OTB2a1BReVpPR1RLbFExNXFLcWtPM0tqRllJ?oc=5",
       "first_seen": "2026-08-28T10:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "4df1c3df73e357c1040d",
+      "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T08:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
+      "first_seen": "2026-08-28T20:00:24Z",
       "focus": [
         "現場状況"
       ],
