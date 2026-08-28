@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T07:00:21Z",
-  "updated_at_jst": "2026/08/28 16:00 JST",
+  "updated_at": "2026-08-28T07:30:19Z",
+  "updated_at_jst": "2026/08/28 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1113,
+  "article_count": 1114,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "mainichi": 138,
     "nhk": 93,
-    "mainichi": 137,
     "asahi": 130,
     "sankei": 182,
     "yomiuri": 164,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 888,
+    "aeon": 889,
     "power": 123,
     "paper": 119
   },
   "items": [
+    {
+      "id": "70fb71adc5b2e070aada",
+      "title": "イオンモール熊本爆発 ハビタが遺族に補償へ、内容は今後協議",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T07:20:28Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GXzQ2bnZ6UktpbkJVTmVUQlJuRTltZlByRk80YkoxQVVHRVcyWDU4TFllT1M4MENha28yX3RXSVNrREh0SV9iM3lJRmtFUWVXdTlLLXc2aFdxaVdYUmw5SXVDZEZxYVdi?oc=5",
+      "first_seen": "2026-08-28T07:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "d7b67ee9cd9e5f130fe1",
       "title": "熊本地震1か月 イオンモール熊本に献花台も 犠牲者を追悼",
