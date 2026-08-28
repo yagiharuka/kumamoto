@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T16:00:22Z",
-  "updated_at_jst": "2026/08/29 01:00 JST",
+  "updated_at": "2026-08-28T16:30:21Z",
+  "updated_at_jst": "2026/08/29 01:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1128,
@@ -2777,20 +2777,6 @@
       ]
     },
     {
-      "id": "8fd26f51d141da19149e",
-      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "d8fb42a5484187626437",
       "title": "イオンモール熊本の爆発事故で救助活動、佐賀県でも「対策を考えないと」...大型ショッピングセンター複数あり",
       "source": "読売新聞",
@@ -2974,6 +2960,20 @@
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85STZraUN4WHVmXzVVZWlPaF9mTzVWOEJveDFqR0Z4dmVuNnRJdV9fUmJlYURXeEg5SGt3ZzVMWk1rTzZPZnR3ZWRFZ2g2cmxvTHJUTA?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8fd26f51d141da19149e",
+      "title": "イオンモール熊本に献花次々 知事も追悼、熊本地震2週間",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWh6U2E4eWVDa1J4cm9ncUNpbUljOWtiSkVVdjBpODNncEpTTVkzc2U1NlZkOTd3WEEyQmlvSTQtLUhsRkFPeVI5WkJvU3NrWFhneXpFcW42bVhMSGo1SmdNempLaHR2T0NCQVU4LXJTS0lCbVh2M2ZFdWxicGFDY2VB?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -5264,7 +5264,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
