@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T17:01:11Z",
-  "updated_at_jst": "2026/08/30 02:01 JST",
+  "updated_at": "2026-08-29T17:31:04Z",
+  "updated_at_jst": "2026/08/30 02:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1142,
+  "article_count": 1143,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "mainichi": 143,
     "yomiuri": 168,
-    "mainichi": 142,
     "nhk": 96,
     "jiji": 181,
     "sankei": 189,
@@ -77,10 +77,27 @@
   ],
   "category_counts": {
     "aeon": 914,
-    "power": 124,
+    "power": 125,
     "paper": 121
   },
   "items": [
+    {
+      "id": "401b7ad3b7e75963551b",
+      "title": "検証・熊本地震:/中 想定外 対応手探り 停電・猛暑・支援品目詰まり",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-29T17:02:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
+      "first_seen": "2026-08-29T17:31:04Z",
+      "focus": [
+        "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "b644500e4de1eb9b3eca",
       "title": "イオンモール熊本で「本人がまだ働いている気がして早く帰っておいでと声をかけた」...爆発事故で妻を失った男性",
