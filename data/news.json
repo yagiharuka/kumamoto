@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T13:01:05Z",
-  "updated_at_jst": "2026/08/29 22:01 JST",
+  "updated_at": "2026-08-29T13:31:05Z",
+  "updated_at_jst": "2026/08/29 22:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1141,
@@ -1182,6 +1182,24 @@
       ]
     },
     {
+      "id": "193f7f044670cc240808",
+      "title": "イオンモール熊本の爆発事故、イオンが事故調査委員会を発足...外部専門家で避難誘導マニュアルや運用を検証",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uLVg4YzQwcVhTUVVRdHdBM2h6VW9kc1htbzNuZHBoNGQ3a3I3WTYtcjRfTkFQMTBKN2Y5R2NqZ216dlJNSVhRcWZUSlhqaFpVbnFPSTFxbVV1REg0X052bkw5UEVKTVFfS1dSSV95SERSdw?oc=5",
+      "first_seen": "2026-08-21T01:30:47Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a0d41f3f0c18d6b265cf",
       "title": "「イオンモール熊本」 ガス会社が報告 “配管損傷し漏えい”",
       "source": "NHK",
@@ -1243,24 +1261,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "193f7f044670cc240808",
-      "title": "イオンモール熊本の爆発事故、イオンが事故調査委員会を発足...外部専門家で避難誘導マニュアルや運用を検証",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-21T01:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uLVg4YzQwcVhTUVVRdHdBM2h6VW9kc1htbzNuZHBoNGQ3a3I3WTYtcjRfTkFQMTBKN2Y5R2NqZ216dlJNSVhRcWZUSlhqaFpVbnFPSTFxbVV1REg0X052bkw5UEVKTVFfS1dSSV95SERSdw?oc=5",
-      "first_seen": "2026-08-21T01:30:47Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -7082,7 +7082,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRXI3dDBlS3BKdmJkbnNDME1heG51VTEwQVpDbl80UEZTbWNHbXJ4STRjejBjcjlYZkk2MERlSHI0UnhkYWxrOWVkRFZySmdEeEZ0XzkzeGRpMGdsdmpSVWxDWWg4N1ZDS0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QT0VJMFhHMHNmYjVVYnBEZWp0MHVvb0RLdFA0NEU3b096bklEaTFxX2xFRUdEeDk4LVJ3U1hXWExhY1BldHVXMjFfcTlnOWdEcHhXNEo1bl9TNngwaF95dlZJVU1OanE1dmc?oc=5",
       "first_seen": "2026-08-29T09:31:03Z",
       "focus": [
         "停電状況"
