@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T15:01:05Z",
-  "updated_at_jst": "2026/08/30 00:01 JST",
+  "updated_at": "2026-08-29T15:31:04Z",
+  "updated_at_jst": "2026/08/30 00:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1142,
@@ -1152,7 +1152,7 @@
       "source_id": "kumanichi",
       "source_group": "地元紙",
       "published_at": "2026-08-22T06:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RNEstV1dGSGJNMi15S3lkVFZWeTZIRTY1V3J1MDFERUFnZWFrZi0wZEdmV050THkzUHQ0RXFfZTFtUWo4WG0xelRvNzZqaUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWaWpaMktxSGxPakdtd3VKd0oyclBRazltN3QzWUEyZEFYWE5SMlRrOUJfbWhubVV1SjBPbkFqUW02RW85WlhzMkExTy1OVnpGS0lObA?oc=5",
       "first_seen": "2026-08-22T06:30:16Z",
       "focus": [
         "避難状況",
@@ -1187,6 +1187,23 @@
       "published_at": "2026-08-21T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nRy1nQ2wzSGl1cmh6WUsyb1hWZERpSXBpUDRuV1BSVjVsTDUzbk50N1hCaUJIX0JFbUN0QU44NDRWZVZlQjNBVWEySDlEWExhclpCWF9NNjNLNURX?oc=5",
       "first_seen": "2026-08-21T23:30:15Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "98085a20441ffb7e3b7f",
+      "title": "日本製紙八代工場の煙突、撤去作業が始まる...余震で落下する恐れがある高さ110mの煙突から",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yanNjY0hoaTVZRTZUdENSN3NrX1Z0WDN6RnZqX1Z0WnUwdy02amdQZmlMcTBmdVBoZi1nbTJsdXV4Y21Zb2VyUlJwb2VrWHN6ZnJQeWVONkZVTXJfbG5zSjhrUzNpM0hlSkNheEFyVnpkdw?oc=5",
+      "first_seen": "2026-08-21T02:30:49Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -1252,23 +1269,6 @@
       "published_at": "2026-08-21T02:17:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKVmtRUGU1U1ZnbkJGQ3Q4Ujl5YjR0MkJmUmVibEFNby0tWG9nYzN5a012UDBBQ3RYM2x4TERUSkQxVTY1aVE0ZThQRmEzM3FyQXJkSzU5N1RRMUxndGdJWUFZdzBTRlBMLVE?oc=5",
       "first_seen": "2026-08-26T07:30:16Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "98085a20441ffb7e3b7f",
-      "title": "日本製紙八代工場の煙突、撤去作業が始まる...余震で落下する恐れがある高さ110mの煙突から",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-21T02:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yanNjY0hoaTVZRTZUdENSN3NrX1Z0WDN6RnZqX1Z0WnUwdy02amdQZmlMcTBmdVBoZi1nbTJsdXV4Y21Zb2VyUlJwb2VrWHN6ZnJQeWVONkZVTXJfbG5zSjhrUzNpM0hlSkNheEFyVnpkdw?oc=5",
-      "first_seen": "2026-08-21T02:30:49Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -14259,7 +14259,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
