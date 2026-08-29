@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T10:31:04Z",
-  "updated_at_jst": "2026/08/29 19:31 JST",
+  "updated_at": "2026-08-29T11:01:05Z",
+  "updated_at_jst": "2026/08/29 20:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1141,
@@ -1737,23 +1737,6 @@
       ]
     },
     {
-      "id": "25ba772c1facd20e83ab",
-      "title": "2026年熊本地震>設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-18T11:15:12Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWTNSZ2JqZXdkemZtS0JfWTVEN3dIekVxbzdPRWpBbjc4VFdVZTBkaVRac2hpbGtiVUVnSFVUejAxV2RsS3didDZqVGVBYXc?oc=5",
-      "first_seen": "2026-08-18T11:30:26Z",
-      "focus": [
-        "現場状況",
-        "操業情報"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "0a05d45eeb85f5aa933b",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1800,6 +1783,23 @@
         "原因・検証",
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "25ba772c1facd20e83ab",
+      "title": "2026年熊本地震>設備損壊、日本製紙操業停止影響も 八代地域の商工業 赤沢経済産業相が視察",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-18T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWTNSZ2JqZXdkemZtS0JfWTVEN3dIekVxbzdPRWpBbjc4VFdVZTBkaVRac2hpbGtiVUVnSFVUejAxV2RsS3didDZqVGVBYXc?oc=5",
+      "first_seen": "2026-08-18T11:30:26Z",
+      "focus": [
+        "現場状況",
+        "操業情報"
       ],
       "category_ids": [
         "paper"
