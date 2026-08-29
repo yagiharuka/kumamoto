@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T05:30:20Z",
-  "updated_at_jst": "2026/08/29 14:30 JST",
+  "updated_at": "2026-08-29T06:00:26Z",
+  "updated_at_jst": "2026/08/29 15:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1136,
@@ -1399,6 +1399,22 @@
       ]
     },
     {
+      "id": "35e92c5d8892f9e2a336",
+      "title": "新聞用紙週内にも代替供給 王子など業界3社支援 熊本地震で日本製紙八代工場が操業停止",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SekZBTVJtMXcxV043TGotSDY4OEo5bGFKLVBNYWxhdnRuN0FxZjljWXk3VHpjRng5dUw2Q3Y2dm9GdFVWcnliOUMtNXppQk5kWEdlbU1QS1ZuSnRqSUdyWjFvMVZydjA5eTFHMGE4aTVZYXdkWlE?oc=5",
+      "first_seen": "2026-08-20T01:31:02Z",
+      "focus": [
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "44ab2a2edd97d62ba597",
       "title": "<2026年熊本地震>学校再開後の心のケアを 嘉島町教委が教職員研修 イオン爆発さらにストレス",
       "source": "熊本日日新聞",
@@ -1574,22 +1590,6 @@
       "first_seen": "2026-08-27T00:00:24Z",
       "focus": [
         "復旧情報"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "35e92c5d8892f9e2a336",
-      "title": "新聞用紙週内にも代替供給 王子など業界3社支援 熊本地震で日本製紙八代工場が操業停止",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-20T01:26:29Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SekZBTVJtMXcxV043TGotSDY4OEo5bGFKLVBNYWxhdnRuN0FxZjljWXk3VHpjRng5dUw2Q3Y2dm9GdFVWcnliOUMtNXppQk5kWEdlbU1QS1ZuSnRqSUdyWjFvMVZydjA5eTFHMGE4aTVZYXdkWlE?oc=5",
-      "first_seen": "2026-08-20T01:31:02Z",
-      "focus": [
-        "操業情報"
       ],
       "category_ids": [
         "paper"
