@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T20:31:06Z",
-  "updated_at_jst": "2026/08/30 05:31 JST",
+  "updated_at": "2026-08-29T21:01:05Z",
+  "updated_at_jst": "2026/08/30 06:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1144,
+  "article_count": 1145,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "mainichi": 143,
+    "mainichi": 144,
     "yomiuri": 169,
     "nhk": 96,
     "jiji": 181,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 914,
+    "aeon": 915,
     "power": 126,
     "paper": 121
   },
   "items": [
+    {
+      "id": "dc5418249b924975d348",
+      "title": "熊本地震 イオン爆発 テナント会社が経緯報告 偽りの説明 遺族暴く",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-29T20:04:34Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZejFrZzNRRnU1bEdQRVh6ZVQzRlZmbFdESDdRNDdJMkctcHZaOWFzUWhOMWMyWHZPbk9nVjB2OXVlSm5YNENSNjFMd2RhWFRQaGN3UnViRWtOWFhsekNiT29ZWEFvaUZJ?oc=5",
+      "first_seen": "2026-08-29T21:01:05Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "401b7ad3b7e75963551b",
       "title": "検証・熊本地震:/中 想定外 対応手探り 停電・猛暑・支援品目詰まり",
@@ -5452,7 +5468,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
