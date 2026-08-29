@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T07:00:23Z",
-  "updated_at_jst": "2026/08/29 16:00 JST",
+  "updated_at": "2026-08-29T07:30:21Z",
+  "updated_at_jst": "2026/08/29 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1137,
+  "article_count": 1138,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "yomiuri": 166,
-    "mainichi": 140,
+    "mainichi": 141,
     "nhk": 96,
     "jiji": 180,
     "sankei": 189,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 911,
+    "aeon": 912,
     "power": 123,
     "paper": 120
   },
@@ -285,6 +285,20 @@
       ]
     },
     {
+      "id": "e9022cd3a8a1e2c9c5e7",
+      "title": "◎被災1カ月、冥福祈る=イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T10:17:42Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZnJVMXF4NkhfcnNOUTA3VWN3X0wtY1VPMkp2bGZBdURBNlVvSk9EMmVSQ0ZST0QzWEZ2YnlSa0Q5TGQtbFYtVDZUZUpWX1lJOWQyeg?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "480864b73f0ced732489",
       "title": "被災1カ月、冥福祈る=見えぬ復興、不安の声も―イオンや避難所・熊本地震",
       "source": "時事通信",
@@ -293,22 +307,6 @@
       "published_at": "2026-08-28T10:14:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xd1ZWbm9icFoyZHdLT0E2R1hsTTNncm5hX3J4QllScUZROUhzMkxCbFBtVlpJZnFabm9xb2QwNWRwTkhscWcwYTV0eXFwRlgzZDZENERfaG1EaHBURnc?oc=5",
       "first_seen": "2026-08-28T12:00:20Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "e9022cd3a8a1e2c9c5e7",
-      "title": "◎被災1カ月、冥福祈る=見えぬ復興、不安の声も―イオンや避難所・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T10:13:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZnJVMXF4NkhfcnNOUTA3VWN3X0wtY1VPMkp2bGZBdURBNlVvSk9EMmVSQ0ZST0QzWEZ2YnlSa0Q5TGQtbFYtVDZUZUpWX1lJOWQyeg?oc=5",
-      "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "避難状況"
       ],
@@ -404,6 +402,22 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUS1UYmZsV1BSQ01tMEdYdk5JOWhpaUtQOHpQNUF6MkpLMzkxaEpXSncxUWxZRm5nREhZUkY5T2tYVlV3Y3VuOUliSmZqLWZWeExkOUd1U3g?oc=5",
       "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1b7e799ab243ad29f029",
+      "title": "「戻るなら」に違和感...イオンモール爆発、遺族が暴いた「うそ」",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T07:54:18Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OdlVMbXpsWVpWc01jOXh4OFBoYm50c1FhZWMzeUVmUGw4bW1zcUVHS2xyTXdXVEZ4QTJqYVRFMXhPWjVZT3pnYl9ENDNuNGY4S3F4eHZrSnRjalJFUllKY1NvTmFGUjNK?oc=5",
+      "first_seen": "2026-08-29T07:30:21Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -1331,23 +1345,6 @@
       ]
     },
     {
-      "id": "ec00103233b00fd978d6",
-      "title": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-20T09:03:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkZ4SDlJUXpZdnBpTE5VTkdPMDVkODdNTHVtUXExZmRmT1cyYllxQVJQdnhWeE1ndXcycmFYSzQwWE91Q0RxOGpONmVzVWQ4eUdibTc0V2JGNXhaTUZn?oc=5",
-      "first_seen": "2026-08-20T09:30:34Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "d733976ed57701e2f2b1",
       "title": "<2026年熊本地震>調査委に弁護士ら3人 イオンモール爆発事故",
       "source": "熊本日日新聞",
@@ -1479,6 +1476,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "ec00103233b00fd978d6",
+      "title": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3SkZ4SDlJUXpZdnBpTE5VTkdPMDVkODdNTHVtUXExZmRmT1cyYllxQVJQdnhWeE1ndXcycmFYSzQwWE91Q0RxOGpONmVzVWQ4eUdibTc0V2JGNXhaTUZn?oc=5",
+      "first_seen": "2026-08-20T09:30:34Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
