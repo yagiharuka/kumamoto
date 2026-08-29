@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T02:30:20Z",
-  "updated_at_jst": "2026/08/29 11:30 JST",
+  "updated_at": "2026-08-29T03:00:24Z",
+  "updated_at_jst": "2026/08/29 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1135,
+  "article_count": 1136,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 166,
     "mainichi": 140,
     "nhk": 96,
     "jiji": 179,
     "sankei": 189,
     "asahi": 133,
     "kumanichi": 168,
-    "yomiuri": 165,
     "nikkei": 65
   },
   "tracked_categories": [
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 909,
+    "aeon": 910,
     "power": 123,
     "paper": 120
   },
   "items": [
+    {
+      "id": "b644500e4de1eb9b3eca",
+      "title": "イオンモール熊本で「本人がまだ働いている気がして早く帰っておいでと声をかけた」...爆発事故で妻を失った男性",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-29T02:38:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xNXE2d0VhQXdDRzhsVDZ2Zzg4S3dwX19tUTFZTFJ0eTJJbHZURHBzam05blZrakpkYlY4X3hieGI0ME81MlN6dlpzeXlFTTVGdmFnaDlyREhOQ0NQaEg1Mzc5WHVuN29fbmNVSzJQazZjZw?oc=5",
+      "first_seen": "2026-08-29T03:00:24Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "68a63db9aa252864535a",
       "title": "熊本地震1カ月 再入館なぜ 事実まだ 妹犠牲の40代、苦もん イオン爆発",
@@ -5375,7 +5391,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
