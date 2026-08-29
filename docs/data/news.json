@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T19:01:07Z",
-  "updated_at_jst": "2026/08/30 04:01 JST",
+  "updated_at": "2026-08-29T19:31:07Z",
+  "updated_at_jst": "2026/08/30 04:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1143,
@@ -1248,6 +1248,23 @@
       ]
     },
     {
+      "id": "6856db31400f40ece3e2",
+      "title": "イオンモール熊本の爆発事故で調査委 原因や運用検証",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OWWgyTjJ0QnVyc2FTNkJ3NV8xdTRnQ25TcnZaQmRlYkx3c0ZVZlNDOV81Q1ZCSkcwdHBCOHpraktDN2V3aVJCTUxiMWRTWmJIVFdmUXhMVGUwUWNEYWlzTjFUUWFPV1ZsRTEzWA?oc=5",
+      "first_seen": "2026-08-21T03:30:58Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a0d41f3f0c18d6b265cf",
       "title": "「イオンモール熊本」 ガス会社が報告 “配管損傷し漏えい”",
       "source": "NHK",
@@ -1336,23 +1353,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93X0dYWFAxSEVmQkxjM0hJTVk2Z2JHNUtJRXJncDdveklCSW1jcFRyZGk3SUxzUkNwV2s4TE1icHlRNFk3WWZ6MVREcDA4dlAtbGJHMk9UR0FJaS1lTW9rZjA0bw?oc=5",
       "first_seen": "2026-08-20T21:00:48Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "6856db31400f40ece3e2",
-      "title": "イオンモール熊本の爆発事故で調査委 原因や運用検証",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-20T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OWWgyTjJ0QnVyc2FTNkJ3NV8xdTRnQ25TcnZaQmRlYkx3c0ZVZlNDOV81Q1ZCSkcwdHBCOHpraktDN2V3aVJCTUxiMWRTWmJIVFdmUXhMVGUwUWNEYWlzTjFUUWFPV1ZsRTEzWA?oc=5",
-      "first_seen": "2026-08-21T03:30:58Z",
-      "focus": [
-        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -5402,7 +5402,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CekZnOGJjOW9Qc3JKNXI1MUFma21mU204NmVSbXBzMWp5andES3g4ZzFxaUNSdVE2aFM0US1zMDlWa0JkQ1U2dHQ2MzFiTmRDZHRDZWZYLUlMek1xVTZQeXV2cTFRUjZKUXhUQkx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OQ2VsV015UmE5b3lMcGdfNnZlQTlic3d1b3VjOUFBYk9BWjRzTXZnZ0ZoNXR1U0wxMEFuempGSXdoZ0NIZ1NJeUNnc1BSQTBHc0xGSGNGSGM3Y08zS2FXMFVRNUpjY09RbWc?oc=5",
       "first_seen": "2026-08-04T05:31:06Z",
       "focus": [
         "避難状況",
