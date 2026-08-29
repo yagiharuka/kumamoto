@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T22:30:10Z",
-  "updated_at_jst": "2026/08/30 07:30 JST",
+  "updated_at": "2026-08-29T23:00:11Z",
+  "updated_at_jst": "2026/08/30 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1145,
@@ -1526,6 +1526,22 @@
       ]
     },
     {
+      "id": "017b8f7875acf8599adf",
+      "title": "イオン、爆発事故の調査委発足=再発防止策を提言へ―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
+      "first_seen": "2026-08-20T06:30:33Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ec00103233b00fd978d6",
       "title": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
       "source": "NHK",
@@ -1553,22 +1569,6 @@
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "017b8f7875acf8599adf",
-      "title": "イオン、爆発事故の調査委発足=再発防止策を提言へ―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-20T06:04:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
-      "first_seen": "2026-08-20T06:30:33Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -5468,7 +5468,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
