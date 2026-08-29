@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T06:30:24Z",
-  "updated_at_jst": "2026/08/29 15:30 JST",
+  "updated_at": "2026-08-29T07:00:23Z",
+  "updated_at_jst": "2026/08/29 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1137,
@@ -255,6 +255,20 @@
       ]
     },
     {
+      "id": "640839c5b29d5191c978",
+      "title": "7人死亡の「イオンモール熊本」 献花台を訪れる人も",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-28T11:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43TUxLNzBHbFFSOXFuUERfRmd4QVRxbXhQY2lfTUgxLXBoa2hSb1FaRVlTME12YnFoWjFfa0QyU19OSExsT25pTVQ5Y0E3UTh3d1ZBT2NYaTU?oc=5",
+      "first_seen": "2026-08-28T03:30:20Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a975ffe48a11ea317e2a",
       "title": "「日常に入れない感覚」とイオン爆発の遺族 (共同通信)",
       "source": "熊本日日新聞",
@@ -277,7 +291,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T10:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QaUc4b1JWdklvNnpmem5XY2Vwd3ZVWlk2WDhlZ0xFZC1QbmxKMjVkOUJmRzZ3MEZwN0hxdFVIX0JIelBXTUNXREY0RF93UUY5S2lhWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xd1ZWbm9icFoyZHdLT0E2R1hsTTNncm5hX3J4QllScUZROUhzMkxCbFBtVlpJZnFabm9xb2QwNWRwTkhscWcwYTV0eXFwRlgzZDZENERfaG1EaHBURnc?oc=5",
       "first_seen": "2026-08-28T12:00:20Z",
       "focus": [
         "避難状況"
@@ -434,20 +448,6 @@
       "source_group": "公共放送",
       "published_at": "2026-08-28T03:28:06Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WZ29OaGo2empwYkwxMTE5WU1zRXZNdWRKQXI4SlV2dnRnS2RCcS00XzlaREI5SG10OUJIS2R6WlZKVWhBZFh1RUk1SGFyQXVDay1hV1lYbUNweUZQYlRj?oc=5",
-      "first_seen": "2026-08-28T03:30:20Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "640839c5b29d5191c978",
-      "title": "7人死亡の「イオンモール熊本」 献花台で犠牲者を悼む",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-28T02:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43TUxLNzBHbFFSOXFuUERfRmd4QVRxbXhQY2lfTUgxLXBoa2hSb1FaRVlTME12YnFoWjFfa0QyU19OSExsT25pTVQ5Y0E3UTh3d1ZBT2NYaTU?oc=5",
       "first_seen": "2026-08-28T03:30:20Z",
       "focus": [],
       "category_ids": [
@@ -14318,6 +14318,20 @@
       ]
     },
     {
+      "id": "71bcf30c9b0cb4e886fc",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xczJoMjIzcFNJYUx6NGlBRE9KMm13ekpURG9fM1hGbFQ1OElhNlN3Y1Jub2V5Rmh4ajV0LVZkOVZUb2JjZlFjS01SdXhTbGtBV0szaEROakFEYzFobS1PWkVXOFQzQURoODc0cjdFRQ?oc=5",
+      "first_seen": "2026-08-02T14:00:20Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1f335762f1e2d8e6edf5",
       "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -15993,20 +16007,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "71bcf30c9b0cb4e886fc",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xczJoMjIzcFNJYUx6NGlBRE9KMm13ekpURG9fM1hGbFQ1OElhNlN3Y1Jub2V5Rmh4ajV0LVZkOVZUb2JjZlFjS01SdXhTbGtBV0szaEROakFEYzFobS1PWkVXOFQzQURoODc0cjdFRQ?oc=5",
-      "first_seen": "2026-08-02T14:00:20Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
