@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T09:00:29Z",
-  "updated_at_jst": "2026/08/29 18:00 JST",
+  "updated_at": "2026-08-29T09:31:03Z",
+  "updated_at_jst": "2026/08/29 18:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1139,
+  "article_count": 1141,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 166,
+    "yomiuri": 168,
     "mainichi": 142,
     "nhk": 96,
     "jiji": 180,
@@ -77,8 +77,8 @@
   ],
   "category_counts": {
     "aeon": 913,
-    "power": 123,
-    "paper": 120
+    "power": 124,
+    "paper": 121
   },
   "items": [
     {
@@ -7076,6 +7076,22 @@
       ]
     },
     {
+      "id": "fe4a7b157d9653848c2a",
+      "title": "猛暑の熊本で続く停電・断水、ガソリンや飲料水求め長蛇の列...被災者「ここまで不便になるとは」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRXI3dDBlS3BKdmJkbnNDME1heG51VTEwQVpDbl80UEZTbWNHbXJ4STRjejBjcjlYZkk2MERlSHI0UnhkYWxrOWVkRFZySmdEeEZ0XzkzeGRpMGdsdmpSVWxDWWg4N1ZDS0E?oc=5",
+      "first_seen": "2026-08-29T09:31:03Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "7b9ec47e6375b405b3a3",
       "title": "猛暑の熊本で続く停電・断水、ガソリンや飲料水求め長蛇の列...被災者「ここまで不便になるとは」",
       "source": "読売新聞",
@@ -12143,6 +12159,22 @@
       "category_ids": [
         "aeon",
         "power"
+      ]
+    },
+    {
+      "id": "c02c22bc936e5d34f020",
+      "title": "熊本地震、12人死亡・6人心肺停止...日本製紙八代工場で5人死亡・4人安否不明:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbFBocVI5cVdFbUZvVTQ1WTY4QkgtRnRHd2RxX3p1cGVfaU9uVTV0VmtnSXR5Ty15NnJOTUFDUk1qTzF3TEszM3R6SXdRaFR5blg3YjF1bzZkWVI0NkJGS2ZfQXltcHBnN1E?oc=5",
+      "first_seen": "2026-08-29T09:31:03Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
