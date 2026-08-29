@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T10:01:09Z",
-  "updated_at_jst": "2026/08/29 19:01 JST",
+  "updated_at": "2026-08-29T10:31:04Z",
+  "updated_at_jst": "2026/08/29 19:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1141,
@@ -1187,7 +1187,7 @@
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
-      "published_at": "2026-08-21T09:24:00Z",
+      "published_at": "2026-08-21T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LY3c4OWQ2Ty13ZWxGSDdESXVxc3E1V0N6bnNVa1NmM2dVcW81alByaG8xczRhazRSTXpsbVNxYXJnb2wxczZ2SUdaS0ZKTnc0T3dHeFBCX0c?oc=5",
       "first_seen": "2026-08-21T15:01:00Z",
       "focus": [
@@ -7738,6 +7738,22 @@
       ]
     },
     {
+      "id": "70b84d1cc1081558c6e9",
+      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集14/20]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ2t6VjhuYzZqMlJjcHN2bE53MDZqTi1iMFhBTVNtSUhfeWNpVzY3anNzT1JLNTVDRXhUaGdPcGRoc2JVdnBwc0twU3p6U0lRS3hEMEUxXzBRMk9fT09uOW1HS2tITUdFaVo5XzdBOEJOQ3A3S2JMX3JpSEN0dzVDTkhpamdOZU0?oc=5",
+      "first_seen": "2026-08-03T00:31:04Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "09c1766fc3fc5cd0d6d6",
       "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集13/20]",
       "source": "毎日新聞",
@@ -8401,22 +8417,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "70b84d1cc1081558c6e9",
-      "title": "爆発のあったイオンモール熊本の様子 2026年熊本地震 [写真特集14/20]",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:11:58Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ2t6VjhuYzZqMlJjcHN2bE53MDZqTi1iMFhBTVNtSUhfeWNpVzY3anNzT1JLNTVDRXhUaGdPcGRoc2JVdnBwc0twU3p6U0lRS3hEMEUxXzBRMk9fT09uOW1HS2tITUdFaVo5XzdBOEJOQ3A3S2JMX3JpSEN0dzVDTkhpamdOZU0?oc=5",
-      "first_seen": "2026-08-03T00:31:04Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
