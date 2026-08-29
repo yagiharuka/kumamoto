@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-29T06:00:26Z",
-  "updated_at_jst": "2026/08/29 15:00 JST",
+  "updated_at": "2026-08-29T06:30:24Z",
+  "updated_at_jst": "2026/08/29 15:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1136,
+  "article_count": 1137,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "yomiuri": 166,
     "mainichi": 140,
     "nhk": 96,
-    "jiji": 179,
+    "jiji": 180,
     "sankei": 189,
     "asahi": 133,
     "kumanichi": 168,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 910,
+    "aeon": 911,
     "power": 123,
     "paper": 120
   },
@@ -403,6 +403,22 @@
       "published_at": "2026-08-28T07:20:28Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GXzQ2bnZ6UktpbkJVTmVUQlJuRTltZlByRk80YkoxQVVHRVcyWDU4TFllT1M4MENha28yX3RXSVNrREh0SV9iM3lJRmtFUWVXdTlLLXc2aFdxaVdYUmw5SXVDZEZxYVdi?oc=5",
       "first_seen": "2026-08-28T07:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6e93ea120afcf8a906a9",
+      "title": "爆発7人死亡、刑事責任は=イオン事故、立件に高いハードル―熊本地震1カ月",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T06:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
+      "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
       ],
@@ -5391,7 +5407,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
