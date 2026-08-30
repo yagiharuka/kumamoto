@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T21:31:02Z",
-  "updated_at_jst": "2026/08/31 06:31 JST",
+  "updated_at": "2026-08-30T22:01:03Z",
+  "updated_at_jst": "2026/08/31 07:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1147,
+  "article_count": 1148,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "mainichi": 144,
-    "yomiuri": 171,
+    "yomiuri": 172,
     "nhk": 96,
     "jiji": 181,
     "sankei": 189,
@@ -77,7 +77,7 @@
   ],
   "category_counts": {
     "aeon": 917,
-    "power": 126,
+    "power": 127,
     "paper": 121
   },
   "items": [
@@ -4330,6 +4330,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "35fe66e8387acc7a0df0",
+      "title": "和歌山県庁 : 停電・断水時に1000回使えるトイレカーを派遣...熊本地震、男女別のほか多機能トイレも装備:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80UGVFUkF6TEd6TlRJV0wwWm5NX3R1bnNFTVNtbUJmV2JXZTgtZmY0NG55QlR5U0tCRVlCazJSbW1JWHZDU2REbzF4UFpHVXFMSHRCSHc0ZHNtRC1hcFhvb3lrTXM0bHBJOVE?oc=5",
+      "first_seen": "2026-08-30T22:01:03Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
