@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T03:30:12Z",
-  "updated_at_jst": "2026/08/30 12:30 JST",
+  "updated_at": "2026-08-30T04:00:08Z",
+  "updated_at_jst": "2026/08/30 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1145,
@@ -99,7 +99,7 @@
     },
     {
       "id": "401b7ad3b7e75963551b",
-      "title": "検証・熊本地震:/中 想定外 対応手探り 停電・猛暑・支援品目詰まり",
+      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
