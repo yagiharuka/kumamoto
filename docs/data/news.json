@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T04:30:16Z",
-  "updated_at_jst": "2026/08/30 13:30 JST",
+  "updated_at": "2026-08-30T05:00:14Z",
+  "updated_at_jst": "2026/08/30 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1145,
@@ -352,7 +352,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T10:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QaUc4b1JWdklvNnpmem5XY2Vwd3ZVWlk2WDhlZ0xFZC1QbmxKMjVkOUJmRzZ3MEZwN0hxdFVIX0JIelBXTUNXREY0RF93UUY5S2lhWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xd1ZWbm9icFoyZHdLT0E2R1hsTTNncm5hX3J4QllScUZROUhzMkxCbFBtVlpJZnFabm9xb2QwNWRwTkhscWcwYTV0eXFwRlgzZDZENERfaG1EaHBURnc?oc=5",
       "first_seen": "2026-08-28T12:00:20Z",
       "focus": [
         "避難状況"
@@ -7206,6 +7206,23 @@
       ]
     },
     {
+      "id": "d233b7313235bae68900",
+      "title": "熊本地震で甚大な被害の日本製紙八代工場、大きな横揺れで体が浮く...工場勤務者「まさか煙突も折れるなんて」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54bTBiWEVhbGRCS0Q4ZGdZa2pJSENHX1RZR0YxSHVwRDNiUHJCUkVfVVlUcmRfeUYtRjkzUTVaNGc4M2MwbXR5U09GTDc3X3pmSE1hMzdPOUVmcWxDZnNTS3R0QXRpSldpS0E?oc=5",
+      "first_seen": "2026-08-03T00:01:08Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "6fd9d959fd3ae7a7c70e",
       "title": "熊本地震で甚大な被害の日本製紙八代工場、大きな横揺れで体が浮く...工場勤務者「まさか煙突も折れるなんて」",
       "source": "読売新聞",
@@ -8447,23 +8464,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "d233b7313235bae68900",
-      "title": "熊本地震で甚大な被害の日本製紙八代工場、大きな横揺れで体が浮く...工場勤務者「まさか煙突も折れるなんて」:写真",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-31T04:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54bTBiWEVhbGRCS0Q4ZGdZa2pJSENHX1RZR0YxSHVwRDNiUHJCUkVfVVlUcmRfeUYtRjkzUTVaNGc4M2MwbXR5U09GTDc3X3pmSE1hMzdPOUVmcWxDZnNTS3R0QXRpSldpS0E?oc=5",
-      "first_seen": "2026-08-03T00:01:08Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
