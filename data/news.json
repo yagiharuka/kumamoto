@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T08:31:06Z",
-  "updated_at_jst": "2026/08/30 17:31 JST",
+  "updated_at": "2026-08-30T09:01:02Z",
+  "updated_at_jst": "2026/08/30 18:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1145,
@@ -1245,6 +1245,23 @@
       ]
     },
     {
+      "id": "9633cb1530eb7ba79aa0",
+      "title": "日本製紙八代工場の煙突、撤去作業が始まる...余震で落下する恐れがある高さ110mの煙突から:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKVmtRUGU1U1ZnbkJGQ3Q4Ujl5YjR0MkJmUmVibEFNby0tWG9nYzN5a012UDBBQ3RYM2x4TERUSkQxVTY1aVE0ZThQRmEzM3FyQXJkSzU5N1RRMUxndGdJWUFZdzBTRlBMLVE?oc=5",
+      "first_seen": "2026-08-26T07:30:16Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "98085a20441ffb7e3b7f",
       "title": "日本製紙八代工場の煙突、撤去作業が始まる...余震で落下する恐れがある高さ110mの煙突から",
       "source": "読売新聞",
@@ -1324,23 +1341,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "9633cb1530eb7ba79aa0",
-      "title": "日本製紙八代工場の煙突、撤去作業が始まる...余震で落下する恐れがある高さ110mの煙突から:写真",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-21T02:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKVmtRUGU1U1ZnbkJGQ3Q4Ujl5YjR0MkJmUmVibEFNby0tWG9nYzN5a012UDBBQ3RYM2x4TERUSkQxVTY1aVE0ZThQRmEzM3FyQXJkSzU5N1RRMUxndGdJWUFZdzBTRlBMLVE?oc=5",
-      "first_seen": "2026-08-26T07:30:16Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
