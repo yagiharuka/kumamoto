@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T04:00:08Z",
-  "updated_at_jst": "2026/08/30 13:00 JST",
+  "updated_at": "2026-08-30T04:30:16Z",
+  "updated_at_jst": "2026/08/30 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1145,
@@ -1508,6 +1508,23 @@
       ]
     },
     {
+      "id": "04c52d77d722233426d9",
+      "title": "イオンモール熊本の爆発巡り調査委員会発足 原因究明目指す",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmclJHbTJJOS12RjFWRWFTdHI0ZFo5d0hQcjdhR0R0VjhjSzYwNFVyanh0TzRmNE5GRzVCNEZpRFhzR18wMjA2Y0VYd0NnMUdnUWpBT2NmTW1EOGlIZlZ0bVVhMlJwUFQ0?oc=5",
+      "first_seen": "2026-08-20T06:30:33Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "4e7b23c9e618fcdf4e80",
       "title": "イオン、爆発事故の調査委発足 委員にガスや避難に知見持つ専門家ら [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1572,23 +1589,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "04c52d77d722233426d9",
-      "title": "イオンモール熊本の爆発巡り調査委員会発足 原因究明目指す",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-20T06:18:30Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmclJHbTJJOS12RjFWRWFTdHI0ZFo5d0hQcjdhR0R0VjhjSzYwNFVyanh0TzRmNE5GRzVCNEZpRFhzR18wMjA2Y0VYd0NnMUdnUWpBT2NmTW1EOGlIZlZ0bVVhMlJwUFQ0?oc=5",
-      "first_seen": "2026-08-20T06:30:33Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
