@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T15:01:03Z",
-  "updated_at_jst": "2026/08/31 00:01 JST",
+  "updated_at": "2026-08-30T15:31:02Z",
+  "updated_at_jst": "2026/08/31 00:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1146,
@@ -552,7 +552,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LSVdMcDhKOXJkaTY4XzEwMktCQmhGTlVGZzM5bi1ERU5JMno5RXJ2bDBROVVpc1NPLUQ1eXVMWGxyOVBRNEtxelVlNWNSbThsQTJic1o2aHd2Mjl1RzVyUXdJc3hib3hfRzdIY1JB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -6508,6 +6508,22 @@
       ]
     },
     {
+      "id": "8849773f10948b93a755",
+      "title": "「イオンモール熊本」捜索・救助活動を終了、被災者の健康維持・生活再建に注力...住宅被害3649棟に:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-02T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rLU43LUxOZ3h2VWdtMEw5NjQydHpMN3NBRlR0SWZ6WTBCdWJGWHAtaHRSaV8yczNNVDZZeE5pS05ZVF9vSkhXTnZmR2VEdDBjc29yMVBsYjhXNkFuZ3RPblgwS1VRbGJzZmc?oc=5",
+      "first_seen": "2026-08-03T04:01:17Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a31df4b4ce0e13cc2761",
       "title": "「イオンモール熊本」捜索・救助活動を終了、被災者の健康維持・生活再建に注力...住宅被害3649棟に",
       "source": "読売新聞",
@@ -6676,22 +6692,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jcTRZMkREVTFTcEI1WVd6UUQxMXhaSU5SSkZhQ2x6cXFIWWFrNVpQM0t5NjZ4QjVXNHVySTVNWXFnXzJfNE9MYWtmS1VVSm5oTm56REFR?oc=5",
       "first_seen": "2026-08-02T09:00:22Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8849773f10948b93a755",
-      "title": "「イオンモール熊本」捜索・救助活動を終了、被災者の健康維持・生活再建に注力...住宅被害3649棟に:写真",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-02T00:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rLU43LUxOZ3h2VWdtMEw5NjQydHpMN3NBRlR0SWZ6WTBCdWJGWHAtaHRSaV8yczNNVDZZeE5pS05ZVF9vSkhXTnZmR2VEdDBjc29yMVBsYjhXNkFuZ3RPblgwS1VRbGJzZmc?oc=5",
-      "first_seen": "2026-08-03T04:01:17Z",
-      "focus": [
-        "救助・安否"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -14196,7 +14196,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cb1VFRlBzS2FoLWFpNHFObnVhU3h2Q1YzTG5VSlVxbHNaOG9Nd2dEMWx6R05KWHRsNHdxaWpVM3JDZ0hLMjVqLTM2dHVKdHBhTW1MRzQ3NUg2WmpYQ3VrZTJ2WnBUckdiOC1pbzdjRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUZRbkJlc1dTSmlWMDd6UTFuNzdqOHVFU3lrTUxxdXB0ZnoybkZpTGJWM0dZNVg2WDFUR0xXZ0JKdlhNOVRaTGxBWC0wUld0REFPeFlVZ0FOZU1qYlp3QS03TndpYkdRU1BXRWpEUFNHbXNLUUl0LVZkTk51MGVXOGxRYzVGc1JXUHlWbS0tZmd4a2pqMHh3ZlBNOUlab2o1UzBWaQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
