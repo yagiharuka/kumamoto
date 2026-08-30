@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-30T17:31:04Z",
-  "updated_at_jst": "2026/08/31 02:31 JST",
+  "updated_at": "2026-08-30T18:01:02Z",
+  "updated_at_jst": "2026/08/31 03:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1147,
@@ -1168,7 +1168,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-08-22T07:00:00Z",
+      "published_at": "2026-08-22T11:06:05Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15RlJTMGxhWHZDTWw3ZjFFWFNWdWl1LUNLUmJSazM2eENpZzJYVFR1VnhqX2p5Tm9YRVpSajBRSFNHTnZxTjZLS2szR2tHajg?oc=5",
       "first_seen": "2026-08-22T11:30:16Z",
       "focus": [
@@ -4871,6 +4871,22 @@
       ]
     },
     {
+      "id": "4ae20395792cbcf5b9e9",
+      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-04T12:53:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWJ5VmhiMUxFaTJUd2pIMjRoZDNTYm9iWjRYNDFUM2ZYYTJFVVhpaElUY2Y0LVcyVjdXVmdES25fS3pxdUdqRlE2SVFWZTY4Y1ZFT0g1RVdHTHZMd21YV25LQmFsbXVFNnNfeV9CNE9kUFdYQ2E3UUhsZnVlanR1UjNB?oc=5",
+      "first_seen": "2026-08-04T12:01:05Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "897d42a95d92e4439c28",
       "title": "爆発が起きたイオンモール熊本で、手を合わせる親子=4日午後4時12分、嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -5594,22 +5610,6 @@
       "published_at": "2026-08-04T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bDE1alNqTXhSQVljbDktMXRoZXRncG5XSTlHa2k1OGlKR2xOQU5CNGRuVk9oNjJiNlZzRHhCcUxSMVhMcFNEWlc3NDNtbFFlZEhVYmt2MlV6Qnc2ZEE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "4ae20395792cbcf5b9e9",
-      "title": "「雑魚寝痛い」「断水いつまで」 避難1週間、疲労限界に―イオン前に献花や色紙・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoX2dDVWVrZndOOVhHTWhDbDVKZmI0ajRYMy1kblFkaG9nbTV2ZnRNN1NwbTJoT1FOUGVsU1Y4T250U09aN1podVA3ZXEtWFM2TnRPbEZfNXI1bVpKYllSQk9ibw?oc=5",
-      "first_seen": "2026-08-04T12:01:05Z",
       "focus": [
         "避難状況"
       ],
