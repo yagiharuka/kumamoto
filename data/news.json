@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-31T15:00:59Z",
-  "updated_at_jst": "2026/09/01 00:00 JST",
+  "updated_at": "2026-08-31T15:30:54Z",
+  "updated_at_jst": "2026/09/01 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1149,
@@ -4266,22 +4266,6 @@
       ]
     },
     {
-      "id": "6e0c4b9259caf061680f",
-      "title": "◎イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-05T07:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAydkdoby1uamowaFhZc0NBbXFiM1JXRkJiYlJkeDYwbW1wMkk2VE0xcFhYc01hSHE3dFJ5cGhaRjZnTXJEMDhDdDdxd29iMXNjd1E0MQ?oc=5",
-      "first_seen": "2026-08-11T10:00:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "29121a4c2f72e8a57eeb",
       "title": "爆発が起きたイオンモール熊本で手を合わせる親子=4日午後4時12分、熊本県嘉島町(安元雄太撮影)",
       "source": "産経新聞",
@@ -4653,6 +4637,22 @@
       "published_at": "2026-08-05T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenZ2d1pyTS1KR1hfVV9zT2ZaX3JHOWc0YnZUVnlUNlA0b1NQaWRnU2VmRjZoSFVCdUZNd3BGLUJLWXZoODJIcFN2cWN4dXZNTWNkTGZVa1ppX0E2dXE3bFUzY2dOdDZCOXlvbkpLSFJMdkNmb3FaR1JWbHdfQ2xlMg?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6e0c4b9259caf061680f",
+      "title": "◎イオン、爆発事故で調査委設置=店員再入館「重く受け止め」―熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAydkdoby1uamowaFhZc0NBbXFiM1JXRkJiYlJkeDYwbW1wMkk2VE0xcFhYc01hSHE3dFJ5cGhaRjZnTXJEMDhDdDdxd29iMXNjd1E0MQ?oc=5",
+      "first_seen": "2026-08-11T10:00:42Z",
       "focus": [
         "現場状況"
       ],
