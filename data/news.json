@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-31T22:00:58Z",
-  "updated_at_jst": "2026/09/01 07:00 JST",
+  "updated_at": "2026-08-31T22:30:55Z",
+  "updated_at_jst": "2026/09/01 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1150,
+  "article_count": 1151,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "kumanichi": 169,
     "mainichi": 144,
-    "yomiuri": 172,
+    "yomiuri": 173,
     "nhk": 96,
     "jiji": 182,
     "sankei": 189,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 919,
+    "aeon": 920,
     "power": 127,
     "paper": 121
   },
@@ -1293,6 +1293,24 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "43a7f94cae6e06deed5e",
+      "title": "イオンモール熊本の爆発事故、イオンが事故調査委員会を発足...外部専門家で避難誘導マニュアルや運用を検証:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-21T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SdW0xN0pLSTR4ZmVvN1hrS1ZSVnBMalNaS2J4dWJrcjAxZmdDRjNzWE5Ld19fVklWQUYxSmZ4dWpwSWIwNVRsbU1Zc3paOW4xclNSelZNbExUTXNTRHE1dzBwMVB1SmNtRVE?oc=5",
+      "first_seen": "2026-08-31T22:30:55Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
