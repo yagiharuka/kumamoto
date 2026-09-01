@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T07:30:47Z",
-  "updated_at_jst": "2026/09/01 16:30 JST",
+  "updated_at": "2026-09-01T08:01:20Z",
+  "updated_at_jst": "2026/09/01 17:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1153,
@@ -1460,22 +1460,6 @@
       ]
     },
     {
-      "id": "d733976ed57701e2f2b1",
-      "title": "<2026年熊本地震>調査委に弁護士ら3人 イオンモール爆発事故",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-20T08:50:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PVXJXU3dSakF1Z0N6b2Nod0ZzamJXLTVnV0xtT2RwX04tb3JLLVI3OVN2cWZBUzI2ZEM4Q0F4TEdiTWpZRzRjVHZBc29PV00?oc=5",
-      "first_seen": "2026-08-20T09:30:34Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "350aa65eb386e702f660",
       "title": "イオンモール熊本爆発事故 事故調査委員会が発足 原因究明へ",
       "source": "NHK",
@@ -1551,6 +1535,22 @@
       "published_at": "2026-08-20T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMU40Q2MxY0F1NjZtekkxWklTcHc1aEUyUTctWEtDbjRzZWlRNjJxOFQxVjlHejItUG5qYms4OUttcTFUSlZ5NFBtYXB2MDg?oc=5",
       "first_seen": "2026-08-20T05:00:31Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d733976ed57701e2f2b1",
+      "title": "<2026年熊本地震>調査委に弁護士ら3人 イオンモール爆発事故",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PVXJXU3dSakF1Z0N6b2Nod0ZzamJXLTVnV0xtT2RwX04tb3JLLVI3OVN2cWZBUzI2ZEM4Q0F4TEdiTWpZRzRjVHZBc29PV00?oc=5",
+      "first_seen": "2026-08-20T09:30:34Z",
       "focus": [
         "現場状況"
       ],
@@ -2443,20 +2443,6 @@
       ]
     },
     {
-      "id": "db31393f495b3e54e2e4",
-      "title": "イオン複数社員が再入館を許可 安全確認完了前、熊本地震(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-12T09:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYWNiX0lTejkyQ3ZPWGx4Si1NcEhxQWNTN2tkY0JFTklyZ2VoX05FVktIR0Y5WEE5VFRrUnVlek8wYkVIWTN5SU83WWxxYnc?oc=5",
-      "first_seen": "2026-08-12T09:30:53Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "58c8e6eed960656a762c",
       "title": "妹亡くした男性「事実知りたい」 イオン爆発、再入館巡り情報錯綜(共同通信)",
       "source": "熊本日日新聞",
@@ -2608,6 +2594,36 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2427761c6a9e1dbee94a",
+      "title": "ハビタ、第三者委員会設置を検討 イオンモール熊本爆発で2人死亡(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90aU56Z2stWWJXaEFfZEZJbm9OWWw1ODFwRENkM2FIeXQtSGRpZ0ZVX1hYci10LTYxd0tkTTZaY1hHek9BRjluVGdNUHVTa3M?oc=5",
+      "first_seen": "2026-08-12T07:00:55Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "db31393f495b3e54e2e4",
+      "title": "イオン複数社員が再入館を許可 安全確認完了前、熊本地震(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYWNiX0lTejkyQ3ZPWGx4Si1NcEhxQWNTN2tkY0JFTklyZ2VoX05FVktIR0Y5WEE5VFRrUnVlek8wYkVIWTN5SU83WWxxYnc?oc=5",
+      "first_seen": "2026-08-12T09:30:53Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -2858,22 +2874,6 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieW1LeTJhWUgyNHhIUjdxSVZWYm9kUXFqWUtVUmhmUks1LWl2WkRGVGhESTlYTEhnOGZlcVI5WXg1ckdfd29wdE9oV29ud2NVTVN5dzV5SmFVY3VXNlFz?oc=5",
       "first_seen": "2026-08-12T09:30:53Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "2427761c6a9e1dbee94a",
-      "title": "ハビタ、第三者委員会設置を検討 イオンモール熊本爆発で2人死亡(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-12T06:34:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90aU56Z2stWWJXaEFfZEZJbm9OWWw1ODFwRENkM2FIeXQtSGRpZ0ZVX1hYci10LTYxd0tkTTZaY1hHek9BRjluVGdNUHVTa3M?oc=5",
-      "first_seen": "2026-08-12T07:00:55Z",
       "focus": [
         "現場状況"
       ],
@@ -4517,6 +4517,23 @@
       ]
     },
     {
+      "id": "d192d30fc7374677d62d",
+      "title": "イオンモール熊本に献花台 爆発犠牲者悼み、復旧願う(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuSTVCRnlnRzdqOXZESldubC1VeU9oZi1nakhvanhQQ1dvaFBybXBhUlMtT2NabWNUcmhxYVl3TW8yVjkxVkVBcFNvVlZYV1U?oc=5",
+      "first_seen": "2026-08-06T15:00:41Z",
+      "focus": [
+        "現場状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "9572e4ee68cc00f651c0",
       "title": "【速報】イオンが事故調査委設置へ イオンモール熊本爆発で",
       "source": "熊本日日新聞",
@@ -4703,7 +4720,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenZ2d1pyTS1KR1hfVV9zT2ZaX3JHOWc0YnZUVnlUNlA0b1NQaWRnU2VmRjZoSFVCdUZNd3BGLUJLWXZoODJIcFN2cWN4dXZNTWNkTGZVa1ppX0E2dXE3bFUzY2dOdDZCOXlvbkpLSFJMdkNmb3FaR1JWbHdfQ2xlMg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWWFzUUw4aml2ejZMWnU3R0xPS2d3TlIzWFU4aGxvbll3NE1KYUVwNGo0MWw2TzBiSkctS1V0Q3ZtQ2QtODFxVnI0YWxKcDMzMnpQS3pCbjhybjc1ZndLQUhwWQ?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -4889,23 +4906,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEhiVFdmY3FuTS1menFxVVNrYnktUjB0Y3I5eGl6dWdzdUNhb0gzeGdWNko1LXk5QTBvaWFQYm9NN1lEY1BMMVh3VTdjU2NVRTJuZ1ZNQkdzQ1dmMERGNGxsb204cmY2OXJBYVFCMFJDNDZRNm1XQjMzbUw1YjVEelJMOFVRdXcyWFNabENuMURxSE0zZnRmLXdFU2ZxbDBlMVE?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d192d30fc7374677d62d",
-      "title": "イオンモール熊本に献花台 爆発犠牲者悼み、復旧願う(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-05T06:22:15Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuSTVCRnlnRzdqOXZESldubC1VeU9oZi1nakhvanhQQ1dvaFBybXBhUlMtT2NabWNUcmhxYVl3TW8yVjkxVkVBcFNvVlZYV1U?oc=5",
-      "first_seen": "2026-08-06T15:00:41Z",
-      "focus": [
-        "現場状況",
-        "復旧情報"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -5585,7 +5585,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xa3JTVlhUeDRSbWlld2tKTWJoY2Vrd0N5NWhIcGhXWEp3Q05HNTlFbjNuYXNTTG9fZ2ZKb1Y5U2tUa1VBaXlNeGJwZTd1cjBTZHp3aDRNS2tDN0V6UlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSlNUR1FQTEo4VnNLaXhLczZUbTBYYmQxZUpwTHpETERMYm1nVnd1d21WUXc0NURwRlZrdXAyNkVEM3RQWEVVeWh6Mno1U0tZN1VVSQ?oc=5",
       "first_seen": "2026-08-04T09:31:05Z",
       "focus": [
         "現場状況"
