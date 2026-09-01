@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T04:00:35Z",
-  "updated_at_jst": "2026/09/01 13:00 JST",
+  "updated_at": "2026-09-01T04:30:44Z",
+  "updated_at_jst": "2026/09/01 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1152,
+  "article_count": 1153,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 174,
     "sankei": 190,
     "kumanichi": 169,
     "mainichi": 144,
-    "yomiuri": 173,
     "nhk": 96,
     "jiji": 182,
     "asahi": 133,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 920,
+    "aeon": 921,
     "power": 127,
     "paper": 122
   },
   "items": [
+    {
+      "id": "19ab487eb6186fe7a75a",
+      "title": "熊本地震の教訓生かせ...「防災の日」に各地で訓練、成田空港ではイオン爆発事故念頭の訓練も",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-01T04:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SZGdHdU1CdmtneE5BV2MyaHVfOFJhTXJNTl9Ob0hFNDgxR0ZiN1dxaFdjSVhqNkFiRTN0d0g1cTdHdXNVSEsxaDZ5VzRKR0pNUTdHbjRvcGdhNFlLSWtHbTBnWjkzZw?oc=5",
+      "first_seen": "2026-09-01T04:30:44Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "7626e8ddfc61df5fe592",
       "title": "地震で巨大な煙突が折れ、犠牲者が出た日本製紙八代工場=7月29日、熊本県八代市",
@@ -1510,6 +1526,22 @@
       ]
     },
     {
+      "id": "6f3d0f50fc1df3e349ec",
+      "title": "イオンモール熊本の爆発事故調査委が発足 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMU40Q2MxY0F1NjZtekkxWklTcHc1aEUyUTctWEtDbjRzZWlRNjJxOFQxVjlHejItUG5qYms4OUttcTFUSlZ5NFBtYXB2MDg?oc=5",
+      "first_seen": "2026-08-20T05:00:31Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "44ab2a2edd97d62ba597",
       "title": "<2026年熊本地震>学校再開後の心のケアを 嘉島町教委が教職員研修 イオン爆発さらにストレス",
       "source": "熊本日日新聞",
@@ -1670,22 +1702,6 @@
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "6f3d0f50fc1df3e349ec",
-      "title": "イオンモール熊本の爆発事故調査委が発足 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-20T04:26:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMU40Q2MxY0F1NjZtekkxWklTcHc1aEUyUTctWEtDbjRzZWlRNjJxOFQxVjlHejItUG5qYms4OUttcTFUSlZ5NFBtYXB2MDg?oc=5",
-      "first_seen": "2026-08-20T05:00:31Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
@@ -17226,7 +17242,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vYlpUWHVhWG14UmNibTFTZHAxN2lRYlItUWltVkJHbFl4WUVPRzZXV2lqcE1xVFFIN3NGOUdZMFFZdWNkVWt4Y0FRQnZ2Ry1iT1g2Q09IYU1tNUR1SUI0NFBZcGxtTFcxMEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrM1gtX2NDTk5IT1JNUW8yUWhwVkFHY041S25WQjZONEkxVk9iZFdjaDg0V3A5RVZmTEstVFN0OW84R0c3T1BwVjBlblFCbkVWQVN3RHhsZDBPN3hTdGNyUllDRlM3bkZaUEE?oc=5",
       "first_seen": "2026-08-20T18:00:08Z",
       "focus": [
         "救助・安否",
