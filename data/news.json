@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T09:31:08Z",
-  "updated_at_jst": "2026/09/01 18:31 JST",
+  "updated_at": "2026-09-01T10:00:47Z",
+  "updated_at_jst": "2026/09/01 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1153,
@@ -602,7 +602,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LSVdMcDhKOXJkaTY4XzEwMktCQmhGTlVGZzM5bi1ERU5JMno5RXJ2bDBROVVpc1NPLUQ1eXVMWGxyOVBRNEtxelVlNWNSbThsQTJic1o2aHd2Mjl1RzVyUXdJc3hib3hfRzdIY1JB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -4720,7 +4720,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWWFzUUw4aml2ejZMWnU3R0xPS2d3TlIzWFU4aGxvbll3NE1KYUVwNGo0MWw2TzBiSkctS1V0Q3ZtQ2QtODFxVnI0YWxKcDMzMnpQS3pCbjhybjc1ZndLQUhwWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenZ2d1pyTS1KR1hfVV9zT2ZaX3JHOWc0YnZUVnlUNlA0b1NQaWRnU2VmRjZoSFVCdUZNd3BGLUJLWXZoODJIcFN2cWN4dXZNTWNkTGZVa1ppX0E2dXE3bFUzY2dOdDZCOXlvbkpLSFJMdkNmb3FaR1JWbHdfQ2xlMg?oc=5",
       "first_seen": "2026-08-06T15:00:41Z",
       "focus": [
         "現場状況"
@@ -10449,6 +10449,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -10504,7 +10521,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lazd3UHR6LTJpOFQ0eXdKOFdZS2dURGJIZmV6N1BRaHdWVXVBbWg5UnNYM0xYUU55NzQ0Skt3ajFjWEthMEcyMWRPM2NpSTcyVmgzLUY4RUk0SGUtRDJtSS10UXBycGxFX0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -14233,23 +14250,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZY25LUGhXU0VZRE1GNlhvcWFBb3VoOHlSbDZJU2EzcmdaZERqM21HVDNZS2duQWRGMHp5ZmZnMi1wcGlWRW85RmFBV0JJeDRiNDJxckt2NUpkQzQ2?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
         "停電状況"
       ],
       "category_ids": [
