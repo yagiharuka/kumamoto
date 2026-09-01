@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T10:00:47Z",
-  "updated_at_jst": "2026/09/01 19:00 JST",
+  "updated_at": "2026-09-01T10:30:43Z",
+  "updated_at_jst": "2026/09/01 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1153,
+  "article_count": 1154,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "sankei": 190,
     "kumanichi": 169,
     "mainichi": 144,
-    "nhk": 96,
+    "nhk": 97,
     "jiji": 182,
     "asahi": 133,
     "nikkei": 65
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 921,
+    "aeon": 922,
     "power": 127,
     "paper": 122
   },
@@ -602,7 +602,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LSVdMcDhKOXJkaTY4XzEwMktCQmhGTlVGZzM5bi1ERU5JMno5RXJ2bDBROVVpc1NPLUQ1eXVMWGxyOVBRNEtxelVlNWNSbThsQTJic1o2aHd2Mjl1RzVyUXdJc3hib3hfRzdIY1JB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -7091,6 +7091,24 @@
       ]
     },
     {
+      "id": "d67bd544ba29e3b6973f",
+      "title": "イオンモール熊本 従業員の証言 地震から爆発まで何が",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96LVV0eXpsVy1qQmFNa19QZ1l3T09vSXpDSndwRGk4dWNHV1ZTbVdERnpFNFg5dnJlSVB4Y2tFWHV4M1JESklkYTZtU3dKUkZ1X25LaG1XU0s?oc=5",
+      "first_seen": "2026-09-01T10:30:43Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "670845b3b80231babe11",
       "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
       "source": "NHK",
@@ -10521,7 +10539,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lazd3UHR6LTJpOFQ0eXdKOFdZS2dURGJIZmV6N1BRaHdWVXVBbWg5UnNYM0xYUU55NzQ0Skt3ajFjWEthMEcyMWRPM2NpSTcyVmgzLUY4RUk0SGUtRDJtSS10UXBycGxFX0E?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -17292,7 +17310,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QeFQ4ODFsd0lwQkRCVFY5SXlPWFIxdGRNNDdFTFNzbmxhUl9MYnUtOUo0RFRZV0RiLW00M0xOaEZtdmtLVzVyRnB1S1hzUHBrV0g2emhaNHVoRGtGMGs2MW9SRVlVRjBnU3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UHZ5VjExd1h0UW9JQzFvbVplWnBoYlZxZ3FveWFxY0kycHZIUjJraWIwNklnTHprNnZLVUl6QXBvdDVvNmJadnZZQ1BVdk90Q3RKUHVIX0NLMTFkTC14VlN3MU1Vdnk3cXc?oc=5",
       "first_seen": "2026-08-02T20:00:20Z",
       "focus": [
         "救助・安否",
