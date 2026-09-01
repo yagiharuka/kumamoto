@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T03:00:48Z",
-  "updated_at_jst": "2026/09/01 12:00 JST",
+  "updated_at": "2026-09-01T03:30:35Z",
+  "updated_at_jst": "2026/09/01 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1151,
+  "article_count": 1152,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 190,
     "kumanichi": 169,
     "mainichi": 144,
     "yomiuri": 173,
     "nhk": 96,
     "jiji": 182,
-    "sankei": 189,
     "asahi": 133,
     "nikkei": 65
   },
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 920,
     "power": 127,
-    "paper": 121
+    "paper": 122
   },
   "items": [
+    {
+      "id": "7626e8ddfc61df5fe592",
+      "title": "地震で巨大な煙突が折れ、犠牲者が出た日本製紙八代工場=7月29日、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-01T01:58:20Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjgta0wzdkU2M0FfRFliS2JVRm9IOTZNM2RTS3dJVFpCdTl5N1RnWm0yR2Q5QTQtZTBHQzd3Tm5sWWliaEFNSlFpNGJiQnBUc3p0eFRTVEZsbDRWdVEyem9NSTB5ZENNdU4tMEs1QzJTSVVqbHRZVnhzUU85TU9KaFNmRDk5Z0lNeUhVbnVRLUo1TEt0YU9rSVQyTlplZ3lYRWc?oc=5",
+      "first_seen": "2026-09-01T03:30:35Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "280365eedcc5d9407851",
       "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
@@ -5600,7 +5617,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tLW9RbzAyS3VzMWM5YWRwRGJDQWlibFRhUk1DMHV0dXlCWUV3aVM0OEU3NTJudVNvdHV4dVBDeVhoX0M3d2lFOEt4cFhxY1hESkZSZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GLWxXR1o5M0wzbm9MM1BlV3l0LUlab3FUckpwMnhaRDFDeHBORGFKampwZzZGTktkbGhfc3pLNWM4RnlGVXNfNHlpNzZuX2ljbl9yTG1Vd1hVUnA1b0E?oc=5",
       "first_seen": "2026-08-04T18:01:11Z",
       "focus": [
         "現場状況"
