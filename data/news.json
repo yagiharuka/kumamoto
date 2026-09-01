@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T11:00:42Z",
-  "updated_at_jst": "2026/09/01 20:00 JST",
+  "updated_at": "2026-09-01T14:47:16Z",
+  "updated_at_jst": "2026/09/01 23:47 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1154,
+  "article_count": 1156,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 174,
+    "yomiuri": 176,
     "sankei": 190,
     "kumanichi": 169,
     "mainichi": 144,
@@ -76,9 +76,9 @@
     }
   ],
   "category_counts": {
-    "aeon": 922,
+    "aeon": 923,
     "power": 127,
-    "paper": 122
+    "paper": 123
   },
   "items": [
     {
@@ -1118,6 +1118,41 @@
       ]
     },
     {
+      "id": "d52d93734e8b6d85baad",
+      "title": "熊本地震で煙突が倒壊、日本製紙八代工場の復旧支援でふるさと納税CF...八代市が目標額2億円に設定:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-24T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CQVBuUnd4THFxbHBoMzJqZXlOSGlYOFUzRFZrUXdJUTJqWHp0QUxJTFVSdVNnWHBoMzlGTU1BZVV6dHFHU2h1R1c4YTNOLXltR0NpZExkMk1qMi1HSDdDdzZvVXZ1UWNXTlE?oc=5",
+      "first_seen": "2026-09-01T14:47:16Z",
+      "focus": [
+        "目撃証言",
+        "現場状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "a3295beae8a425d79bd5",
+      "title": "[スキャナー]イオンモール熊本爆発事故「再入館」マニュアル浸透せず...事故原因の調査続く",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-24T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR29KRGNrZU05dzFtcXM1M1hTcjB0WUQ5cE1GMEliMVJETE9Uc2JvNEJGb0t0S25lcUhtUGRCRG8yampRWXQ1dkJWeHZENmJSQXZDbkFMdlJyOUM0YXA0YUtKbWNldw?oc=5",
+      "first_seen": "2026-08-23T20:30:16Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "398689e647e77019a3e4",
       "title": "老いる日本の工場、主要国ワースト2位の古さ 熊本地震でリスク顕在",
       "source": "日本経済新聞",
@@ -1175,23 +1210,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Mkx5ME1PR0dnYU9oNEFvTnhPaHNLcWlWT1oxYmpZZk5yb3ZpMzJQRzM5bUt2cjZoYmp1OTNSWEw0OTJhQjRyMTBiUGdSV0doNXhLOFFpUkNVbHl3bFhzRHRJWQ?oc=5",
       "first_seen": "2026-08-23T21:00:17Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a3295beae8a425d79bd5",
-      "title": "[スキャナー]イオンモール熊本爆発事故「再入館」マニュアル浸透せず...事故原因の調査続く",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-23T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR29KRGNrZU05dzFtcXM1M1hTcjB0WUQ5cE1GMEliMVJETE9Uc2JvNEJGb0t0S25lcUhtUGRCRG8yampRWXQ1dkJWeHZENmJSQXZDbkFMdlJyOUM0YXA0YUtKbWNldw?oc=5",
-      "first_seen": "2026-08-23T20:30:16Z",
-      "focus": [
-        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -6435,7 +6453,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15UlNrTm5GbFNaaTBBSk5yMC1DN3RiWXVHR2Q2VVVoQUtEczFaWG16YmVPRWpJeEE2ckFYZWt2YXFkMmg5R0JQdFZ5TzJyWWF4b1FlaFkwYlRNQTFINkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTXg3VlNIbXdyQkNMQk5JM0t0QkRZX0dReHhGb2xmclNJekR5WkYzSnhWVzZMdHhyWTRMeURPNmZNb3Z0S19VdHRyNUl3RjMza3dRMw?oc=5",
       "first_seen": "2026-08-03T17:31:14Z",
       "focus": [
         "避難状況",
@@ -12601,7 +12619,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sRGlJb3dTUE9oNHVDdGRDTHVhdjY4NS0wQVRTWmFxSEJyVld2d0N6WnR5LWxqNm5wYXQwZzV5R1pDOGc4eWFUUFBYcGx6RjEtV0NFZVVBRU5tSkI4S2hqM2QzVXEyNVlRelE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fTm5tZ3lmOGZqZlQwaVBYUVhOdWMyV0tfYktqSlhodlo2LWk3OXo5WXdzZFAxZXU1UWxtS0ptOTIxMnBfSEZCbEFlRU43SmtfaFltTlpKWFdDbnFJbFVHNFlsNm1OX1NkbEE?oc=5",
       "first_seen": "2026-08-17T04:30:34Z",
       "focus": [],
       "category_ids": [
@@ -12618,6 +12636,23 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVVm5mcm9WQTNNRmItVUhOajZLT003NmZjZnlhZHl2bGVYU2NjWENfc09KZ1FNdVd5OHB1dlQ1RzFwQnVVTEt0Vkp2b0t4Um90dEVzNXJjVHk5M2pWN1gwX01XV3ZpUQ?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "51337219ab3deac8a83b",
+      "title": "「イオンモール熊本」で従業員3人の安否確認できず...イオン発表、「来店客の避難誘導後に従業員が避難」:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUEYzM1NhVHFsbXUyN0hla0dlRml5WUdjalRZRE5UdDN1Zl93ZWR2TTBKTS11aTZyVlE4RHdCLV9KN29pZENXa24xckxKU3hORmcwVVBDaFh1UllsOG4yYTl4UEZ2NHdFWmc?oc=5",
+      "first_seen": "2026-09-01T14:47:16Z",
+      "focus": [
+        "救助・安否",
+        "避難状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -13053,7 +13088,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREFRZ1A5SjRJSEJQWUw2SzdCRkswX3pHOGNTdEpPWTl5aEFiNi1xU0p2NWtGVDlHaDRvcWdndGRUZF95TWdYai1LVC1mUFRKZ0w1WjRfbEtzaGhwaVZHNUhCNzVub1M1RzFxZWY1bHhZNlZBcEtiWDRwdGJkSjZfd2kzMG9hb20yT3djVmlLOEFic3pObVF6RVlvLW1sM0dFQ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDEwNGZENWxoSloyZzZ3c2ZtZ04xQTZ5eGlkeGJ3TENvc3dIbWk2X1QtWjJHYUZweW5OOEJUR3ZORnNXR3F3SHJka3dHTmVHWGpoTWxidVFVUnZQODlQY2lOVVNRZWlCdDVBWFIxUDNQOEdvVGJfS3ZQOUp2RWNfYzExeDVOODluVFctTjZwcDExYzNrZnR6Y1hETVJ4WlJvTFE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -17274,7 +17309,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrM1gtX2NDTk5IT1JNUW8yUWhwVkFHY041S25WQjZONEkxVk9iZFdjaDg0V3A5RVZmTEstVFN0OW84R0c3T1BwVjBlblFCbkVWQVN3RHhsZDBPN3hTdGNyUllDRlM3bkZaUEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vYlpUWHVhWG14UmNibTFTZHAxN2lRYlItUWltVkJHbFl4WUVPRzZXV2lqcE1xVFFIN3NGOUdZMFFZdWNkVWt4Y0FRQnZ2Ry1iT1g2Q09IYU1tNUR1SUI0NFBZcGxtTFcxMEE?oc=5",
       "first_seen": "2026-08-20T18:00:08Z",
       "focus": [
         "救助・安否",
