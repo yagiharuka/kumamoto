@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T04:30:44Z",
-  "updated_at_jst": "2026/09/01 13:30 JST",
+  "updated_at": "2026-09-01T05:00:39Z",
+  "updated_at_jst": "2026/09/01 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1153,
@@ -1526,6 +1526,23 @@
       ]
     },
     {
+      "id": "981d436210a09a1dfaa2",
+      "title": "イオン熊本爆発の調査委員会発足 原因究明と再発防止策を提言(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95UHRYQnFPSEs5dFpOMFVhNTVCT1BDR0Zudm8zRnhEQk9WNFZ5bzlOa090eGwtTjR3c0pfVTVfdVNINEllVDJSaXBTdmF5dU0?oc=5",
+      "first_seen": "2026-08-20T06:30:33Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6f3d0f50fc1df3e349ec",
       "title": "イオンモール熊本の爆発事故調査委が発足 (共同通信)",
       "source": "熊本日日新聞",
@@ -1616,7 +1633,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
@@ -1685,23 +1702,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbkFCYzVoRmFBQmlMRGNUZzc5VEhaRE9Ta0haTWl0VWs5RmFETnlEQ1JQTlFpOHY4T1V5YnkzWV9qNHhDZURpdlVpVTFFaHJ1bDRfQg?oc=5",
       "first_seen": "2026-08-24T03:00:18Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "981d436210a09a1dfaa2",
-      "title": "イオン熊本爆発の調査委員会発足 原因究明と再発防止策を提言(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-20T05:41:15Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95UHRYQnFPSEs5dFpOMFVhNTVCT1BDR0Zudm8zRnhEQk9WNFZ5bzlOa090eGwtTjR3c0pfVTVfdVNINEllVDJSaXBTdmF5dU0?oc=5",
-      "first_seen": "2026-08-20T06:30:33Z",
-      "focus": [
-        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
