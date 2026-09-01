@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T02:30:41Z",
-  "updated_at_jst": "2026/09/01 11:30 JST",
+  "updated_at": "2026-09-01T03:00:48Z",
+  "updated_at_jst": "2026/09/01 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1151,
@@ -12652,22 +12652,6 @@
       ]
     },
     {
-      "id": "d887a94db5aa00c59f94",
-      "title": "爆発のあったイオンモール熊本=7月28日午後10時5分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZXUlFSSU9wSHVodjJqMjRUSUZTRVhZUkt4TTJmakk1X2xTd2RRWGdQQ2wwUEtmY3RuQU5CUDFkdUh3ek04bHZra2dPeElRR1FhM1Ztb09YeUV2U3FjRTVVSHZpdzNVUjFXQ2xQOF96NWpzeElNOGx0Q18yVEw5YWZzRlkxZ0pZUDlMZUQ3bHlHYmVWZzRWUTRqalp1YjN0Z0E?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "421c5624a0ecf13fc111",
       "title": "爆発で外壁などが大きく崩れたイオンモール熊本=7月28日午後6時38分、熊本県嘉島町(共同通信社ヘリから)",
       "source": "産経新聞",
@@ -14547,7 +14531,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xR3c3aC1LN1ltY3pwUzdUX2J0WDBKaVgxTmtiR1ZJeFlvQV9iOWRXeW9wdnFOSF9CNUJUaXB6eWNsU0JjNUF6ZXFCUzI0ZFhGb09Gd1ZGb0U2NldZczdtamx3TnI0OWJNd2ZEUWh3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RFJMVUFGYTBqYlNnRnBvWmZadUQ4VkdDWmV0THZtQTlmVHVDMDBIRWEwTDc2SnlRN09MLXRZTDFIXzNxMVJyN0pLa1pEcThDN09mRFZzLVptRXlvcjJQOGFXWlRRUnd6RDBJMHhR?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
@@ -16993,24 +16977,6 @@
       ]
     },
     {
-      "id": "e811a992d8c95de0fbec",
-      "title": "イオンモール熊本「地響きと『ドーン』という音がした」...2階部分が崩落、多数の人が閉じ込められたか:写真",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T09:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QeFQ4ODFsd0lwQkRCVFY5SXlPWFIxdGRNNDdFTFNzbmxhUl9MYnUtOUo0RFRZV0RiLW00M0xOaEZtdmtLVzVyRnB1S1hzUHBrV0g2emhaNHVoRGtGMGs2MW9SRVlVRjBnU3c?oc=5",
-      "first_seen": "2026-08-02T20:00:20Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "670ef32752298da944c5",
       "title": "熊本のイオンモールで爆発の情報 (共同通信)",
       "source": "熊本日日新聞",
@@ -17273,6 +17239,24 @@
       ]
     },
     {
+      "id": "e811a992d8c95de0fbec",
+      "title": "イオンモール熊本「地響きと『ドーン』という音がした」...2階部分が崩落、多数の人が閉じ込められたか:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QeFQ4ODFsd0lwQkRCVFY5SXlPWFIxdGRNNDdFTFNzbmxhUl9MYnUtOUo0RFRZV0RiLW00M0xOaEZtdmtLVzVyRnB1S1hzUHBrV0g2emhaNHVoRGtGMGs2MW9SRVlVRjBnU3c?oc=5",
+      "first_seen": "2026-08-02T20:00:20Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "7761dc1df99382627f3a",
       "title": "イオンモール熊本「地響きと『ドーン』という音がした」...2階部分が崩落、多数の人が閉じ込められたか",
       "source": "読売新聞",
@@ -17345,6 +17329,22 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbVdzb1lFc2VtU3Brc0FuTldJcE84dmRzTGJodE9LZnNMVnBNZjJaQkZkWktvY1BLbjJHd0FOb2FmREY3X2JNQjVUc3NHY2cyV2VtUVptT1hvcHFvelpDYVg1WGRtam5tUnl2THhqb2F6MjkzdkE?oc=5",
       "first_seen": "2026-07-28T15:22:23Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d887a94db5aa00c59f94",
+      "title": "爆発のあったイオンモール熊本=7月28日午後10時5分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
       ],
