@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T15:30:29Z",
-  "updated_at_jst": "2026/09/03 00:30 JST",
+  "updated_at": "2026-09-02T16:00:25Z",
+  "updated_at_jst": "2026/09/03 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1157,
@@ -9507,23 +9507,6 @@
       ]
     },
     {
-      "id": "b980fb951df43d2aff43",
-      "title": "イオン入店のミスド、従業員は無事 ダスキン、モップなど洗浄の工場稼働停止 熊本地震",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T08:32:48Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51WkhVdHo1T2haeUZuQlFZOFktaXBuZlVCRWpZamhXZzZ4NkhfbVREQ25DdVhLVlVPUldxbHJ5YzBlXzhVYUZ1T0tvQ3dkM2hrV05NLUppQnp6LWFXb3NDdTlMVWhzVFNVWUpKTno3Rl9FRUxHOEE?oc=5",
-      "first_seen": "2026-07-30T10:00:13Z",
-      "focus": [
-        "避難状況",
-        "操業情報"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "b5ccdeb31a057e8264ba",
       "title": "【動画】イオンモール熊本・日本製紙八代工場 内部の様子は",
       "source": "NHK",
@@ -9930,6 +9913,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "b980fb951df43d2aff43",
+      "title": "イオン入店のミスド、従業員は無事 ダスキン、モップなど洗浄の工場稼働停止 熊本地震",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51WkhVdHo1T2haeUZuQlFZOFktaXBuZlVCRWpZamhXZzZ4NkhfbVREQ25DdVhLVlVPUldxbHJ5YzBlXzhVYUZ1T0tvQ3dkM2hrV05NLUppQnp6LWFXb3NDdTlMVWhzVFNVWUpKTno3Rl9FRUxHOEE?oc=5",
+      "first_seen": "2026-07-30T10:00:13Z",
+      "focus": [
+        "避難状況",
+        "操業情報"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -13070,7 +13070,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDEwNGZENWxoSloyZzZ3c2ZtZ04xQTZ5eGlkeGJ3TENvc3dIbWk2X1QtWjJHYUZweW5OOEJUR3ZORnNXR3F3SHJka3dHTmVHWGpoTWxidVFVUnZQODlQY2lOVVNRZWlCdDVBWFIxUDNQOEdvVGJfS3ZQOUp2RWNfYzExeDVOODluVFctTjZwcDExYzNrZnR6Y1hETVJ4WlJvTFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREFRZ1A5SjRJSEJQWUw2SzdCRkswX3pHOGNTdEpPWTl5aEFiNi1xU0p2NWtGVDlHaDRvcWdndGRUZF95TWdYai1LVC1mUFRKZ0w1WjRfbEtzaGhwaVZHNUhCNzVub1M1RzFxZWY1bHhZNlZBcEtiWDRwdGJkSjZfd2kzMG9hb20yT3djVmlLOEFic3pObVF6RVlvLW1sM0dFQ1E?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
