@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T23:00:19Z",
-  "updated_at_jst": "2026/09/03 08:00 JST",
+  "updated_at": "2026-09-02T23:30:28Z",
+  "updated_at_jst": "2026/09/03 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1159,
@@ -14696,7 +14696,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
@@ -16783,22 +16783,6 @@
       ]
     },
     {
-      "id": "5058cad7ad38facc51ad",
-      "title": "自衛隊がイオンモールで救助活動 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T11:41:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjYmxSczVDcm9tVmluM05CUkRTLWI3b0NiSTBHSlNZcnJSRGp5TWMtQ3R6eDBuNHN0eDVPbEMtMHYtdHpFOU95WG55c1NtV2c?oc=5",
-      "first_seen": "2026-07-29T04:00:22Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "49218fba44e3c54c4d6a",
       "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始まる",
       "source": "朝日新聞",
@@ -17714,6 +17698,22 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "5058cad7ad38facc51ad",
+      "title": "自衛隊がイオンモールで救助活動 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjYmxSczVDcm9tVmluM05CUkRTLWI3b0NiSTBHSlNZcnJSRGp5TWMtQ3R6eDBuNHN0eDVPbEMtMHYtdHpFOU95WG55c1NtV2c?oc=5",
+      "first_seen": "2026-07-29T04:00:22Z",
+      "focus": [
+        "救助・安否"
       ],
       "category_ids": [
         "aeon"
