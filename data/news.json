@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T06:00:37Z",
-  "updated_at_jst": "2026/09/02 15:00 JST",
+  "updated_at": "2026-09-02T06:30:29Z",
+  "updated_at_jst": "2026/09/02 15:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1157,
@@ -249,7 +249,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVd4M1RJZlVsekduOHpmSjhCemtncXM3RU5DQWVKNXE3NGd1SW9WNGNfRmVocjZzRFdWTklMeTRsSVdQSG1PYnM3TnZ2NURQbVE1M2JDV3BoLVRNYm9hNTBndWt5SmQzdm82TGFaQjRoRUJjRWFLczNfaXB5N0tJM093?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
       "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
       "category_ids": [
