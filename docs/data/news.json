@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T18:00:30Z",
-  "updated_at_jst": "2026/09/03 03:00 JST",
+  "updated_at": "2026-09-02T18:30:29Z",
+  "updated_at_jst": "2026/09/03 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1158,
@@ -313,7 +313,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWNXaThvRlFHZlAzeE1CUXZVVzJDcFNLdERmQjlvRV9IcG9ua0RVcThyUFNsUEIwajJTM0kwcnJDU1Z4MXJYamJRcEZwcm5La0kwQXFJVkFDdXVJLXkwSEQwb1NnQ0tHN0J2VDNvRGR6alNQel9kVmdMa21zYmZkdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -497,7 +497,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-28T08:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ackd3Mk94YVZoY3Q2MnZMWFd3X3pDWW5iM0U2dzVtSUZnTWhZeEZEdXR5VmI2alVKYkZ6Z3RTQmtZMXVqVHBaZFNoMEtXYWlIb3dZVHJKeW01LVY1dHRiN1d1WWdfQ1dEWDVFR2JR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
       "first_seen": "2026-08-28T20:00:24Z",
       "focus": [
         "現場状況"
@@ -971,6 +971,22 @@
       ]
     },
     {
+      "id": "b0b68e45b4ec525f3588",
+      "title": "<2026年熊本地震>イオンモール爆発、経産相「事故調査委立ち上げる」",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-25T08:42:31Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXJWc3ZyRXd1U2xTV2lTeVM3LTJlOGRRejdSYWw4ZXlrdHhkYVFGSGpWczBKdFdYX25icUdWLU9KUkhheWJ1cFdmWFlHeWc?oc=5",
+      "first_seen": "2026-08-25T09:00:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "460cd990ece736820898",
       "title": "イオンモール熊本の爆発 経産省、「爆発事故調査委員会」設置へ [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1011,22 +1027,6 @@
       "published_at": "2026-08-25T07:41:34Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYjI4d1hrc1RHSWlRLVVFRjZFenVBRk9UZjN0clprcm1ZYTFaU003OUFPeEZzWTJfaHJYTTgyOEVxSjNxdmJ3YjMtSFotcFA2Y3JOZWJVYmMzODBHQm04bFQtcWJTZW9vMFpUTg?oc=5",
       "first_seen": "2026-08-25T09:30:18Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b0b68e45b4ec525f3588",
-      "title": "<2026年熊本地震>イオンモール爆発、経産相「事故調査委立ち上げる」",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-25T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXJWc3ZyRXd1U2xTV2lTeVM3LTJlOGRRejdSYWw4ZXlrdHhkYVFGSGpWczBKdFdYX25icUdWLU9KUkhheWJ1cFdmWFlHeWc?oc=5",
-      "first_seen": "2026-08-25T09:00:19Z",
       "focus": [
         "現場状況"
       ],
@@ -9639,7 +9639,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iTW9VTXlWMENzTnRBUllTQ2tSZ0tZdnBXdm1iNmpQeUt5Y0pGX01VajRmcEhGa0FvVWlpWUNLTzhUSWlUOXhNcy00U0l1MGZwNk5VRE0zTGd4M3VjRnFXLVAyOWZWbF9FMnhHbXZ5Mi1Ddw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5paVlJdXZlSTh2MXlXSjF2RnBqYUhuNTVYbGxXRXI5OGxldmI5SzRzWWtVTFUyTXZXNXVWUl9TWFlxbjJmZy1uWG5SNW5DR01WZjhNTUpDWHY1bngzeDJtSDcxWDR2djhvdDJPTUpnMEliY0tK?oc=5",
       "first_seen": "2026-07-30T00:30:50Z",
       "focus": [
         "現場状況"
@@ -14574,7 +14574,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -14679,7 +14679,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RFJMVUFGYTBqYlNnRnBvWmZadUQ4VkdDWmV0THZtQTlmVHVDMDBIRWEwTDc2SnlRN09MLXRZTDFIXzNxMVJyN0pLa1pEcThDN09mRFZzLVptRXlvcjJQOGFXWlRRUnd6RDBJMHhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
