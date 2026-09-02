@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T03:00:27Z",
-  "updated_at_jst": "2026/09/02 12:00 JST",
+  "updated_at": "2026-09-02T03:30:23Z",
+  "updated_at_jst": "2026/09/02 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1156,
+  "article_count": 1157,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 176,
+    "yomiuri": 177,
     "sankei": 190,
     "kumanichi": 169,
     "mainichi": 144,
@@ -77,10 +77,26 @@
   ],
   "category_counts": {
     "aeon": 923,
-    "power": 127,
+    "power": 128,
     "paper": 123
   },
   "items": [
+    {
+      "id": "617baa5c05f6245f2403",
+      "title": "熊本地震の後、宇城市で「採卵鶏」4900羽死ぬ...停電で換気用ファンや給水システムが作動せず熱中症か",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-02T03:14:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzTENJN0JPcjJlSklTMlpKbF9BbU9pUnNNTUx0Mmk3eTlCMjRzOWZKbjBmTno4RnNnUEdvSUR5RVp6UWRndk83OFhrQkgwOVdrcnluSHpDNklmbm5NdWJLbGxNYTV1UTVDZzJrM2FkaHZXUQ?oc=5",
+      "first_seen": "2026-09-02T03:30:23Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "19ab487eb6186fe7a75a",
       "title": "熊本地震の教訓生かせ...「防災の日」に各地で訓練、成田空港ではイオン爆発事故念頭の訓練も",
@@ -1100,6 +1116,24 @@
       ]
     },
     {
+      "id": "54e9d774b625856010d9",
+      "title": "<2026年熊本地震>イオンモール熊本、爆発前に「ガス臭」 複数の従業員が証言",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-24T10:18:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WYW01cl85a3FNOGJxdUJ1eWpnZ01BY25sUEdES1JKc3M1djhGNEh6MmRoNG0waGh3YUVjWWdhUkVodkdfNFNRbnlaU0Vrdkk?oc=5",
+      "first_seen": "2026-08-24T10:30:15Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d52d93734e8b6d85baad",
       "title": "熊本地震で煙突が倒壊、日本製紙八代工場の復旧支援でふるさと納税CF...八代市が目標額2億円に設定:写真",
       "source": "読売新聞",
@@ -1129,24 +1163,6 @@
       "focus": [
         "原因・検証",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "54e9d774b625856010d9",
-      "title": "<2026年熊本地震>イオンモール熊本、爆発前に「ガス臭」 複数の従業員が証言",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-24T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WYW01cl85a3FNOGJxdUJ1eWpnZ01BY25sUEdES1JKc3M1djhGNEh6MmRoNG0waGh3YUVjWWdhUkVodkdfNFNRbnlaU0Vrdkk?oc=5",
-      "first_seen": "2026-08-24T10:30:15Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -10485,23 +10501,6 @@
       ]
     },
     {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -14323,6 +14322,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "673c2ab5cb60a17fe211",
       "title": "爆発・崩落のイオンモール熊本で2人死亡、1人心肺停止 県が発表",
       "source": "朝日新聞",
@@ -14399,23 +14415,6 @@
       "first_seen": "2026-07-28T20:31:11Z",
       "focus": [
         "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -14507,7 +14506,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RY01QcTdObFJJUWVXZDVsRmlMMTRmNFF6MVU0M05yY1U5UHA5dkhScXhRWGwwNEJlRHBOV2lEU1JDbk42Ylp2T1prZU5Qb2VVZUd2c0VZaFNRWklSWmRsRkprQ0dEWkxrbG1ReHp3?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -18258,6 +18257,23 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5eGJxbGdyVUpkNkJZbDM5UkVBTWYwaFExM1lZU0JYeEJ0Q0VCS1JNZlVDX0FENWxDcW5CSE5QczFJZUlIRDNuaTllQXpabEFRbzFWSmZMVHFLejdpMEMyYzRLbjgwV0tveUhYN213?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
