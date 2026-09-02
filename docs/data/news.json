@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T00:30:23Z",
-  "updated_at_jst": "2026/09/02 09:30 JST",
+  "updated_at": "2026-09-02T01:00:29Z",
+  "updated_at_jst": "2026/09/02 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1156,
@@ -3409,7 +3409,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96NXhsVXpEZWczZURLNUhpNXo3eEtCN1dNcE5SVnlkYld0RjFNUTJTYUF3R2p5VkJKYURBUUxFLVI1TDN6R2xuZHp2TDFWeEZ5VUlWNjhXMFoxYmZHTHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZcFhGWjk0eGJBQjRjanUtTVBUSDd6NVIyWVJ0VElST1lxdEQ4M2w4SkE2T2MxVzdHNlFuQ0szU3pZcmZFUWs1V1lLaXExUnFmWlJfRg?oc=5",
       "first_seen": "2026-08-11T10:30:43Z",
       "focus": [
         "避難状況"
@@ -7278,20 +7278,6 @@
       ]
     },
     {
-      "id": "7538e09922a09a0f4cd2",
-      "title": "建物の破損状況を3D画像で確認 イオンモール熊本、共同通信作成",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-31T08:27:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fY0FEZnlNZmJxN1FXcGR1eXpDbXFfX0RaMFpKRkhvc2VKc2l1bGJIQkIzeFpXWFdPQzVBdXE1Q1VDamU1Z1dCWHZ6NXBsUG8?oc=5",
-      "first_seen": "2026-07-31T09:01:00Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "fe4a7b157d9653848c2a",
       "title": "猛暑の熊本で続く停電・断水、ガソリンや飲料水求め長蛇の列...被災者「ここまで不便になるとは」:写真",
       "source": "読売新聞",
@@ -7698,6 +7684,20 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "7538e09922a09a0f4cd2",
+      "title": "建物の破損状況を3D画像で確認 イオンモール熊本、共同通信作成",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fY0FEZnlNZmJxN1FXcGR1eXpDbXFfX0RaMFpKRkhvc2VKc2l1bGJIQkIzeFpXWFdPQzVBdXE1Q1VDamU1Z1dCWHZ6NXBsUG8?oc=5",
+      "first_seen": "2026-07-31T09:01:00Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -11682,23 +11682,6 @@
       ]
     },
     {
-      "id": "d59bea51ae05eda415b1",
-      "title": "3人死亡、「深くおわび」=当日3000人利用、客全員避難―爆発巡りイオン社長会見・熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T09:26:37Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vTHFEWlJPZWJmeWJfQlBvM2ZPQzRaMlNRYm5SZHFmVkFCS0FJVnIxZzRBMmstNTRrellaalVjNWFoY2MwMjVoR0pvZXdZcGxsM0g1YQ?oc=5",
-      "first_seen": "2026-07-29T18:00:14Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "7e20ae4be8272410534a",
       "title": "「イオンモール熊本」 総務省消防庁が内部映像を公開",
       "source": "NHK",
@@ -14399,7 +14382,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ubl90RFgyQ2NLcV9BdVRuY0R0QjlZUk1GODdPaFVXNTY4d25fR0lzRHdhSHJERVAweVhHNG5HV1k3MlJ1cEgwTkhxYVRuZDFXTTYtMHh3ZUYxdEFFY1Z0THFYMGpna0VoN2Y3OEpn?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
@@ -14526,7 +14509,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3T3llUU1ta1NPZEE2N0taNkc4LXJsSF9tSFI4M0duTTZHZ21oczhjSTRmMVJieUdzNWxvVkI2TUZ5ZWlLTGs0MWtJZl9ib0RmT3BiNFJVYmlXNXB0dkpZQ3AtTkNWamxOb1ZscWJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -15150,6 +15133,23 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sS0NXdHh5STBWbUVPQjFXZlN2N2pyanVDcTAwSVJqdzRYZ2ptTmtNRU9KZnVKX0hpVVdQUDlmNHJTQ2ZibU5iMUloUEk3bGotbkpha0J5Qko3SGRKeUE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d59bea51ae05eda415b1",
+      "title": "3人死亡、「深くおわび」=当日3000人利用、客全員避難―爆発巡りイオン社長会見・熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vTHFEWlJPZWJmeWJfQlBvM2ZPQzRaMlNRYm5SZHFmVkFCS0FJVnIxZzRBMmstNTRrellaalVjNWFoY2MwMjVoR0pvZXdZcGxsM0g1YQ?oc=5",
+      "first_seen": "2026-07-29T18:00:14Z",
       "focus": [
         "避難状況",
         "現場状況"
@@ -16815,23 +16815,6 @@
       ]
     },
     {
-      "id": "1558653581271e071dd4",
-      "title": "イオンモール熊本、200人避難後に爆発 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T11:39:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVMjFZaHVhOXZQZi1KX3FZVXdGcFd3cFNKV1EwWk1HZWRac25XQ0QxZ21KNU82RDdwaS05S3Jxc1M2cE9fX3IwV21UVlhRSkE?oc=5",
-      "first_seen": "2026-07-29T04:00:22Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "49218fba44e3c54c4d6a",
       "title": "イオンモール熊本の2階部分が崩落、閉じ込め多数の情報 捜索始まる",
       "source": "朝日新聞",
@@ -16987,23 +16970,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NdUdqNGtnYVpjY0lJYWV6SHNISUd1R3BhQmx6cS1HLUpreVhtQ3ZIRXkwVjhWN2dyaW9YN0J4dkJlSXhlVWNCUlVOTXFKcnMzVEUzU0tjWXptbHZQRVMzc2lOWGFOZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "69a64b4f3b8b73cfe866",
-      "title": "イオンモール、避難後に爆発発生とイオン (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T10:07:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMGdmc2hlNUsyckFDV2hVcVF1SDJWVjdOdmZlWEU4Smp4LVRHOU5BRXFmWEpCUDEtQXk2QzBHOTUtRVh2UW9QYnZaQmliWDA?oc=5",
-      "first_seen": "2026-07-29T04:00:22Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -17898,6 +17864,40 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jeFQ2NGVKM2wxWlMxSDZjRHZRQnpfVldhVlpMY05nVFdnLXczUTlYeFRyY3lTRlRPbVFSTlhSbWEzWVlIUmdsMHhGR2dwSU0?oc=5",
       "first_seen": "2026-07-29T04:00:22Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1558653581271e071dd4",
+      "title": "イオンモール熊本、200人避難後に爆発 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVMjFZaHVhOXZQZi1KX3FZVXdGcFd3cFNKV1EwWk1HZWRac25XQ0QxZ21KNU82RDdwaS05S3Jxc1M2cE9fX3IwV21UVlhRSkE?oc=5",
+      "first_seen": "2026-07-29T04:00:22Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "69a64b4f3b8b73cfe866",
+      "title": "イオンモール、避難後に爆発発生とイオン (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMGdmc2hlNUsyckFDV2hVcVF1SDJWVjdOdmZlWEU4Smp4LVRHOU5BRXFmWEpCUDEtQXk2QzBHOTUtRVh2UW9QYnZaQmliWDA?oc=5",
+      "first_seen": "2026-07-29T04:00:22Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
