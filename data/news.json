@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T21:00:33Z",
-  "updated_at_jst": "2026/09/03 06:00 JST",
+  "updated_at": "2026-09-02T21:30:23Z",
+  "updated_at_jst": "2026/09/03 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1159,
@@ -313,7 +313,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWNXaThvRlFHZlAzeE1CUXZVVzJDcFNLdERmQjlvRV9IcG9ua0RVcThyUFNsUEIwajJTM0kwcnJDU1Z4MXJYamJRcEZwcm5La0kwQXFJVkFDdXVJLXkwSEQwb1NnQ0tHN0J2VDNvRGR6alNQel9kVmdMa21zYmZkdA?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -1035,6 +1035,22 @@
       ]
     },
     {
+      "id": "3321e58d00f2959c3f73",
+      "title": "イオンモール爆発事故で事故調 経産省が立ち上げ(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-25T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KdEt3NzN4QnJGc0R0V0IzeXNVQUY0czB1Q09OYUU4X2drLXhKSTdYZmswd25IWFc4VVczd0tvOE1PeWRrY3BTekRSWTQwLUE?oc=5",
+      "first_seen": "2026-08-25T05:00:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "304696c4fbb0bcdc62d0",
       "title": "イオンモール熊本の爆発 事故調査委立ち上げ原因究明へ 経産省",
       "source": "毎日新聞",
@@ -1077,22 +1093,6 @@
       "published_at": "2026-08-25T04:47:44Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeW1nZVJsTEt3NTBRc1dHYmIxWnR1RWVhSm85QUZaMkd3V3hWN0UtMTk3OV8ta1hPRXZnMFg4UTBwOWFjeVhrOXNiVUlFb01KbkY5OU1oa2dMeFdWN1pxQThUMzVFR3g2V2ZoODBiZmdBWEZSamtJVE9Oa2dYRExjRmpWUWJ0N3BUT1M4YTFidXU3eG5UUmZBRFg1VUhuSWdjSGc?oc=5",
       "first_seen": "2026-08-25T07:00:18Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "3321e58d00f2959c3f73",
-      "title": "イオンモール爆発事故で事故調 経産省が立ち上げ(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-25T04:44:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KdEt3NzN4QnJGc0R0V0IzeXNVQUY0czB1Q09OYUU4X2drLXhKSTdYZmswd25IWFc4VVczd0tvOE1PeWRrY3BTekRSWTQwLUE?oc=5",
-      "first_seen": "2026-08-25T05:00:18Z",
       "focus": [
         "現場状況"
       ],
@@ -1511,23 +1511,6 @@
       ]
     },
     {
-      "id": "350aa65eb386e702f660",
-      "title": "イオンモール熊本爆発事故 事故調査委員会が発足 原因究明へ",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-08-20T07:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91S2xUMEw4bk9mR3hQVTJZTmVLbkNEUERGWTVNUEtMcTJaVlZXVUNDVXVpUVZxdHFaenJBUGk4c2kzZjFOcFZ1Z0ZJOGdNY1pLbl9iVG93MnM?oc=5",
-      "first_seen": "2026-08-20T08:00:34Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "5d5cebd9b1a68169dfad",
       "title": "日本製紙八代工場の煙突が倒れた現場=7月29日午後、熊本県八代市(恵守乾撮影)",
       "source": "産経新聞",
@@ -1741,6 +1724,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "350aa65eb386e702f660",
+      "title": "イオンモール熊本爆発事故 事故調査委員会が発足 原因究明へ",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-08-20T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91S2xUMEw4bk9mR3hQVTJZTmVLbkNEUERGWTVNUEtMcTJaVlZXVUNDVXVpUVZxdHFaenJBUGk4c2kzZjFOcFZ1Z0ZJOGdNY1pLbl9iVG93MnM?oc=5",
+      "first_seen": "2026-08-20T08:00:34Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -14458,23 +14458,6 @@
       ]
     },
     {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1b646655783a6e3ad564",
       "title": "余震、夜通しの救出活動 イオン、親族が中に「会いに行く」 熊本地震",
       "source": "朝日新聞",
@@ -18307,6 +18290,23 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
