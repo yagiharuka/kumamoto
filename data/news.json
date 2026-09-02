@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T19:00:40Z",
-  "updated_at_jst": "2026/09/03 04:00 JST",
+  "updated_at": "2026-09-02T19:30:26Z",
+  "updated_at_jst": "2026/09/03 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1158,
+  "article_count": 1159,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "yomiuri": 177,
     "sankei": 190,
     "kumanichi": 169,
-    "nhk": 97,
+    "nhk": 98,
     "jiji": 182,
     "asahi": 133,
     "nikkei": 65
@@ -77,7 +77,7 @@
   ],
   "category_counts": {
     "aeon": 923,
-    "power": 129,
+    "power": 130,
     "paper": 123
   },
   "items": [
@@ -313,7 +313,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWNXaThvRlFHZlAzeE1CUXZVVzJDcFNLdERmQjlvRV9IcG9ua0RVcThyUFNsUEIwajJTM0kwcnJDU1Z4MXJYamJRcEZwcm5La0kwQXFJVkFDdXVJLXkwSEQwb1NnQ0tHN0J2VDNvRGR6alNQel9kVmdMa21zYmZkdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -2028,7 +2028,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-17T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icC05dHBGdUI4NmRoNWdIb2pyYUJjSFpQbmxNTThvWWJ0Vkx2MW1iWmdQaXoxR1hmdkh6TzIybWdNQlkyYmRvQXF5Vnhzd2gtbFZyeG80MFNFRV9FWi1SMTNYdGhxWFlRVS1fQVZn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVE1xVWdybV9OZTVkZHVVSnhPVVpsc3cydE00QWFHRU1zT2xOX29Xb3RxeUQ1QnUxRHhtNHBiSk1VY1NaeWxJUWVnMXlhMjByZGtuMnhJcDdlMmlUcEwza2pRd1hQQUFBZUhyeWln?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
@@ -14853,7 +14853,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
@@ -15437,6 +15437,22 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "b2a1ad50cc18cc5a147a",
+      "title": "熊本県のモニタリングポストのデータが欠測 停電が影響か",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ldHhiUHRFTDd3ZnNPM1JVN2x1dXk3N1F2ODF1MjVNYUpiSHpoLTU2bzRMZnZJOWpSM21udE4tblFnU19ISkhDZFg2ZGNpTzUwQ1VGUnVWaVBsR2pBNG5B?oc=5",
+      "first_seen": "2026-09-02T19:30:26Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
