@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T13:00:39Z",
-  "updated_at_jst": "2026/09/02 22:00 JST",
+  "updated_at": "2026-09-02T13:30:22Z",
+  "updated_at_jst": "2026/09/02 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1157,
@@ -1116,6 +1116,24 @@
       ]
     },
     {
+      "id": "54e9d774b625856010d9",
+      "title": "<2026年熊本地震>イオンモール熊本、爆発前に「ガス臭」 複数の従業員が証言",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-24T10:18:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WYW01cl85a3FNOGJxdUJ1eWpnZ01BY25sUEdES1JKc3M1djhGNEh6MmRoNG0waGh3YUVjWWdhUkVodkdfNFNRbnlaU0Vrdkk?oc=5",
+      "first_seen": "2026-08-24T10:30:15Z",
+      "focus": [
+        "原因・検証",
+        "避難状況",
+        "目撃証言"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d52d93734e8b6d85baad",
       "title": "熊本地震で煙突が倒壊、日本製紙八代工場の復旧支援でふるさと納税CF...八代市が目標額2億円に設定:写真",
       "source": "読売新聞",
@@ -1161,24 +1179,6 @@
       "focus": [
         "原因・検証",
         "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "54e9d774b625856010d9",
-      "title": "<2026年熊本地震>イオンモール熊本、爆発前に「ガス臭」 複数の従業員が証言",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-24T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WYW01cl85a3FNOGJxdUJ1eWpnZ01BY25sUEdES1JKc3M1djhGNEh6MmRoNG0waGh3YUVjWWdhUkVodkdfNFNRbnlaU0Vrdkk?oc=5",
-      "first_seen": "2026-08-24T10:30:15Z",
-      "focus": [
-        "原因・検証",
-        "避難状況",
-        "目撃証言"
       ],
       "category_ids": [
         "aeon"
@@ -10501,23 +10501,6 @@
       ]
     },
     {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -14341,6 +14324,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "673c2ab5cb60a17fe211",
       "title": "爆発・崩落のイオンモール熊本で2人死亡、1人心肺停止 県が発表",
       "source": "朝日新聞",
@@ -14557,7 +14557,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -14662,7 +14662,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSUs5d2ktY2luRDFkWEd6ekRWaVhqM093RUU2Uk12R00wZjl4THdUaGxkQlVaSEdpZXI1b25jdWVSNXRXU1ZTTDBoQjduMXZnN1NiSHRYaTNBZWVlY3dZZXh5UVdkdzFQdE1FeE93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
