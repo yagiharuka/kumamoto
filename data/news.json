@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T22:30:31Z",
-  "updated_at_jst": "2026/09/03 07:30 JST",
+  "updated_at": "2026-09-02T23:00:19Z",
+  "updated_at_jst": "2026/09/03 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1159,
@@ -5487,6 +5487,23 @@
       ]
     },
     {
+      "id": "40efb78422c6ed36b028",
+      "title": "2026年熊本地震>全国の災害救助犬、夜通しの捜索 イオンモール爆発「経験ない過酷な現場」 猛暑、余震、無風...悪条件重なる",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IWXZUcjF2ZHFaaW5ibzRyM244ZmxHNEl1Tk8yVVlyLTRPX09KSU05S3I5Vk9zSTBIa0xldkZIaFhubGxtako2bG93UDNEM00?oc=5",
+      "first_seen": "2026-08-04T01:30:32Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "11bcd6ae2d60b8eae4f6",
       "title": "2026年熊本地震>イオン爆発で犠牲の3人「貴重品取りに店舗に戻った」 オンワードが発表 「退避指導、徹底できず」",
       "source": "熊本日日新聞",
@@ -5905,23 +5922,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "40efb78422c6ed36b028",
-      "title": "2026年熊本地震>全国の災害救助犬、夜通しの捜索 イオンモール爆発「経験ない過酷な現場」 猛暑、余震、無風...悪条件重なる",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-04T01:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IWXZUcjF2ZHFaaW5ibzRyM244ZmxHNEl1Tk8yVVlyLTRPX09KSU05S3I5Vk9zSTBIa0xldkZIaFhubGxtako2bG93UDNEM00?oc=5",
-      "first_seen": "2026-08-04T01:30:32Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -14696,7 +14696,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSUs5d2ktY2luRDFkWEd6ekRWaVhqM093RUU2Uk12R00wZjl4THdUaGxkQlVaSEdpZXI1b25jdWVSNXRXU1ZTTDBoQjduMXZnN1NiSHRYaTNBZWVlY3dZZXh5UVdkdzFQdE1FeE93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
