@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T11:30:39Z",
-  "updated_at_jst": "2026/09/02 20:30 JST",
+  "updated_at": "2026-09-02T12:00:50Z",
+  "updated_at_jst": "2026/09/02 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1157,
@@ -389,8 +389,8 @@
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-08-28T10:53:46Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CdkF0R1FZNDZtM0o4cjBSRHZwa3Ezc1JGdzJEUjlFOWRTLVRTUXpDQlhwZkQ0aTI2WndsdEZVQklWSlNhM1N1NlFEcmhXWkFVdDB5NG92ZkhZdEcxSEE?oc=5",
+      "published_at": "2026-08-28T10:18:44Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QzQ2N1RDeEN5Y0F5N0luX1RWMUNfZkR1RTRvLU90eHRjNVAwQlo5ZFBqRGg3NEx0S2hsRG04dzU4aTdhSzlWQmFFaFpsb3pBaGs5WQ?oc=5",
       "first_seen": "2026-08-29T15:01:05Z",
       "focus": [],
       "category_ids": [
@@ -1399,6 +1399,22 @@
       ]
     },
     {
+      "id": "6ee10c0699fd3d1dce12",
+      "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-21T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nQ0g3bUwtWmh4ZGZyT1hoQkRUNEQydjBlQWJNR1ZqTWZ2dmgxMWpqbVEzTVJUTEdfWVBxQzBFWWxlYi1yR1puQWVwNVlYYmxGUG8tajVZY1dqS292b2h1cXhBYldWX0tFWjhJ?oc=5",
+      "first_seen": "2026-08-20T06:30:33Z",
+      "focus": [
+        "復旧情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "6856db31400f40ece3e2",
       "title": "イオンモール熊本の爆発事故で調査委 原因や運用検証",
       "source": "日本経済新聞",
@@ -1475,22 +1491,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "6ee10c0699fd3d1dce12",
-      "title": "「ふるなび」で、熊本県八代市が日本製紙八代工場復旧を目的としたクラウドファンディングプロジェクトへの寄附受付を開始。",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-20T15:10:00Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nQ0g3bUwtWmh4ZGZyT1hoQkRUNEQydjBlQWJNR1ZqTWZ2dmgxMWpqbVEzTVJUTEdfWVBxQzBFWWxlYi1yR1puQWVwNVlYYmxGUG8tajVZY1dqS292b2h1cXhBYldWX0tFWjhJ?oc=5",
-      "first_seen": "2026-08-20T06:30:33Z",
-      "focus": [
-        "復旧情報"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -1667,7 +1667,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
@@ -6486,7 +6486,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEFHOTM4TW9Ndl90WW9TWGVvbk5FRFE4Q1poRDhvT21aYTVBZ3VEUVBfNlZFczFpS3NlN1FvSGp0VUJEXzVzc1FWTWltYTc1aHFxTkYzekVQOXBYZnRPdnB5S3RPdVpXenZHcWp6OU5lZ0c2MGlUeEtiUnJET2RZblhR?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -10501,23 +10501,6 @@
       ]
     },
     {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -14341,6 +14324,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "673c2ab5cb60a17fe211",
       "title": "爆発・崩落のイオンモール熊本で2人死亡、1人心肺停止 県が発表",
       "source": "朝日新聞",
@@ -14557,7 +14557,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
@@ -14662,7 +14662,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSUs5d2ktY2luRDFkWEd6ekRWaVhqM093RUU2Uk12R00wZjl4THdUaGxkQlVaSEdpZXI1b25jdWVSNXRXU1ZTTDBoQjduMXZnN1NiSHRYaTNBZWVlY3dZZXh5UVdkdzFQdE1FeE93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
@@ -14915,7 +14915,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0M4NFVTMzE5RWJXeWhYLXA4TFptVnZSUFpRZjh5T0FxTHJuYlBpRkNyLWpZNTVieVlBRmUzNTJ5Ym1DZE1OeFlJejdjMV9hUVR3dXdVWFM5RzJUbEo2SE4yTkZZWkItZFh3dHN4MzZfTkxodW5KOG9IUUc1WHR2ZTBB?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
