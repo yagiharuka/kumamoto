@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T12:00:54Z",
-  "updated_at_jst": "2026/09/03 21:00 JST",
+  "updated_at": "2026-09-03T12:30:37Z",
+  "updated_at_jst": "2026/09/03 21:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1186,
@@ -477,7 +477,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-03T06:18:00Z",
+      "published_at": "2026-09-03T06:45:27Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVk5RWXV2bkRvYThRa3I0LXlNWlJ5eGJpcWM0OHBQbE84S0ZVdWZ2a1ZyeExoV2N3ekx2emFTSVdYQWVFLWsydHlTbzNZQW8?oc=5",
       "first_seen": "2026-09-03T06:30:35Z",
       "focus": [
@@ -938,7 +938,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-28T08:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJaUlhWjJsTU1zY1FOVEIxZ0NmeEw1dnZCZnFDLWlEczJZWHlLd1d5SlZmcE9SWDZOeUdrZ1ZKRVVJTndjbENoZGdhLV9JRC1wNXNoaGNjQjBOeDFjeUpPS183a1UyYkJjS3JVX2dn?oc=5",
       "first_seen": "2026-08-28T20:00:24Z",
       "focus": [
         "現場状況"
@@ -1202,6 +1202,22 @@
       ]
     },
     {
+      "id": "19bcf22b15abdc304bbc",
+      "title": "熊本イオン爆発、経産省が調査委 来月に初会合",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-26T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNWNYY21BR2NHRVFIRGpDcUZTMVlzdXBLVHcwNElHbFYxMnYtaW9iUVNMQ2NuOWl5TGk3VHB5ZGdIOG9ZZktTNkVZVUVVU2d1VXBKbU9sdWNrYkhtcWFMejBMRFBnUHdZUmFFSA?oc=5",
+      "first_seen": "2026-08-25T17:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a855d32ab85bb6e1e62f",
       "title": "一部が損壊したイオンモール熊本の建物(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -1336,22 +1352,6 @@
       "source_group": "全国紙",
       "published_at": "2026-08-25T17:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YS1ppbWhadk10S012UHNpbWpXaGJpVHdiUWxKUHo0d3NZeGczT0xySGNQMnVSZUJkTC1ZNmVDb2dhWmhqX3o0Wmc5Y2dWZzg1NmxIdW5hb053Z25WSDdmZnVUcFpvbjd1dklPbQ?oc=5",
-      "first_seen": "2026-08-25T17:30:19Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "19bcf22b15abdc304bbc",
-      "title": "熊本イオン爆発、経産省が調査委 来月に初会合",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-25T17:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sNWNYY21BR2NHRVFIRGpDcUZTMVlzdXBLVHcwNElHbFYxMnYtaW9iUVNMQ2NuOWl5TGk3VHB5ZGdIOG9ZZktTNkVZVUVVU2d1VXBKbU9sdWNrYkhtcWFMejBMRFBnUHdZUmFFSA?oc=5",
       "first_seen": "2026-08-25T17:30:19Z",
       "focus": [
         "現場状況"
