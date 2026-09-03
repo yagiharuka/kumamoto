@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T06:00:36Z",
-  "updated_at_jst": "2026/09/03 15:00 JST",
+  "updated_at": "2026-09-03T06:30:35Z",
+  "updated_at_jst": "2026/09/03 15:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1159,
+  "article_count": 1162,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 169,
+    "kumanichi": 170,
+    "nikkei": 66,
+    "asahi": 134,
     "mainichi": 145,
     "yomiuri": 177,
     "sankei": 190,
     "nhk": 98,
-    "jiji": 182,
-    "asahi": 133,
-    "nikkei": 65
+    "jiji": 182
   },
   "tracked_categories": [
     {
@@ -76,11 +76,62 @@
     }
   ],
   "category_counts": {
-    "aeon": 923,
+    "aeon": 926,
     "power": 130,
     "paper": 123
   },
   "items": [
+    {
+      "id": "6f1f306e1437bc970638",
+      "title": "熊本地震死因、6割が圧死と窒息 イオン爆発と煙突倒壊除く(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T06:18:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVk5RWXV2bkRvYThRa3I0LXlNWlJ5eGJpcWM0OHBQbE84S0ZVdWZ2a1ZyeExoV2N3ekx2emFTSVdYQWVFLWsydHlTbzNZQW8?oc=5",
+      "first_seen": "2026-09-03T06:30:35Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "62241563850ec69aa7dd",
+      "title": "熊本イオン爆発、経産省の事故調査委が初会合 「科学的な視点で検証」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T06:03:05Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNmVYMWZZeDItV3RDUGhsSVNzNW1kSGplWVI5clZZdlZyQjZWR1gwbElqWGpncGUtQW1MWnFFX2R4YTJnRnZwcFc0dEZwMFJ3N0NpU21fMGVscWZ6Rkd2b0tqRHNPMlJ6aWRSeA?oc=5",
+      "first_seen": "2026-09-03T06:30:35Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "48914e9689d477a6d06b",
+      "title": "イオン爆発の原因は? 商業施設のガス配管、専門家が指摘する盲点 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T06:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yejY3a2F4RzlEVjc0SGpkMC1aYTlBeU5MeTFyNWdjS0lxamNHY2tnaFNnSnFNczVKY3Z3SHZ4TWZjZXoxVzBRV1RGeDhmd1FnWmE2UmQ5cmI0Q0w4TEF0cS0taEZCQXM?oc=5",
+      "first_seen": "2026-09-03T06:30:35Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "280365eedcc5d9407851",
       "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
