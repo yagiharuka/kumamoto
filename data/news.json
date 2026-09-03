@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T04:30:20Z",
-  "updated_at_jst": "2026/09/03 13:30 JST",
+  "updated_at": "2026-09-03T05:00:39Z",
+  "updated_at_jst": "2026/09/03 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1159,
@@ -954,22 +954,6 @@
       ]
     },
     {
-      "id": "b0b68e45b4ec525f3588",
-      "title": "<2026年熊本地震>イオンモール爆発、経産相「事故調査委立ち上げる」",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-25T08:42:31Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXJWc3ZyRXd1U2xTV2lTeVM3LTJlOGRRejdSYWw4ZXlrdHhkYVFGSGpWczBKdFdYX25icUdWLU9KUkhheWJ1cFdmWFlHeWc?oc=5",
-      "first_seen": "2026-08-25T09:00:19Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "460cd990ece736820898",
       "title": "イオンモール熊本の爆発 経産省、「爆発事故調査委員会」設置へ [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1027,6 +1011,22 @@
       "published_at": "2026-08-25T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KdEt3NzN4QnJGc0R0V0IzeXNVQUY0czB1Q09OYUU4X2drLXhKSTdYZmswd25IWFc4VVczd0tvOE1PeWRrY3BTekRSWTQwLUE?oc=5",
       "first_seen": "2026-08-25T05:00:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b0b68e45b4ec525f3588",
+      "title": "<2026年熊本地震>イオンモール爆発、経産相「事故調査委立ち上げる」",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-25T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXJWc3ZyRXd1U2xTV2lTeVM3LTJlOGRRejdSYWw4ZXlrdHhkYVFGSGpWczBKdFdYX25icUdWLU9KUkhheWJ1cFdmWFlHeWc?oc=5",
+      "first_seen": "2026-08-25T09:00:19Z",
       "focus": [
         "現場状況"
       ],
