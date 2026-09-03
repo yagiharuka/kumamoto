@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T18:30:28Z",
-  "updated_at_jst": "2026/09/04 03:30 JST",
+  "updated_at": "2026-09-03T19:00:46Z",
+  "updated_at_jst": "2026/09/04 04:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1196,
@@ -447,7 +447,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-09-03T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOHZ2X3VSYm50aDY4c1B1Nk82N0x6Rzkyb1dGSVZpZ3hmODM0WGpxakd6bmp4cld0LXpaOFpENElVZkU2Rlp6OHJfSWpqbklXd2pWMjB1ZVByMWlvVVRMc21qa2lDSzh6WV80Q1pLeE5rdnhvbDJZMWxmYjRaZHp1Q1JQUjNGZDJlaEFsZmRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMG1BanR5Z2JjQ0hxVVdpYlFOSEh0U05pVWNGOXNOcWo4S2xJdlpfTDRnS1NwSVlmc3lHVWtzWXFTT0trQnkyajhCaFVmd0VwY3RtaG4zcFB0ZFd1eFpjOHBWcUxXYkl0WXp3Z3dR?oc=5",
       "first_seen": "2026-09-03T13:00:20Z",
       "focus": [
         "目撃証言",
@@ -1091,7 +1091,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-28T08:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJaUlhWjJsTU1zY1FOVEIxZ0NmeEw1dnZCZnFDLWlEczJZWHlLd1d5SlZmcE9SWDZOeUdrZ1ZKRVVJTndjbENoZGdhLV9JRC1wNXNoaGNjQjBOeDFjeUpPS183a1UyYkJjS3JVX2dn?oc=5",
       "first_seen": "2026-08-28T20:00:24Z",
       "focus": [
         "現場状況"
@@ -2622,7 +2622,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-17T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icC05dHBGdUI4NmRoNWdIb2pyYUJjSFpQbmxNTThvWWJ0Vkx2MW1iWmdQaXoxR1hmdkh6TzIybWdNQlkyYmRvQXF5Vnhzd2gtbFZyeG80MFNFRV9FWi1SMTNYdGhxWFlRVS1fQVZn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVE1xVWdybV9OZTVkZHVVSnhPVVpsc3cydE00QWFHRU1zT2xOX29Xb3RxeUQ1QnUxRHhtNHBiSk1VY1NaeWxJUWVnMXlhMjByZGtuMnhJcDdlMmlUcEwza2pRd1hQQUFBZUhyeWln?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
