@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T22:30:29Z",
-  "updated_at_jst": "2026/09/04 07:30 JST",
+  "updated_at": "2026-09-03T23:30:24Z",
+  "updated_at_jst": "2026/09/04 08:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1206,
+  "article_count": 1207,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "jiji": 188,
+    "jiji": 189,
     "sankei": 192,
     "nhk": 107,
     "mainichi": 153,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 937,
     "power": 131,
-    "paper": 155
+    "paper": 156
   },
   "items": [
     {
@@ -452,6 +452,22 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "ede813b4dea76a9cbabf",
+      "title": "八代工場、遠い操業再開=新聞用紙、他社が代替生産―日本製紙",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T10:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9USmhUU09fUVhVdTUyekR2WE1ZWkpHNFhkV0UxZ1lpbndMUkstQkpvWUVIcnFOdGZ1YzRiRU1qbDBacVRIeHdES1dZVUlzSU1ubER2bQ?oc=5",
+      "first_seen": "2026-09-03T23:30:24Z",
+      "focus": [
+        "操業情報"
       ],
       "category_ids": [
         "paper"
@@ -1399,7 +1415,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8waER5NU9FcEZxNkJZTE9EVl9kXzk4eU1adDZvZmMwTU1jVW9nSHlWRHZITkNDVlNYRkJZY1dVVHIya3d0MmYxZ3AtWlhhVlhPSGdLQzRTbFg1cWRWX0FYY1NTOVptdWVWSTVSWnp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LSVdMcDhKOXJkaTY4XzEwMktCQmhGTlVGZzM5bi1ERU5JMno5RXJ2bDBROVVpc1NPLUQ1eXVMWGxyOVBRNEtxelVlNWNSbThsQTJic1o2aHd2Mjl1RzVyUXdJc3hib3hfRzdIY1JB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -1431,7 +1447,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdTlKWEZ0UXc2amVaeHZMMmozSTNsbkM3ZEJPaUVUaWdHaTQzcTVab1lNNWM4Mlg4cERjcXZHYlJ0Z3JwWDFkSHZsN2VXOXZiV05rSHkxdHNfRktESHRUTFp1cTBQVUtIbkt4YjNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2R6cDNyOXl2WFBjc29CY3FDMEV4ekxBa0RNMGJ4TmlNcm0yTm1hWDFSSnQtaGYtNzBJWno4dkpQRVg3YUNLekhnVkwxbzRQM21BYUx0REx2SE9Ed2lIdEZIc0d3Rmk4akswRVltSkZNMmxxSWljdG9ZUjdvZjBodlVIVDJZdEtVdUVCOXpR?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "避難状況"
