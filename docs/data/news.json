@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T06:30:35Z",
-  "updated_at_jst": "2026/09/03 15:30 JST",
+  "updated_at": "2026-09-03T07:00:45Z",
+  "updated_at_jst": "2026/09/03 16:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1162,
@@ -971,23 +971,6 @@
       ]
     },
     {
-      "id": "dc0da6159ad62238a927",
-      "title": "プライバシー配慮した避難所新設 集合住宅の停電継続受け、千葉市(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-25T09:23:21Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQNUtBTFJKMTJQYlFnWDlCNDBhZmVuSmF2bXU2V1lWRmxBVVYyTmhaY0hCMmd6bW5rMVpPRlhid1ZrSy0xVlJJTi1PTmw0YzA?oc=5",
-      "first_seen": "2026-08-25T09:30:18Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "f256d3fffd767b14c446",
       "title": "八代 地震で9人死亡の日本製紙 煙突の撤去作業始まる",
       "source": "NHK",
@@ -1051,6 +1034,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "dc0da6159ad62238a927",
+      "title": "プライバシー配慮した避難所新設 集合住宅の停電継続受け、千葉市(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-25T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQNUtBTFJKMTJQYlFnWDlCNDBhZmVuSmF2bXU2V1lWRmxBVVYyTmhaY0hCMmd6bW5rMVpPRlhid1ZrSy0xVlJJTi1PTmw0YzA?oc=5",
+      "first_seen": "2026-08-25T09:30:18Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -1718,7 +1718,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
@@ -14904,7 +14904,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
