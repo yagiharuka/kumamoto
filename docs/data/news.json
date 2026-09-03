@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T10:30:40Z",
-  "updated_at_jst": "2026/09/03 19:30 JST",
+  "updated_at": "2026-09-03T11:00:38Z",
+  "updated_at_jst": "2026/09/03 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1180,
+  "article_count": 1184,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "mainichi": 147,
+    "kumanichi": 175,
     "yomiuri": 179,
-    "kumanichi": 174,
     "sankei": 191,
     "nikkei": 67,
-    "jiji": 185,
+    "jiji": 186,
     "asahi": 137,
-    "mainichi": 146,
-    "nhk": 101
+    "nhk": 102
   },
   "tracked_categories": [
     {
@@ -78,9 +78,43 @@
   "category_counts": {
     "aeon": 931,
     "power": 131,
-    "paper": 135
+    "paper": 139
   },
   "items": [
+    {
+      "id": "477d188ba2f21e11d6a5",
+      "title": "日本製紙八代工場で火災 地震で倒壊の煙突付近から出火か [写真特集1/4]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T10:26:20Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMWU1dXpmMUd1M0RIU0pjOUNlNkFvREZfbEFjMV8zTTFGSU12VTY3ZUg5SlFNQkFOY2VQNDRFMmVJQnhaeTJBMFFKRzNGT094S09SMGFLWERMMVBtZXV1dkNmX29NTUxO?oc=5",
+      "first_seen": "2026-09-03T11:00:38Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "2e68a57f6eb5f765d484",
+      "title": "日本製紙八代工場で出火 煙突解体作業中、熊本(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T10:26:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45QVJQZUY1SEs1Y09ZOFpKYl8tSUN0RURwWkVfUHA1X0tNS3RtZjM4cFlNdjZmWGFpc19PVDQ2Mm1KRThSUE9jLVd5bUFfeXM?oc=5",
+      "first_seen": "2026-09-03T11:00:38Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "43649714da81b53921fa",
       "title": "日本製紙八代工場、解体作業中の煙突から出火...消火活動中",
@@ -133,6 +167,23 @@
       ]
     },
     {
+      "id": "280365eedcc5d9407851",
+      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T10:06:36Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
+      "first_seen": "2026-08-31T14:01:03Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d0e419231fbbea8b48d5",
       "title": "日本製紙の八代工場で出火、煙突の解体作業中 熊本地震で被災",
       "source": "日本経済新聞",
@@ -141,6 +192,23 @@
       "published_at": "2026-09-03T10:06:34Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ1pKRmYydkZqWXZiSVVJZ0RpNmtkWXdNYUt3ZjZNM2ZmcVZvaWM3dmhvT0xfZ1hKTW5YeklOMVZZRlNCWUsyWVNjSldSTXpTZWh1Z09ocjRNVm1kWGtSOFFXODBTMWdLQUw1Yg?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "29081465ce7d0f28882f",
+      "title": "画像・写真:日本製紙八代工場で火災 熊本地震で煙突倒壊:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T10:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0ZBUDgyaHFyMjIzTDh0UTEwNTZLUnlYUnNiRzcwQkJDbm5wTWtmVXhOR1luX2FPZmRQOWw0cTlNZnh0WWdNQi1VbDBrTzJEQS0zT1ZxcVlxa2kxMkxTdjFDQUV4R1hIN3VBLUpMRUNfaGlCazJwaDhkV0NIVXRycQ?oc=5",
+      "first_seen": "2026-09-03T11:00:38Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -302,6 +370,23 @@
       ]
     },
     {
+      "id": "c76b269fa251394b4c3e",
+      "title": "熊本 日本製紙八代工場「解体中の煙突から火が出た」の通報",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T09:16:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RTRWUVFnaE56UVVjM2RpY2tMVExqUWc1amZZeC1SdENjSUJZazFfOTl4TzM4c1laX0g1TW5vUTNuVnIxbmw0S3VLOEZXcnNYamtsNEpxMi0?oc=5",
+      "first_seen": "2026-09-03T11:00:38Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "bd8880da4dda995a94e6",
       "title": "熊本「イオンモール爆発」経産省委託の事故調査委員会が初会合",
       "source": "NHK",
@@ -413,23 +498,6 @@
       "first_seen": "2026-09-03T10:00:36Z",
       "focus": [
         "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "280365eedcc5d9407851",
-      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T00:49:16Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
-      "first_seen": "2026-08-31T14:01:03Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
