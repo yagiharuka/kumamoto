@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T01:00:17Z",
-  "updated_at_jst": "2026/09/03 10:00 JST",
+  "updated_at": "2026-09-03T01:30:20Z",
+  "updated_at_jst": "2026/09/03 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1159,
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 169,
     "mainichi": 145,
     "yomiuri": 177,
     "sankei": 190,
-    "kumanichi": 169,
     "nhk": 98,
     "jiji": 182,
     "asahi": 133,
@@ -81,6 +81,23 @@
     "paper": 123
   },
   "items": [
+    {
+      "id": "280365eedcc5d9407851",
+      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T00:49:16Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
+      "first_seen": "2026-08-31T14:01:03Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "a74c32c11902447365d7",
       "title": "熊本地震 断水・停電で使えず/職員被災し人手不足 福祉避難所 想定超え",
@@ -145,23 +162,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "280365eedcc5d9407851",
-      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-31T13:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
-      "first_seen": "2026-08-31T14:01:03Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
