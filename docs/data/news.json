@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T07:00:45Z",
-  "updated_at_jst": "2026/09/03 16:00 JST",
+  "updated_at": "2026-09-03T07:30:39Z",
+  "updated_at_jst": "2026/09/03 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1162,
@@ -5720,7 +5720,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -8898,20 +8898,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "984448cd971871600071",
-      "title": "損傷したイオンモール熊本 地震に見舞...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:50:14Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92c2wwQktPeHVkbWpuWXh3cm5IakRnWGFESnFfaUhDelM5dWRVTXM1aktGOTJaWHpDLTRqZ1lHSU80RUZkWm9SMFZoX2dvR2pwSnBWYy1xMkU0UE9zQ1FxcGV2R0N2VEpwcHpQdUY4bw?oc=5",
-      "first_seen": "2026-07-30T21:00:13Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -15032,6 +15018,20 @@
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11THVpMWJNb0tTMjRWTUV3d0p1MkREcVUzakNMN2lNX1NBQy0zYkRNRU5lQ0xrT1dPN2lyTXljdFBjc29tbTJOUktOR1c0ZlhpTUJGa3ZtX3FPaGFEdExjckNWSW01UmEwWVNJdE0zUQ?oc=5",
+      "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "984448cd971871600071",
+      "title": "損傷したイオンモール熊本 地震に見舞...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92c2wwQktPeHVkbWpuWXh3cm5IakRnWGFESnFfaUhDelM5dWRVTXM1aktGOTJaWHpDLTRqZ1lHSU80RUZkWm9SMFZoX2dvR2pwSnBWYy1xMkU0UE9zQ1FxcGV2R0N2VEpwcHpQdUY4bw?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
       "focus": [],
       "category_ids": [
