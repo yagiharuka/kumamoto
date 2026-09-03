@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T19:30:30Z",
-  "updated_at_jst": "2026/09/04 04:30 JST",
+  "updated_at": "2026-09-03T20:00:38Z",
+  "updated_at_jst": "2026/09/04 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1196,
+  "article_count": 1197,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,13 +50,13 @@
   ],
   "source_counts": {
     "mainichi": 151,
+    "nikkei": 68,
     "jiji": 187,
     "kumanichi": 177,
     "nhk": 105,
     "asahi": 139,
     "yomiuri": 179,
-    "sankei": 191,
-    "nikkei": 67
+    "sankei": 191
   },
   "tracked_categories": [
     {
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 934,
     "power": 131,
-    "paper": 148
+    "paper": 149
   },
   "items": [
     {
@@ -113,6 +113,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "b940b3eed568aefe2e56",
+      "title": "日本製紙の工場、煙突解体で出火 熊本・八代で被災",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyWjdadXVHbDMxZlpIV1drQkFFNWYxWi1ORlQta2VUNkZTX18ycmJyYmRtYWhqTEVfN0VCenBHUzRRM01iZlA3Unp1ejhOU2NuczltaTAtd0taQW5XakpoQWw3cGFwRTFucVhwbA?oc=5",
+      "first_seen": "2026-09-03T20:00:38Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -2572,7 +2589,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-18T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ET19vcXV3d2UtdjVtMzhlYzUxNmRkTzd2S3FXdFpqVmpCTFFjZkJ2enhvcUVISEg0cm9ES0VlZ3ZpbV9YMW96SC1mZzgxXzFvTG82VE5BQng1ZGNoLXpkTmxIMS1OS0k3YVpmb1pn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmt1QXl0bVZxUHU4cldQSlQ2MmhsSUFSSjQwYV90UEV5aXhyMVFvUDdJaFd5N3FwcUM2dlJGY1k4eFdqX3Vyc0ZISXJCVUZCUE1QNndtMlZ3UG1Pajl6dTlUQXJaLUE?oc=5",
       "first_seen": "2026-08-18T10:30:24Z",
       "focus": [
         "目撃証言",
@@ -2622,7 +2639,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-17T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVE1xVWdybV9OZTVkZHVVSnhPVVpsc3cydE00QWFHRU1zT2xOX29Xb3RxeUQ1QnUxRHhtNHBiSk1VY1NaeWxJUWVnMXlhMjByZGtuMnhJcDdlMmlUcEwza2pRd1hQQUFBZUhyeWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icC05dHBGdUI4NmRoNWdIb2pyYUJjSFpQbmxNTThvWWJ0Vkx2MW1iWmdQaXoxR1hmdkh6TzIybWdNQlkyYmRvQXF5Vnhzd2gtbFZyeG80MFNFRV9FWi1SMTNYdGhxWFlRVS1fQVZn?oc=5",
       "first_seen": "2026-08-18T20:30:32Z",
       "focus": [
         "原因・検証",
@@ -6200,24 +6217,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xakV5ZnB1ZnFsQS1ST2pUZlJteERGalFLa01jU2tfVnFaa1IzamJxWFhTb3FxQUt0OXU2SGE2WlZjN0U5Ul9iVmt3dDhpczJOemE3TER5VlZwNjVfekdYZ3RYZnlvTm8?oc=5",
       "first_seen": "2026-08-03T20:31:06Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OQ2VsV015UmE5b3lMcGdfNnZlQTlic3d1b3VjOUFBYk9BWjRzTXZnZ0ZoNXR1U0wxMEFuempGSXdoZ0NIZ1NJeUNnc1BSQTBHc0xGSGNGSGM3Y08zS2FXMFVRNUpjY09RbWc?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -11181,6 +11180,24 @@
       ]
     },
     {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3RwczhsY1BvNEl3RDdfRHVrbFJ6YnhmWWdIWDE0RHpCNjhfSjgwU05PX0NELWV3YllISGxtTFhoeUd4VFFvV1BfOXFzem5wemNNSGRuXzBwVFBLS08zRHFyUlVXcWFhajMtaUVUSkdWWk9HVXpaQjRaVm1NdGc3RzQwRkhqZl9Oei1MQV9B?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "f603166d0f8ca279d2c1",
       "title": "【29日の詳報】イオン爆発で犠牲者 社長会見「深く深くおわび」 [2026年熊本地震]",
       "source": "朝日新聞",
@@ -15139,7 +15156,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
