@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T09:00:41Z",
-  "updated_at_jst": "2026/09/03 18:00 JST",
+  "updated_at": "2026-09-03T09:30:34Z",
+  "updated_at_jst": "2026/09/03 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1164,
+  "article_count": 1168,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 171,
+    "nhk": 101,
+    "kumanichi": 172,
     "asahi": 135,
     "nikkei": 66,
     "mainichi": 145,
     "yomiuri": 177,
     "sankei": 190,
-    "nhk": 98,
     "jiji": 182
   },
   "tracked_categories": [
@@ -76,11 +76,61 @@
     }
   ],
   "category_counts": {
-    "aeon": 928,
-    "power": 130,
-    "paper": 123
+    "aeon": 929,
+    "power": 131,
+    "paper": 125
   },
   "items": [
+    {
+      "id": "3702b058472e09e1dbae",
+      "title": "【ライブ】熊本 八代 日本製紙八代工場「解体中の煙突から火」",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T09:25:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90LUtPX1hNTEZEMHlFODd6N0ppeTRCRzJPRjlrV21LVGgtazlaRVh6aElBZWQzWGZtajl2X1M0Q1FpYmZreFo2YkRDdTE4WDlqS3c1cW01c1dxMWNrUkVF?oc=5",
+      "first_seen": "2026-09-03T09:30:34Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "ea2cc1d23cd53b9968ec",
+      "title": "【速報】日本製紙八代工場の煙突から出火 八代市",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T09:24:28Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RG9ZVWNmNVdERHN1QWdvTUFlSFdRSnNhQWRPN2V5SXJNNnUwcE1LTm5hUTB3WGdvSk9zN0NlYjNUaDMyOVRka0xwS0dtUlE?oc=5",
+      "first_seen": "2026-09-03T09:30:34Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "bd8880da4dda995a94e6",
+      "title": "熊本「イオンモール爆発」経産省委託の事故調査委員会が初会合",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T08:55:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9naHVuQ1dmZC1VcENaQW1JcHZUbGI2LTFDNEIzQ1R3c1p4NjBiLWlOM2VrTlE1Snk5RlBnaF9wRmMxTm02OUFsOE5wVjRLV0g0M0JlUFM0a3I?oc=5",
+      "first_seen": "2026-09-03T09:30:34Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "d76e197f33e817c22df9",
       "title": "イオン爆発の調査委初会合 経産省、ガス漏えい検証(共同通信)",
@@ -582,7 +632,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-28T08:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ackd3Mk94YVZoY3Q2MnZMWFd3X3pDWW5iM0U2dzVtSUZnTWhZeEZEdXR5VmI2alVKYkZ6Z3RTQmtZMXVqVHBaZFNoMEtXYWlIb3dZVHJKeW01LVY1dHRiN1d1WWdfQ1dEWDVFR2JR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
       "first_seen": "2026-08-28T20:00:24Z",
       "focus": [
         "現場状況"
@@ -1088,6 +1138,22 @@
       ]
     },
     {
+      "id": "0e5e6792b3911b6c77a0",
+      "title": "イオンモール爆発事故で調査委員会と経産相 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-25T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LQl8yVW9yZHlRU1cyOTFPTE85SFB6RGQxSTBiYTlOTDN2RkxGdUZ0Rmo0VmVrQmVDalZKUTBQSWtWV1kwdkNUWVhJQ0RpNVE?oc=5",
+      "first_seen": "2026-08-25T04:30:15Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "3321e58d00f2959c3f73",
       "title": "イオンモール爆発事故で事故調 経産省が立ち上げ(共同通信)",
       "source": "熊本日日新聞",
@@ -1178,22 +1244,6 @@
       "published_at": "2026-08-25T04:47:44Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeW1nZVJsTEt3NTBRc1dHYmIxWnR1RWVhSm85QUZaMkd3V3hWN0UtMTk3OV8ta1hPRXZnMFg4UTBwOWFjeVhrOXNiVUlFb01KbkY5OU1oa2dMeFdWN1pxQThUMzVFR3g2V2ZoODBiZmdBWEZSamtJVE9Oa2dYRExjRmpWUWJ0N3BUT1M4YTFidXU3eG5UUmZBRFg1VUhuSWdjSGc?oc=5",
       "first_seen": "2026-08-25T07:00:18Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "0e5e6792b3911b6c77a0",
-      "title": "イオンモール爆発事故で調査委員会と経産相 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-25T04:19:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LQl8yVW9yZHlRU1cyOTFPTE85SFB6RGQxSTBiYTlOTDN2RkxGdUZ0Rmo0VmVrQmVDalZKUTBQSWtWV1kwdkNUWVhJQ0RpNVE?oc=5",
-      "first_seen": "2026-08-25T04:30:15Z",
       "focus": [
         "現場状況"
       ],
@@ -3155,22 +3205,6 @@
       ]
     },
     {
-      "id": "02ee6e4937ebe7742474",
-      "title": "イオン「一時入館認めた」 避難後従業員に、熊本地震(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-08-11T08:39:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RX1pKR1p1ZG02ZU55eGk5OVgzYTE1Q1BzMzdfSzg2WGRoalNrSHpaVEliUk5UOThuQjRGR3BQXzRlVEdlbHktaVY3bkRKRG8?oc=5",
-      "first_seen": "2026-08-11T04:00:49Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ff3ca37f2f833744da7b",
       "title": "「イオンの客が避難できた点は評価」と知事 (共同通信)",
       "source": "熊本日日新聞",
@@ -3291,6 +3325,22 @@
       "first_seen": "2026-08-11T04:00:49Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "02ee6e4937ebe7742474",
+      "title": "イオン「一時入館認めた」 避難後従業員に、熊本地震(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RX1pKR1p1ZG02ZU55eGk5OVgzYTE1Q1BzMzdfSzg2WGRoalNrSHpaVEliUk5UOThuQjRGR3BQXzRlVEdlbHktaVY3bkRKRG8?oc=5",
+      "first_seen": "2026-08-11T04:00:49Z",
+      "focus": [
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -3568,12 +3618,12 @@
     },
     {
       "id": "261ddbc9d82124b2bc26",
-      "title": "イオンモール熊本 爆発事故 避難後一時入館認めたと会社が発表",
+      "title": "イオンモール熊本爆発事故 避難後一時入館認めたと会社が発表",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oYTl4LXI1Sm00T1NXOFBORGhINnRkNmJvVUg1ZWVsSUwwWEF0Y2FxS1owYTNOUXpYOGloeFVQd2ZhMjdqMHhwRnRhc2RGbkd6UjZxYjd1R2ZLN3JJck1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZOHJNSWxEdnlhV2RzQjkzdEU3T0xqd3lSM3dJUW1JemphS04yc0xadHZYcFgtNGtGN043cU5CQndEUllLYnlRWXV4aWVvOWcwUnZUa1JVT2w?oc=5",
       "first_seen": "2026-08-11T04:30:41Z",
       "focus": [
         "避難状況",
@@ -18714,6 +18764,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "6b7e948c34a6fb28d256",
+      "title": "地震 熊本県内で停電 約4万8000戸(17:15)",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LQ2NUX0xZWnp5OWNGWTh2Uy0zenpZckc2c3haWHBTQUowVzg2MUhsVl9nd1ZqVUpYQUZVVjluYW14QmlhVWZfU3FzN0tiZmZuYl9ZaHBJajc?oc=5",
+      "first_seen": "2026-09-03T09:30:34Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
