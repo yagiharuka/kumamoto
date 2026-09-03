@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T17:00:33Z",
-  "updated_at_jst": "2026/09/04 02:00 JST",
+  "updated_at": "2026-09-03T17:30:30Z",
+  "updated_at_jst": "2026/09/04 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1193,
+  "article_count": 1195,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
-    "mainichi": 149,
+    "mainichi": 150,
     "jiji": 187,
     "kumanichi": 177,
-    "nhk": 104,
+    "nhk": 105,
     "asahi": 139,
     "yomiuri": 179,
     "sankei": 191,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 933,
+    "aeon": 934,
     "power": 131,
-    "paper": 146
+    "paper": 147
   },
   "items": [
+    {
+      "id": "06758f70a8fc87b6dfa2",
+      "title": "熊本地震 イオンガス漏れ 再現実験を検討 爆発調査委が初会合",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T17:00:30Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WUJJMF9aVzRDdjBTdi1vYU5nN0NqUWJCZklRMFI3OXpsdGItSHZjY3o3Vi12aUNmbm01S0V0NTd3d2hxT2NKYUJLQUJrSjdmMkpOSWx4Rk14MFVIbjdCanRKX0xGYjhU?oc=5",
+      "first_seen": "2026-09-03T17:30:30Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "0ee3032c78a2d68fe11b",
       "title": "日本製紙八代工場の火災は鎮圧 「煙突解体作業中に出火」と通報",
@@ -826,7 +843,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlNXQVpCQzFxckdGcjdubDIzam5LTWF3a2tteWI4R0ItY3lmaENweTN6ZGVvY1Z3M2JKVERROERuXzZBWElOYktUODhKalliY3pvRW4yMURVN3hyc2JfTGJQYUVRZlpHOTFDLUNWeGNOSmJfMkMyalVTWjc1SE9OUlhR?oc=5",
       "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
       "category_ids": [
@@ -1227,7 +1244,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdTlKWEZ0UXc2amVaeHZMMmozSTNsbkM3ZEJPaUVUaWdHaTQzcTVab1lNNWM4Mlg4cERjcXZHYlJ0Z3JwWDFkSHZsN2VXOXZiV05rSHkxdHNfRktESHRUTFp1cTBQVUtIbkt4YjNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2R6cDNyOXl2WFBjc29CY3FDMEV4ekxBa0RNMGJ4TmlNcm0yTm1hWDFSSnQtaGYtNzBJWno4dkpQRVg3YUNLekhnVkwxbzRQM21BYUx0REx2SE9Ed2lIdEZIc0d3Rmk4akswRVltSkZNMmxxSWljdG9ZUjdvZjBodlVIVDJZdEtVdUVCOXpR?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "避難状況"
@@ -16045,6 +16062,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "fd1442652cea2a3937d2",
+      "title": "日本製紙八代工場 煙突倒壊",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdkhKSGN0cWRZSml2V2RZcENyLU1mcDc5VHUtcks0UnllajVRRWN2QXBvclR0djY5LTg1NHVJVTJEVEY0RTR4UDFBNDlrTEk3ZHdkMjVNcnExaDZpeUo4S0RhZTRIM0ZfTUxzbDJSbm0?oc=5",
+      "first_seen": "2026-09-03T17:30:30Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
