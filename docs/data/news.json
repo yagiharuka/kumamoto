@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T16:30:30Z",
-  "updated_at_jst": "2026/09/04 01:30 JST",
+  "updated_at": "2026-09-03T17:00:33Z",
+  "updated_at_jst": "2026/09/04 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1193,
@@ -117,14 +117,14 @@
       ]
     },
     {
-      "id": "bfd02b1bccfbb4bd7502",
-      "title": "<2026年熊本地震>黒煙、破裂音「恐ろしい」 日本製紙八代工場の煙突火災",
+      "id": "2e68a57f6eb5f765d484",
+      "title": "日本製紙八代工場で出火 煙突解体作業中、熊本(共同通信)",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-03T12:48:57Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vbTRzVjJjM3k2ZEJoZE8yYXNQbFY5MnRNbURaYy1wVDVHM01KTTAwcFFxY0VjNDNjZ2lWLUUwMTY5akJzclZ2bi1WZDhLdU0?oc=5",
-      "first_seen": "2026-09-03T13:00:20Z",
+      "published_at": "2026-09-03T13:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45QVJQZUY1SEs1Y09ZOFpKYl8tSUN0RURwWkVfUHA1X0tNS3RtZjM4cFlNdjZmWGFpc19PVDQ2Mm1KRThSUE9jLVd5bUFfeXM?oc=5",
+      "first_seen": "2026-09-03T11:00:38Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -144,6 +144,23 @@
       "first_seen": "2026-09-03T14:00:23Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "bfd02b1bccfbb4bd7502",
+      "title": "2026年熊本地震>黒煙、破裂音「恐ろしい」 消火活動見守る住民 八代市・日本製紙八代工場の煙突火災",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T12:41:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vbTRzVjJjM3k2ZEJoZE8yYXNQbFY5MnRNbURaYy1wVDVHM01KTTAwcFFxY0VjNDNjZ2lWLUUwMTY5akJzclZ2bi1WZDhLdU0?oc=5",
+      "first_seen": "2026-09-03T13:00:20Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
@@ -227,23 +244,6 @@
       "source_group": "全国紙",
       "published_at": "2026-09-03T10:26:20Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaMUNGSEN6a1VOZkZwckhwUVJ1NG5fbjlLX1RkakFDMmI2Z3M2cTRfMExVRllTX0FXbjU0WUNpbVJ3YmtHM1c0QWwxN0swRzNkejYtbUR1OEY3QUlJVzhOQjhKQW82dw?oc=5",
-      "first_seen": "2026-09-03T11:00:38Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "2e68a57f6eb5f765d484",
-      "title": "日本製紙八代工場で出火 煙突解体作業中、熊本(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T10:26:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45QVJQZUY1SEs1Y09ZOFpKYl8tSUN0RURwWkVfUHA1X0tNS3RtZjM4cFlNdjZmWGFpc19PVDQ2Mm1KRThSUE9jLVd5bUFfeXM?oc=5",
       "first_seen": "2026-09-03T11:00:38Z",
       "focus": [
         "目撃証言",
@@ -1195,7 +1195,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGtBTU03LXBTa21YcTdWd3cxeEhqX1psLXNQSUZ0WHUzSmwwU0dKVHFHZ1pqYmxCU21ManRNNTctd2hUSkZJWDlHdWpSWl9GTzNycWc2N0JsNWlyMEk4dFBxYXpyY01GTFpzbXplYzRFbHJxRkY2cW9kS1JJakcycVYtNi1VTjRPX25idVJB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -15010,7 +15010,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
