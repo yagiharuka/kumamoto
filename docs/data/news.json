@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T21:30:22Z",
-  "updated_at_jst": "2026/09/04 06:30 JST",
+  "updated_at": "2026-09-03T22:00:34Z",
+  "updated_at_jst": "2026/09/04 07:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1205,
@@ -1383,7 +1383,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8waER5NU9FcEZxNkJZTE9EVl9kXzk4eU1adDZvZmMwTU1jVW9nSHlWRHZITkNDVlNYRkJZY1dVVHIya3d0MmYxZ3AtWlhhVlhPSGdLQzRTbFg1cWRWX0FYY1NTOVptdWVWSTVSWnp3?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -1415,7 +1415,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdTlKWEZ0UXc2amVaeHZMMmozSTNsbkM3ZEJPaUVUaWdHaTQzcTVab1lNNWM4Mlg4cERjcXZHYlJ0Z3JwWDFkSHZsN2VXOXZiV05rSHkxdHNfRktESHRUTFp1cTBQVUtIbkt4YjNB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2R6cDNyOXl2WFBjc29CY3FDMEV4ekxBa0RNMGJ4TmlNcm0yTm1hWDFSSnQtaGYtNzBJWno4dkpQRVg3YUNLekhnVkwxbzRQM21BYUx0REx2SE9Ed2lIdEZIc0d3Rmk4akswRVltSkZNMmxxSWljdG9ZUjdvZjBodlVIVDJZdEtVdUVCOXpR?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "避難状況"
@@ -5239,7 +5239,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-05T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTjVuTERzOUpCcDdLRUdwZFk1Y0pfNFloOGJrUElxTC05Ukc2Vjd4ZXUtYW9zYkh3REdyUGdqeEdIRmdhV1ZYYVVvZXF3QTBCaG5aM1c3aUduYTBPX2psT2Z2UGFfcll1TGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNGMwWDRZOVo2OVU1NDcxQW1IaUs4S0Y0TE52dG1EMjBoUU1lRl9YMTdJR1d3U2FRbzJQbmlqbTZpRk1KdWJsSTZlSXEzbndjRFYwdjkyeFBtanVqMEpfMHo1bEpJRlVfX2c?oc=5",
       "first_seen": "2026-08-17T06:30:36Z",
       "focus": [
         "目撃証言"
@@ -15198,7 +15198,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
