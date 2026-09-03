@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T03:30:26Z",
-  "updated_at_jst": "2026/09/03 12:30 JST",
+  "updated_at": "2026-09-03T04:00:23Z",
+  "updated_at_jst": "2026/09/03 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1159,
@@ -260,20 +260,6 @@
       ]
     },
     {
-      "id": "480864b73f0ced732489",
-      "title": "被災1カ月、冥福祈る=イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QaUc4b1JWdklvNnpmem5XY2Vwd3ZVWlk2WDhlZ0xFZC1QbmxKMjVkOUJmRzZ3MEZwN0hxdFVIX0JIelBXTUNXREY0RF93UUY5S2lhWQ?oc=5",
-      "first_seen": "2026-08-29T15:01:05Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e688ba086b3ef88b44b4",
       "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
       "source": "時事通信",
@@ -410,6 +396,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "480864b73f0ced732489",
+      "title": "被災1カ月、冥福祈る=イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T10:18:44Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QzQ2N1RDeEN5Y0F5N0luX1RWMUNfZkR1RTRvLU90eHRjNVAwQlo5ZFBqRGg3NEx0S2hsRG04dzU4aTdhSzlWQmFFaFpsb3pBaGs5WQ?oc=5",
+      "first_seen": "2026-08-29T15:01:05Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -575,7 +575,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T06:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5czZhbmxSTUtsUGtFNWpPVjRaRHZ6YmRFdy1GQ016RC1CcXZsT056aWk0VmxXeTVydUJwaHQwMHREXzYtNmpXRnZJNTdzR3dsMFdBaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
@@ -1667,7 +1667,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
