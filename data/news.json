@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T08:30:20Z",
-  "updated_at_jst": "2026/09/03 17:30 JST",
+  "updated_at": "2026-09-03T09:00:41Z",
+  "updated_at_jst": "2026/09/03 18:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1163,
+  "article_count": 1164,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 171,
     "asahi": 135,
-    "kumanichi": 170,
     "nikkei": 66,
     "mainichi": 145,
     "yomiuri": 177,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 927,
+    "aeon": 928,
     "power": 130,
     "paper": 123
   },
   "items": [
+    {
+      "id": "d76e197f33e817c22df9",
+      "title": "イオン爆発の調査委初会合 経産省、ガス漏えい検証(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T08:26:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hR1YtbDlZQnhUTGJDbF9Na1NzUGxKc1BkN3k5RVFIN0NfRmpXamJxdU4xV3JTYU15NnBzY09xN3R5M25ySmxQMzh1cmNIaDg?oc=5",
+      "first_seen": "2026-09-03T09:00:41Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "5e01d855795b7406aef8",
       "title": "熊本イオン爆発、事故調が初会合「経験のない事象」 ガス漏れ焦点 [2026年熊本地震]",
