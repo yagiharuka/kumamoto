@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T09:30:34Z",
-  "updated_at_jst": "2026/09/03 18:30 JST",
+  "updated_at": "2026-09-03T10:00:36Z",
+  "updated_at_jst": "2026/09/03 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1168,
+  "article_count": 1172,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 178,
+    "mainichi": 146,
+    "kumanichi": 173,
     "nhk": 101,
-    "kumanichi": 172,
-    "asahi": 135,
+    "asahi": 136,
     "nikkei": 66,
-    "mainichi": 145,
-    "yomiuri": 177,
     "sankei": 190,
     "jiji": 182
   },
@@ -76,11 +76,61 @@
     }
   ],
   "category_counts": {
-    "aeon": 929,
+    "aeon": 931,
     "power": 131,
-    "paper": 125
+    "paper": 127
   },
   "items": [
+    {
+      "id": "47bb0b51b256d2d1e0e2",
+      "title": "「イオンモール熊本」爆発、事故調査委が初会合...現地調査や再現実験なども想定",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T09:52:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kSVhlTFZ0WGsxWVBrUmFRajc2TDlzSFZVWW00aWVNck9EM0c5SGlVd0t3LW13Mk9weExPVjJLa25OUXhFY0FwSXJIMzNiZTk4am9oV2gwczNaeUFfWXU3OEk5ZFFoQQ?oc=5",
+      "first_seen": "2026-09-03T10:00:36Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "241e74782b44cc088f30",
+      "title": "日本製紙八代工場で火災 地震で倒壊の煙突付近から出火か",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T09:44:17Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lYmttenBBOXlfdDBaZDVJNWE5akFtcFgybURKbzJRdzUwR3VKT05tdDVGYXBOUGZpcWk0Z1ZaZFUyWGpNZDhuVjlBWDVSZ20yNXZKcDF0U2I5WGNCMHhwbC1VQzJqOGdk?oc=5",
+      "first_seen": "2026-09-03T10:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "7efcbdf860bdc52b2d1f",
+      "title": "日本製紙八代工場で出火、煙突解体作業中か (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T09:42:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQXl5dUhtZlhQRDRyQmVHZExOMkp5UWFLaDFpeUM5dUxvZkRIeEZ3VE00cTMzS0pIOS1zRzlQNGV0LVpnTWpxcUpSSzE2REk?oc=5",
+      "first_seen": "2026-09-03T10:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "3702b058472e09e1dbae",
       "title": "【ライブ】熊本 八代 日本製紙八代工場「解体中の煙突から火」",
@@ -208,6 +258,23 @@
       "published_at": "2026-09-03T06:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yejY3a2F4RzlEVjc0SGpkMC1aYTlBeU5MeTFyNWdjS0lxamNHY2tnaFNnSnFNczVKY3Z3SHZ4TWZjZXoxVzBRV1RGeDhmd1FnWmE2UmQ5cmI0Q0w4TEF0cS0taEZCQXM?oc=5",
       "first_seen": "2026-09-03T06:30:35Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9c6b045740026eb593ec",
+      "title": "イオン爆発の原因は? 商業施設のガス配管、専門家が指摘する盲点 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T06:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Fa19IWF9qRlNHQ091cFhsUjlYR1RqM2JmVENQUUM2NmpBdDUwVDJ0VUlGNEZBTkYyLThqYmRteVhzcVEzMzRaRXJZRVNTNlRmc21uUHZOZDNNN25EQXhVc1FGRWFVQ1RyeHJXVUZ3?oc=5",
+      "first_seen": "2026-09-03T10:00:36Z",
       "focus": [
         "原因・検証",
         "現場状況"
@@ -14585,7 +14652,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUThCNFlrZjZObXk0a21fNnM3X1YxaGI3Si0tZmFNczk2NFNINlQzTGtrM0d0MGhkZzJCODhuLTc4V0tDVWNTMXkwRER1YWhPZHR3WEVqd2pyVHk3VkNnbFZpTks5d19fSG5Ba3VR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
