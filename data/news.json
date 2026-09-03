@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-03T07:30:39Z",
-  "updated_at_jst": "2026/09/03 16:30 JST",
+  "updated_at": "2026-09-03T08:00:35Z",
+  "updated_at_jst": "2026/09/03 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1162,
+  "article_count": 1163,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "asahi": 135,
     "kumanichi": 170,
     "nikkei": 66,
-    "asahi": 134,
     "mainichi": 145,
     "yomiuri": 177,
     "sankei": 190,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 926,
+    "aeon": 927,
     "power": 130,
     "paper": 123
   },
   "items": [
+    {
+      "id": "5e01d855795b7406aef8",
+      "title": "熊本イオン爆発、事故調が初会合「経験のない事象」 ガス漏れ焦点 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mU2xKRUZLSVM2WGczOFdnU050NnJtaHVBbzhvbFNXdHZka21teldBd1RReFlULXozR3VGbi15b0xVSm5MaXZYb196dlJ1dS1leEJVZ1FuZW9oejVUc0VGRk1CdDdQUGc?oc=5",
+      "first_seen": "2026-09-03T08:00:35Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "6f1f306e1437bc970638",
       "title": "熊本地震死因、6割が圧死と窒息 イオン爆発と煙突倒壊除く(共同通信)",
@@ -14890,7 +14907,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
