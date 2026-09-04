@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T00:30:20Z",
-  "updated_at_jst": "2026/09/04 09:30 JST",
+  "updated_at": "2026-09-04T01:00:21Z",
+  "updated_at_jst": "2026/09/04 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1207,
+  "article_count": 1208,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "nhk": 107,
     "mainichi": 153,
     "yomiuri": 182,
-    "nikkei": 68,
+    "nikkei": 69,
     "kumanichi": 177,
     "asahi": 139
   },
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 937,
+    "aeon": 938,
     "power": 131,
     "paper": 156
   },
@@ -283,6 +283,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "e3d46f0527c87fb03bc8",
+      "title": "イオン爆発「科学的に究明」 熊本地震、国の調査委初会合",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T17:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BOFE0d1RFckdEdlFYenBWNjdjOXAtQk5kakpUNWdNVnZjWVUydXN6YVU4ZVpYYW53cnUxSkZUdldpQzV5dkxaNDdJNXUzbzRsTEpHWS1nRlhfMTFTVm1feV9RdGMyTFhmeTUwQw?oc=5",
+      "first_seen": "2026-09-04T01:00:21Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -6431,7 +6447,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -10558,23 +10574,6 @@
       ]
     },
     {
-      "id": "bc1ad5ebcc18d938379c",
-      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXNjemY5RWpUVGRYRFlfM2xxRHhfM19jblRCd3dJZUk3bW9pYWpwTmp4YXVDVllFaVU2dmJsZlFGQUlZREZlRFZVeWh5NU05enp3cTdSWXZBaF9id3I2Z3hoczVVc0hGM09aSF9SRWd4dHB2dENGYlIzcjBDcTFmclJRTHJ4LWkwODZyWGRibFg5X0w1UWFHZF8zVFB4NWZNLUE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "841f232dcff4e67d2150",
       "title": "炎天下のイオンモール熊本で捜索活動に加わる警視庁の警察犬=30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -13632,6 +13631,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "bc1ad5ebcc18d938379c",
+      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWJLRzg3VG9USlN0MEptNVpzdHV0UWZlOXRaZHlOdEVVNlFwQ1ZXV2tmTkU3dzdpUG1BQlc5WWhiYlR2dTZKRm5lcTlSRHZVOWkxc0F3aE1JWXk4aFJEVlNUOWJOc0Job1BnOGktYjBMc1VLZ1JSQ29wNkRDV0xLbWRpRG55bFp5ZXRQdkRzaHA3aTRpaDd4bW81Zy16R3pDdkE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
