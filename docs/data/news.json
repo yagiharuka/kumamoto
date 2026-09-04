@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T22:30:34Z",
-  "updated_at_jst": "2026/09/05 07:30 JST",
+  "updated_at": "2026-09-04T23:00:48Z",
+  "updated_at_jst": "2026/09/05 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1222,
@@ -510,7 +510,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T13:08:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0ZBUDgyaHFyMjIzTDh0UTEwNTZLUnlYUnNiRzcwQkJDbm5wTWtmVXhOR1luX2FPZmRQOWw0cTlNZnh0WWdNQi1VbDBrTzJEQS0zT1ZxcVlxa2kxMkxTdjFDQUV4R1hIN3VBLUpMRUNfaGlCazJwaDhkV0NIVXRycQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jajlqT2dXQ0podnh2ajJwZHgxZjlfTkVsckRraTc5ckQtal90aUo4elk1OFBDZFpFRy1OSzNGQVQ5Q3JRUzk5Rlc3ZnhZalVXNUNRSGZ3S0lUX09vbEVlRENpYw?oc=5",
       "first_seen": "2026-09-03T11:00:38Z",
       "focus": [
         "救助・安否",
@@ -1346,7 +1346,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWNXaThvRlFHZlAzeE1CUXZVVzJDcFNLdERmQjlvRV9IcG9ua0RVcThyUFNsUEIwajJTM0kwcnJDU1Z4MXJYamJRcEZwcm5La0kwQXFJVkFDdXVJLXkwSEQwb1NnQ0tHN0J2VDNvRGR6alNQel9kVmdMa21zYmZkdA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -11660,7 +11660,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVhNVm1DM0RTSTE2ZGZiU2hMVXIxcEJXYnJKTjhtdTVOVndkNmwwYTFwSmt4c0JKd0JNM1U2dV9TMFppb1BFeHV1RlVpaGJMQUk0cldUVmRLcWdmVHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
@@ -15470,6 +15470,23 @@
       "first_seen": "2026-07-28T20:31:11Z",
       "focus": [
         "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -19306,23 +19323,6 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1lyOXloeGVucTlqeUx0WkhlWG9HajVhUXZIUExrdDZxVWlQM1JpU1BvUUFXX3Q4dkdwTUo3Y2piblROVWhyUG9QYV81ejd3QnFERVFicmlsQVNZWktYS0dueE4tV3lUOE9OYkh3VGxxLWZ4Q2QxbDBpSzU3c203X19HeHotV3k3cjgtOTJn?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
