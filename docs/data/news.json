@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T01:00:21Z",
-  "updated_at_jst": "2026/09/04 10:00 JST",
+  "updated_at": "2026-09-04T01:30:24Z",
+  "updated_at_jst": "2026/09/04 10:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1208,
+  "article_count": 1210,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 184,
     "jiji": 189,
     "sankei": 192,
     "nhk": 107,
     "mainichi": 153,
-    "yomiuri": 182,
     "nikkei": 69,
     "kumanichi": 177,
     "asahi": 139
@@ -76,11 +76,45 @@
     }
   ],
   "category_counts": {
-    "aeon": 938,
+    "aeon": 939,
     "power": 131,
-    "paper": 156
+    "paper": 157
   },
   "items": [
+    {
+      "id": "0c36db72c2764f8b9544",
+      "title": "日本製紙八代工場「解体作業中の煙突から火が出た」...地元消防が消火し鎮圧、作業中の10人は逃げて無事",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T01:04:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRS2pyd19lLXYwUGtTTXFaV3IteHd4Rkl4QXZuWUM0WlZCX2NXcjhXazJfSlI1emdKZERvTmphb2Y0dHhoREhDcnZKODBGSXMzUmVqaFNqV0VueUYwYUs3WUs1R0Y5WGNUUnByemVCUU5udw?oc=5",
+      "first_seen": "2026-09-04T01:30:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "359e88d9b2c0d3068471",
+      "title": "「イオンモール熊本」爆発事故、複数の客が避難後に施設に再入館...一部は屋上駐車場の車内に",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T01:03:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54N1owOUpzRV9YTXZOTVlsWE5OZWdwRnBMN1czbHRwaWlDV1A2UmFCSzR2enl5a0Z6V0IxQldJTEsxWFIwUmlPT1kwSGNHMndZU2VoQi0xVTV4UWI1aDU4R1dlOXlTUEUycVRWOVdDbjZTZw?oc=5",
+      "first_seen": "2026-09-04T01:30:24Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "1bf8386271734c52a0af",
       "title": "八代工場、遠い操業再開 新聞用紙、他社が代替生産―日本製紙",
@@ -319,6 +353,22 @@
       ]
     },
     {
+      "id": "6079552af01d9ed2b0f5",
+      "title": "日本製紙八代工場の火事 ほぼ消し止められる けが人などなし",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T13:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaFpMTFo3RmJkSU5IbHBpZGhFNHdFVmJGTUZoTEF0czVkTzNEMTJhY0lvZU0xWl9RSnpfQl9lekhCNXFyZmc3OWNOazNLcXlERWM0NVc0RFY?oc=5",
+      "first_seen": "2026-09-03T14:00:23Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "29081465ce7d0f28882f",
       "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
       "source": "時事通信",
@@ -348,22 +398,6 @@
       "focus": [
         "目撃証言",
         "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "6079552af01d9ed2b0f5",
-      "title": "日本製紙八代工場の火事 ほぼ消し止められる けが人などなし",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-03T12:44:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaFpMTFo3RmJkSU5IbHBpZGhFNHdFVmJGTUZoTEF0czVkTzNEMTJhY0lvZU0xWl9RSnpfQl9lekhCNXFyZmc3OWNOazNLcXlERWM0NVc0RFY?oc=5",
-      "first_seen": "2026-09-03T14:00:23Z",
-      "focus": [
-        "救助・安否"
       ],
       "category_ids": [
         "paper"
