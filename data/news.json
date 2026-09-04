@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T05:30:44Z",
-  "updated_at_jst": "2026/09/04 14:30 JST",
+  "updated_at": "2026-09-04T06:00:47Z",
+  "updated_at_jst": "2026/09/04 15:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1217,
@@ -10724,6 +10724,23 @@
       ]
     },
     {
+      "id": "bc1ad5ebcc18d938379c",
+      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXNjemY5RWpUVGRYRFlfM2xxRHhfM19jblRCd3dJZUk3bW9pYWpwTmp4YXVDVllFaVU2dmJsZlFGQUlZREZlRFZVeWh5NU05enp3cTdSWXZBaF9id3I2Z3hoczVVc0hGM09aSF9SRWd4dHB2dENGYlIzcjBDcTFmclJRTHJ4LWkwODZyWGRibFg5X0w1UWFHZF8zVFB4NWZNLUE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "841f232dcff4e67d2150",
       "title": "炎天下のイオンモール熊本で捜索活動に加わる警視庁の警察犬=30日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -13784,23 +13801,6 @@
       ]
     },
     {
-      "id": "bc1ad5ebcc18d938379c",
-      "title": "煙突が折れる被害が出た日本製紙八代工場で続く捜索活動=29日午前9時33分、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWJLRzg3VG9USlN0MEptNVpzdHV0UWZlOXRaZHlOdEVVNlFwQ1ZXV2tmTkU3dzdpUG1BQlc5WWhiYlR2dTZKRm5lcTlSRHZVOWkxc0F3aE1JWXk4aFJEVlNUOWJOc0Job1BnOGktYjBMc1VLZ1JSQ29wNkRDV0xLbWRpRG55bFp5ZXRQdkRzaHA3aTRpaDd4bW81Zy16R3pDdkE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "ec88766bf679a2882eca",
       "title": "煙突が折れる被害が出た日本製紙八代工場=7月29日午後0時21分、熊本県八代市",
       "source": "産経新聞",
@@ -15383,6 +15383,23 @@
       "first_seen": "2026-07-28T20:31:11Z",
       "focus": [
         "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
+      "focus": [
+        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -19236,23 +19253,6 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
