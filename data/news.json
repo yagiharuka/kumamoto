@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T02:30:20Z",
-  "updated_at_jst": "2026/09/04 11:30 JST",
+  "updated_at": "2026-09-04T03:00:23Z",
+  "updated_at_jst": "2026/09/04 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1210,
+  "article_count": 1211,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "yomiuri": 184,
-    "jiji": 189,
+    "jiji": 190,
     "sankei": 192,
     "nhk": 107,
     "mainichi": 153,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 939,
     "power": 131,
-    "paper": 157
+    "paper": 158
   },
   "items": [
     {
@@ -483,6 +483,23 @@
       "first_seen": "2026-09-03T11:30:47Z",
       "focus": [
         "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "0246db05de8b4371e61a",
+      "title": "画像・写真:日本製紙八代工場で火災 熊本地震で煙突倒壊:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T10:41:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeTJrRjlPdzVKUzFXMlkxTG40V0Rtcl9sdWludFk0dEJ6R3UxWUZJai01Y01LbHN4NUo4ekoyNEFkUUtKQnpQYVgxSXZSN0daeHpRcEE2Z1VMazVRVElNNkFweDh0dndxY3R3R1JpUXJsRksxdDJ2dVowMFlrWVpwMlVn?oc=5",
+      "first_seen": "2026-09-04T03:00:23Z",
+      "focus": [
         "目撃証言",
         "現場状況"
       ],
