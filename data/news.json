@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T16:30:40Z",
-  "updated_at_jst": "2026/09/05 01:30 JST",
+  "updated_at": "2026-09-04T17:00:51Z",
+  "updated_at_jst": "2026/09/05 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1220,
+  "article_count": 1221,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "yomiuri": 186,
     "asahi": 140,
     "kumanichi": 179,
-    "mainichi": 156,
+    "mainichi": 157,
     "nhk": 108,
     "jiji": 190,
     "sankei": 192,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 940,
     "power": 131,
-    "paper": 166
+    "paper": 167
   },
   "items": [
     {
@@ -510,7 +510,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T13:08:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0ZBUDgyaHFyMjIzTDh0UTEwNTZLUnlYUnNiRzcwQkJDbm5wTWtmVXhOR1luX2FPZmRQOWw0cTlNZnh0WWdNQi1VbDBrTzJEQS0zT1ZxcVlxa2kxMkxTdjFDQUV4R1hIN3VBLUpMRUNfaGlCazJwaDhkV0NIVXRycQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jajlqT2dXQ0podnh2ajJwZHgxZjlfTkVsckRraTc5ckQtal90aUo4elk1OFBDZFpFRy1OSzNGQVQ5Q3JRUzk5Rlc3ZnhZalVXNUNRSGZ3S0lUX09vbEVlRENpYw?oc=5",
       "first_seen": "2026-09-03T13:30:30Z",
       "focus": [
         "救助・安否",
@@ -651,6 +651,23 @@
       "published_at": "2026-09-03T10:26:20Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzdISk5yVTI5dzlOVlRKd1NHYV8tMzY5bkt1Mk9nWmIzY3pQUE55QnJKMHR5dDBwcDZGcEZfeXhRTi11YV9oVkt4WHhOblowT25oUDJrMElMVWtvT2ptbTkyb2hVS1lNaXNFMGNNYXNtT1drekdabnBubzFKYnhuaWllNk16U1k?oc=5",
       "first_seen": "2026-09-04T04:00:22Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "9d005b0a734d849383e8",
+      "title": "日本製紙八代工場で火災 地震で倒壊の煙突付近から出火か [写真特集1/5]",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T10:26:20Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjNaVTVmSW1HY0VzQl9LQVVTV3ZtVVBJZnk2LWNCMmV5Unp3dVBMbndyQ1BPSTUtckZQZVdEZ0pyeEthdXJDUEROQ0JoOFROaXhnZThpNWZNZ3NEWlNCbS1Za0tvWDZFXzZQb1FNQ0lwcmptbExWOWFuRWhmSEtSUmdNWW1jTHc?oc=5",
+      "first_seen": "2026-09-04T17:00:51Z",
       "focus": [
         "目撃証言",
         "現場状況"
