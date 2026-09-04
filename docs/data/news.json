@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T04:00:22Z",
-  "updated_at_jst": "2026/09/04 13:00 JST",
+  "updated_at": "2026-09-04T04:30:18Z",
+  "updated_at_jst": "2026/09/04 13:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1214,
+  "article_count": 1216,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "yomiuri": 185,
+    "mainichi": 155,
     "kumanichi": 178,
     "nhk": 108,
-    "yomiuri": 184,
     "jiji": 190,
     "sankei": 192,
-    "mainichi": 154,
     "nikkei": 69,
     "asahi": 139
   },
@@ -78,9 +78,42 @@
   "category_counts": {
     "aeon": 939,
     "power": 131,
-    "paper": 161
+    "paper": 163
   },
   "items": [
+    {
+      "id": "3b3821559ff055d72af8",
+      "title": "日本製紙八代工場の煙突解体現場の火災、6時間半後に鎮火...実況見分は悪天候で延期して7日にも実施",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T04:14:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DUkdSNzVsYzltTlVtMjJ2TmtjUGdvNW1remtSQkVndU9xaWlnTzJBbzE5V3BSZ2NheXFsZWM5cmFzRDNudTAxY2cxRzcwNmRrNWVKb3NSdGFpWmh1U1ZRbzRQblJwRVZwcnl3UWpZQTZnUQ?oc=5",
+      "first_seen": "2026-09-04T04:30:18Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "5f1fd65be90a6e6aad2f",
+      "title": "日本製紙の火災 6時間半後鎮火 けが人なし 熊本・八代",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T04:03:33Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iMW5BV1d4eWFpbFZuMVpkaU9yZmI3aDgxY2NPM0haRnNVczh3dHE4bTh3ZWtyQ3FHVHh5V0stT09OUmVrYW5QTzZxeXJCaU5uNzhpVU45UGFUTk1PLUZaRVRvTnJPZldX?oc=5",
+      "first_seen": "2026-09-04T04:30:18Z",
+      "focus": [
+        "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "b4579b58c08bfce05990",
       "title": "<2026年熊本地震>日本製紙八代工場火災、鎮火 悪天候で実況見分は延期",
@@ -675,7 +708,7 @@
     },
     {
       "id": "80c8f7a21b93be3f7e2a",
-      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
+      "title": "日本製紙八代工場で火災=熊本地震で煙突倒壊",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
@@ -683,7 +716,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
-        "救助・安否",
         "目撃証言",
         "現場状況"
       ],
@@ -15409,7 +15441,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
