@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T10:00:55Z",
-  "updated_at_jst": "2026/09/04 19:00 JST",
+  "updated_at": "2026-09-04T11:00:45Z",
+  "updated_at_jst": "2026/09/04 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1218,
+  "article_count": 1219,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "asahi": 140,
     "kumanichi": 179,
     "mainichi": 156,
     "yomiuri": 185,
     "nhk": 108,
     "jiji": 190,
     "sankei": 192,
-    "nikkei": 69,
-    "asahi": 139
+    "nikkei": 69
   },
   "tracked_categories": [
     {
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 940,
     "power": 131,
-    "paper": 164
+    "paper": 165
   },
   "items": [
+    {
+      "id": "9ba3c820e4732aeaa2d5",
+      "title": "煙突の骨組み切断中に出火か 熊本地震で被害の日本製紙八代工場",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T10:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tODdCU0tCZ3Z5NGpHVkVFb0pzMW15SlJxMkY2YWZCWVhSYmJNRE5kVlBCWXdFalhqbnZ4dG9kVlNQeFJMckJUajNCQ0JhcHdmb09Md2RHWHRDdWZXTWZpTXVtQUhPcTQ?oc=5",
+      "first_seen": "2026-09-04T11:00:45Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "b4579b58c08bfce05990",
       "title": "2026年熊本地震>日本製紙八代工場火災、鎮火 鉄枠切断の火花原因か 実況見分は悪天候で延期",
@@ -1231,7 +1248,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVd4M1RJZlVsekduOHpmSjhCemtncXM3RU5DQWVKNXE3NGd1SW9WNGNfRmVocjZzRFdWTklMeTRsSVdQSG1PYnM3TnZ2NURQbVE1M2JDV3BoLVRNYm9hNTBndWt5SmQzdm82TGFaQjRoRUJjRWFLczNfaXB5N0tJM093?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUdzZXpZYUhxRUFVTU9ERW9hV0VRUEw0SUJTa2xOZDBRSG9RcVRPbnRnOS1TcVBLcWFJUGNMazVxSEVPVjg0M0lfcEk2aVI4MUROZU9tRzV1TW85OW91NkhXRTFlbUZVUEVHcGVOeEdhenRKVk9jSWFvSmU2ZHppZ0R3?oc=5",
       "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
       "category_ids": [
@@ -11675,7 +11692,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JNFFzaEc3RDEyVU9zMGdrd0FvT25fNXB2RDZNYnE0VDU2VDJ2RjJnd3VkWUpaSnhybXc1OGtpSHNDdHV3Wm54YklQSkpTcUZBcXp3Wg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSTZHOGNOZEdLb1ZZN05EYnZsWHBZbFdfaU9fUGFKMV9wZ2xsaVhualh1dFViMUNsNXhQcFdHYk4ycVprYlZHdmV0YkpacGFHRmdsNw?oc=5",
       "first_seen": "2026-07-30T14:30:14Z",
       "focus": [
         "救助・安否",
