@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T15:00:47Z",
-  "updated_at_jst": "2026/09/06 00:00 JST",
+  "updated_at": "2026-09-05T15:30:37Z",
+  "updated_at_jst": "2026/09/06 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1226,
@@ -1394,22 +1394,6 @@
       ]
     },
     {
-      "id": "01dd1e89dddf3bf25c0f",
-      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T12:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
-      "first_seen": "2026-08-28T12:30:18Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "191ac9628a8d5ecd3198",
       "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も 動画",
       "source": "朝日新聞",
@@ -1665,6 +1649,22 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
       "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "01dd1e89dddf3bf25c0f",
+      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW0zUWxfSUx6c2N2eFZGSDJXSHJjMkJ2RmdrTzNPdXBDQVVBX09wWldKWEtNWERIR0p4WUYwLS1VdkhVSmlpX01DSE1yM01DQnVHRGFFRVZhcnFsTXoxNjhCTGlTTElGMzEzUjVDTlIwdkFEU1JIZUlHODMyWWtBc0xR?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -15597,7 +15597,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -15906,7 +15906,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GeF9qa0xwQkJNeHF3ZlRIb3dtWVJHWEJIVjBqT3BWSlk2WXNjOVhnTGlKZU9OMHFNemJaaFY3Vlo2bFQ2Mjk1RWN2czMxS2x5Z0ZCYkhZTjBUYzJnbVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UmNyZ1phRkZoYzd6MTdmdjZoSVE4YkFvb3lVaUFfNmVGOFVybmZucWtmZkZGQWcyektTZ3ZpaDlqU0VqWlNWT1BnRVNSeGdDTk1pbmYtRW5ydkM5MUE?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "避難状況",
