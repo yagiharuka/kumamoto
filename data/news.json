@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T11:30:45Z",
-  "updated_at_jst": "2026/09/05 20:30 JST",
+  "updated_at": "2026-09-05T12:00:37Z",
+  "updated_at_jst": "2026/09/05 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1226,
@@ -2252,6 +2252,24 @@
       ]
     },
     {
+      "id": "22d8185278fddf227aad",
+      "title": "熊本地震で煙突が倒壊、日本製紙八代工場の復旧支援でふるさと納税CF...八代市が目標額2億円に設定",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-08-24T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdTM3VXM2clhBa3VqeW1IWnNqcFNRMHBnR1V2MENuVFhXWVFjZ013c3ZNVDNhQ1NOU0NJR3pwajFfMG82c0Ffa3NvX3FEMmhpdFNFUzZGNVAzbndyTzcwRmRYTDRYQndSdENBZm8weGJHUQ?oc=5",
+      "first_seen": "2026-08-24T00:30:37Z",
+      "focus": [
+        "目撃証言",
+        "現場状況",
+        "復旧情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "7a1fb5943f2b100ecd82",
       "title": "日本製紙八代工場の復旧を支援、市がふるさと納税を使ったクラウドファンディング実施...目標額2億円",
       "source": "読売新聞",
@@ -2312,24 +2330,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGUENDOW1IS1JoMUYyVkIxa2R5d1h1anhhVk1PSkR1TFhubXlFRGdCeHBMNHFFd2pmRFYwcUpPUkc5ci05bWxrblhwV1gzRkJVbFQtTGxETHRJbFpoaW00MEZTbjEybGNON1Y0Wg?oc=5",
       "first_seen": "2026-08-25T15:00:23Z",
       "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "22d8185278fddf227aad",
-      "title": "熊本地震で煙突が倒壊、日本製紙八代工場の復旧支援でふるさと納税CF...八代市が目標額2億円に設定",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-08-24T00:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdTM3VXM2clhBa3VqeW1IWnNqcFNRMHBnR1V2MENuVFhXWVFjZ013c3ZNVDNhQ1NOU0NJR3pwajFfMG82c0Ffa3NvX3FEMmhpdFNFUzZGNVAzbndyTzcwRmRYTDRYQndSdENBZm8weGJHUQ?oc=5",
-      "first_seen": "2026-08-24T00:30:37Z",
-      "focus": [
-        "目撃証言",
-        "現場状況",
-        "復旧情報"
-      ],
       "category_ids": [
         "paper"
       ]
@@ -14013,7 +14013,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjBENjlIVHJYV0dwOVhRVXlHLUJYbDlFWGR0TS01QnBIMzlVMkJqbnFfRXZhbVVTei0wRlBnSWdkbE5QTEV0czFfQ2JyUmlwc2FoWHdSblNibnFDcFNSckI5VXcyUWZjQzZQTURydm44aC1mclBsdVJ4MkkyU1NVUnRVYWNOMXZSZVlZalZYbDNiSWlyTm1Ic1ZvZzFKQU1JVUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3VfZGgtZi12NkhfUUJ5UzBsLXk1bU1KQXdCNXBWQjZWTFlscUR5LUotQmZtZDhnVEhyU0tPSXdJenVtZHJfLTU3M3VReUhYN3JYNkt3Z3RnUlhublBuSGR5OHE0YXN3cnY2TGF3M3RVMnJnLVd3WkdRUl9PMGNIdmVOYWt6YUc4a0lnYk1DVEwwc2xVazNoZmU3dGtXNjM1SEE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -15597,7 +15597,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
