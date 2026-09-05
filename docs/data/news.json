@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T19:00:45Z",
-  "updated_at_jst": "2026/09/06 04:00 JST",
+  "updated_at": "2026-09-05T19:30:37Z",
+  "updated_at_jst": "2026/09/06 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1226,
+  "article_count": 1227,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "kumanichi": 180,
-    "yomiuri": 189,
+    "yomiuri": 190,
     "asahi": 140,
     "mainichi": 157,
     "nhk": 108,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 942,
+    "aeon": 943,
     "power": 132,
     "paper": 169
   },
@@ -123,6 +123,23 @@
       "published_at": "2026-09-05T02:05:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydTl4a3EwaWpyem8tQ0pGUU5ZRE5DTzA1Rml1MzQyVmxxaUtwM3d4LVpLVVJOTVJyTW9IVllVUlNjcDRXVE1ieVFINnZmUXM1NlRjZEYxbkdONEctOWd1MWV4ZG1uaVA1X1N2V3ktajhQdw?oc=5",
       "first_seen": "2026-09-05T02:30:36Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "fe3ae85bf25c24fb0116",
+      "title": "イオン爆発、雑貨店側が遺族に事実と異なる説明「従業員が荷物を取りに帰りたいと希望した」...「保身と動揺」と謝罪",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T01:21:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUGhCOGtSLXF1cjB4MkxmZjNONWN6WHA3anJoWTl3RzFTWlVBSmlUeGhIS09NSVctN1NhWGEzM2FLb01kS1luTVlKVXVvUlR1ZTRyTjM3cndySlF5bGZtMFlGRUlUZw?oc=5",
+      "first_seen": "2026-09-05T19:30:37Z",
       "focus": [
         "避難状況",
         "現場状況"
