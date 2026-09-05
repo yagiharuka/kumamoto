@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T02:00:33Z",
-  "updated_at_jst": "2026/09/05 11:00 JST",
+  "updated_at": "2026-09-05T02:30:36Z",
+  "updated_at_jst": "2026/09/05 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1224,
+  "article_count": 1225,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 188,
+    "yomiuri": 189,
     "asahi": 140,
     "kumanichi": 179,
     "mainichi": 157,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 941,
+    "aeon": 942,
     "power": 131,
     "paper": 169
   },
   "items": [
+    {
+      "id": "7c902a0d2463df28a46b",
+      "title": "イオンモール熊本爆発、雑貨店側が従業員の遺族に事実と異なる説明...「保身と動揺によるもの」謝罪",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T02:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydTl4a3EwaWpyem8tQ0pGUU5ZRE5DTzA1Rml1MzQyVmxxaUtwM3d4LVpLVVJOTVJyTW9IVllVUlNjcDRXVE1ieVFINnZmUXM1NlRjZEYxbkdONEctOWd1MWV4ZG1uaVA1X1N2V3ktajhQdw?oc=5",
+      "first_seen": "2026-09-05T02:30:36Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "4a6c3d1cbb7fb5264bd8",
       "title": "イオンモール熊本爆発、雑貨店側が従業員の遺族に事実と異なる説明...「保身と動揺によるもの」釈明し謝罪",
@@ -11609,7 +11626,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EXzg3TW5fTGN0OU80U3d2LW00aVF0WFZnWmVaSVhjSnlEdnVzcW9qSko3OGNoTWRXVENtay1Pc3o1dDlHTVdNZW5kcERqSGhpUTgxNl9oWG9MUzFQSHh6dV9zVnJNc1lldlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -19407,7 +19424,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JQ1Vlbng2dkVsdEdiUmQybVQ5Zk1RRU1BcVcwVGN0TUlLdzZ1X19YX1JRbUhJcU1yTXlPbXhmOFo5M19lc1BrYWZQOFExVGxIdGJFMGtxWE5xajRfcVNkTkx5WENVQm5UajVIWnpR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybWRXZkMteWh5SFc3QjZncWlWd2JWakpHYi1ROFkxbkJOOUVUNGdZUjE0c0VPWmVweHVjRjNaZFVrZ2pIRmpTUWNyUGR5U0N5SUo4THI0MExwbTFRclQ0OWZ5T1FKSDVKYWVNbUZB?oc=5",
       "first_seen": "2026-08-10T08:00:41Z",
       "focus": [
         "原因・検証",
