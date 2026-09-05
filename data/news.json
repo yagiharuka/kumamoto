@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T04:30:35Z",
-  "updated_at_jst": "2026/09/05 13:30 JST",
+  "updated_at": "2026-09-05T05:00:51Z",
+  "updated_at_jst": "2026/09/05 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1226,
@@ -572,6 +572,23 @@
       ]
     },
     {
+      "id": "5fe36d541ae675a8c742",
+      "title": "日本製紙八代工場の煙突火災、地元住民「ショック」 熊本地震で損傷 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T13:44:00Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV21LLXB4MnJ1N3FGNFlSYlgxbjVLOUtlWlhRUWMxd1dpVEhWQlpGQ2pzNTFtRFJ3VzFuYVNfOWItZkptSkZFV2ZiRlc2ekpzdExyc1pfV0NncVVXLWRSUHAzejZQeVJTZTFqZ1NJRnpZWkxuUmlHN05TNWpPa2ZrZWRYMFhwNm1LVkNCUGpXTHM?oc=5",
+      "first_seen": "2026-09-03T13:30:30Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "6079552af01d9ed2b0f5",
       "title": "日本製紙八代工場の火事 ほぼ消し止められる けが人などなし",
       "source": "NHK",
@@ -582,6 +599,24 @@
       "first_seen": "2026-09-03T14:00:23Z",
       "focus": [
         "救助・安否"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "54b757f1dc0e97a4f094",
+      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T13:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WS08xTjZ0SXVBUlFQVVpyY1J4MjNhSVpubC1qMHNTM05YY1dtOGJvR0hYMy0zVHlNVXVKbnZoN1dUVnExZkZ2eFdSSjB0ZWwxQjhPdzJlc2FXVlUyVGc?oc=5",
+      "first_seen": "2026-09-04T22:30:34Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
@@ -658,23 +693,6 @@
       ]
     },
     {
-      "id": "5fe36d541ae675a8c742",
-      "title": "日本製紙八代工場の煙突火災、地元住民「ショック」 熊本地震で損傷 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T11:57:03Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVVMbHl4UVlTMEFOMXBtVDJaTlZEVmRKZThfckFSaHNIemdoelJUbjJ5RG45UlU5V29CaDRLTXdIM2M5RFViSzFqRk9nUm03SlpISGhiVjV0ZkJ2Z1Rab3VENDUtYU9ZclVNbldiQjB0WHl4LVFQcm94clRtZzJjSlVIN0RtNlQ5NnZXX1BR?oc=5",
-      "first_seen": "2026-09-03T13:30:30Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "f1b7a798fa74344c9245",
       "title": "<2026年熊本地震・動画あり>日本製紙八代工場で解体中の煙突から出火 八代市",
       "source": "熊本日日新聞",
@@ -719,24 +737,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeTJrRjlPdzVKUzFXMlkxTG40V0Rtcl9sdWludFk0dEJ6R3UxWUZJai01Y01LbHN4NUo4ekoyNEFkUUtKQnpQYVgxSXZSN0daeHpRcEE2Z1VMazVRVElNNkFweDh0dndxY3R3R1JpUXJsRksxdDJ2dVowMFlrWVpwMlVn?oc=5",
       "first_seen": "2026-09-04T03:00:23Z",
       "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "54b757f1dc0e97a4f094",
-      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T10:41:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WS08xTjZ0SXVBUlFQVVpyY1J4MjNhSVpubC1qMHNTM05YY1dtOGJvR0hYMy0zVHlNVXVKbnZoN1dUVnExZkZ2eFdSSjB0ZWwxQjhPdzJlc2FXVlUyVGc?oc=5",
-      "first_seen": "2026-09-04T22:30:34Z",
-      "focus": [
-        "救助・安否",
         "目撃証言",
         "現場状況"
       ],
@@ -3282,6 +3282,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5b28644ac6720e90ce6",
+      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-14T13:50:21Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5",
+      "first_seen": "2026-08-14T21:01:15Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -10068,20 +10082,6 @@
       ]
     },
     {
-      "id": "c5b28644ac6720e90ce6",
-      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:52Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSXJLRW9ZZzdxaE5sR0FkYUNteFVIVWtmdnJIU2hQMjlrOGxlN3VRZ0kzRGdoMVFWRUFPbGJSV2NSZDR3Q0hpZWZlUW1HQXdTMkhSeTZfaDJxTUhiZmQ5YUQ3UXB0S3NCaW1OSHIwTQ?oc=5",
-      "first_seen": "2026-08-14T21:01:15Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "669d3b76b20ca335c175",
       "title": "路上のがれき 「イオンモール熊本」の...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -15545,23 +15545,6 @@
       ]
     },
     {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1b646655783a6e3ad564",
       "title": "余震、夜通しの救出活動 イオン、親族が中に「会いに行く」 熊本地震",
       "source": "朝日新聞",
@@ -15614,7 +15597,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -19391,6 +19374,23 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13X2JEcTFqdENOR1RRUHBqQ3VpalJsNTRuNDZwTjlleUZ6MlZweF9idE1iQjhYaHA5VHdNbDh0d2tsTTdLMGJnamdSeWdWejlOLWJfc0dvVTZIUmZvVzVyNUVial9XSGM?oc=5",
       "first_seen": "2026-07-28T13:46:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1lyOXloeGVucTlqeUx0WkhlWG9HajVhUXZIUExrdDZxVWlQM1JpU1BvUUFXX3Q4dkdwTUo3Y2piblROVWhyUG9QYV81ejd3QnFERVFicmlsQVNZWktYS0dueE4tV3lUOE9OYkh3VGxxLWZ4Q2QxbDBpSzU3c203X19HeHotV3k3cjgtOTJn?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
         "現場状況"
