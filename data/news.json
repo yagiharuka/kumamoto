@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T18:01:01Z",
-  "updated_at_jst": "2026/09/06 03:01 JST",
+  "updated_at": "2026-09-05T18:30:35Z",
+  "updated_at_jst": "2026/09/06 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1226,
@@ -1629,9 +1629,25 @@
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-08-28T07:00:00Z",
+      "published_at": "2026-08-28T07:20:28Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GXzQ2bnZ6UktpbkJVTmVUQlJuRTltZlByRk80YkoxQVVHRVcyWDU4TFllT1M4MENha28yX3RXSVNrREh0SV9iM3lJRmtFUWVXdTlLLXc2aFdxaVdYUmw5SXVDZEZxYVdi?oc=5",
       "first_seen": "2026-08-28T07:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "f46d731cd9de2136d61f",
+      "title": "イオン爆発に巻きこまれた妹、顔をさする母 兄「受け入れられない」 [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ydXBVbThpcDZwcHBkclZFYi1Dd1MzQ2JhUUtEMjZpVmpFU1Bxa0xGaGxRekwzby1sZ0g1ZGI1S0xISnRmN01kTkM0aEpBRFpINk5LNElvSllOMTdkUkFFLVkxdjZraVE?oc=5",
+      "first_seen": "2026-08-27T20:30:21Z",
       "focus": [
         "現場状況"
       ],
@@ -1714,22 +1730,6 @@
       ]
     },
     {
-      "id": "f46d731cd9de2136d61f",
-      "title": "イオン爆発に巻きこまれた妹、顔をさする母 兄「受け入れられない」 [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ydXBVbThpcDZwcHBkclZFYi1Dd1MzQ2JhUUtEMjZpVmpFU1Bxa0xGaGxRekwzby1sZ0g1ZGI1S0xISnRmN01kTkM0aEpBRFpINk5LNElvSllOMTdkUkFFLVkxdjZraVE?oc=5",
-      "first_seen": "2026-08-27T20:30:21Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "558bed3c5034e4bd2064",
       "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1738,22 +1738,6 @@
       "published_at": "2026-08-27T20:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMDZ1U2pOWHhXU0JZa3I3Nko3Ny1aa0xZaUVnbTFnTExRQ19rZy1sdU42RW5sQ3c0R1NCcjFBaHVEY0hfbGxmWW9RcGNWckc5cWNLX29Qa1k1RTZuWC1TRi1pU29WM00?oc=5",
       "first_seen": "2026-08-27T20:30:21Z",
-      "focus": [
-        "避難状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "b32ff1f54b63cb558b2a",
-      "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdTlKWEZ0UXc2amVaeHZMMmozSTNsbkM3ZEJPaUVUaWdHaTQzcTVab1lNNWM4Mlg4cERjcXZHYlJ0Z3JwWDFkSHZsN2VXOXZiV05rSHkxdHNfRktESHRUTFp1cTBQVUtIbkt4YjNB?oc=5",
-      "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "避難状況"
       ],
@@ -1789,6 +1773,22 @@
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "b32ff1f54b63cb558b2a",
+      "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-27T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdTlKWEZ0UXc2amVaeHZMMmozSTNsbkM3ZEJPaUVUaWdHaTQzcTVab1lNNWM4Mlg4cERjcXZHYlJ0Z3JwWDFkSHZsN2VXOXZiV05rSHkxdHNfRktESHRUTFp1cTBQVUtIbkt4YjNB?oc=5",
+      "first_seen": "2026-08-28T00:00:19Z",
+      "focus": [
+        "避難状況"
       ],
       "category_ids": [
         "aeon"
@@ -15597,7 +15597,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -15629,7 +15629,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTU9NbFBVTVQ3ZC1saHU2aXBoeUF4UDJuTGtma2FxdlYwSEk0TGNlTjdLMHQxUGp2UXludVRpUmdVeW8yUl82amNEbnAzd0lZamg2Q1ctUDFlcVdiWVpTV0pXcEpjU3FGVXlDYktR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
