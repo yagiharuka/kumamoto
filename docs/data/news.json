@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T11:00:34Z",
-  "updated_at_jst": "2026/09/05 20:00 JST",
+  "updated_at": "2026-09-05T11:30:45Z",
+  "updated_at_jst": "2026/09/05 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1226,
@@ -1361,20 +1361,6 @@
       ]
     },
     {
-      "id": "e688ba086b3ef88b44b4",
-      "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
-      "first_seen": "2026-08-28T11:30:21Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e5d2a7f30969ffe78ef0",
       "title": "イオンモール熊本の献花台を訪れる爆発事故の遺族ら=28日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -1665,6 +1651,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e688ba086b3ef88b44b4",
+      "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
+      "first_seen": "2026-08-28T11:30:21Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -14013,7 +14013,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3VfZGgtZi12NkhfUUJ5UzBsLXk1bU1KQXdCNXBWQjZWTFlscUR5LUotQmZtZDhnVEhyU0tPSXdJenVtZHJfLTU3M3VReUhYN3JYNkt3Z3RnUlhublBuSGR5OHE0YXN3cnY2TGF3M3RVMnJnLVd3WkdRUl9PMGNIdmVOYWt6YUc4a0lnYk1DVEwwc2xVazNoZmU3dGtXNjM1SEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjBENjlIVHJYV0dwOVhRVXlHLUJYbDlFWGR0TS01QnBIMzlVMkJqbnFfRXZhbVVTei0wRlBnSWdkbE5QTEV0czFfQ2JyUmlwc2FoWHdSblNibnFDcFNSckI5VXcyUWZjQzZQTURydm44aC1mclBsdVJ4MkkyU1NVUnRVYWNOMXZSZVlZalZYbDNiSWlyTm1Ic1ZvZzFKQU1JVUE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -15597,7 +15597,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUdoYmpRT29MZkpibXlYRjBoSzJWTDNCZEp0S1c2d1l4cXg4bDFqRkV1U3MwejZiejFWdzNEaFIxeXRCWWlPV0FGVDllSEFkVnJINy1OcHp6SUlkVG5HazF2LTRZQS1wQmw4ck9zaWRydDIzZEFONHJiNHNmRGw1YnFiUXQ1YXE4NHFWWmlqX1A?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
