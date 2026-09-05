@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T00:30:34Z",
-  "updated_at_jst": "2026/09/05 09:30 JST",
+  "updated_at": "2026-09-05T01:00:50Z",
+  "updated_at_jst": "2026/09/05 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1222,
+  "article_count": 1224,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 186,
+    "yomiuri": 188,
     "asahi": 140,
     "kumanichi": 179,
     "mainichi": 157,
@@ -76,11 +76,45 @@
     }
   ],
   "category_counts": {
-    "aeon": 940,
+    "aeon": 941,
     "power": 131,
-    "paper": 168
+    "paper": 169
   },
   "items": [
+    {
+      "id": "4a6c3d1cbb7fb5264bd8",
+      "title": "イオンモール熊本爆発、雑貨店側が従業員の遺族に事実と異なる説明...「保身と動揺によるもの」釈明し謝罪",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T00:50:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMEdVSE9YUzJ0aW5pZ0RBRWJIcVc5SnNfSVl4X1lZb2ctSS1UdGVYMkNHZ2UxSHVBYnFGdl9jM2dLZlUta0hwbGNLaUhZdkFlQWlMaFJmc2xZRjdCRUhNZml2eE1XcVdaUndod1ZaRDFTdw?oc=5",
+      "first_seen": "2026-09-05T01:00:50Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "32df0d4d508f36cad568",
+      "title": "日本製紙八代工場火災、煙突を囲う支柱を切断中に出火...熊本県警八代署と消防は7日にも実況見分",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T00:48:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rMHFWdmpSWWRodkV1eWdUR2llM1hGdGpoS2JRNm94UUdac2ZnVGlUMUZwemZVdHZXaFRWZ0JSa3BRc3VaOFE1d0lrNkdzOWxOY2ZCZHBja1BzUmdQTXBpMkJJY0tfMV9yc0FYdENqbWxqZw?oc=5",
+      "first_seen": "2026-09-05T01:00:50Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "711f1085645b7734ac72",
       "title": "煙突解体中に火災発生の日本製紙八代工場、6時間半後に鎮火...支柱切断中に出火",
@@ -3214,20 +3248,6 @@
         "原因・検証",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5b28644ac6720e90ce6",
-      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-14T13:50:21Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5",
-      "first_seen": "2026-08-14T21:01:15Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -10014,6 +10034,20 @@
       ]
     },
     {
+      "id": "c5b28644ac6720e90ce6",
+      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T20:47:52Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSXJLRW9ZZzdxaE5sR0FkYUNteFVIVWtmdnJIU2hQMjlrOGxlN3VRZ0kzRGdoMVFWRUFPbGJSV2NSZDR3Q0hpZWZlUW1HQXdTMkhSeTZfaDJxTUhiZmQ5YUQ3UXB0S3NCaW1OSHIwTQ?oc=5",
+      "first_seen": "2026-08-14T21:01:15Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "669d3b76b20ca335c175",
       "title": "路上のがれき 「イオンモール熊本」の...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -11660,7 +11694,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVhNVm1DM0RTSTE2ZGZiU2hMVXIxcEJXYnJKTjhtdTVOVndkNmwwYTFwSmt4c0JKd0JNM1U2dV9TMFppb1BFeHV1RlVpaGJMQUk0cldUVmRLcWdmVHc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
