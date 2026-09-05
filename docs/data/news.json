@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T03:00:35Z",
-  "updated_at_jst": "2026/09/05 12:00 JST",
+  "updated_at": "2026-09-05T03:30:34Z",
+  "updated_at_jst": "2026/09/05 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1225,
@@ -164,6 +164,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "280365eedcc5d9407851",
+      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-04T08:58:05Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
+      "first_seen": "2026-08-31T14:01:03Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -827,23 +844,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "280365eedcc5d9407851",
-      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T10:06:36Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
-      "first_seen": "2026-08-31T14:01:03Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -3266,6 +3266,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5b28644ac6720e90ce6",
+      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-14T13:50:21Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5",
+      "first_seen": "2026-08-14T21:01:15Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -8633,7 +8647,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWX3kwckpnOTJHZWhOWjhtQktvWjh3MUJzb3lWTFlZelRuZVVNVE1hcTJpRE5NYzh6OXJYd3FwQm5SZm1sQ014VXN3SF9pdHNsMlc5VURfcnB2bXFuVEJkVENDT2xTZWVkWlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Za1JFQ1U1YmtSZ1JxRVU4VDNXX3llSnlEMVkwamVJUDFKWVQyeEhTWlJsSGNiTllwbUtDRENHVV80SkFLaFFFVG4zTlhKV25LOW5mZW1DVms0S2JOd01ZV0ViclV4U0YxelE?oc=5",
       "first_seen": "2026-08-21T21:00:15Z",
       "focus": [
         "避難状況",
@@ -10046,20 +10060,6 @@
       "published_at": "2026-07-30T20:47:52Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03QkNWTnExX3JoMmxVSDZ5a0Z2YXAwdkpMalRQczdLcE81SkdISWhXN3AzMS1aRkNRZ2dJaENlenNXWFE2UzQ1UGlVQmJTVzVwUWxtZ2lMMUFFN2swYXRrYWp0ajVJRGJMTnFrZWV3OA?oc=5",
       "first_seen": "2026-07-30T23:31:01Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5b28644ac6720e90ce6",
-      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:52Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSXJLRW9ZZzdxaE5sR0FkYUNteFVIVWtmdnJIU2hQMjlrOGxlN3VRZ0kzRGdoMVFWRUFPbGJSV2NSZDR3Q0hpZWZlUW1HQXdTMkhSeTZfaDJxTUhiZmQ5YUQ3UXB0S3NCaW1OSHIwTQ?oc=5",
-      "first_seen": "2026-08-14T21:01:15Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -11712,7 +11712,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVhNVm1DM0RTSTE2ZGZiU2hMVXIxcEJXYnJKTjhtdTVOVndkNmwwYTFwSmt4c0JKd0JNM1U2dV9TMFppb1BFeHV1RlVpaGJMQUk0cldUVmRLcWdmVHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
