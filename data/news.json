@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T01:30:31Z",
-  "updated_at_jst": "2026/09/06 10:30 JST",
+  "updated_at": "2026-09-06T02:00:39Z",
+  "updated_at_jst": "2026/09/06 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1229,
@@ -640,6 +640,24 @@
       ]
     },
     {
+      "id": "80c8f7a21b93be3f7e2a",
+      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T13:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "29081465ce7d0f28882f",
       "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
       "source": "時事通信",
@@ -887,23 +905,6 @@
       "source_group": "全国紙",
       "published_at": "2026-09-03T10:06:34Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ1pKRmYydkZqWXZiSVVJZ0RpNmtkWXdNYUt3ZjZNM2ZmcVZvaWM3dmhvT0xfZ1hKTW5YeklOMVZZRlNCWUsyWVNjSldSTXpTZWh1Z09ocjRNVm1kWGtSOFFXODBTMWdLQUw1Yg?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "80c8f7a21b93be3f7e2a",
-      "title": "日本製紙八代工場で火災=熊本地震で煙突倒壊",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T10:02:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "目撃証言",
@@ -1690,6 +1691,22 @@
       ]
     },
     {
+      "id": "558bed3c5034e4bd2064",
+      "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県] [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMDZ1U2pOWHhXU0JZa3I3Nko3Ny1aa0xZaUVnbTFnTExRQ19rZy1sdU42RW5sQ3c0R1NCcjFBaHVEY0hfbGxmWW9RcGNWckc5cWNLX29Qa1k1RTZuWC1TRi1pU29WM00?oc=5",
+      "first_seen": "2026-08-27T20:30:21Z",
+      "focus": [
+        "避難状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e688ba086b3ef88b44b4",
       "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
       "source": "時事通信",
@@ -1759,22 +1776,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZWpxTng0R0NnYy1rT1llR3UyTUZISEJwUy1IRXRRSjRWY0RGWGxmamhIUGhERHNpVnB0aHk2eGlYajdEQnFYMkxNT1JCQUp0X0JYcG1rX3ZjVnJmeW9TQTd3Rjh1M09n?oc=5",
       "first_seen": "2026-08-27T20:30:21Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "558bed3c5034e4bd2064",
-      "title": "「防災拠点」避難か安全確認か 新たなリスクに悩む自治体・イオン [熊本県] [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-27T20:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMDZ1U2pOWHhXU0JZa3I3Nko3Ny1aa0xZaUVnbTFnTExRQ19rZy1sdU42RW5sQ3c0R1NCcjFBaHVEY0hfbGxmWW9RcGNWckc5cWNLX29Qa1k1RTZuWC1TRi1pU29WM00?oc=5",
-      "first_seen": "2026-08-27T20:30:21Z",
-      "focus": [
-        "避難状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -4227,7 +4228,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUN1ekZhNVFRbEtrT0VJRnRaVFM0bl9ZT2VpSFJIb3A4UFhzaGREb3Ixc3Vsd211anVlaHlLSVZ6U0doOEJ1VVhWT0JOQjFyNDlIekxMQ2daX0dHNGRxQzg4VXh4eDVvenZ3ZF9oOTRtYXllWE80dnhxWjZDbkFsR1Rn?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -11915,7 +11916,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZXpTZV8xemhSR2sydUtJcWpjS0xJMzZJNkpST2R6TzRObUtOWk5CcUU2ZHYydTFnZHFubm5NZTJkNXdtYURwaHdRWW5aM3EyTEhaVU9veldFcWlnX2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yR0NaajZPWV95MFJpdVZFTzBhRFlROERjZFZ5cWcwcUtoeHVkYnpta3JhVi03QkFpT3JWY0RBYTQxT2gyVFhsVURkN3ZsUm10YlhzQw?oc=5",
       "first_seen": "2026-07-31T18:00:53Z",
       "focus": [
         "救助・安否",
