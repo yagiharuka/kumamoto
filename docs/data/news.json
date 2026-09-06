@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T12:00:42Z",
-  "updated_at_jst": "2026/09/06 21:00 JST",
+  "updated_at": "2026-09-06T12:30:37Z",
+  "updated_at_jst": "2026/09/06 21:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1230,
@@ -12841,20 +12841,6 @@
       ]
     },
     {
-      "id": "55188cd49fab0c598e80",
-      "title": "【動画】イオンモール熊本ドローン映像を公開 防衛省",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T09:54:45Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LcWw2bzE1bFlqTEdYenlVdXRtZzlpMlBYcWdCRkZJRTRYSUJLRUtCU0VTUFQxckUtRVhZQUI4aXN4MnA2MDNCOFc1RGV1ekU?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "68cb5fd9a4373a8f5636",
       "title": "イオンモールのガス設備を一斉点検 (共同通信)",
       "source": "熊本日日新聞",
@@ -16310,6 +16296,20 @@
       "focus": [
         "救助・安否"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "55188cd49fab0c598e80",
+      "title": "【動画】イオンモール熊本ドローン映像を公開 防衛省",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LcWw2bzE1bFlqTEdYenlVdXRtZzlpMlBYcWdCRkZJRTRYSUJLRUtCU0VTUFQxckUtRVhZQUI4aXN4MnA2MDNCOFc1RGV1ekU?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
