@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T18:00:33Z",
-  "updated_at_jst": "2026/09/07 03:00 JST",
+  "updated_at": "2026-09-06T18:30:42Z",
+  "updated_at_jst": "2026/09/07 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1230,
+  "article_count": 1231,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "kumanichi": 180,
     "yomiuri": 190,
-    "asahi": 142,
+    "asahi": 143,
     "mainichi": 158,
     "nhk": 108,
     "jiji": 191,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 945,
+    "aeon": 946,
     "power": 132,
     "paper": 170
   },
@@ -7593,7 +7593,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTllYRTY3cHVsWllGLWppMWNrQTcxdkU2alVHMTM0bVZGbUxKZFB2SmZIMkxUemJlTk5tcUhVS1R6amZnZ3FPTWR6QVVYRDdYUHVYeDh0OHlISGlydHphNnFlT0swVmN0cUJsSzVudWhMOXNIYzBBUTYzXy0tQ1Y0RFdyb3NJcW9KblFhZVln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
@@ -7964,8 +7964,8 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
-      "first_seen": "2026-08-03T02:31:06Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMG9NeGNlYUljU3hCX2U4UHJVbXJPbjN5N1YzMUotVGVNMnhqZFhxeDUyc3RtdVJJOGpQSUdyY0RNQlU2bmpJdjdXYm9ONTktMWZCSVlGRlNtekxMVHdCbWtWN3A2ajJpRHFiQnJtMXNJY3kxNXF1X29NWUVpT1JhTHZBQkhwRkhOZm1xTG83cU1fQkNOb1BxU1JzRWVBZXNDQVdPVQ?oc=5",
+      "first_seen": "2026-08-02T23:01:06Z",
       "focus": [
         "現場状況"
       ],
@@ -7980,8 +7980,8 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
-      "first_seen": "2026-08-02T23:01:06Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
+      "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
         "現場状況"
       ],
@@ -15693,6 +15693,22 @@
       ]
     },
     {
+      "id": "e3d573aff93510042c8f",
+      "title": "イオンモール熊本の爆発、社長らが初の会見 「深く深くおわび」",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzBWWjhlRXBzbXhHOURwa1Zqb1duc1hxdzdKeXl0dDV5bEhrTk00S2NxeTlMLXN3Q215NFlqYmMwYVk1cl9WYmI5dHBwaXRUVjhHTmx1dnBJSlNPWTJXNm5HUVBsWGdqUmN1UTBfcHltakVaUWtvVWJfeGlIYkdISlVUZ2VIVEs2Nm5TUVVWRkdIUQ?oc=5",
+      "first_seen": "2026-09-06T18:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "a86c011511518520dda7",
       "title": "イオンモールで夜通し続いた救助活動 「会いに行く」涙見せる人も [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -19458,7 +19474,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnIxTzN6VEdZRUNKajR5V01reFMwTVNzNDJJdDdmMkg4RXFjenNMcVMzM2t0RW1PUGJval9UQzliSnAxMVBHczMzdVBFTVU1WDd0NDVoYy1zeHRqekhDOW1sZWFmRjR5MmNyeTFtY0tRVkRTZjUxSFBfVGx5aWYwRUplRl93SndKVjA5bkFwbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEdrTTBGeEFGbUR5N1U1bzJWdDRXM0ZqX2NJUnlWMnVQRTJYdlBsTXV4RzNXbkZvdnRkYWZJUGJqRXpIVGttTlh4UzNIZmZVN2FGQTdnYUZ0TE1yVlk5MUZVemR2R01YMjhRZm82eVY1NFRsQXNhdWl5b1ozQ2NGdUFYOUd1M0ZOcTliTFBR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
