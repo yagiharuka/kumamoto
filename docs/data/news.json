@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T14:30:43Z",
-  "updated_at_jst": "2026/09/06 23:30 JST",
+  "updated_at": "2026-09-06T15:00:48Z",
+  "updated_at_jst": "2026/09/07 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1230,
@@ -657,24 +657,6 @@
       ]
     },
     {
-      "id": "80c8f7a21b93be3f7e2a",
-      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T13:08:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "29081465ce7d0f28882f",
       "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
       "source": "時事通信",
@@ -907,6 +889,24 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWG5ZX2ZhSllwLTA1ODVCMnhTYTJtQkFPRTlycXBMSjBEV0FlS3lDT2tNOGFPMUV4bjl2SWdvbnVraGs4a2ZJT01hZUNRVTQ0ZVRGTUlkNnlrdUtubEllaVotc2hJM2pUVHNralVzQnRCaTlPQWc?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "80c8f7a21b93be3f7e2a",
+      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T10:07:17Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "救助・安否",
         "目撃証言",
         "現場状況"
       ],
@@ -10685,7 +10685,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
