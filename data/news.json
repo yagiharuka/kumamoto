@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T14:00:48Z",
-  "updated_at_jst": "2026/09/06 23:00 JST",
+  "updated_at": "2026-09-06T14:30:43Z",
+  "updated_at_jst": "2026/09/06 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1230,
@@ -1744,7 +1744,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW0zUWxfSUx6c2N2eFZGSDJXSHJjMkJ2RmdrTzNPdXBDQVVBX09wWldKWEtNWERIR0p4WUYwLS1VdkhVSmlpX01DSE1yM01DQnVHRGFFRVZhcnFsTXoxNjhCTGlTTElGMzEzUjVDTlIwdkFEU1JIZUlHODMyWWtBc0xR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -4245,7 +4245,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:17:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUN1ekZhNVFRbEtrT0VJRnRaVFM0bl9ZT2VpSFJIb3A4UFhzaGREb3Ixc3Vsd211anVlaHlLSVZ6U0doOEJ1VVhWT0JOQjFyNDlIekxMQ2daX0dHNGRxQzg4VXh4eDVvenZ3ZF9oOTRtYXllWE80dnhxWjZDbkFsR1Rn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHZ3TVlLNWhMQjRFMTdGOHptTk4zaFNwUG9JWE5TX0hKNjhRbUVqZWhyaVB4OTFuWE4xdDVST1ZMSHIyNkg0Z3pocFAxWFRZYUppcTExRFN1bDRmV1ZhcXJQeTdRalVZS09XMmozdlJobWtEN1ljc2ItTnZLbG5QV0pR?oc=5",
       "first_seen": "2026-08-11T07:30:42Z",
       "focus": [],
       "category_ids": [
@@ -12789,23 +12789,6 @@
       ]
     },
     {
-      "id": "40bcb110421c53ffefd3",
-      "title": "イオン爆発事故の原因究明へ=ガス引火の可能性で経産省―熊本震度7",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T10:28:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53YUNGZ3BvdjJ2Z3NaY21RWnphWGFXcy13YjgzTkxRZy11VW9FT2g2bVJkOEtNazgxVHdLRkRGdS10eEtSSkF0Q3B1aldGZkFza0x0Zw?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "13c4466de0a6fc0be19e",
       "title": "【速報中】熊本地震、煙突倒壊の日本製紙八代工場で5人死亡...イオンモールでは3人が安否不明",
       "source": "読売新聞",
@@ -16170,6 +16153,23 @@
       "first_seen": "2026-07-29T13:00:18Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "40bcb110421c53ffefd3",
+      "title": "イオン爆発事故の原因究明へ=ガス引火の可能性で経産省―熊本震度7",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53YUNGZ3BvdjJ2Z3NaY21RWnphWGFXcy13YjgzTkxRZy11VW9FT2g2bVJkOEtNazgxVHdLRkRGdS10eEtSSkF0Q3B1aldGZkFza0x0Zw?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
