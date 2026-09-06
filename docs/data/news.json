@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T22:00:31Z",
-  "updated_at_jst": "2026/09/07 07:00 JST",
+  "updated_at": "2026-09-06T22:30:41Z",
+  "updated_at_jst": "2026/09/07 07:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1233,
+  "article_count": 1234,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 193,
+    "sankei": 194,
     "asahi": 144,
     "kumanichi": 180,
     "yomiuri": 190,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 947,
+    "aeon": 948,
     "power": 132,
     "paper": 171
   },
@@ -87,7 +87,7 @@
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-09-06T20:52:18Z",
+      "published_at": "2026-09-06T22:10:55Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
       "first_seen": "2026-09-06T21:00:35Z",
       "focus": [
@@ -96,6 +96,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "057bcc1e8702092d17f0",
+      "title": "爆発事故で再開見えぬイオンモール熊本 人口1万人の街に打撃を与えた「一強依存の構造」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-06T22:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DNjM2WlRxbXpCNE9FRU9abldUc0JYUzBaSFpaNWFGNTYzNDBrMW01aEVYc3FDaWFQX0w2d1YyN2sydXFCSmhZUlNwRWFPaDVZWlljMWpKcVpmR3dta1hMYi16TF9QazY2dlp0NjlzZGlVV0QzRGc?oc=5",
+      "first_seen": "2026-09-06T22:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -1777,7 +1793,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW0zUWxfSUx6c2N2eFZGSDJXSHJjMkJ2RmdrTzNPdXBDQVVBX09wWldKWEtNWERIR0p4WUYwLS1VdkhVSmlpX01DSE1yM01DQnVHRGFFRVZhcnFsTXoxNjhCTGlTTElGMzEzUjVDTlIwdkFEU1JIZUlHODMyWWtBc0xR?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -1793,7 +1809,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T06:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
