@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T16:30:34Z",
-  "updated_at_jst": "2026/09/07 01:30 JST",
+  "updated_at": "2026-09-06T17:00:40Z",
+  "updated_at_jst": "2026/09/07 02:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1230,
@@ -3334,6 +3334,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5b28644ac6720e90ce6",
+      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-14T13:50:21Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5",
+      "first_seen": "2026-08-14T21:01:15Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -9528,7 +9542,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdDgxX0MtT1pBRnpseGpTWnBsUk1NdE9CcmM5THpZdnMxeWgzdy10d05SLW56UXRpQTAtQjI5Vkxac3NGVkxQbXRwdFQ5LWVQMHJldHlsY3ljTEw5eWM4RkRoWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaS1lT1doTW1nRVhHelF6RjU4ZWE0WTNHOTVWSkh6M0laY1B1c0wzS2lwTDVTUXVicE85bzdscnNvR09uRG45aW8wTUV2cGpGOUIweGM2UG9aZTluamFDUXA2VXJQamtKVURCX3R6QmFMb192MXR0YUN3bUdSYnlZYg?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
@@ -10131,20 +10145,6 @@
       "published_at": "2026-07-30T20:47:52Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03QkNWTnExX3JoMmxVSDZ5a0Z2YXAwdkpMalRQczdLcE81SkdISWhXN3AzMS1aRkNRZ2dJaENlenNXWFE2UzQ1UGlVQmJTVzVwUWxtZ2lMMUFFN2swYXRrYWp0ajVJRGJMTnFrZWV3OA?oc=5",
       "first_seen": "2026-07-30T23:31:01Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c5b28644ac6720e90ce6",
-      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:52Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSXJLRW9ZZzdxaE5sR0FkYUNteFVIVWtmdnJIU2hQMjlrOGxlN3VRZ0kzRGdoMVFWRUFPbGJSV2NSZDR3Q0hpZWZlUW1HQXdTMkhSeTZfaDJxTUhiZmQ5YUQ3UXB0S3NCaW1OSHIwTQ?oc=5",
-      "first_seen": "2026-08-14T21:01:15Z",
       "focus": [],
       "category_ids": [
         "aeon"
