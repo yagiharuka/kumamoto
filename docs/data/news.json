@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-05T23:30:40Z",
-  "updated_at_jst": "2026/09/06 08:30 JST",
+  "updated_at": "2026-09-06T00:00:38Z",
+  "updated_at_jst": "2026/09/06 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1229,
@@ -10378,20 +10378,6 @@
       ]
     },
     {
-      "id": "2e15461b881f406bc1ed",
-      "title": "オンワード、イオンモール熊本で1人死亡 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-30T13:21:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Lc2lkN3E5cXlQQ3dGeF9HYjQ3RklwYW5JaGxNTWZud2VZZFJCQXdrMTY5LTZKdHpadGtWOXM4R3ZRTXM3TUlRUjQ0Vzk1VXc?oc=5",
-      "first_seen": "2026-07-30T14:00:11Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "7c226848183ac9f8b63c",
       "title": "イオンモール熊本、避難や爆発の状況は 証言や映像からたどる",
       "source": "朝日新聞",
@@ -11195,6 +11181,20 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "2e15461b881f406bc1ed",
+      "title": "オンワード、イオンモール熊本で1人死亡 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Lc2lkN3E5cXlQQ3dGeF9HYjQ3RklwYW5JaGxNTWZud2VZZFJCQXdrMTY5LTZKdHpadGtWOXM4R3ZRTXM3TUlRUjQ0Vzk1VXc?oc=5",
+      "first_seen": "2026-07-30T14:00:11Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -18061,23 +18061,6 @@
       ]
     },
     {
-      "id": "98495956c94c2ca1cae3",
-      "title": "イオンモールの爆発、けが人か (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-28T09:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ3NhSlNwY0wteFBYT0lSVklhS2J5UzM2YURZaUlKZnhrWWFwQVNJbTN6S3I5emFSdHBOaURwOE5qUFAxbUljUFZ4RFRWTUk?oc=5",
-      "first_seen": "2026-07-29T04:00:22Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "aee49f3fd7e3e5565ee1",
       "title": "イオンモール熊本で爆発? 町などが確認中 近くの男性「ドンという音と白煙」(写真・画像 1/1)",
       "source": "産経新聞",
@@ -19028,6 +19011,23 @@
       "first_seen": "2026-07-29T04:00:22Z",
       "focus": [
         "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "98495956c94c2ca1cae3",
+      "title": "イオンモールの爆発、けが人か (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VQ3NhSlNwY0wteFBYT0lSVklhS2J5UzM2YURZaUlKZnhrWWFwQVNJbTN6S3I5emFSdHBOaURwOE5qUFAxbUljUFZ4RFRWTUk?oc=5",
+      "first_seen": "2026-07-29T04:00:22Z",
+      "focus": [
+        "救助・安否",
         "現場状況"
       ],
       "category_ids": [
