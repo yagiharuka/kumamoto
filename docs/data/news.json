@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T07:30:31Z",
-  "updated_at_jst": "2026/09/06 16:30 JST",
+  "updated_at": "2026-09-06T08:00:58Z",
+  "updated_at_jst": "2026/09/06 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1229,
@@ -640,6 +640,24 @@
       ]
     },
     {
+      "id": "80c8f7a21b93be3f7e2a",
+      "title": "日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T13:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "29081465ce7d0f28882f",
       "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
       "source": "時事通信",
@@ -887,23 +905,6 @@
       "source_group": "全国紙",
       "published_at": "2026-09-03T10:06:34Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ1pKRmYydkZqWXZiSVVJZ0RpNmtkWXdNYUt3ZjZNM2ZmcVZvaWM3dmhvT0xfZ1hKTW5YeklOMVZZRlNCWUsyWVNjSldSTXpTZWh1Z09ocjRNVm1kWGtSOFFXODBTMWdLQUw1Yg?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "80c8f7a21b93be3f7e2a",
-      "title": "日本製紙八代工場で火災=熊本地震で煙突倒壊",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T10:02:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Rnd6c0FnZUtqeUFMSFkzc3I4VlZsS0c3Z1NxblI3WmFyOGhqVk1IcXNJNE5yVU0wMmwtLXlCV1h5MHhDdmpmbTZWa0liblp1UktvSg?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "目撃証言",
@@ -1596,22 +1597,6 @@
       ]
     },
     {
-      "id": "9bd4901f2c72535897ce",
-      "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-28T08:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNk1FWEpYaFJwbm1ZcDJLSDF4d3V5ejdtZVhzTjlNbXItem1iZEdrUEpma04yLXg5SlpzVkJ5NFJiby1MQ2taNnhGald5U2xESUpWUXBrRkI5OXRMOWlQYklsazFUQkU?oc=5",
-      "first_seen": "2026-08-28T22:30:20Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "bc3ed1cc4c72a93a9694",
       "title": "イオンモール熊本で死亡の女性の遺族 「残念でしかたがない」",
       "source": "NHK",
@@ -1666,6 +1651,22 @@
       "published_at": "2026-08-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GXzQ2bnZ6UktpbkJVTmVUQlJuRTltZlByRk80YkoxQVVHRVcyWDU4TFllT1M4MENha28yX3RXSVNrREh0SV9iM3lJRmtFUWVXdTlLLXc2aFdxaVdYUmw5SXVDZEZxYVdi?oc=5",
       "first_seen": "2026-08-28T07:30:19Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "9bd4901f2c72535897ce",
+      "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNk1FWEpYaFJwbm1ZcDJLSDF4d3V5ejdtZVhzTjlNbXItem1iZEdrUEpma04yLXg5SlpzVkJ5NFJiby1MQ2taNnhGald5U2xESUpWUXBrRkI5OXRMOWlQYklsazFUQkU?oc=5",
+      "first_seen": "2026-08-28T22:30:20Z",
       "focus": [
         "現場状況"
       ],
