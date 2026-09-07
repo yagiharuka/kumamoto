@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T08:30:37Z",
-  "updated_at_jst": "2026/09/07 17:30 JST",
+  "updated_at": "2026-09-07T09:00:34Z",
+  "updated_at_jst": "2026/09/07 18:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1245,
@@ -134,7 +134,7 @@
     },
     {
       "id": "f8abd7d22966c22561e7",
-      "title": "煙突火災、原因調査開始 八代署と八代消防 地震被災の日本製紙工場<2026年熊本地震>",
+      "title": "煙突火災、原因調査始まる 八代署と八代広域消防本部 地震被災の日本製紙工場 八代市<2026年熊本地震",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
