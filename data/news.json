@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T23:30:40Z",
-  "updated_at_jst": "2026/09/07 08:30 JST",
+  "updated_at": "2026-09-07T00:00:45Z",
+  "updated_at_jst": "2026/09/07 09:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1234,
+  "article_count": 1236,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "sankei": 194,
+    "sankei": 196,
     "asahi": 144,
     "kumanichi": 180,
     "yomiuri": 190,
@@ -76,26 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 948,
+    "aeon": 950,
     "power": 132,
     "paper": 171
   },
   "items": [
     {
-      "id": "ac08cd4b05a0a350b3bb",
-      "title": "煙突火災で実況見分へ 熊本地震で被災した日本製紙八代工場 鉄柱切断中に出火か",
+      "id": "063f4a1d4acd03fc869a",
+      "title": "爆発事故で再開見えぬイオンモール熊本 人口1万人の街に打撃を与えた「一強依存の構造」(写真・画像 2/4)",
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-09-06T22:10:55Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
-      "first_seen": "2026-09-06T21:00:35Z",
+      "published_at": "2026-09-06T22:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaENyUDVVeDJLZTNPaV9obFlTSnpLT251SzBwMnlxWlJEVlFpV3VJemlaenp4aTlTS0dMMDhaZFh4elBpRlR5aFZCaHYxaFZRd3VzNm5Zc2k2bEdDZmNqYnVLdzZqaUQ0Z2tnN0dCQjhIMVRPaW1hWWtHNTExQ0dlVHdKSkVMMFJIaVlUY0tBRlhsX1lRcHJ1XzdZaWc3TmJBZ0E?oc=5",
+      "first_seen": "2026-09-07T00:00:45Z",
       "focus": [
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
-        "paper"
+        "aeon"
       ]
     },
     {
@@ -112,6 +111,39 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "cd104b60451d2ad10ced",
+      "title": "爆発により建物が損傷したイオンモール熊本=7月29日、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-06T22:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVNlREtWWmxXemZVY1BmWnJHSXJoZnVBUVMzZW44ZUVFY1dkeEh2a0lBVW83NmR2OUZ0Nk1HR2swaXZRM3M0TEJGYjFhR3o1LU5XdXRzTWtpZ1lKdEQ4R3FZMzhjUC13dTVEdVV4XzdLdE5Oc2tUNXB0dVFqbjF3YWdJTWEzbWJpcUl6cGp4aDRNZzVHUHlOZlBOakFheWpFUnc?oc=5",
+      "first_seen": "2026-09-07T00:00:45Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "ac08cd4b05a0a350b3bb",
+      "title": "煙突火災で実況見分へ 熊本地震で被災した日本製紙八代工場 鉄柱切断中に出火か",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-06T20:52:18Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
+      "first_seen": "2026-09-06T21:00:35Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -1793,7 +1825,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW0zUWxfSUx6c2N2eFZGSDJXSHJjMkJ2RmdrTzNPdXBDQVVBX09wWldKWEtNWERIR0p4WUYwLS1VdkhVSmlpX01DSE1yM01DQnVHRGFFRVZhcnFsTXoxNjhCTGlTTElGMzEzUjVDTlIwdkFEU1JIZUlHODMyWWtBc0xR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
@@ -1809,7 +1841,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T06:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
