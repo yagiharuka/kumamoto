@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T11:30:32Z",
-  "updated_at_jst": "2026/09/07 20:30 JST",
+  "updated_at": "2026-09-07T12:00:33Z",
+  "updated_at_jst": "2026/09/07 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1246,
+  "article_count": 1247,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nikkei": 70,
     "yomiuri": 192,
     "mainichi": 159,
     "kumanichi": 184,
     "sankei": 199,
     "asahi": 144,
     "nhk": 108,
-    "jiji": 191,
-    "nikkei": 69
+    "jiji": 191
   },
   "tracked_categories": [
     {
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 951,
     "power": 132,
-    "paper": 180
+    "paper": 181
   },
   "items": [
+    {
+      "id": "1b74de0f808dadb98659",
+      "title": "日本製紙八代工場の煙突火災で実況見分 熊本",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T11:41:33Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdDRWRVQxLXY2ZE50TFNpV0pudDIxS1plWXZMbTB6V1VyZUJGUmF6UldXZGdCeWlpSlF6eWNGZjU3TWpNU2xFdThSUi1RQzl2S1dhT0F2QklRa1NjcVhYWDhadHNMa251N0RScw?oc=5",
+      "first_seen": "2026-09-07T12:00:33Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "fe07397a096983ab5ff0",
       "title": "日本製紙八代工場の煙突火災で実況見分、「ドローン」飛ばして上空から撮影...消防隊員らが焼損部分を確認",
@@ -105,7 +122,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TFBFZ011RXBRdkp6c3BCRzZJZlVUS2otQTh0b3pETGVsM2N1VWVuaHBQQzRBSjZEUlpBaFhVVFNMSElYNVg0YXBtMnZsWHNONGVCRmJBbHM4eTNkMG5OdFlHbGxQQ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
       "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
@@ -1987,22 +2004,6 @@
       ]
     },
     {
-      "id": "6e93ea120afcf8a906a9",
-      "title": "爆発7人死亡、刑事責任は=イオン事故、立件に高いハードル―熊本地震1カ月",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
-      "first_seen": "2026-08-29T06:30:24Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "01dd1e89dddf3bf25c0f",
       "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
       "source": "時事通信",
@@ -2011,6 +2012,22 @@
       "published_at": "2026-08-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "6e93ea120afcf8a906a9",
+      "title": "爆発7人死亡、刑事責任は=イオン事故、立件に高いハードル―熊本地震1カ月",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T06:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
+      "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
       ],
