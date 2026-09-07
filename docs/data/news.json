@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T04:00:39Z",
-  "updated_at_jst": "2026/09/07 13:00 JST",
+  "updated_at": "2026-09-07T05:00:45Z",
+  "updated_at_jst": "2026/09/07 14:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1243,
+  "article_count": 1245,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
-    "yomiuri": 191,
+    "yomiuri": 192,
+    "mainichi": 159,
     "kumanichi": 183,
     "sankei": 199,
     "asahi": 144,
-    "mainichi": 158,
     "nhk": 108,
     "jiji": 191,
     "nikkei": 69
@@ -78,9 +78,43 @@
   "category_counts": {
     "aeon": 950,
     "power": 132,
-    "paper": 178
+    "paper": 180
   },
   "items": [
+    {
+      "id": "fe07397a096983ab5ff0",
+      "title": "日本製紙八代工場の煙突火災で実況見分、「ドローン」飛ばして上空から撮影...消防隊員らが焼損部分を確認",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T04:42:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjbGc5bGQ2UDhZcU52NEdyeHc4X1ljZHBJLTlYV0FTV25ucVcxSktPZFlsbjVDa0ZybjhZbWh4SGVSeVNpbFhpd3BhRzJLTUpLNEFBN2FUTHNOVDIxSjBNa1FRaVFTS2JicHYxLXJsNVhidw?oc=5",
+      "first_seen": "2026-09-07T05:00:45Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "9cb4698ad350a73c6a53",
+      "title": "日本製紙八代工場の煙突火災で実況見分 鉄柱切断中に出火か",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T03:43:23Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
+      "first_seen": "2026-09-07T05:00:45Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "7848f754dae564821be7",
       "title": "日本製紙八代工場の煙突火災、県警と消防が実況見分...ドローンで上空から撮影",
@@ -1557,7 +1591,7 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-08-29T02:38:00Z",
+      "published_at": "2026-08-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xNXE2d0VhQXdDRzhsVDZ2Zzg4S3dwX19tUTFZTFJ0eTJJbHZURHBzam05blZrakpkYlY4X3hieGI0ME81MlN6dlpzeXlFTTVGdmFnaDlyREhOQ0NQaEg1Mzc5WHVuN29fbmNVSzJQazZjZw?oc=5",
       "first_seen": "2026-08-29T03:00:24Z",
       "focus": [
@@ -3535,6 +3569,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c5b28644ac6720e90ce6",
+      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-14T13:50:21Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PSmhzT0R2TVYyVklGVFQ2RUFWNnRNbFBUc0JMcVloMkc5VTMxclpQb1VfeFQ1eFF0V19FYjNnSjBIdElqNGhpNjFpY2l1NExvclZvQ3Mwb2hyWktKQTVPb3VVdkxtc3plSUZEbFFpUQ?oc=5",
+      "first_seen": "2026-08-14T21:01:15Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -7026,7 +7074,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -7860,7 +7908,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iYnFvLUJGeHB5cVFBeWZidEdCLTIyU3BVdS15Vk0zekF5cFlwSmtXVGRqbnZZSThUVXNqSFUtNkFNcW80RlowdVlZWHdIVzFJQ3Uycjc5MzZuRktOSnQ4Z0NaVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTRXSkhJX1Q4MHZpeWQxSWRfXzdxRGg4bW95SGhHNlBtXzQ5ZHJnYjdnMV9SUUpLUHRNajZ1WmNFTXlQNkxRdEczbkhDV2EwTnRrS0JJYWhFa2dkbGVwVGxDQU4tc1J5bHRzd3AwaWpmdXF0TWFhUWtNRVFoejdMbzRB?oc=5",
       "first_seen": "2026-08-03T09:31:12Z",
       "focus": [
         "避難状況",
@@ -10342,20 +10390,6 @@
       ]
     },
     {
-      "id": "c5b28644ac6720e90ce6",
-      "title": "イオンモール熊本 小型無人機で撮影し...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:52Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BSXJLRW9ZZzdxaE5sR0FkYUNteFVIVWtmdnJIU2hQMjlrOGxlN3VRZ0kzRGdoMVFWRUFPbGJSV2NSZDR3Q0hpZWZlUW1HQXdTMkhSeTZfaDJxTUhiZmQ5YUQ3UXB0S3NCaW1OSHIwTQ?oc=5",
-      "first_seen": "2026-08-14T21:01:15Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "669d3b76b20ca335c175",
       "title": "路上のがれき 「イオンモール熊本」の...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -11902,7 +11936,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lazd3UHR6LTJpOFQ0eXdKOFdZS2dURGJIZmV6N1BRaHdWVXVBbWg5UnNYM0xYUU55NzQ0Skt3ajFjWEthMEcyMWRPM2NpSTcyVmgzLUY4RUk0SGUtRDJtSS10UXBycGxFX0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EXzg3TW5fTGN0OU80U3d2LW00aVF0WFZnWmVaSVhjSnlEdnVzcW9qSko3OGNoTWRXVENtay1Pc3o1dDlHTVdNZW5kcERqSGhpUTgxNl9oWG9MUzFQSHh6dV9zVnJNc1lldlE?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -16246,7 +16280,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0M4NFVTMzE5RWJXeWhYLXA4TFptVnZSUFpRZjh5T0FxTHJuYlBpRkNyLWpZNTVieVlBRmUzNTJ5Ym1DZE1OeFlJejdjMV9hUVR3dXdVWFM5RzJUbEo2SE4yTkZZWkItZFh3dHN4MzZfTkxodW5KOG9IUUc1WHR2ZTBB?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
