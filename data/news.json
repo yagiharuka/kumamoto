@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T09:00:34Z",
-  "updated_at_jst": "2026/09/07 18:00 JST",
+  "updated_at": "2026-09-07T09:30:45Z",
+  "updated_at_jst": "2026/09/07 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1245,
+  "article_count": 1246,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "yomiuri": 192,
     "mainichi": 159,
-    "kumanichi": 183,
+    "kumanichi": 184,
     "sankei": 199,
     "asahi": 144,
     "nhk": 108,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 950,
+    "aeon": 951,
     "power": 132,
     "paper": 180
   },
@@ -1273,7 +1273,7 @@
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-09-03T09:44:00Z",
+      "published_at": "2026-09-03T09:44:17Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lYmttenBBOXlfdDBaZDVJNWE5akFtcFgybURKbzJRdzUwR3VKT05tdDVGYXBOUGZpcWk0Z1ZaZFUyWGpNZDhuVjlBWDVSZ20yNXZKcDF0U2I5WGNCMHhwbC1VQzJqOGdk?oc=5",
       "first_seen": "2026-09-03T10:00:36Z",
       "focus": [
@@ -1531,6 +1531,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "2da188e1a14ab35dd962",
+      "title": "地場野菜「待ってた」 イオン八代店、再開に行列 <2026年熊本地震>",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-01T03:35:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sejluZWJIT0pOZWZJeWVWV1lZdUllVm1FazRENjJuTEhOeDJvVkZEQ3c3WnN6b3RYRmxtWVFIREpDRjdPT0N0QkJTNEMxS0U?oc=5",
+      "first_seen": "2026-09-07T09:30:45Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -1973,14 +1987,14 @@
       ]
     },
     {
-      "id": "01dd1e89dddf3bf25c0f",
-      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
+      "id": "6e93ea120afcf8a906a9",
+      "title": "爆発7人死亡、刑事責任は=イオン事故、立件に高いハードル―熊本地震1カ月",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
-      "first_seen": "2026-08-28T12:30:18Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
+      "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
       ],
@@ -1989,14 +2003,14 @@
       ]
     },
     {
-      "id": "6e93ea120afcf8a906a9",
-      "title": "爆発7人死亡、刑事責任は=イオン事故、立件に高いハードル―熊本地震1カ月",
+      "id": "01dd1e89dddf3bf25c0f",
+      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル―熊本地震1カ月",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-08-28T06:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
-      "first_seen": "2026-08-29T06:30:24Z",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UU1feG53dkNfeUJQSW9GTjNYZjJHWXlFRTFyQW1TSng5dm0tLU1kV2FCN0RVNjgtT3llMGtJa1hjeXJVZFhpdXdaeS1JTFU0eGIyOHh6ZHQ1TGJBY1hWT096VQ?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
       "focus": [
         "現場状況"
       ],
