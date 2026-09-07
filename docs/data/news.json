@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T01:30:44Z",
-  "updated_at_jst": "2026/09/07 10:30 JST",
+  "updated_at": "2026-09-07T02:00:32Z",
+  "updated_at_jst": "2026/09/07 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1236,
+  "article_count": 1239,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
-    "sankei": 196,
+    "sankei": 197,
+    "kumanichi": 182,
     "asahi": 144,
-    "kumanichi": 180,
     "yomiuri": 190,
     "mainichi": 158,
     "nhk": 108,
@@ -78,9 +78,60 @@
   "category_counts": {
     "aeon": 950,
     "power": 132,
-    "paper": 171
+    "paper": 174
   },
   "items": [
+    {
+      "id": "94a7070c6f4beddf1840",
+      "title": "熊本地震で被災した日本製紙八代工場、煙突火災で実況見分 県警や消防が対応",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T01:51:15Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmODBDSmhSelc5RTJwMTcxbDNpeXpmeUQzNmE4bkg2S1JVUjBhb212YU93MnRXcWZpNzVVMlFHblpjVXcwN3B4Vm9LLW5UOENiRktpcTd2Vm5rbHc4RTlPU01jdW5OXzZ6UWFFOExRcklqbDc4aFE?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "d68fcb61b8a867f928f8",
+      "title": "煙突火災で実況見分 日本製紙八代工場、熊本(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-07T01:24:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyV1diVTU0Z0pBSmFRV0xmMnRfX2ZoV1AweldMMHVuQjBIVkMyOXJRTmV5Z1BVNEdLdlZZZ3RnZGhXZEdyaXFPUkQwSlRQbEE?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "287ae8ba1e285d6534cf",
+      "title": "煙突火災の日本製紙八代工場で実況見分 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-07T01:20:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTFh4STE0ZWJfcUQyUVg0bWxBcVA4ckdIaW1PempyUWdzZThIUTJFSUFETjlybndhbmxMa3BWc1dPdVFQT1d1c3M5S2xOTDg?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "063f4a1d4acd03fc869a",
       "title": "爆発事故で再開見えぬイオンモール熊本 人口1万人の街に打撃を与えた「一強依存の構造」(写真・画像 2/4)",
@@ -3134,24 +3185,6 @@
       "focus": [],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "45303564edb818204714",
-      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T13:38:41Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVZvV0ljSTRRYnBrQmJZOUN4VldIMjI4bkxleldPdG1ORW5TSklWdWRCQU1XeGIyd1hCQjVGQVJjT00xaGk3Rm9NTWp1UWdQcW53b19vUGhkNFpCel9MRm5faWk5a19iYk9uRC1iWVNhTVk3STByWTFlRmJEX21TYk5jNTJUMWZoWlFWQ2lR?oc=5",
-      "first_seen": "2026-08-04T05:31:06Z",
-      "focus": [
-        "避難状況",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -6875,6 +6908,24 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xakV5ZnB1ZnFsQS1ST2pUZlJteERGalFLa01jU2tfVnFaa1IzamJxWFhTb3FxQUt0OXU2SGE2WlZjN0U5Ul9iVmt3dDhpczJOemE3TER5VlZwNjVfekdYZ3RYZnlvTm8?oc=5",
       "first_seen": "2026-08-03T20:31:06Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "45303564edb818204714",
+      "title": "イオンモール熊本、避難や爆発時の状況は 「中に戻っていい」証言も",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OQ2VsV015UmE5b3lMcGdfNnZlQTlic3d1b3VjOUFBYk9BWjRzTXZnZ0ZoNXR1U0wxMEFuempGSXdoZ0NIZ1NJeUNnc1BSQTBHc0xGSGNGSGM3Y08zS2FXMFVRNUpjY09RbWc?oc=5",
+      "first_seen": "2026-08-04T05:31:06Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
