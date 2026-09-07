@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T07:30:50Z",
-  "updated_at_jst": "2026/09/07 16:30 JST",
+  "updated_at": "2026-09-07T08:00:37Z",
+  "updated_at_jst": "2026/09/07 17:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1245,
@@ -207,7 +207,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-07T01:24:00Z",
+      "published_at": "2026-09-07T01:40:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyV1diVTU0Z0pBSmFRV0xmMnRfX2ZoV1AweldMMHVuQjBIVkMyOXJRTmV5Z1BVNEdLdlZZZ3RnZGhXZEdyaXFPUkQwSlRQbEE?oc=5",
       "first_seen": "2026-09-07T02:00:32Z",
       "focus": [
@@ -2308,6 +2308,23 @@
       ]
     },
     {
+      "id": "ddcb1b69708811f785b7",
+      "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-25T11:07:17Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZTRISzVZUmFBbWc4YllWWDBOTmdwN0VHYkIxYWQxaXBRVlhDbEJCdzA5Q1lrYXJTRm5vOVUzUlNxcThuVHQyVExuUDQ1dVVtcGRrbGNFNTBlWVh1bHdPYW5IT1FnaUZSNWc?oc=5",
+      "first_seen": "2026-08-18T10:30:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "f256d3fffd767b14c446",
       "title": "八代 地震で9人死亡の日本製紙 煙突の撤去作業始まる",
       "source": "NHK",
@@ -3351,23 +3368,6 @@
       "published_at": "2026-08-18T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
       "first_seen": "2026-08-18T11:00:24Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "ddcb1b69708811f785b7",
-      "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-18T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmt1QXl0bVZxUHU4cldQSlQ2MmhsSUFSSjQwYV90UEV5aXhyMVFvUDdJaFd5N3FwcUM2dlJGY1k4eFdqX3Vyc0ZISXJCVUZCUE1QNndtMlZ3UG1Pajl6dTlUQXJaLUE?oc=5",
-      "first_seen": "2026-08-18T10:30:24Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -9795,7 +9795,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdDgxX0MtT1pBRnpseGpTWnBsUk1NdE9CcmM5THpZdnMxeWgzdy10d05SLW56UXRpQTAtQjI5Vkxac3NGVkxQbXRwdFQ5LWVQMHJldHlsY3ljTEw5eWM4RkRoWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaS1lT1doTW1nRVhHelF6RjU4ZWE0WTNHOTVWSkh6M0laY1B1c0wzS2lwTDVTUXVicE85bzdscnNvR09uRG45aW8wTUV2cGpGOUIweGM2UG9aZTluamFDUXA2VXJQamtKVURCX3R6QmFMb192MXR0YUN3bUdSYnlZYg?oc=5",
       "first_seen": "2026-07-31T03:00:53Z",
       "focus": [],
       "category_ids": [
