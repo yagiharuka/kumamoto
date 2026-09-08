@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T05:00:37Z",
-  "updated_at_jst": "2026/09/08 14:00 JST",
+  "updated_at": "2026-09-08T05:30:32Z",
+  "updated_at_jst": "2026/09/08 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1249,
@@ -345,23 +345,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40UlVFWEhwOXRDSWJ5a21pWVlWdlhBRVNKUVhHVDA0c0hxZ2JkWTFZWm1XejZMLVVvQjVHb0dvNUN0dXRJZkFiNGNzYXBwOWJhQjFIZ1hBeE9oRkhW?oc=5",
       "first_seen": "2026-09-06T20:30:39Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "280365eedcc5d9407851",
-      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-06T15:08:31Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
-      "first_seen": "2026-08-31T14:01:03Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -1616,6 +1599,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "280365eedcc5d9407851",
+      "title": "安全管理に「盲点」 避難後ルール徹底されず イオンモール爆発、7人犠牲【連載 三たびの激震 2026年熊本地震1カ月5】",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-31T13:31:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15b180WUVidnZtQXR2U0JGOE5LaFU0RHJCa0FXUW9kUk5lTm4xd0JNUXNYUkFuMkMtbUswZjJZVk9sdWJ2d1JGYUpQSW5nLW8?oc=5",
+      "first_seen": "2026-08-31T14:01:03Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -5121,7 +5121,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zTENCSU9MVGtzSi12dzM5T3VHTzFCbUR5Ri1fdzJEbXM1YmI4Vm5qSlBucTZuSHoyZkd4NzJTQ2huUWYtSnRvZHdfMzY1b09VbFJzOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmZQTFhvS2R5QzVIcVE2MU8yQ3dfTjh1aHdFM1BKSEV1cFhSN2NPbF80V3oxaDUxWDExS0NtNVVhU0xhdnpsYXlSRmJDcENRRHotZl8wb2s1Vks0ZkE?oc=5",
       "first_seen": "2026-08-13T20:00:57Z",
       "focus": [
         "現場状況"
@@ -7140,7 +7140,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
