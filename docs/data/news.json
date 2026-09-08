@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T12:30:50Z",
-  "updated_at_jst": "2026/09/08 21:30 JST",
+  "updated_at": "2026-09-08T13:00:57Z",
+  "updated_at_jst": "2026/09/08 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1253,
@@ -206,7 +206,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TFBFZ011RXBRdkp6c3BCRzZJZlVUS2otQTh0b3pETGVsM2N1VWVuaHBQQzRBSjZEUlpBaFhVVFNMSElYNVg0YXBtMnZsWHNONGVCRmJBbHM4eTNkMG5OdFlHbGxQQ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
       "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
@@ -2440,23 +2440,6 @@
       ]
     },
     {
-      "id": "ddcb1b69708811f785b7",
-      "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-25T11:07:17Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZTRISzVZUmFBbWc4YllWWDBOTmdwN0VHYkIxYWQxaXBRVlhDbEJCdzA5Q1lrYXJTRm5vOVUzUlNxcThuVHQyVExuUDQ1dVVtcGRrbGNFNTBlWVh1bHdPYW5IT1FnaUZSNWc?oc=5",
-      "first_seen": "2026-08-18T10:30:24Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "f256d3fffd767b14c446",
       "title": "八代 地震で9人死亡の日本製紙 煙突の撤去作業始まる",
       "source": "NHK",
@@ -3509,6 +3492,23 @@
       ]
     },
     {
+      "id": "ddcb1b69708811f785b7",
+      "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmt1QXl0bVZxUHU4cldQSlQ2MmhsSUFSSjQwYV90UEV5aXhyMVFvUDdJaFd5N3FwcUM2dlJGY1k4eFdqX3Vyc0ZISXJCVUZCUE1QNndtMlZ3UG1Pajl6dTlUQXJaLUE?oc=5",
+      "first_seen": "2026-08-18T10:30:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "0a05d45eeb85f5aa933b",
       "title": "【社説】イオンモール熊本の爆発 「想定外」の事故の検証を丁寧に [2026年熊本地震]",
       "source": "朝日新聞",
@@ -3839,7 +3839,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-13T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
       "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
