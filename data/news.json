@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T08:00:31Z",
-  "updated_at_jst": "2026/09/08 17:00 JST",
+  "updated_at": "2026-09-08T08:30:50Z",
+  "updated_at_jst": "2026/09/08 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1249,
+  "article_count": 1250,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "sankei": 200,
     "yomiuri": 194,
     "nikkei": 70,
     "mainichi": 159,
     "kumanichi": 184,
-    "sankei": 199,
     "asahi": 144,
     "nhk": 108,
     "jiji": 191
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 951,
     "power": 132,
-    "paper": 183
+    "paper": 184
   },
   "items": [
+    {
+      "id": "027d114b1db9d94ededf",
+      "title": "火花がごみに燃え移ったか 日本製紙八代工場の煙突火災、熊本",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-08T08:24:44Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NS3hLOWUxZ2JoTnBxNG43MjRJSDBxa1ZCMUkzZzczeHlUN2dMcElIbklhTGVselhpclZkTS1DWFp6SEN4cjQ0ZXd4aVdCeHFOQklmbWFCZGk3TThacDBpOWJrUDFkdEwtdUdUSURNN0loazR2WXc?oc=5",
+      "first_seen": "2026-09-08T08:30:50Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "a6285a7969cd85bc620b",
       "title": "日本製紙八代工場の煙突解体現場の火災、支柱を切断中に散った火花が出火原因か...ドローン使って実況見分",
@@ -9811,7 +9828,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-31T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wOHBrWDNFQ0xvUWNNUl8tMW90elRDWElYU2dsM1dGSEE5QmRsTjBramxaeG96QWxFYUp5YklwUmduTzJnTFk5X3Y1eFlHaEJOSWhlRzQxcjgxa25HQ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UUFhqckhoY0lEM2tGOUJpenhDcE1CUF9zR2tIZTRFMDlVcXhEUTdIczF6RmhTcGJuamwtd1JIbGFLdHh0T1AzWlZxVnRFaXp0UU1NTw?oc=5",
       "first_seen": "2026-08-04T11:31:05Z",
       "focus": [
         "救助・安否",
