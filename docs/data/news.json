@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T09:30:34Z",
-  "updated_at_jst": "2026/09/08 18:30 JST",
+  "updated_at": "2026-09-08T10:00:38Z",
+  "updated_at_jst": "2026/09/08 19:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1250,
+  "article_count": 1251,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 185,
     "sankei": 200,
     "yomiuri": 194,
     "nikkei": 70,
     "mainichi": 159,
-    "kumanichi": 184,
     "asahi": 144,
     "nhk": 108,
     "jiji": 191
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 951,
+    "aeon": 952,
     "power": 132,
     "paper": 184
   },
   "items": [
+    {
+      "id": "4a2a20ebfdc71f05b248",
+      "title": "2026熊本地震>イオン爆発事故巡り、経産相の諮問機関が初会合 再発防止策に関し、議論の進め方を協議",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-08T09:46:18Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxV0NGSm53d3dLeS14bUhmVzR3OTZiVFN3V18tNGNZRjA1aGdFV3huRG5WNGpZZk9qTnQ1REJsOHY3TWEzX0pjQjI0WDB4SEE?oc=5",
+      "first_seen": "2026-09-08T10:00:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "027d114b1db9d94ededf",
       "title": "火花がごみに燃え移ったか 日本製紙八代工場の煙突火災、熊本",
@@ -2391,23 +2407,6 @@
       ]
     },
     {
-      "id": "ddcb1b69708811f785b7",
-      "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-25T11:07:17Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZTRISzVZUmFBbWc4YllWWDBOTmdwN0VHYkIxYWQxaXBRVlhDbEJCdzA5Q1lrYXJTRm5vOVUzUlNxcThuVHQyVExuUDQ1dVVtcGRrbGNFNTBlWVh1bHdPYW5IT1FnaUZSNWc?oc=5",
-      "first_seen": "2026-08-18T10:30:24Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "f256d3fffd767b14c446",
       "title": "八代 地震で9人死亡の日本製紙 煙突の撤去作業始まる",
       "source": "NHK",
@@ -3451,6 +3450,23 @@
       "published_at": "2026-08-18T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGdHRWZE9LWVZ1VTFYSHpCblplWXdfWnlNem5MOTUzaWFhZGhidWM0aV9ScDhIcVRCV0hmcTV6cl8zeXg3YmRjaXRZMTZmOFVwbk9UR2JpLWo5di0zSHdOUEVFaWlOWGtt?oc=5",
       "first_seen": "2026-08-18T11:00:24Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "ddcb1b69708811f785b7",
+      "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-18T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSmt1QXl0bVZxUHU4cldQSlQ2MmhsSUFSSjQwYV90UEV5aXhyMVFvUDdJaFd5N3FwcUM2dlJGY1k4eFdqX3Vyc0ZISXJCVUZCUE1QNndtMlZ3UG1Pajl6dTlUQXJaLUE?oc=5",
+      "first_seen": "2026-08-18T10:30:24Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -11964,23 +11980,6 @@
       ]
     },
     {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "8727fb4bde00b853ef57",
       "title": "熊本地震、死者12人 心肺停止6人、8千人超が避難 日本製紙・イオン、捜索続く",
       "source": "朝日新聞",
@@ -15790,6 +15789,23 @@
       ]
     },
     {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "673c2ab5cb60a17fe211",
       "title": "爆発・崩落のイオンモール熊本で2人死亡、1人心肺停止 県が発表",
       "source": "朝日新聞",
@@ -15925,7 +15941,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2dhWVl3RWdNbnBaeUZNVFI2S2FvSmt3SEtJUjlRODhKclpFYXdnQ2dZNXBYTGhmT0dEckhiWDRSbFh0Rk9PLTg2bFZXQTR0RlBHNkF2cjZWX0ZabXNVbm9SRG1WV2Q5eGZaYXFBQnBFNVZZVjJqbzVJQ0M5OGNLb0hHS05FQ1cyS0h5MlF5YzE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
