@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T15:30:54Z",
-  "updated_at_jst": "2026/09/09 00:30 JST",
+  "updated_at": "2026-09-08T16:01:00Z",
+  "updated_at_jst": "2026/09/09 01:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1253,
@@ -116,7 +116,7 @@
     },
     {
       "id": "4a2a20ebfdc71f05b248",
-      "title": "2026熊本地震>イオン爆発事故巡り、経産相の諮問機関が初会合 再発防止策に関し、議論の進め方を協議",
+      "title": "2026年熊本地震>イオン爆発事故巡り、経産相の諮問機関が初会合 再発防止策に関し、議論の進め方を協議",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -206,7 +206,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TFBFZ011RXBRdkp6c3BCRzZJZlVUS2otQTh0b3pETGVsM2N1VWVuaHBQQzRBSjZEUlpBaFhVVFNMSElYNVg0YXBtMnZsWHNONGVCRmJBbHM4eTNkMG5OdFlHbGxQQ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
       "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
