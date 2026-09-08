@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T19:30:49Z",
-  "updated_at_jst": "2026/09/09 04:30 JST",
+  "updated_at": "2026-09-08T21:47:58Z",
+  "updated_at_jst": "2026/09/09 06:47 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1253,
+  "article_count": 1254,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "kumanichi": 186,
     "jiji": 192,
     "sankei": 200,
-    "yomiuri": 194,
+    "yomiuri": 195,
     "nikkei": 70,
     "mainichi": 159,
     "asahi": 144,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 954,
     "power": 132,
-    "paper": 184
+    "paper": 185
   },
   "items": [
     {
@@ -206,7 +206,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TFBFZ011RXBRdkp6c3BCRzZJZlVUS2otQTh0b3pETGVsM2N1VWVuaHBQQzRBSjZEUlpBaFhVVFNMSElYNVg0YXBtMnZsWHNONGVCRmJBbHM4eTNkMG5OdFlHbGxQQ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
       "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
@@ -482,6 +482,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "703bd9fd88d76669515b",
+      "title": "日本製紙八代工場火災、煙突を囲う支柱を切断中に出火...熊本県警八代署と消防は7日にも実況見分:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T00:48:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZbVhKNHVnR2VwbDNnVnlRRzNRaFNJMEg4RXVUMXU5dTZCNFJmQ1poOURBTUtqaVdYcTUySWxxdF9uRjFMMDNNdkQxQTM3RkhOeEs0VDRnUUtLMEtmMzI5R2pCTDJwOV9IMGc?oc=5",
+      "first_seen": "2026-09-08T21:47:58Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -13752,7 +13769,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hYzN3QzhYWWl6al96U09kLXdDSjhIbnBHb094bi1jYzZKQ01GQUI3V3k4a3B0eFNGR0FYeVI4eXJucThJRkpzLTJXdzBkaWdLeU9r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRUNYcmloYkRvcjc5UEJnOUNBV2p3Q1FGTUxaa05fRENIT3g1dDNiYlhPVUlsVllNbVZzSXRMdjBrcWNiWXlkU1NBRy15UERRWWdz?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
       "category_ids": [
