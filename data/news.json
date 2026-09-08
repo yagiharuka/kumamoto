@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T10:30:49Z",
-  "updated_at_jst": "2026/09/08 19:30 JST",
+  "updated_at": "2026-09-08T11:00:51Z",
+  "updated_at_jst": "2026/09/08 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1252,
+  "article_count": 1253,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 186,
     "jiji": 192,
-    "kumanichi": 185,
     "sankei": 200,
     "yomiuri": 194,
     "nikkei": 70,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 953,
+    "aeon": 954,
     "power": 132,
     "paper": 184
   },
   "items": [
+    {
+      "id": "4b6a303f4a42a50e7058",
+      "title": "経産省、ガス設備の点検を要請 イオン漏えい(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-08T10:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rRFB4Z0xoYU1lMGZNemswYjdualdhSjBMeTJiYTFpTW91dWduOXJyS3lnMW1SVFlOVkNJRHdFd2wzdEV2eDNHZExYdVB4X0E?oc=5",
+      "first_seen": "2026-09-08T11:00:51Z",
+      "focus": [
+        "原因・検証"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "c4b015ba0d21c7b749c1",
       "title": "ガス供給、安全基準見直しに着手 イオンモール爆発で―経産省",
@@ -7190,7 +7206,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -12154,7 +12170,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
@@ -16410,7 +16426,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wWGlWc2hvb1N3UTdST09HdDZLZEc3NEVYRl9jMWFWOTJQNXZFTmYyaEE4UGxqcVRIRVVzZXhmNEt5aV9nd1ozWi1jU0dfRXlhLTF2di01NU4xZk9LSFhxb01FVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXlUX2RLaUVMLVY4WTM4ejZUY1NKczlYX29FSFdVRFh0MDFvRURFc3BDWkF3R3NVR0dHNUNnaVNsV1Y2WUtPXy1INTJXNXBRNGw2N2NRSGVvRGNtS0V1dGs0VklBbHlTd0NtSUZ5OWczYUNDUHc1cml5ZzhHY2E4ZEtR?oc=5",
       "first_seen": "2026-07-29T02:00:21Z",
       "focus": [
         "救助・安否",
