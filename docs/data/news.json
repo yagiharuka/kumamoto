@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T19:30:49Z",
-  "updated_at_jst": "2026/09/10 04:30 JST",
+  "updated_at": "2026-09-09T20:00:50Z",
+  "updated_at_jst": "2026/09/10 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1256,
@@ -1735,23 +1735,6 @@
       ]
     },
     {
-      "id": "401b7ad3b7e75963551b",
-      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
-      "first_seen": "2026-08-29T17:31:04Z",
-      "focus": [
-        "原因・検証",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
       "id": "dc5418249b924975d348",
       "title": "熊本地震 イオン爆発 テナント会社が経緯報告 偽りの説明 遺族暴く",
       "source": "毎日新聞",
@@ -1765,6 +1748,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "401b7ad3b7e75963551b",
+      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-29T17:02:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
+      "first_seen": "2026-08-29T17:31:04Z",
+      "focus": [
+        "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
@@ -13666,7 +13666,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
