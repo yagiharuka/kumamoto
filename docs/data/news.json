@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T10:01:28Z",
-  "updated_at_jst": "2026/09/09 19:01 JST",
+  "updated_at": "2026-09-09T10:31:15Z",
+  "updated_at_jst": "2026/09/09 19:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1254,
+  "article_count": 1255,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,14 +49,14 @@
     }
   ],
   "source_counts": {
+    "nhk": 109,
     "kumanichi": 186,
     "jiji": 192,
     "sankei": 200,
     "yomiuri": 195,
     "nikkei": 70,
     "mainichi": 159,
-    "asahi": 144,
-    "nhk": 108
+    "asahi": 144
   },
   "tracked_categories": [
     {
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 954,
+    "aeon": 955,
     "power": 132,
     "paper": 185
   },
   "items": [
+    {
+      "id": "3f5c44ef81a2a5118589",
+      "title": "「イオンモール熊本」爆発でトラック運転手救助の男性に感謝状",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-09T03:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zbzJ1QWxOSmx4UjdoaG5fLVkzUGlBZFJlWWE2NGd2TkpoNUxhNTNvTmhPMzZsUThvTVNjVlJYQkV6aGpJcWhJN2JLY3J1QVk4b2NTbnVwYXU?oc=5",
+      "first_seen": "2026-09-09T10:31:15Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "4b6a303f4a42a50e7058",
       "title": "経産省、ガス設備の点検を要請 イオン漏えい(共同通信)",
