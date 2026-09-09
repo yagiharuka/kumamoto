@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T21:30:38Z",
-  "updated_at_jst": "2026/09/10 06:30 JST",
+  "updated_at": "2026-09-09T22:00:51Z",
+  "updated_at_jst": "2026/09/10 07:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1256,
@@ -239,7 +239,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TFBFZ011RXBRdkp6c3BCRzZJZlVUS2otQTh0b3pETGVsM2N1VWVuaHBQQzRBSjZEUlpBaFhVVFNMSElYNVg0YXBtMnZsWHNONGVCRmJBbHM4eTNkMG5OdFlHbGxQQ0k?oc=5",
       "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
@@ -1735,6 +1735,23 @@
       ]
     },
     {
+      "id": "401b7ad3b7e75963551b",
+      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
+      "first_seen": "2026-08-29T17:31:04Z",
+      "focus": [
+        "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "dc5418249b924975d348",
       "title": "熊本地震 イオン爆発 テナント会社が経緯報告 偽りの説明 遺族暴く",
       "source": "毎日新聞",
@@ -1748,23 +1765,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "401b7ad3b7e75963551b",
-      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-29T17:02:40Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
-      "first_seen": "2026-08-29T17:31:04Z",
-      "focus": [
-        "原因・検証",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -8393,7 +8393,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
         "現場状況"
