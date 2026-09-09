@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T10:31:15Z",
-  "updated_at_jst": "2026/09/09 19:31 JST",
+  "updated_at": "2026-09-09T11:01:24Z",
+  "updated_at_jst": "2026/09/09 20:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1255,
@@ -1719,6 +1719,23 @@
       ]
     },
     {
+      "id": "401b7ad3b7e75963551b",
+      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
+      "first_seen": "2026-08-29T17:31:04Z",
+      "focus": [
+        "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "dc5418249b924975d348",
       "title": "熊本地震 イオン爆発 テナント会社が経緯報告 偽りの説明 遺族暴く",
       "source": "毎日新聞",
@@ -1732,23 +1749,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "401b7ad3b7e75963551b",
-      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-29T17:02:40Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
-      "first_seen": "2026-08-29T17:31:04Z",
-      "focus": [
-        "原因・検証",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -11026,7 +11026,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
@@ -16170,20 +16170,6 @@
       ]
     },
     {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "869d731b1d604f3af940",
       "title": "「真っ暗で煙吸った」 崩落のイオンモール、途絶えた彼女のLINE=公開停止 [熊本県]",
       "source": "朝日新聞",
@@ -19963,6 +19949,20 @@
         "救助・安否",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenB0eDUwQWI2TXBRWVVXMlBGMGZqZmJicnhUY2hDbWtWZVpBS2l5NXQzLVR4VmtRbmpDZVBmVWVsWnlRejdMenFsMHdRVGo4bkl0T0RNQ3BBbUdUbzNtZklyQVBsdmp5YVZzODVDTnpneWlFRzJ0TDB1QURnQV9UMWwxRmRrdmp1bjl0a3Uyc3AyQnJVcGlkcFZB?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
