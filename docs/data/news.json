@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T20:30:37Z",
-  "updated_at_jst": "2026/09/10 05:30 JST",
+  "updated_at": "2026-09-09T21:00:42Z",
+  "updated_at_jst": "2026/09/10 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1256,
@@ -1735,6 +1735,23 @@
       ]
     },
     {
+      "id": "401b7ad3b7e75963551b",
+      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
+      "first_seen": "2026-08-29T17:31:04Z",
+      "focus": [
+        "原因・検証",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "dc5418249b924975d348",
       "title": "熊本地震 イオン爆発 テナント会社が経緯報告 偽りの説明 遺族暴く",
       "source": "毎日新聞",
@@ -1748,23 +1765,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "401b7ad3b7e75963551b",
-      "title": "検証・熊本地震:/中 想定外、対応手探り 停電・猛暑・支援品目詰まり",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-29T17:02:40Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95X3d3MV9fR2pLc0JvbGkxR29RS1dIZUcydWdzNnVCblg0VEE3RjVtYUx0WFBPdm5CYlh3OHhTRldCWFlSZGtvUW1jQ091V3NBdml3ZGlDclItaUlBTGFIU2dESjNPWFE5?oc=5",
-      "first_seen": "2026-08-29T17:31:04Z",
-      "focus": [
-        "原因・検証",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
