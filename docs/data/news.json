@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T00:30:36Z",
-  "updated_at_jst": "2026/09/09 09:30 JST",
+  "updated_at": "2026-09-09T01:00:32Z",
+  "updated_at_jst": "2026/09/09 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1254,
@@ -206,7 +206,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TFBFZ011RXBRdkp6c3BCRzZJZlVUS2otQTh0b3pETGVsM2N1VWVuaHBQQzRBSjZEUlpBaFhVVFNMSElYNVg0YXBtMnZsWHNONGVCRmJBbHM4eTNkMG5OdFlHbGxQQ0k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
       "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
@@ -959,24 +959,6 @@
       ]
     },
     {
-      "id": "8d3bc86aaa71aea4c3fd",
-      "title": "日本製紙八代工場、「煙突解体作業中に出火」 けが人はなし",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T13:49:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SQ0R6MUdRdUZzNGdEMG9ZVTRwd2dueXlqc1p2WHgweEREOTdhM0dRSWpCZmhLRThMLTZzUUNCb29wLS1MVFoycF96cmpOM3Q5ckdTY3NlSnphZUFFLUduemxTQ2dUTG9t?oc=5",
-      "first_seen": "2026-09-03T11:30:47Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "0ee3032c78a2d68fe11b",
       "title": "日本製紙八代工場の火災は鎮圧 「煙突解体作業中に出火」と通報",
       "source": "毎日新聞",
@@ -1124,6 +1106,24 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ta3ZUMDU3TnJzbzFFQzFwWFlPTUZXLVptSVVaVnRuMVFZSHpMbWM0b3JPd1lVNWRVYXlvMnNTeEVKQnUtWlYtTEdtYUQwcnM?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "8d3bc86aaa71aea4c3fd",
+      "title": "日本製紙八代工場、「煙突解体作業中に出火」 けが人はなし",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T11:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SQ0R6MUdRdUZzNGdEMG9ZVTRwd2dueXlqc1p2WHgweEREOTdhM0dRSWpCZmhLRThMLTZzUUNCb29wLS1MVFoycF96cmpOM3Q5ckdTY3NlSnphZUFFLUduemxTQ2dUTG9t?oc=5",
+      "first_seen": "2026-09-03T11:30:47Z",
+      "focus": [
+        "救助・安否",
         "目撃証言",
         "現場状況"
       ],
@@ -13686,7 +13686,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ISUtUTTdUMm0zLV9YeFJtODJneHdpTEFQWC1rUXh5bjhjaG9XOWJLel9wTVpxT0owZ1BWZ1VRTVRlTFdJc21TT2VrcDI3ajNrOGNmQWQ2MkZSTVV5TWNudy0xbWdhVmlOZm9NWUF1NXJwWGYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02ZUNfWjNGVnJac1Mya210c3VwNzhWdXktaGtrMTR5d1BEZkFIU2Rkd3VhT2JMYWhyY1laeWNHcnM3cVZ3VG5qWG5aWlNXYmJxQlJtTE9ZdWFlZWZtVzdMbWVwb3FLUXFOT3VZeW9CMW1pZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否",
@@ -16299,7 +16299,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14UmNyZ1phRkZoYzd6MTdmdjZoSVE4YkFvb3lVaUFfNmVGOFVybmZucWtmZkZGQWcyektTZ3ZpaDlqU0VqWlNWT1BnRVNSeGdDTk1pbmYtRW5ydkM5MUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQktzX3IwazgyT0o4NUxpSnJDSk1NNmdxNnR1YnBObVE3QTNHbkpUeFRhaEZ6dFdfYXFpWjluem1tanNaYkhrSWFrQllMcG90eFo3dg?oc=5",
       "first_seen": "2026-07-29T03:30:23Z",
       "focus": [
         "避難状況",
