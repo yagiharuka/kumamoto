@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-09T07:01:22Z",
-  "updated_at_jst": "2026/09/09 16:01 JST",
+  "updated_at": "2026-09-09T07:31:40Z",
+  "updated_at_jst": "2026/09/09 16:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1254,
@@ -1922,20 +1922,6 @@
       ]
     },
     {
-      "id": "e9022cd3a8a1e2c9c5e7",
-      "title": "◎被災1カ月、冥福祈る=イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T10:17:42Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZnJVMXF4NkhfcnNOUTA3VWN3X0wtY1VPMkp2bGZBdURBNlVvSk9EMmVSQ0ZST0QzWEZ2YnlSa0Q5TGQtbFYtVDZUZUpWX1lJOWQyeg?oc=5",
-      "first_seen": "2026-08-28T12:30:18Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "480864b73f0ced732489",
       "title": "被災1カ月、冥福祈る=見えぬ復興、不安の声も―イオンや避難所・熊本地震",
       "source": "時事通信",
@@ -2149,6 +2135,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "e9022cd3a8a1e2c9c5e7",
+      "title": "◎被災1カ月、冥福祈る=イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZnJVMXF4NkhfcnNOUTA3VWN3X0wtY1VPMkp2bGZBdURBNlVvSk9EMmVSQ0ZST0QzWEZ2YnlSa0Q5TGQtbFYtVDZUZUpWX1lJOWQyeg?oc=5",
+      "first_seen": "2026-08-28T12:30:18Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
