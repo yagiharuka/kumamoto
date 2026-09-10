@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T08:31:05Z",
-  "updated_at_jst": "2026/09/10 17:31 JST",
+  "updated_at": "2026-09-10T09:00:56Z",
+  "updated_at_jst": "2026/09/10 18:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1259,
+  "article_count": 1260,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,10 +50,10 @@
   ],
   "source_counts": {
     "jiji": 194,
+    "yomiuri": 196,
     "kumanichi": 187,
     "nhk": 109,
     "sankei": 201,
-    "yomiuri": 195,
     "nikkei": 70,
     "mainichi": 159,
     "asahi": 144
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 956,
+    "aeon": 957,
     "power": 132,
     "paper": 188
   },
@@ -107,6 +107,23 @@
       "focus": [],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "7211eea5f96538fb518e",
+      "title": "イオンモール爆発、側面に大きな穴の開いたトラックに気づき...駆けつけて運転手救助・搬送の男性に感謝状",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeWJWZXI2cldhZXRyOEhPaEpUdXBqTDNTN3ZuQ3JuN1A0S1lVR3EyVERJa21hRF9INmd2UW4yNVlEeWJIX1p4Ynp2RFdfSzk3NV9OR1NWM2lCQ003amdFMkZvdV96Zw?oc=5",
+      "first_seen": "2026-09-10T09:00:56Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -1333,7 +1350,7 @@
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-09-03T10:07:57Z",
+      "published_at": "2026-09-03T10:09:37Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWG5ZX2ZhSllwLTA1ODVCMnhTYTJtQkFPRTlycXBMSjBEV0FlS3lDT2tNOGFPMUV4bjl2SWdvbnVraGs4a2ZJT01hZUNRVTQ0ZVRGTUlkNnlrdUtubEllaVotc2hJM2pUVHNralVzQnRCaTlPQWc?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
@@ -7284,7 +7301,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1FNUTAtLXFIVktoMFMwZ1AydjJVUUNsRVNXQlE0d0x4RW8zUGo3VV8wOUZkZDdrODdMNHlVVXJFTUxzbER0c044VkNnWHktbm9xd1hGNXdmaEN1VTVlY2trUHBMZlM0aWNDcUw1VUhPbnZ1Sm56MEcteEFzOWV0Vndn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
