@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T02:30:38Z",
-  "updated_at_jst": "2026/09/10 11:30 JST",
+  "updated_at": "2026-09-10T03:00:41Z",
+  "updated_at_jst": "2026/09/10 12:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1256,
+  "article_count": 1257,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -52,7 +52,7 @@
     "kumanichi": 187,
     "nhk": 109,
     "jiji": 192,
-    "sankei": 200,
+    "sankei": 201,
     "yomiuri": 195,
     "nikkei": 70,
     "mainichi": 159,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 956,
     "power": 132,
-    "paper": 185
+    "paper": 186
   },
   "items": [
     {
@@ -327,6 +327,23 @@
       "published_at": "2026-09-07T01:51:15Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmODBDSmhSelc5RTJwMTcxbDNpeXpmeUQzNmE4bkg2S1JVUjBhb212YU93MnRXcWZpNzVVMlFHblpjVXcwN3B4Vm9LLW5UOENiRktpcTd2Vm5rbHc4RTlPU01jdW5OXzZ6UWFFOExRcklqbDc4aFE?oc=5",
       "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "80f3c635999b05d30c87",
+      "title": "日本製紙八代工場の煙突火災で行われた実況見分=9月7日午前、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T01:51:15Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlExaWNXMzNRWGIxS0JmN1A4NWNoSTlkREo5UjlTYlREeFNFaURGb3FHZ1RhZ3h0LVhtVUExcmJKZGhoaV90SXhMX3A3QUNrNUd3VGJ4NnhGMncyVVk4bTM3ODctdFhYTjNZTzBMamxmdk5ZZlVDWXZXMUttU2k5bFRXaU5XY1o1aXNVY1c3VFE4RWl6MndqZ3dfRzRYVWFMVVE?oc=5",
+      "first_seen": "2026-09-10T03:00:41Z",
       "focus": [
         "目撃証言",
         "現場状況"
