@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T00:30:37Z",
-  "updated_at_jst": "2026/09/10 09:30 JST",
+  "updated_at": "2026-09-10T01:00:42Z",
+  "updated_at_jst": "2026/09/10 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1256,
@@ -2147,7 +2147,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
@@ -13294,20 +13294,6 @@
       ]
     },
     {
-      "id": "223aac4f7cf969e309d9",
-      "title": "地震発生時、イオンモール内に4千人超 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-07-29T08:35:45Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05bExGeGUydm9KazZJT0oxY0Q0THlsS3Y5ZEVCeXZsa2pLS1k1bDMzR2RtT3hjVkpxTklrVnEwR1p5c1lvOHRGNWRRQ2U4TGc?oc=5",
-      "first_seen": "2026-07-29T09:01:08Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e6eb2d7441e1a8f8a5de",
       "title": "天井崩落、床一面に資材 イオンと日本製紙内部映像(共同通信)",
       "source": "熊本日日新聞",
@@ -14917,6 +14903,20 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "223aac4f7cf969e309d9",
+      "title": "地震発生時、イオンモール内に4千人超 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05bExGeGUydm9KazZJT0oxY0Q0THlsS3Y5ZEVCeXZsa2pLS1k1bDMzR2RtT3hjVkpxTklrVnEwR1p5c1lvOHRGNWRRQ2U4TGc?oc=5",
+      "first_seen": "2026-07-29T09:01:08Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
