@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T16:31:03Z",
-  "updated_at_jst": "2026/09/11 01:31 JST",
+  "updated_at": "2026-09-10T17:31:03Z",
+  "updated_at_jst": "2026/09/11 02:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1264,
@@ -100,20 +100,6 @@
       ]
     },
     {
-      "id": "b43fc772f9827ac64bec",
-      "title": "日本製紙、八代工場被災で調査委設置=熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-10T08:12:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UMXQ4U2hCTGpIeFRfX29rOXRhZmtiUUl1QVJKcHFUY20wcDUzVnI5WnkxcDdoQUpLN3N6SkhvZkFZOTBHdHhUWmVLOExJZkFiczFvcC1VRTdaNTVFRVE?oc=5",
-      "first_seen": "2026-09-10T08:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "2a8f940b81c7220cce91",
       "title": "日本製紙、八代工場被災で調査委設置 熊本地震",
       "source": "時事通信",
@@ -122,6 +108,20 @@
       "published_at": "2026-09-10T08:12:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RaW1wbmpidEZnaDBWUW8tLVUzM0plY3lwb1ZjRjJieFprXzBiSG9hVTB1RlAzWmRzV1VUSXhKWkRMVy02bEJhSENVSU1ITjFLeUMyWV9EM1ROM2FJTmlNWVd5Yw?oc=5",
       "first_seen": "2026-09-10T10:00:56Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "b43fc772f9827ac64bec",
+      "title": "日本製紙、八代工場被災で調査委設置=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-10T07:39:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUVWtVT0k1Nld6T0pkS0YyTV8xWjc2R3ZCa0xNbm8wOVU0Z1d0Sk9DT2U2d0ZLLVBiUmkzZUhfeE1LdnNwYXJ6X1pHOG5DcWZvcTBNLQ?oc=5",
+      "first_seen": "2026-09-10T08:31:05Z",
       "focus": [],
       "category_ids": [
         "paper"
@@ -16163,7 +16163,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjFPcHdicDJScDdxYm9qS0RoY3JyeDVYR1FXUkFfTjhrM3Q5NlRQQUlMRWg0RHpiQnF3bGZWRGdUSV80R1JBWUVvVktpeG4wQ3NrRTBTVGRKSE9MRFZ1VjNNbmtnaWxydEM1aXBaVXZick1UV29kM255R0V5c2lpdVphUktHT2NfRmZmWHlueXY0NEVS?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
