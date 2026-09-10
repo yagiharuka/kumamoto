@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T08:00:40Z",
-  "updated_at_jst": "2026/09/10 17:00 JST",
+  "updated_at": "2026-09-10T08:31:05Z",
+  "updated_at_jst": "2026/09/10 17:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1258,
+  "article_count": 1259,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "jiji": 193,
+    "jiji": 194,
     "kumanichi": 187,
     "nhk": 109,
     "sankei": 201,
@@ -78,9 +78,23 @@
   "category_counts": {
     "aeon": 956,
     "power": 132,
-    "paper": 187
+    "paper": 188
   },
   "items": [
+    {
+      "id": "b43fc772f9827ac64bec",
+      "title": "日本製紙、八代工場被災で調査委設置=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-10T08:12:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UMXQ4U2hCTGpIeFRfX29rOXRhZmtiUUl1QVJKcHFUY20wcDUzVnI5WnkxcDdoQUpLN3N6SkhvZkFZOTBHdHhUWmVLOExJZkFiczFvcC1VRTdaNTVFRVE?oc=5",
+      "first_seen": "2026-09-10T08:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "430b8d88aaeb1d6f4d6e",
       "title": "日本製紙、八代工場被災で調査委設置 熊本震度7",
@@ -1366,15 +1380,16 @@
       ]
     },
     {
-      "id": "24b07990cb0d2f6cebd1",
-      "title": "日本製紙八代工場で火災 熊本地震で煙突倒壊:時事ドットコム",
+      "id": "387203c3a68fa7e2d854",
+      "title": "◎日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-09-03T10:02:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpMTV3Z0FjcUY2LWxjNmxVenpSNElmcG5KN3ZEa1JTdEpaZk5JM3l3UnJHZnN3S01JQjcxS2hiMnZ3SXNmeWM5LXozaE82Zzctd1VNQlhLME9ibDZiUmloX042TQ?oc=5",
+      "published_at": "2026-09-03T10:05:15Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlcjBLSV9pYUVqQURyVmp1MnpudnV5bjZ2WU5JS2pGcHpZaGFtNzB2N2J5MXA5NHQ5UWstblVmNEkxUlVoZUxsSy1xT2lleGdXZ3ZfNA?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
+        "救助・安否",
         "目撃証言",
         "現場状況"
       ],
@@ -1383,13 +1398,13 @@
       ]
     },
     {
-      "id": "387203c3a68fa7e2d854",
-      "title": "◎日本製紙八代工場で火災=熊本地震で煙突倒壊",
+      "id": "24b07990cb0d2f6cebd1",
+      "title": "日本製紙八代工場で火災 熊本地震で煙突倒壊:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
-      "published_at": "2026-09-03T10:01:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlcjBLSV9pYUVqQURyVmp1MnpudnV5bjZ2WU5JS2pGcHpZaGFtNzB2N2J5MXA5NHQ5UWstblVmNEkxUlVoZUxsSy1xT2lleGdXZ3ZfNA?oc=5",
+      "published_at": "2026-09-03T10:02:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpMTV3Z0FjcUY2LWxjNmxVenpSNElmcG5KN3ZEa1JTdEpaZk5JM3l3UnJHZnN3S01JQjcxS2hiMnZ3SXNmeWM5LXozaE82Zzctd1VNQlhLME9ibDZiUmloX042TQ?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "目撃証言",
