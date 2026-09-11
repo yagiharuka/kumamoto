@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T09:34:16Z",
-  "updated_at_jst": "2026/09/11 18:34 JST",
+  "updated_at": "2026-09-11T11:48:03Z",
+  "updated_at_jst": "2026/09/11 20:48 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1267,
+  "article_count": 1271,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 202,
+    "kumanichi": 189,
+    "asahi": 146,
     "nhk": 112,
-    "asahi": 145,
     "jiji": 197,
     "yomiuri": 196,
-    "kumanichi": 187,
-    "sankei": 201,
     "nikkei": 70,
     "mainichi": 159
   },
@@ -76,11 +76,58 @@
     }
   ],
   "category_counts": {
-    "aeon": 959,
+    "aeon": 963,
     "power": 132,
     "paper": 193
   },
   "items": [
+    {
+      "id": "78f91009eaca1af47c35",
+      "title": "働く人の命が再び... 熊本のイオン爆発に怒り 東日本大震災の遺族が再発防止訴え",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-11T11:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1takNYeWdVS2d6bTVxUmVxOHhMTF95ZU9qWXBiWmNUZGZNTVlxMDdENzBIVnpmaGx2aERndUE1WHdqUF9XV1VldEh0dWJzb25NOTl1OXdKZEJ0ekFsNlZHWThVMzg3b2FTeXFHWFppTWNOczY0eUE?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "161a04eb9b6d2698988c",
+      "title": "全専門店に契約終了を打診 イオンモール熊本 「営業再開見通せないため」<2026年熊本地震>",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-11T10:44:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "179a0b2a18a107c2fcdb",
+      "title": "商業施設のガス管近くに警報器の設置を要請、経産省 イオン爆発受け [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-11T09:55:34Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcUt5YU5IamV0Yk5FZHZ3ZGo0LWlfdzNGamJiTlEzTWdONUxxTEM5bHE3aUNPRTRUWTdTcWpjNEwyalNKSFdFNnRkZ01WOFVhNERCM0VQdVZXdVVTV0hGWWFVbERfQjQ?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "cfab3b13d78962340ca3",
       "title": "八代 日本製紙 損傷確認ない煙突1本も撤去する方針を固める",
@@ -276,7 +323,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-08T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55NEhIRjlqVHB1a0ZvZXZOclg3M056OEtiem9LZGNMc2Qxd2h6ZU51bTB2dUotWk9nZ2xsMEN1Z0NzYk56QjlIMG04andmMlItaHgtZE4xSXFWcFZNWjRpdDJzQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUdPdlBYei1wUmItNnZkeVBWcWlDZ1h3cTFMMGptaGZGYTUwWXBrT3VFcVhhUlh3eHQzZWxUVnRQN2JPRVVkVjBMZ1d5ZXdiTGx3NkJSZmVoRDhvTFVGbU1POXRmd3pLMTF4S3c4RVRLVkRnVFpCZnMxQlNwckhqaEFB?oc=5",
       "first_seen": "2026-09-08T10:30:49Z",
       "focus": [
         "原因・検証",
@@ -1377,7 +1424,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T10:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Dam1qdmFiald4MHlnZEFqcE0wdENxU1JWV1RidzItZXhPRHU0MjFzTFNRUEUxbWxWeFBJM0FHdzJQWXBlV2MtMW5FMVUtSDVYbUFDZ2gzRUhlbFpOUGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82SExJWEpBemJXMEFYUVpVdlpzQ1pFdnlSaXlaTVF3eVMtM0x4cU9QX1BLY1VhNll0b0JuX3pHYll4RTFadndkTE1BbVUyc1RKSzRuYw?oc=5",
       "first_seen": "2026-09-03T23:30:24Z",
       "focus": [
         "操業情報"
@@ -1431,23 +1478,6 @@
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "d0e419231fbbea8b48d5",
-      "title": "日本製紙の八代工場で出火、煙突の解体作業中 熊本地震で被災",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T10:06:34Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ1pKRmYydkZqWXZiSVVJZ0RpNmtkWXdNYUt3ZjZNM2ZmcVZvaWM3dmhvT0xfZ1hKTW5YeklOMVZZRlNCWUsyWVNjSldSTXpTZWh1Z09ocjRNVm1kWGtSOFFXODBTMWdLQUw1Yg?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
         "目撃証言",
         "現場状況"
       ],
@@ -1692,6 +1722,23 @@
       ]
     },
     {
+      "id": "a74c32c11902447365d7",
+      "title": "熊本地震 福祉避難所、想定超え 断水・停電で使えず/職員被災し人手不足",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRm1scVdKQXpaR0pXM1JaZG5GRDZ6MXBTOGdyYUZuUW5TbGtRdTF3TFpVdmJpenc4bUpTWV81WW9zYTFqdjdjMTZLQUtpVmJITVFEYy04NmRGQl9nRFM4ZEExcUpJUGdh?oc=5",
+      "first_seen": "2026-09-02T17:30:26Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "0ee3032c78a2d68fe11b",
       "title": "日本製紙八代工場の火災は鎮圧 「煙突解体作業中に出火」と通報",
       "source": "毎日新聞",
@@ -1717,6 +1764,23 @@
       "published_at": "2026-09-03T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lYmttenBBOXlfdDBaZDVJNWE5akFtcFgybURKbzJRdzUwR3VKT05tdDVGYXBOUGZpcWk0Z1ZaZFUyWGpNZDhuVjlBWDVSZ20yNXZKcDF0U2I5WGNCMHhwbC1VQzJqOGdk?oc=5",
       "first_seen": "2026-09-03T10:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "d0e419231fbbea8b48d5",
+      "title": "日本製紙の八代工場で出火、煙突の解体作業中 熊本地震で被災",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZ1pKRmYydkZqWXZiSVVJZ0RpNmtkWXdNYUt3ZjZNM2ZmcVZvaWM3dmhvT0xfZ1hKTW5YeklOMVZZRlNCWUsyWVNjSldSTXpTZWh1Z09ocjRNVm1kWGtSOFFXODBTMWdLQUw1Yg?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -1791,23 +1855,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "a74c32c11902447365d7",
-      "title": "熊本地震 福祉避難所、想定超え 断水・停電で使えず/職員被災し人手不足",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-02T17:01:31Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRm1scVdKQXpaR0pXM1JaZG5GRDZ6MXBTOGdyYUZuUW5TbGtRdTF3TFpVdmJpenc4bUpTWV81WW9zYTFqdjdjMTZLQUtpVmJITVFEYy04NmRGQl9nRFM4ZEExcUpJUGdh?oc=5",
-      "first_seen": "2026-09-02T17:30:26Z",
-      "focus": [
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -1903,6 +1950,20 @@
         "避難状況",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "0e5b5f932839ed8cfd8b",
+      "title": "<2026年熊本地震>イオン八代店、食品売り場再開 9月1日から時短営業",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-08-31T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQMEFpZ0VUMGRWbEVrNTdCeEhSZmJqaVlCX1Azdi1oS3A4ZS1Ub2ZJdUlJMVNXUV9uM2ZKZms2dk4wbHVJME5vOEczbHZ1OTQ?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
