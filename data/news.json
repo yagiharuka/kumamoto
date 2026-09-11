@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T14:01:03Z",
-  "updated_at_jst": "2026/09/11 23:01 JST",
+  "updated_at": "2026-09-11T14:30:58Z",
+  "updated_at_jst": "2026/09/11 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1272,
@@ -103,7 +103,7 @@
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-09-11T12:13:24Z",
+      "published_at": "2026-09-11T11:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1takNYeWdVS2d6bTVxUmVxOHhMTF95ZU9qWXBiWmNUZGZNTVlxMDdENzBIVnpmaGx2aERndUE1WHdqUF9XV1VldEh0dWJzb25NOTl1OXdKZEJ0ekFsNlZHWThVMzg3b2FTeXFHWFppTWNOczY0eUE?oc=5",
       "first_seen": "2026-09-11T11:48:03Z",
       "focus": [
@@ -115,7 +115,7 @@
     },
     {
       "id": "161a04eb9b6d2698988c",
-      "title": "全専門店に契約終了を打診 イオンモール熊本 「営業再開見通せないため」<2026年熊本地震>",
+      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
@@ -1398,23 +1398,6 @@
       ]
     },
     {
-      "id": "93cdf4ee18190465af22",
-      "title": "<2026年熊本地震>「科学的に原因究明」 イオンモール熊本爆発事故 経産省調査委が初会合",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T10:22:55Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWjlZX3h4NGNQRTVTWmNxVmFWVlVDdnFiZ05xVjZETXR0QUxpdU5qWnE3d251QzIwdVl4WS1JaTY1WnFPU2NrV1lNYnNUSmM?oc=5",
-      "first_seen": "2026-09-03T12:00:54Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "43649714da81b53921fa",
       "title": "日本製紙八代工場、解体作業中の煙突から出火...作業員10人は全員逃げて無事",
       "source": "読売新聞",
@@ -1683,6 +1666,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "93cdf4ee18190465af22",
+      "title": "<2026年熊本地震>「科学的に原因究明」 イオンモール熊本爆発事故 経産省調査委が初会合",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sWjlZX3h4NGNQRTVTWmNxVmFWVlVDdnFiZ05xVjZETXR0QUxpdU5qWnE3d251QzIwdVl4WS1JaTY1WnFPU2NrV1lNYnNUSmM?oc=5",
+      "first_seen": "2026-09-03T12:00:54Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
