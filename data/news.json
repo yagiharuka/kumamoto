@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T04:31:21Z",
-  "updated_at_jst": "2026/09/11 13:31 JST",
+  "updated_at": "2026-09-11T05:01:23Z",
+  "updated_at_jst": "2026/09/11 14:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1265,
+  "article_count": 1266,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "asahi": 145,
     "nhk": 111,
-    "jiji": 196,
+    "jiji": 197,
     "yomiuri": 196,
     "kumanichi": 187,
     "sankei": 201,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 959,
     "power": 132,
-    "paper": 191
+    "paper": 192
   },
   "items": [
     {
@@ -139,6 +139,20 @@
       "published_at": "2026-09-10T07:39:41Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUVWtVT0k1Nld6T0pkS0YyTV8xWjc2R3ZCa0xNbm8wOVU0Z1d0Sk9DT2U2d0ZLLVBiUmkzZUhfeE1LdnNwYXJ6X1pHOG5DcWZvcTBNLQ?oc=5",
       "first_seen": "2026-09-10T08:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "0928fa08a79e6c49d56c",
+      "title": "◎日本製紙、八代工場被災で調査委設置=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-10T07:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMDZJM1RreGlDYkR2SWhsSkZpa1ZVei1zeFRFaWxHVnd1bW1kZ1MxZGJUemUyWlZRU3JQSVdTTnBtR0k5eW9ScDBHdTNuWUN6aTdiRQ?oc=5",
+      "first_seen": "2026-09-11T05:01:23Z",
       "focus": [],
       "category_ids": [
         "paper"
@@ -1802,7 +1816,7 @@
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
-      "published_at": "2026-09-02T03:14:00Z",
+      "published_at": "2026-09-02T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzTENJN0JPcjJlSklTMlpKbF9BbU9pUnNNTUx0Mmk3eTlCMjRzOWZKbjBmTno4RnNnUEdvSUR5RVp6UWRndk83OFhrQkgwOVdrcnluSHpDNklmbm5NdWJLbGxNYTV1UTVDZzJrM2FkaHZXUQ?oc=5",
       "first_seen": "2026-09-02T03:30:23Z",
       "focus": [
