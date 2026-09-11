@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T05:01:23Z",
-  "updated_at_jst": "2026/09/11 14:01 JST",
+  "updated_at": "2026-09-11T05:31:13Z",
+  "updated_at_jst": "2026/09/11 14:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1266,
+  "article_count": 1267,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "nhk": 112,
     "asahi": 145,
-    "nhk": 111,
     "jiji": 197,
     "yomiuri": 196,
     "kumanichi": 187,
@@ -78,9 +78,26 @@
   "category_counts": {
     "aeon": 959,
     "power": 132,
-    "paper": 192
+    "paper": 193
   },
   "items": [
+    {
+      "id": "cfab3b13d78962340ca3",
+      "title": "八代 日本製紙 損傷確認ない煙突1本も撤去する方針を固める",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-11T03:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMVp2S3htNE5FVGpQWGFEQmhEckxqSXoxNzduU29lQVZHakVhWWhTeDlrMVNJMXZNb202MGdMMVRMY3o5LWo0SThOMEtib0o0YmZ1bWg2MnY?oc=5",
+      "first_seen": "2026-09-11T05:31:13Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "9145d1b224d638537561",
       "title": "イオン爆発に遭遇...けが人救助、河川敷も消火 率先した男性に感謝状 [熊本県] [2026年熊本地震]",
@@ -16522,7 +16539,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
