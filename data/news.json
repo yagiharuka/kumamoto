@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T18:30:56Z",
-  "updated_at_jst": "2026/09/12 03:30 JST",
+  "updated_at": "2026-09-11T19:01:16Z",
+  "updated_at_jst": "2026/09/12 04:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1272,
@@ -1807,6 +1807,23 @@
       ]
     },
     {
+      "id": "62241563850ec69aa7dd",
+      "title": "熊本イオン爆発、経産省の事故調査委が初会合 「科学的な視点で検証」",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNmVYMWZZeDItV3RDUGhsSVNzNW1kSGplWVI5clZZdlZyQjZWR1gwbElqWGpncGUtQW1MWnFFX2R4YTJnRnZwcFc0dEZwMFJ3N0NpU21fMGVscWZ6Rkd2b0tqRHNPMlJ6aWRSeA?oc=5",
+      "first_seen": "2026-09-03T06:30:35Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d0e419231fbbea8b48d5",
       "title": "日本製紙の八代工場で出火、煙突の解体作業中 熊本地震で被災",
       "source": "日本経済新聞",
@@ -1851,23 +1868,6 @@
       "first_seen": "2026-09-03T06:30:35Z",
       "focus": [
         "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "62241563850ec69aa7dd",
-      "title": "熊本イオン爆発、経産省の事故調査委が初会合 「科学的な視点で検証」",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T06:03:05Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNmVYMWZZeDItV3RDUGhsSVNzNW1kSGplWVI5clZZdlZyQjZWR1gwbElqWGpncGUtQW1MWnFFX2R4YTJnRnZwcFc0dEZwMFJ3N0NpU21fMGVscWZ6Rkd2b0tqRHNPMlJ6aWRSeA?oc=5",
-      "first_seen": "2026-09-03T06:30:35Z",
-      "focus": [
-        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
