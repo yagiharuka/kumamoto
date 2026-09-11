@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T07:01:03Z",
-  "updated_at_jst": "2026/09/11 16:01 JST",
+  "updated_at": "2026-09-11T07:31:08Z",
+  "updated_at_jst": "2026/09/11 16:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1267,
@@ -1182,40 +1182,6 @@
       ]
     },
     {
-      "id": "0ee3032c78a2d68fe11b",
-      "title": "日本製紙八代工場の火災は鎮圧 「煙突解体作業中に出火」と通報",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T13:47:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veWwtdHk1Z1JLdXUyb1FYVGVJZjduOWRTVmR2OXd5V1lyTVMzOTdqb295bDVtR0J6WlpjNW5qRFJCbHhYbnJGdTc4dnRLS2JaV0ZEazhlb1BjTUZsOFNNZXRza0puU2xr?oc=5",
-      "first_seen": "2026-09-03T15:30:34Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "5fe36d541ae675a8c742",
-      "title": "日本製紙八代工場の煙突火災、地元住民「ショック」 熊本地震で損傷 動画",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T13:44:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV21LLXB4MnJ1N3FGNFlSYlgxbjVLOUtlWlhRUWMxd1dpVEhWQlpGQ2pzNTFtRFJ3VzFuYVNfOWItZkptSkZFV2ZiRlc2ekpzdExyc1pfV0NncVVXLWRSUHAzejZQeVJTZTFqZ1NJRnpZWkxuUmlHN05TNWpPa2ZrZWRYMFhwNm1LVkNCUGpXTHM?oc=5",
-      "first_seen": "2026-09-03T13:30:30Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "6079552af01d9ed2b0f5",
       "title": "日本製紙八代工場の火事 ほぼ消し止められる けが人などなし",
       "source": "NHK",
@@ -1311,6 +1277,23 @@
       "published_at": "2026-09-03T12:41:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vbTRzVjJjM3k2ZEJoZE8yYXNQbFY5MnRNbURaYy1wVDVHM01KTTAwcFFxY0VjNDNjZ2lWLUUwMTY5akJzclZ2bi1WZDhLdU0?oc=5",
       "first_seen": "2026-09-03T13:00:20Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "5fe36d541ae675a8c742",
+      "title": "日本製紙八代工場の煙突火災、地元住民「ショック」 熊本地震で損傷 動画",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T12:29:42Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVd0YWlGN3VWWGZCZWQyeUhHX3h6d01pRF9nTGlZaHJaeVZPV3NTZktOaXQ5aF82ZGtBbWNGOTNIa2JEa3NqOGhGc1gzNFNZVkZyVnQ2cGtRZXFSS0RtWGRLMGVGQmdOY2MxTFBSc0dad3pfQjBMTFpvYjFjcmtTRkVfdW42Rzhjd29seFlEemtCUQ?oc=5",
+      "first_seen": "2026-09-03T13:30:30Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -1626,23 +1609,6 @@
       ]
     },
     {
-      "id": "3702b058472e09e1dbae",
-      "title": "熊本 日本製紙八代工場 地震損傷で解体中の煙突火事 鎮圧",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-03T09:25:29Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90LUtPX1hNTEZEMHlFODd6N0ppeTRCRzJPRjlrV21LVGgtazlaRVh6aElBZWQzWGZtajl2X1M0Q1FpYmZreFo2YkRDdTE4WDlqS3c1cW01c1dxMWNrUkVF?oc=5",
-      "first_seen": "2026-09-03T09:30:34Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "c76b269fa251394b4c3e",
       "title": "熊本 日本製紙八代工場「解体中の煙突から火が出た」の通報",
       "source": "NHK",
@@ -1743,6 +1709,40 @@
       ]
     },
     {
+      "id": "0ee3032c78a2d68fe11b",
+      "title": "日本製紙八代工場の火災は鎮圧 「煙突解体作業中に出火」と通報",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1veWwtdHk1Z1JLdXUyb1FYVGVJZjduOWRTVmR2OXd5V1lyTVMzOTdqb295bDVtR0J6WlpjNW5qRFJCbHhYbnJGdTc4dnRLS2JaV0ZEazhlb1BjTUZsOFNNZXRza0puU2xr?oc=5",
+      "first_seen": "2026-09-03T15:30:34Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "3702b058472e09e1dbae",
+      "title": "熊本 日本製紙八代工場 地震損傷で解体中の煙突火事 鎮圧",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90LUtPX1hNTEZEMHlFODd6N0ppeTRCRzJPRjlrV21LVGgtazlaRVh6aElBZWQzWGZtajl2X1M0Q1FpYmZreFo2YkRDdTE4WDlqS3c1cW01c1dxMWNrUkVF?oc=5",
+      "first_seen": "2026-09-03T09:30:34Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "6f1f306e1437bc970638",
       "title": "熊本地震死因、6割が圧死と窒息 イオン爆発と煙突倒壊除く(共同通信)",
       "source": "熊本日日新聞",
@@ -1794,23 +1794,6 @@
       ]
     },
     {
-      "id": "9c6b045740026eb593ec",
-      "title": "イオン爆発の原因は? 商業施設のガス配管、専門家が指摘する盲点 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T06:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Fa19IWF9qRlNHQ091cFhsUjlYR1RqM2JmVENQUUM2NmpBdDUwVDJ0VUlGNEZBTkYyLThqYmRteVhzcVEzMzRaRXJZRVNTNlRmc21uUHZOZDNNN25EQXhVc1FGRWFVQ1RyeHJXVUZ3?oc=5",
-      "first_seen": "2026-09-03T10:00:36Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "a74c32c11902447365d7",
       "title": "熊本地震 福祉避難所、想定超え 断水・停電で使えず/職員被災し人手不足",
       "source": "毎日新聞",
@@ -1841,6 +1824,23 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "9c6b045740026eb593ec",
+      "title": "イオン爆発の原因は? 商業施設のガス配管、専門家が指摘する盲点 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-02T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Fa19IWF9qRlNHQ091cFhsUjlYR1RqM2JmVENQUUM2NmpBdDUwVDJ0VUlGNEZBTkYyLThqYmRteVhzcVEzMzRaRXJZRVNTNlRmc21uUHZOZDNNN25EQXhVc1FGRWFVQ1RyeHJXVUZ3?oc=5",
+      "first_seen": "2026-09-03T10:00:36Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -3426,7 +3426,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
