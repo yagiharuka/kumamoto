@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T17:01:03Z",
-  "updated_at_jst": "2026/09/12 02:01 JST",
+  "updated_at": "2026-09-11T17:30:40Z",
+  "updated_at_jst": "2026/09/12 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1272,
@@ -1262,6 +1262,24 @@
       ]
     },
     {
+      "id": "0246db05de8b4371e61a",
+      "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T13:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDEwLWJOc3FtRVRkcTdBSHBrNVMwSDhtRGlYNHd6d2h2TjNXeFFILUk5VS1YQm1YMS1obWFjMXVkcC1kWnpPZnZVS1ctX3RjcU9pNVN3bVp2NmxMUmNleWtnYjlhWTh1OVVVUW5NNWszU1Bma0lJUUU3YTJUc1lKY1B3?oc=5",
+      "first_seen": "2026-09-04T03:00:23Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "29081465ce7d0f28882f",
       "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
       "source": "時事通信",
@@ -1331,23 +1349,6 @@
       ]
     },
     {
-      "id": "0246db05de8b4371e61a",
-      "title": "画像・写真:日本製紙八代工場で火災 熊本地震で煙突倒壊:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T10:41:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeTJrRjlPdzVKUzFXMlkxTG40V0Rtcl9sdWludFk0dEJ6R3UxWUZJai01Y01LbHN4NUo4ekoyNEFkUUtKQnpQYVgxSXZSN0daeHpRcEE2Z1VMazVRVElNNkFweDh0dndxY3R3R1JpUXJsRksxdDJ2dVowMFlrWVpwMlVn?oc=5",
-      "first_seen": "2026-09-04T03:00:23Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "b2ecf7aec477f84a4911",
       "title": "日本製紙八代工場で火災 地震で倒壊の煙突付近から出火か [写真特集3/5]",
       "source": "毎日新聞",
@@ -1376,6 +1377,22 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "ede813b4dea76a9cbabf",
+      "title": "八代工場、遠い操業再開=新聞用紙、他社が代替生産―日本製紙",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T10:23:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82SExJWEpBemJXMEFYUVpVdlpzQ1pFdnlSaXlaTVF3eVMtM0x4cU9QX1BLY1VhNll0b0JuX3pHYll4RTFadndkTE1BbVUyc1RKSzRuYw?oc=5",
+      "first_seen": "2026-09-03T23:30:24Z",
+      "focus": [
+        "操業情報"
       ],
       "category_ids": [
         "paper"
@@ -1442,23 +1459,6 @@
       "source_group": "通信社",
       "published_at": "2026-09-03T10:02:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpMTV3Z0FjcUY2LWxjNmxVenpSNElmcG5KN3ZEa1JTdEpaZk5JM3l3UnJHZnN3S01JQjcxS2hiMnZ3SXNmeWM5LXozaE82Zzctd1VNQlhLME9ibDZiUmloX042TQ?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "d94a38ceeb4fad2704fc",
-      "title": "日本製紙八代工場の煙突火災、地元住民「ショック」 熊本地震で損傷",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NRXc5VGNlM29RX1kzV0RuWGt5SmFuMDBSVlBKaGVwSFZRZlR6THhtaTBwYnVPR2dJOTl1a0RnN3pmV0NjdTIwV0VDVlExQ0pmcGhLb01haVFZc3pjMUx0QTcteWNGSk0?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "目撃証言",
@@ -1755,6 +1755,23 @@
       ]
     },
     {
+      "id": "d94a38ceeb4fad2704fc",
+      "title": "日本製紙八代工場の煙突火災、地元住民「ショック」 熊本地震で損傷",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NRXc5VGNlM29RX1kzV0RuWGt5SmFuMDBSVlBKaGVwSFZRZlR6THhtaTBwYnVPR2dJOTl1a0RnN3pmV0NjdTIwV0VDVlExQ0pmcGhLb01haVFZc3pjMUx0QTcteWNGSk0?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "48914e9689d477a6d06b",
       "title": "イオン爆発の原因は? 商業施設のガス配管、専門家が指摘する盲点 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -1784,22 +1801,6 @@
         "救助・安否",
         "目撃証言",
         "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "ede813b4dea76a9cbabf",
-      "title": "八代工場、遠い操業再開=新聞用紙、他社が代替生産―日本製紙",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82SExJWEpBemJXMEFYUVpVdlpzQ1pFdnlSaXlaTVF3eVMtM0x4cU9QX1BLY1VhNll0b0JuX3pHYll4RTFadndkTE1BbVUyc1RKSzRuYw?oc=5",
-      "first_seen": "2026-09-03T23:30:24Z",
-      "focus": [
-        "操業情報"
       ],
       "category_ids": [
         "paper"
