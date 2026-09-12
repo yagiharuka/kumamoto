@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-12T12:00:52Z",
-  "updated_at_jst": "2026/09/12 21:00 JST",
+  "updated_at": "2026-09-12T12:01:47Z",
+  "updated_at_jst": "2026/09/12 21:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1278,
@@ -1403,23 +1403,6 @@
       ]
     },
     {
-      "id": "f1b7a798fa74344c9245",
-      "title": "<2026年熊本地震・動画あり>日本製紙八代工場で解体中の煙突から出火 八代市",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T11:48:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ta3ZUMDU3TnJzbzFFQzFwWFlPTUZXLVptSVVaVnRuMVFZSHpMbWM0b3JPd1lVNWRVYXlvMnNTeEVKQnUtWlYtTEdtYUQwcnM?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "b2ecf7aec477f84a4911",
       "title": "日本製紙八代工場で火災 地震で倒壊の煙突付近から出火か [写真特集3/5]",
       "source": "毎日新聞",
@@ -1680,6 +1663,23 @@
       "source_group": "全国紙",
       "published_at": "2026-09-03T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWG5ZX2ZhSllwLTA1ODVCMnhTYTJtQkFPRTlycXBMSjBEV0FlS3lDT2tNOGFPMUV4bjl2SWdvbnVraGs4a2ZJT01hZUNRVTQ0ZVRGTUlkNnlrdUtubEllaVotc2hJM2pUVHNralVzQnRCaTlPQWc?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "f1b7a798fa74344c9245",
+      "title": "<2026年熊本地震・動画あり>日本製紙八代工場で解体中の煙突から出火 八代市",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ta3ZUMDU3TnJzbzFFQzFwWFlPTUZXLVptSVVaVnRuMVFZSHpMbWM0b3JPd1lVNWRVYXlvMnNTeEVKQnUtWlYtTEdtYUQwcnM?oc=5",
       "first_seen": "2026-09-03T10:30:40Z",
       "focus": [
         "目撃証言",
