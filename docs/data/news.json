@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-12T18:00:51Z",
-  "updated_at_jst": "2026/09/13 03:00 JST",
+  "updated_at": "2026-09-12T18:01:22Z",
+  "updated_at_jst": "2026/09/13 03:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1280,
@@ -1916,7 +1916,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Dam1qdmFiald4MHlnZEFqcE0wdENxU1JWV1RidzItZXhPRHU0MjFzTFNRUEUxbWxWeFBJM0FHdzJQWXBlV2MtMW5FMVUtSDVYbUFDZ2gzRUhlbFpOUGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82SExJWEpBemJXMEFYUVpVdlpzQ1pFdnlSaXlaTVF3eVMtM0x4cU9QX1BLY1VhNll0b0JuX3pHYll4RTFadndkTE1BbVUyc1RKSzRuYw?oc=5",
       "first_seen": "2026-09-03T23:30:24Z",
       "focus": [
         "操業情報"
@@ -2615,6 +2615,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "f0d35eddb702505c34db",
+      "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-27T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVI2NVVQdThweXRlRWN4M1ZFbExkaHFhUk42aHc2bElSOUkzZ3lyQ3hlcW1iSy1GU0ZkWTBlUzVKbnlNS0kxWmx1RWtZWENuWTFOV001c19BLW5KTmYxTk01bUdSeW9hclVnQXh4aGVxQ1ZKbnNMcTNRVnA4dkxhTFkxbnZLNXNUUVZtWHZiTzJNdGZYSlZ1VzliN0NIUFRjdlE?oc=5",
+      "first_seen": "2026-08-27T16:30:20Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -7239,20 +7253,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f0d35eddb702505c34db",
-      "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2ZkZksyX2FfZU5GS2VFZU1wcFc3c3hJc2daZHMtME03Vmw4WnBfV3pNQzlTVEpPRGRXQWhTUWNEN2x5eXp6SDVFRVNBY0tDR21zZ3ZCRXhJb1RHTG5KV2U4SmQxU2VIVlRKUV9HSnJlTzlSUTFXOU9wT2NEUGhncm54azFFb24xQ0ZMYkFoYlpWZGhYY1BMZjZFZ3V4RmxEZ3c?oc=5",
-      "first_seen": "2026-08-27T16:30:20Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
