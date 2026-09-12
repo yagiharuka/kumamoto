@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-12T22:31:27Z",
+  "updated_at": "2026-09-12T22:31:53Z",
   "updated_at_jst": "2026/09/13 07:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
@@ -2615,6 +2615,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "f0d35eddb702505c34db",
+      "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-27T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVI2NVVQdThweXRlRWN4M1ZFbExkaHFhUk42aHc2bElSOUkzZ3lyQ3hlcW1iSy1GU0ZkWTBlUzVKbnlNS0kxWmx1RWtZWENuWTFOV001c19BLW5KTmYxTk01bUdSeW9hclVnQXh4aGVxQ1ZKbnNMcTNRVnA4dkxhTFkxbnZLNXNUUVZtWHZiTzJNdGZYSlZ1VzliN0NIUFRjdlE?oc=5",
+      "first_seen": "2026-08-27T16:30:20Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -7242,20 +7256,6 @@
       ]
     },
     {
-      "id": "f0d35eddb702505c34db",
-      "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2ZkZksyX2FfZU5GS2VFZU1wcFc3c3hJc2daZHMtME03Vmw4WnBfV3pNQzlTVEpPRGRXQWhTUWNEN2x5eXp6SDVFRVNBY0tDR21zZ3ZCRXhJb1RHTG5KV2U4SmQxU2VIVlRKUV9HSnJlTzlSUTFXOU9wT2NEUGhncm54azFFb24xQ0ZMYkFoYlpWZGhYY1BMZjZFZ3V4RmxEZ3c?oc=5",
-      "first_seen": "2026-08-27T16:30:20Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "a13bb4e3f4a575b1430a",
       "title": "死亡の従業員、貴重品取りに戻った オンワード「指導不徹底と深く反省」イオン熊本爆発",
       "source": "産経新聞",
@@ -7608,7 +7608,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -12521,7 +12521,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3RwczhsY1BvNEl3RDdfRHVrbFJ6YnhmWWdIWDE0RHpCNjhfSjgwU05PX0NELWV3YllISGxtTFhoeUd4VFFvV1BfOXFzem5wemNNSGRuXzBwVFBLS08zRHFyUlVXcWFhajMtaUVUSkdWWk9HVXpaQjRaVm1NdGc3RzQwRkhqZl9Oei1MQV9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vnc1cmhBcjRnT29pWUg0SE9TN3VtQzlkT2Rlc2RIV09OMWN2WHhGdDFad2NvRE0tVmxXLWFJVTlnVjNIbDhfYXVkeERna0xEb1NwMk9ubGkzNElRd3BlVFoteXQwQ2VVeERTQWln?oc=5",
       "first_seen": "2026-08-04T05:31:06Z",
       "focus": [
         "避難状況",
