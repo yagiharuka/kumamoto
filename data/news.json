@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-12T17:01:49Z",
-  "updated_at_jst": "2026/09/13 02:01 JST",
+  "updated_at": "2026-09-12T17:30:54Z",
+  "updated_at_jst": "2026/09/13 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1279,
+  "article_count": 1280,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "mainichi": 160,
+    "mainichi": 161,
     "kumanichi": 192,
     "sankei": 203,
     "nhk": 114,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 970,
+    "aeon": 971,
     "power": 132,
     "paper": 194
   },
   "items": [
+    {
+      "id": "6a106b87efb5de5504c2",
+      "title": "イオンモール熊本:契約の一時解除、イオン熊本打診 全テナントに",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-12T17:02:21Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETXhRRURFcW8yNEVNbXVLLUhRNDg3V3V6MUxOOFpvVzYtV1BiTVlxUXRkTVl5STl3dlJSUjRtYmMzN25Eajh1SjA1RVkwVUVKYWs3ZWFzWFE3dmdsYW91bHcteGxYWTBO?oc=5",
+      "first_seen": "2026-09-12T17:30:54Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "b92f8ec6de78455581e5",
       "title": "地震で休業のイオンモール熊本、全テナントに一時契約解除を打診",
@@ -1402,6 +1416,23 @@
       ]
     },
     {
+      "id": "f1b7a798fa74344c9245",
+      "title": "<2026年熊本地震・動画あり>日本製紙八代工場で解体中の煙突から出火 八代市",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T11:48:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ta3ZUMDU3TnJzbzFFQzFwWFlPTUZXLVptSVVaVnRuMVFZSHpMbWM0b3JPd1lVNWRVYXlvMnNTeEVKQnUtWlYtTEdtYUQwcnM?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "b2ecf7aec477f84a4911",
       "title": "日本製紙八代工場で火災 地震で倒壊の煙突付近から出火か [写真特集3/5]",
       "source": "毎日新聞",
@@ -1496,40 +1527,6 @@
       "published_at": "2026-09-03T10:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMG1BanR5Z2JjQ0hxVVdpYlFOSEh0U05pVWNGOXNOcWo4S2xJdlpfTDRnS1NwSVlmc3lHVWtzWXFTT0trQnkyajhCaFVmd0VwY3RtaG4zcFB0ZFd1eFpjOHBWcUxXYkl0WXp3Z3dR?oc=5",
       "first_seen": "2026-09-03T13:00:20Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "ea2cc1d23cd53b9968ec",
-      "title": "【速報・動画あり】日本製紙八代工場の煙突から出火 八代市",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T09:52:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RG9ZVWNmNVdERHN1QWdvTUFlSFdRSnNhQWRPN2V5SXJNNnUwcE1LTm5hUTB3WGdvSk9zN0NlYjNUaDMyOVRka0xwS0dtUlE?oc=5",
-      "first_seen": "2026-09-03T09:30:34Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "7efcbdf860bdc52b2d1f",
-      "title": "日本製紙八代工場で出火、煙突解体作業中か (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T09:42:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQXl5dUhtZlhQRDRyQmVHZExOMkp5UWFLaDFpeUM5dUxvZkRIeEZ3VE00cTMzS0pIOS1zRzlQNGV0LVpnTWpxcUpSSzE2REk?oc=5",
-      "first_seen": "2026-09-03T10:00:36Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -1672,14 +1669,31 @@
       ]
     },
     {
-      "id": "f1b7a798fa74344c9245",
-      "title": "<2026年熊本地震・動画あり>日本製紙八代工場で解体中の煙突から出火 八代市",
+      "id": "7efcbdf860bdc52b2d1f",
+      "title": "日本製紙八代工場で出火、煙突解体作業中か (共同通信)",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ta3ZUMDU3TnJzbzFFQzFwWFlPTUZXLVptSVVaVnRuMVFZSHpMbWM0b3JPd1lVNWRVYXlvMnNTeEVKQnUtWlYtTEdtYUQwcnM?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBQXl5dUhtZlhQRDRyQmVHZExOMkp5UWFLaDFpeUM5dUxvZkRIeEZ3VE00cTMzS0pIOS1zRzlQNGV0LVpnTWpxcUpSSzE2REk?oc=5",
+      "first_seen": "2026-09-03T10:00:36Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "ea2cc1d23cd53b9968ec",
+      "title": "【速報・動画あり】日本製紙八代工場の煙突から出火 八代市",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53RG9ZVWNmNVdERHN1QWdvTUFlSFdRSnNhQWRPN2V5SXJNNnUwcE1LTm5hUTB3WGdvSk9zN0NlYjNUaDMyOVRka0xwS0dtUlE?oc=5",
+      "first_seen": "2026-09-03T09:30:34Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -1902,7 +1916,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82SExJWEpBemJXMEFYUVpVdlpzQ1pFdnlSaXlaTVF3eVMtM0x4cU9QX1BLY1VhNll0b0JuX3pHYll4RTFadndkTE1BbVUyc1RKSzRuYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Dam1qdmFiald4MHlnZEFqcE0wdENxU1JWV1RidzItZXhPRHU0MjFzTFNRUEUxbWxWeFBJM0FHdzJQWXBlV2MtMW5FMVUtSDVYbUFDZ2gzRUhlbFpOUGc?oc=5",
       "first_seen": "2026-09-03T23:30:24Z",
       "focus": [
         "操業情報"
@@ -2601,20 +2615,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "f0d35eddb702505c34db",
-      "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-08-27T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVI2NVVQdThweXRlRWN4M1ZFbExkaHFhUk42aHc2bElSOUkzZ3lyQ3hlcW1iSy1GU0ZkWTBlUzVKbnlNS0kxWmx1RWtZWENuWTFOV001c19BLW5KTmYxTk01bUdSeW9hclVnQXh4aGVxQ1ZKbnNMcTNRVnA4dkxhTFkxbnZLNXNUUVZtWHZiTzJNdGZYSlZ1VzliN0NIUFRjdlE?oc=5",
-      "first_seen": "2026-08-27T16:30:20Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -7239,6 +7239,20 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "f0d35eddb702505c34db",
+      "title": "熊本地震で被災した日本製紙八代工場=7月4日、熊本県八代市(酒井真大撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-08-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2ZkZksyX2FfZU5GS2VFZU1wcFc3c3hJc2daZHMtME03Vmw4WnBfV3pNQzlTVEpPRGRXQWhTUWNEN2x5eXp6SDVFRVNBY0tDR21zZ3ZCRXhJb1RHTG5KV2U4SmQxU2VIVlRKUV9HSnJlTzlSUTFXOU9wT2NEUGhncm54azFFb24xQ0ZMYkFoYlpWZGhYY1BMZjZFZ3V4RmxEZ3c?oc=5",
+      "first_seen": "2026-08-27T16:30:20Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -16443,7 +16457,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
