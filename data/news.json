@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-12T06:30:59Z",
-  "updated_at_jst": "2026/09/12 15:30 JST",
+  "updated_at": "2026-09-12T06:32:06Z",
+  "updated_at_jst": "2026/09/12 15:32 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1278,
@@ -1403,6 +1403,23 @@
       ]
     },
     {
+      "id": "bfd02b1bccfbb4bd7502",
+      "title": "2026年熊本地震>黒煙、破裂音「恐ろしい」 消火活動見守る住民 八代市・日本製紙八代工場の煙突火災",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-03T12:41:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vbTRzVjJjM3k2ZEJoZE8yYXNQbFY5MnRNbURaYy1wVDVHM01KTTAwcFFxY0VjNDNjZ2lWLUUwMTY5akJzclZ2bi1WZDhLdU0?oc=5",
+      "first_seen": "2026-09-03T13:00:20Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "f1b7a798fa74344c9245",
       "title": "<2026年熊本地震・動画あり>日本製紙八代工場で解体中の煙突から出火 八代市",
       "source": "熊本日日新聞",
@@ -1722,23 +1739,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "bfd02b1bccfbb4bd7502",
-      "title": "2026年熊本地震>黒煙、破裂音「恐ろしい」 消火活動見守る住民 八代市・日本製紙八代工場の煙突火災",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vbTRzVjJjM3k2ZEJoZE8yYXNQbFY5MnRNbURaYy1wVDVHM01KTTAwcFFxY0VjNDNjZ2lWLUUwMTY5akJzclZ2bi1WZDhLdU0?oc=5",
-      "first_seen": "2026-09-03T13:00:20Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
