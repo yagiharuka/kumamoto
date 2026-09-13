@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-13T13:01:06Z",
-  "updated_at_jst": "2026/09/13 22:01 JST",
+  "updated_at": "2026-09-13T13:31:02Z",
+  "updated_at_jst": "2026/09/13 22:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1280,
@@ -805,6 +805,23 @@
       ]
     },
     {
+      "id": "7c902a0d2463df28a46b",
+      "title": "イオンモール熊本爆発、雑貨店側が従業員の遺族に事実と異なる説明...「保身と動揺によるもの」謝罪",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0TzE0aDRtWVMxeU5qNzRQSWxjYmluS1BLNFJYa081NGtRS2NrU3d5X2tDY1ZuYzBPWGRsZUl5Ml9YTUpCVmhjMWktSHBPR19xUHVwU3B3QmxKZDZ3bExJZ2FRWFRoSlBqTERWTzdjYUg0TjMt?oc=5",
+      "first_seen": "2026-09-05T02:30:36Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e40f1c6b81e2ea19fd0f",
       "title": "「土砂崩れいつ起きるか」 激しい雨、一時20戸停電(共同通信)",
       "source": "熊本日日新聞",
@@ -818,23 +835,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "7c902a0d2463df28a46b",
-      "title": "イオンモール熊本爆発、雑貨店側が従業員の遺族に事実と異なる説明...「保身と動揺によるもの」謝罪",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-09-05T02:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydTl4a3EwaWpyem8tQ0pGUU5ZRE5DTzA1Rml1MzQyVmxxaUtwM3d4LVpLVVJOTVJyTW9IVllVUlNjcDRXVE1ieVFINnZmUXM1NlRjZEYxbkdONEctOWd1MWV4ZG1uaVA1X1N2V3ktajhQdw?oc=5",
-      "first_seen": "2026-09-05T02:30:36Z",
-      "focus": [
-        "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -1326,22 +1326,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "6079552af01d9ed2b0f5",
-      "title": "日本製紙八代工場の火事 ほぼ消し止められる けが人などなし",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-03T13:33:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaFpMTFo3RmJkSU5IbHBpZGhFNHdFVmJGTUZoTEF0czVkTzNEMTJhY0lvZU0xWl9RSnpfQl9lekhCNXFyZmc3OWNOazNLcXlERWM0NVc0RFY?oc=5",
-      "first_seen": "2026-09-03T14:00:23Z",
-      "focus": [
-        "救助・安否"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -1955,6 +1939,22 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "6079552af01d9ed2b0f5",
+      "title": "日本製紙八代工場の火事 ほぼ消し止められる けが人などなし",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaFpMTFo3RmJkSU5IbHBpZGhFNHdFVmJGTUZoTEF0czVkTzNEMTJhY0lvZU0xWl9RSnpfQl9lekhCNXFyZmc3OWNOazNLcXlERWM0NVc0RFY?oc=5",
+      "first_seen": "2026-09-03T14:00:23Z",
+      "focus": [
+        "救助・安否"
       ],
       "category_ids": [
         "paper"
@@ -13990,7 +13990,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
@@ -16596,7 +16596,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85SnRodlZzTVdaZlc1QjFDMUh3S2otN3JtQlNvRWlrQVlGZ18ta1dCZzJLczhTOFBmNm90ZmliUXVpZkoxYlFVbkhBTHg1S2tqUXU0bC1PM1A2M21UeURxSW5pSkhfVjBhamNuZWVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWnhVSEZTS0VaMmZ4X0JqMUhpZy0xdFNFNU14aUhZV2JickNldENhZ3JQUXhDMmtKV0gwMFVESzVLeUFvNTE1bDhkdmNVM3VNVkM4NWFkd2tnS3RnVDJsdFROek1OV3JnWUl0V0Z3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
