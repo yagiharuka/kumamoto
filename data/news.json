@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-13T16:01:04Z",
-  "updated_at_jst": "2026/09/14 01:01 JST",
+  "updated_at": "2026-09-13T16:31:02Z",
+  "updated_at_jst": "2026/09/14 01:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1280,
@@ -990,23 +990,6 @@
       ]
     },
     {
-      "id": "ab9215b7411da9edcb95",
-      "title": "熊本 被災工場で出火 日本製紙八代 損壊煙突作業中",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbDBlaXV5V3BZU0Q1cWhFUk11LUVQa2J6U2xwbTNqOGZUVDdaQmMzUllGdURHVUw0ZzNNWHRqTTdKeHlXcHd3MzU3Zzc4bXlEZFZlTFlQX3dTWnFPZkVxS2pIYm40dS02?oc=5",
-      "first_seen": "2026-09-06T12:00:42Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "053add559a2f9346709b",
       "title": "火災:熊本地震で損壊 煙突解体中出火 日本製紙八代",
       "source": "毎日新聞",
@@ -1241,6 +1224,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "ab9215b7411da9edcb95",
+      "title": "熊本 被災工場で出火 日本製紙八代 損壊煙突作業中",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T20:05:16Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XbDBlaXV5V3BZU0Q1cWhFUk11LUVQa2J6U2xwbTNqOGZUVDdaQmMzUllGdURHVUw0ZzNNWHRqTTdKeHlXcHd3MzU3Zzc4bXlEZFZlTFlQX3dTWnFPZkVxS2pIYm40dS02?oc=5",
+      "first_seen": "2026-09-06T12:00:42Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -1535,23 +1535,6 @@
       ]
     },
     {
-      "id": "5e01d855795b7406aef8",
-      "title": "熊本イオン爆発、事故調が初会合「経験のない事象」 ガス漏れ焦点 [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T07:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mU2xKRUZLSVM2WGczOFdnU050NnJtaHVBbzhvbFNXdHZka21teldBd1RReFlULXozR3VGbi15b0xVSm5MaXZYb196dlJ1dS1leEJVZ1FuZW9oejVUc0VGRk1CdDdQUGc?oc=5",
-      "first_seen": "2026-09-03T08:00:35Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "92c346ced76af8f35304",
       "title": "熊本イオン爆発、事故調が初会合「経験のない事象」 ガス漏れ焦点",
       "source": "朝日新聞",
@@ -1770,6 +1753,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "5e01d855795b7406aef8",
+      "title": "熊本イオン爆発、事故調が初会合「経験のない事象」 ガス漏れ焦点 [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mU2xKRUZLSVM2WGczOFdnU050NnJtaHVBbzhvbFNXdHZka21teldBd1RReFlULXozR3VGbi15b0xVSm5MaXZYb196dlJ1dS1leEJVZ1FuZW9oejVUc0VGRk1CdDdQUGc?oc=5",
+      "first_seen": "2026-09-03T08:00:35Z",
+      "focus": [
+        "原因・検証",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -16753,7 +16753,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
