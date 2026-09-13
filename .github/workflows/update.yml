@@ -57,6 +57,7 @@ jobs:
         env:
           FALLBACK_EVENT_NAME: ${{ github.event_name }}
           FALLBACK_SCHEDULE: ${{ github.event.schedule }}
+          FALLBACK_TRIGGER: ${{ inputs.trigger }}
         run: python scripts/fallback_guard.py
 
       - name: Set up Python
@@ -117,7 +118,19 @@ jobs:
             echo "No data changes to commit."
           else
             git commit -m "chore: refresh news data"
-            git push
+            for attempt in 1 2 3; do
+              echo "Push attempt ${attempt} of 3"
+              if git push; then
+                exit 0
+              fi
+              if [ "${attempt}" -lt 3 ]; then
+                delay=$((attempt * 10))
+                echo "Push failed; retrying in ${delay} seconds."
+                sleep "${delay}"
+              fi
+            done
+            echo "Push failed after 3 attempts." >&2
+            exit 1
           fi
 
       - name: Configure GitHub Pages

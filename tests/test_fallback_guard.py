@@ -16,12 +16,59 @@ class FallbackGuardTests(unittest.TestCase):
     def setUp(self) -> None:
         self.now = datetime(2026, 8, 8, 9, 59, tzinfo=timezone.utc)
 
-    def test_manual_and_cloudflare_dispatches_always_run(self) -> None:
+    def test_manual_and_push_dispatches_always_run(self) -> None:
         fresh = self.now - timedelta(minutes=1)
         for event_name in ("workflow_dispatch", "push"):
             self.assertTrue(
                 fallback_guard.fallback_is_needed(event_name, fresh, self.now)
             )
+
+    def test_duplicate_cloudflare_dispatch_skips_covered_current_slot(self) -> None:
+        now = self.now.replace(minute=31)
+        updated_at = now.replace(second=5)
+        self.assertFalse(
+            fallback_guard.fallback_is_needed(
+                "workflow_dispatch",
+                updated_at,
+                now,
+                trigger="cloudflare-cron",
+            )
+        )
+
+    def test_cloudflare_dispatch_runs_when_current_slot_is_missing(self) -> None:
+        now = self.now.replace(minute=31)
+        updated_at = now.replace(minute=29)
+        self.assertTrue(
+            fallback_guard.fallback_is_needed(
+                "workflow_dispatch",
+                updated_at,
+                now,
+                trigger="cloudflare-cron",
+            )
+        )
+
+    def test_cloudflare_dispatch_runs_when_timestamp_is_in_the_future(self) -> None:
+        updated_at = self.now + timedelta(minutes=6)
+        self.assertTrue(
+            fallback_guard.fallback_is_needed(
+                "workflow_dispatch",
+                updated_at,
+                self.now,
+                trigger="cloudflare-cron",
+            )
+        )
+
+    def test_current_primary_time_selects_the_active_half_hour(self) -> None:
+        at_top = self.now.replace(minute=29)
+        at_half = self.now.replace(minute=31)
+        self.assertEqual(
+            fallback_guard.current_primary_time(at_top),
+            at_top.replace(minute=0, second=0, microsecond=0),
+        )
+        self.assertEqual(
+            fallback_guard.current_primary_time(at_half),
+            at_half.replace(minute=30, second=0, microsecond=0),
+        )
 
     def test_delayed_40_minute_fallback_skips_completed_30_minute_slot(self) -> None:
         updated_at = self.now.replace(minute=31)

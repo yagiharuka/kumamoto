@@ -40,7 +40,15 @@ def fallback_is_needed(
     updated_at: datetime | None,
     now: datetime,
     schedule: str | None = None,
+    trigger: str | None = None,
 ) -> bool:
+    if event_name == "workflow_dispatch" and trigger == "cloudflare-cron":
+        if updated_at is None:
+            return True
+        now = now.astimezone(timezone.utc)
+        if updated_at > now + MAX_CLOCK_SKEW:
+            return True
+        return updated_at < current_primary_time(now)
     if event_name != "schedule":
         return True
     if updated_at is None:
@@ -52,6 +60,13 @@ def fallback_is_needed(
     if target is None:
         return True
     return updated_at < target
+
+
+def current_primary_time(now: datetime) -> datetime:
+    """Return the current Cloudflare :00 or :30 collection slot."""
+    now = now.astimezone(timezone.utc)
+    minute = 30 if now.minute >= 30 else 0
+    return now.replace(minute=minute, second=0, microsecond=0)
 
 
 def target_primary_time(schedule: str | None, now: datetime) -> datetime | None:
@@ -81,13 +96,24 @@ def write_output(should_run: bool) -> None:
 def main() -> int:
     event_name = os.environ.get("FALLBACK_EVENT_NAME", "workflow_dispatch")
     schedule = os.environ.get("FALLBACK_SCHEDULE")
+    trigger = os.environ.get("FALLBACK_TRIGGER")
     now = datetime.now(timezone.utc)
     updated_at = load_updated_at()
-    target = target_primary_time(schedule, now) if event_name == "schedule" else None
-    should_run = fallback_is_needed(event_name, updated_at, now, schedule)
+    if event_name == "schedule":
+        target = target_primary_time(schedule, now)
+    elif event_name == "workflow_dispatch" and trigger == "cloudflare-cron":
+        target = current_primary_time(now)
+    else:
+        target = None
+    should_run = fallback_is_needed(event_name, updated_at, now, schedule, trigger)
     write_output(should_run)
 
-    if event_name != "schedule":
+    if event_name == "workflow_dispatch" and trigger == "cloudflare-cron":
+        if should_run:
+            print(f"Cloudflare primary slot is missing ({target.isoformat()}); collection will run.")
+        else:
+            print(f"Cloudflare primary slot is already covered ({target.isoformat()}); duplicate is skipped.")
+    elif event_name != "schedule":
         print("Primary or manual trigger: collection will run.")
     elif should_run:
         target_text = "unknown" if target is None else target.isoformat()
