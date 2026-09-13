@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-13T02:01:04Z",
-  "updated_at_jst": "2026/09/13 11:01 JST",
+  "updated_at": "2026-09-13T02:31:01Z",
+  "updated_at_jst": "2026/09/13 11:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1280,
@@ -1518,22 +1518,6 @@
       ]
     },
     {
-      "id": "d3b1ac73f5ca6fabb298",
-      "title": "イオンモール熊本の爆発 経産省委託の事故調査委員会初会合",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-03T09:14:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfM2VCcDllUjZHQWpYTUU3Y3hZU0VGb3loT3I3MUU0X1EyNUlVaGhSb3JEX1NHRm5KUjRfUmdNb1NhTDJ4VTN3akJ2TWhfTkxnQV9YQnUzcUg3VllyeGtV?oc=5",
-      "first_seen": "2026-09-03T14:00:23Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "bd8880da4dda995a94e6",
       "title": "熊本「イオンモール爆発」経産省委託の事故調査委員会が初会合",
       "source": "NHK",
@@ -1974,6 +1958,22 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "d3b1ac73f5ca6fabb298",
+      "title": "イオンモール熊本の爆発 経産省委託の事故調査委員会初会合",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfM2VCcDllUjZHQWpYTUU3Y3hZU0VGb3loT3I3MUU0X1EyNUlVaGhSb3JEX1NHRm5KUjRfUmdNb1NhTDJ4VTN3akJ2TWhfTkxnQV9YQnUzcUg3VllyeGtV?oc=5",
+      "first_seen": "2026-09-03T14:00:23Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
