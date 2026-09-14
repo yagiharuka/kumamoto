@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T23:00:43Z",
-  "updated_at_jst": "2026/09/15 08:00 JST",
+  "updated_at": "2026-09-14T23:58:20Z",
+  "updated_at_jst": "2026/09/15 08:58 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1287,
@@ -918,7 +918,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-05T03:23:00Z",
+      "published_at": "2026-09-05T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41WktOSFFWZXNRQzlCTUNCNkdpZlQwc1AwM3ZhMXhDUS0yZ045WGRFazZ3aFBSRnUxRm9RSlBqaHBaQ2F0eTNDX1NlMzNYM28?oc=5",
       "first_seen": "2026-09-05T04:00:32Z",
       "focus": [
@@ -2712,7 +2712,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LSVdMcDhKOXJkaTY4XzEwMktCQmhGTlVGZzM5bi1ERU5JMno5RXJ2bDBROVVpc1NPLUQ1eXVMWGxyOVBRNEtxelVlNWNSbThsQTJic1o2aHd2Mjl1RzVyUXdJc3hib3hfRzdIY1JB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8waER5NU9FcEZxNkJZTE9EVl9kXzk4eU1adDZvZmMwTU1jVW9nSHlWRHZITkNDVlNYRkJZY1dVVHIya3d0MmYxZ3AtWlhhVlhPSGdLQzRTbFg1cWRWX0FYY1NTOVptdWVWSTVSWnp3?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -5341,7 +5341,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXVQdGFuRmtvMG1mbmtkbDlqeVBwb0Nma2JoRzF5TEx0a0NabHU5NnN6N0tPVC1wSWd1eWduOFhnelZsbXZoZDc4LVRnRXRiWUl5em85QmFVVHp1eWg4a1I0LVE5Ym1USlBuQi1fWlBqV2w1cWoyQWNzbldJUlJ2WWln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
       "focus": [
         "現場状況"
@@ -7698,7 +7698,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -12628,7 +12628,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LU0E0UkpLaGdhWlN5NjFwdW5lSVVTbFNGWm8yYTA3V3psbHM4dXZaWERvTUF4emN2OWlINklwQk0wcGxCTk12cDFKQ0JGdlRfbGF3YUh2QzlUZTBY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93UVVpUnNueUVKcUVDRmFFTC1MUFE0UGRQVEN0SlhyenJlc01BcmhzS2RCVU9ubWhMMTBTM09KUWVrRUxWMW1VUjdwVG1ob1hIYXZhLWZHWERPNFdiWG1BQUoxMDUtU1prdTgwZlVn?oc=5",
       "first_seen": "2026-07-29T20:30:10Z",
       "focus": [
         "原因・検証",
@@ -16517,7 +16517,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUl6VTZabGdJT2R3Q0NrajlLdmpJTktNazJ1ZnAwX2xrSDhmcERqc3pXdjdCbzZZby1NWmpmb01QUFQtbUVsOHdMWGgxbXJRVkpsUHNiTlVCaWxaZ2d6d1lrYl9PN3laMjBMUHJxZnJvSkRNY1k4ZWJWV2ZzWHBDWGdjd0RjTC05ZTZIWTZXc0x2Zw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -20547,7 +20547,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FSEg5eFZ1LVJJZURlblFpWW9zUW5YUDhqdDRHbHZjRHJFX1JvNlZmb3UxZUd2SVFVMzBMeTBScWFIMnVhQVVTNDZ3Wm4yRVZ1OWpzWTZHNzJ2SXhKX2dNTTJHTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0VLRE1uU0o0Z3psQTdvYmdJdHVuYkljSF9mUUNTeFZ1Mm9QVEdWR044ZWVvd0x5dEhOTjdhUXpTVFhvUXY4UG92bTBUZHY4OS1FYVU5Z3BieTl5WUQyc2htanFycDVRaVRJeEpGTTdiQldMRlhyWmY1aW9BVmtIaA?oc=5",
       "first_seen": "2026-07-28T22:00:27Z",
       "focus": [
         "目撃証言",
