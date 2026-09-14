@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T18:30:44Z",
-  "updated_at_jst": "2026/09/15 03:30 JST",
+  "updated_at": "2026-09-14T19:00:44Z",
+  "updated_at_jst": "2026/09/15 04:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1286,
+  "article_count": 1287,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "sankei": 204,
     "mainichi": 162,
     "yomiuri": 197,
-    "asahi": 147,
+    "asahi": 148,
     "jiji": 197,
     "nikkei": 70
   },
@@ -77,7 +77,7 @@
   ],
   "category_counts": {
     "aeon": 977,
-    "power": 132,
+    "power": 133,
     "paper": 194
   },
   "items": [
@@ -5689,6 +5689,22 @@
       ]
     },
     {
+      "id": "edb8958bb2072eee6be8",
+      "title": "~災害から助かった命を守るために~ 真夏の停電と災害関連死 令和8年熊本地震が問い直す",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TUlMaVU5V0s3N0Y4TFN6TExFS0JnT0ZNaWNxaWppcWxJR1pjOFBlVHZyNUFmbV9HVzlkX3BqY1pEeV9GczhZS0NONFBhNGdwRW9zQXFoOTFrTzg?oc=5",
+      "first_seen": "2026-09-14T19:00:44Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "fbc7e53ec19c954eb758",
       "title": "売上金保管指示「許せない」=「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
       "source": "時事通信",
@@ -8837,7 +8853,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
         "現場状況"
