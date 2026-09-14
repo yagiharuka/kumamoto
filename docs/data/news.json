@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T12:30:44Z",
-  "updated_at_jst": "2026/09/14 21:30 JST",
+  "updated_at": "2026-09-14T13:00:47Z",
+  "updated_at_jst": "2026/09/14 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1284,
+  "article_count": 1285,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,8 +51,8 @@
   "source_counts": {
     "kumanichi": 193,
     "nhk": 116,
+    "sankei": 204,
     "mainichi": 162,
-    "sankei": 203,
     "yomiuri": 197,
     "asahi": 146,
     "jiji": 197,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 975,
+    "aeon": 976,
     "power": 132,
     "paper": 194
   },
@@ -109,6 +109,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "cc1b6ed0577465527b3b",
+      "title": "イオンモール熊本で捜索活動を行う自衛隊員ら=7月30日、熊本県嘉島町(渡辺大樹撮影)",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-14T06:11:38Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzk4VjNCRGpVd2ZQcWFsX2E3cjBJT2M1MmRZTzhkZThJS3ZSN0lCUnFmS256ZEtzbmsyQUVoNlNuV3N6TGlNMmZpWTRncFdaczFzaVl3OV81LVJjSnF1MC10bkJtdDY5eVV4MkZTNl9VclNBa1BSbS0weUFPaTk4WEViUUNpOE1vbEM1TWZPT0FsN2VOTzI3UGw4LU9OYVlQMnc?oc=5",
+      "first_seen": "2026-09-14T13:00:47Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -1135,24 +1149,6 @@
       ]
     },
     {
-      "id": "c73ebb2665b52946eac0",
-      "title": "日本製紙八代で火災 煙突切断中 けが人なし",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNHViQnBCRTBGLUdtUXZvckhYc0tWc3ItVjE5QVJtM05hNEx0X2F1Y0U4OVpYV0E4UXRtVlIzWnBjRkhacDFObkZzbklQdU43aTltS1o5NG5VZ3VjVWc3VE9JYUMxQmpi?oc=5",
-      "first_seen": "2026-09-03T21:00:35Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "5f1fd65be90a6e6aad2f",
       "title": "日本製紙の火災 6時間半後鎮火 けが人なし 熊本・八代",
       "source": "毎日新聞",
@@ -1319,6 +1315,24 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "c73ebb2665b52946eac0",
+      "title": "日本製紙八代で火災 煙突切断中 けが人なし",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-03T20:05:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNHViQnBCRTBGLUdtUXZvckhYc0tWc3ItVjE5QVJtM05hNEx0X2F1Y0U4OVpYV0E4UXRtVlIzWnBjRkhacDFObkZzbklQdU43aTltS1o5NG5VZ3VjVWc3VE9JYUMxQmpi?oc=5",
+      "first_seen": "2026-09-03T21:00:35Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -16813,7 +16827,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
