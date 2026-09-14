@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T15:00:46Z",
-  "updated_at_jst": "2026/09/15 00:00 JST",
+  "updated_at": "2026-09-14T15:30:46Z",
+  "updated_at_jst": "2026/09/15 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1285,
@@ -97,7 +97,7 @@
     },
     {
       "id": "5eb58b2c85dee586a860",
-      "title": "経産省の事故調査委がイオン爆発の現地調査<2026年熊本地震>",
+      "title": "イオン爆発の現地調査 経産省・事故調査委 <2026年熊本地震>",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
