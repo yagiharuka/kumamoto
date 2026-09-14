@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T14:00:46Z",
-  "updated_at_jst": "2026/09/14 23:00 JST",
+  "updated_at": "2026-09-14T14:30:43Z",
+  "updated_at_jst": "2026/09/14 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1285,
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 193,
     "nhk": 116,
+    "kumanichi": 193,
     "sankei": 204,
     "mainichi": 162,
     "yomiuri": 197,
@@ -81,6 +81,20 @@
     "paper": 194
   },
   "items": [
+    {
+      "id": "87d7dec2629f9e3aae6c",
+      "title": "イオンモール熊本 一般向け献花台の設置 きょう・14日まで",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-14T12:07:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBa3h5MS1BbmQxcXR2SW0zblFZM25MNG5PYmJKUU91YnF2WlNHSU94c18tSlA4OVlvSjVxeUk2TEdlQ3ZUb25BUFlVV3M1TVlTZkdLbmoyblk?oc=5",
+      "first_seen": "2026-09-14T03:30:43Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "5eb58b2c85dee586a860",
       "title": "経産省の事故調査委がイオン爆発の現地調査<2026年熊本地震>",
@@ -122,20 +136,6 @@
       "published_at": "2026-09-14T06:11:38Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzk4VjNCRGpVd2ZQcWFsX2E3cjBJT2M1MmRZTzhkZThJS3ZSN0lCUnFmS256ZEtzbmsyQUVoNlNuV3N6TGlNMmZpWTRncFdaczFzaVl3OV81LVJjSnF1MC10bkJtdDY5eVV4MkZTNl9VclNBa1BSbS0weUFPaTk4WEViUUNpOE1vbEM1TWZPT0FsN2VOTzI3UGw4LU9OYVlQMnc?oc=5",
       "first_seen": "2026-09-14T13:00:47Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "87d7dec2629f9e3aae6c",
-      "title": "イオンモール熊本 一般向け献花台の設置 きょう・14日まで",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-14T02:58:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBa3h5MS1BbmQxcXR2SW0zblFZM25MNG5PYmJKUU91YnF2WlNHSU94c18tSlA4OVlvSjVxeUk2TEdlQ3ZUb25BUFlVV3M1TVlTZkdLbmoyblk?oc=5",
-      "first_seen": "2026-09-14T03:30:43Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -1149,6 +1149,24 @@
       ]
     },
     {
+      "id": "c73ebb2665b52946eac0",
+      "title": "日本製紙八代で火災 煙突切断中 けが人なし",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNHViQnBCRTBGLUdtUXZvckhYc0tWc3ItVjE5QVJtM05hNEx0X2F1Y0U4OVpYV0E4UXRtVlIzWnBjRkhacDFObkZzbklQdU43aTltS1o5NG5VZ3VjVWc3VE9JYUMxQmpi?oc=5",
+      "first_seen": "2026-09-03T21:00:35Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "5f1fd65be90a6e6aad2f",
       "title": "日本製紙の火災 6時間半後鎮火 けが人なし 熊本・八代",
       "source": "毎日新聞",
@@ -1315,24 +1333,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "c73ebb2665b52946eac0",
-      "title": "日本製紙八代で火災 煙突切断中 けが人なし",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T20:05:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNHViQnBCRTBGLUdtUXZvckhYc0tWc3ItVjE5QVJtM05hNEx0X2F1Y0U4OVpYV0E4UXRtVlIzWnBjRkhacDFObkZzbklQdU43aTltS1o5NG5VZ3VjVWc3VE9JYUMxQmpi?oc=5",
-      "first_seen": "2026-09-03T21:00:35Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
