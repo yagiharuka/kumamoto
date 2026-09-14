@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T08:00:44Z",
-  "updated_at_jst": "2026/09/14 17:00 JST",
+  "updated_at": "2026-09-14T08:30:48Z",
+  "updated_at_jst": "2026/09/14 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1282,
+  "article_count": 1283,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "nhk": 115,
+    "nhk": 116,
     "mainichi": 162,
     "kumanichi": 192,
     "sankei": 203,
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 973,
+    "aeon": 974,
     "power": 132,
     "paper": 194
   },
   "items": [
+    {
+      "id": "f0c4641c0d06a45ce676",
+      "title": "熊本地震 爆発のイオンモール 一般向け献花台 きょうまで",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-14T07:16:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tYWhULUhmc1hnb3Uyd0psdno4TFJaZ09QVVdGUHNUeUx3bC1uaTFxZzdEU2JvNlRvT0gxTW5weFJneTByeEpqb0ZsUDNZcG9TNVRkb0dkNnFiT1ZRdG5F?oc=5",
+      "first_seen": "2026-09-14T08:30:48Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "87d7dec2629f9e3aae6c",
       "title": "イオンモール熊本 一般向け献花台の設置 きょう・14日まで",
@@ -199,7 +215,7 @@
     },
     {
       "id": "d68539e94928d819cd3e",
-      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
+      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診 | NHKニュース | 令和8年熊本地震、小売業、企業・経営",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -8404,7 +8420,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTllYRTY3cHVsWllGLWppMWNrQTcxdkU2alVHMTM0bVZGbUxKZFB2SmZIMkxUemJlTk5tcUhVS1R6amZnZ3FPTWR6QVVYRDdYUHVYeDh0OHlISGlydHphNnFlT0swVmN0cUJsSzVudWhMOXNIYzBBUTYzXy0tQ1Y0RFdyb3NJcW9KblFhZVln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmNPVlB2Qi1UTFVKRi1wQTV0VEQ4NEdBSG5BOU9WRERZQUNkdTFyV0kwdWlPWEZtRjBGQzllTmMtWmhWc3NKVm1YTzFvM2VZOFp5MS1oNEhpVlhQbDk1MkdxZENLNlk4QmF2RkRYODlVbmMzQmFsSU11U01XV0swbllNVXI4ZFZVYm9rUWln?oc=5",
       "first_seen": "2026-08-13T03:31:04Z",
       "focus": [
         "現場状況"
