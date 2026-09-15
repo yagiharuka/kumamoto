@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-15T20:00:43Z",
-  "updated_at_jst": "2026/09/16 05:00 JST",
+  "updated_at": "2026-09-15T20:30:42Z",
+  "updated_at_jst": "2026/09/16 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1291,
@@ -610,23 +610,6 @@
       ]
     },
     {
-      "id": "1b74de0f808dadb98659",
-      "title": "日本製紙八代工場の煙突火災で実況見分 熊本",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-07T11:41:33Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdDRWRVQxLXY2ZE50TFNpV0pudDIxS1plWXZMbTB6V1VyZUJGUmF6UldXZGdCeWlpSlF6eWNGZjU3TWpNU2xFdThSUi1RQzl2S1dhT0F2QklRa1NjcVhYWDhadHNMa251N0RScw?oc=5",
-      "first_seen": "2026-09-07T12:00:33Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "fe07397a096983ab5ff0",
       "title": "日本製紙八代工場の煙突火災で実況見分、「ドローン」飛ばして上空から撮影...消防隊員らが焼損部分を確認",
       "source": "読売新聞",
@@ -685,6 +668,23 @@
       "published_at": "2026-09-07T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
       "first_seen": "2026-09-06T21:00:35Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "1b74de0f808dadb98659",
+      "title": "日本製紙八代工場の煙突火災で実況見分 熊本",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdDRWRVQxLXY2ZE50TFNpV0pudDIxS1plWXZMbTB6V1VyZUJGUmF6UldXZGdCeWlpSlF6eWNGZjU3TWpNU2xFdThSUi1RQzl2S1dhT0F2QklRa1NjcVhYWDhadHNMa251N0RScw?oc=5",
+      "first_seen": "2026-09-07T12:00:33Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -2713,7 +2713,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8waER5NU9FcEZxNkJZTE9EVl9kXzk4eU1adDZvZmMwTU1jVW9nSHlWRHZITkNDVlNYRkJZY1dVVHIya3d0MmYxZ3AtWlhhVlhPSGdLQzRTbFg1cWRWX0FYY1NTOVptdWVWSTVSWnp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMG84d1M5MndGWEctbHdSQ3FWck1iaHFLWm5NdXZJSUt5Zl9rR2NsRjVGSUpKenhBVWI5VjNNSU5LaTh6anRJSFVzYTM1Unp1TVg2VGl1X1F4OGJZeHVJMXhRdml5eDdqdldsZW9PT0JRcmRQRFZWTHRkdTMtV2lBSFFFWU9sVXRKbTJLQVdB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
