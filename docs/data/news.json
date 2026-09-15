@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-15T17:00:43Z",
-  "updated_at_jst": "2026/09/16 02:00 JST",
+  "updated_at": "2026-09-15T17:30:43Z",
+  "updated_at_jst": "2026/09/16 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1291,
@@ -660,6 +660,40 @@
       ]
     },
     {
+      "id": "94a7070c6f4beddf1840",
+      "title": "熊本地震で被災した日本製紙八代工場、煙突火災で実況見分 県警や消防が対応",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmODBDSmhSelc5RTJwMTcxbDNpeXpmeUQzNmE4bkg2S1JVUjBhb212YU93MnRXcWZpNzVVMlFHblpjVXcwN3B4Vm9LLW5UOENiRktpcTd2Vm5rbHc4RTlPU01jdW5OXzZ6UWFFOExRcklqbDc4aFE?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "ac08cd4b05a0a350b3bb",
+      "title": "煙突火災で実況見分へ 熊本地震で被災した日本製紙八代工場 鉄柱切断中に出火か",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
+      "first_seen": "2026-09-06T21:00:35Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "9cb4698ad350a73c6a53",
       "title": "日本製紙八代工場の煙突火災で実況見分 鉄柱切断中に出火か",
       "source": "毎日新聞",
@@ -737,23 +771,6 @@
       "published_at": "2026-09-07T02:30:50Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzBCcXdScjh4TE1tSGdJSTdjcnJpdXpFXzIzb1M1Uk8tQXhEdDdtUU53Z0Q5MzFQV1QzQ2RJc1lZUUZodk5aWTRTR0tDVl9wcGt6M01VWnBPZnJ1Nm9GSjVZaDNNSlQ4NDhYUnZ1ZVp4R0FNV3RwRlg3VkZ2RWpCOUFXUTE5OVNxTlBWXzIyX0RpMHdLX0tJZ3lSNERyc1pPa2c?oc=5",
       "first_seen": "2026-09-07T04:00:39Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "94a7070c6f4beddf1840",
-      "title": "熊本地震で被災した日本製紙八代工場、煙突火災で実況見分 県警や消防が対応",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-07T01:51:15Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmODBDSmhSelc5RTJwMTcxbDNpeXpmeUQzNmE4bkg2S1JVUjBhb212YU93MnRXcWZpNzVVMlFHblpjVXcwN3B4Vm9LLW5UOENiRktpcTd2Vm5rbHc4RTlPU01jdW5OXzZ6UWFFOExRcklqbDc4aFE?oc=5",
-      "first_seen": "2026-09-07T02:00:32Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -843,23 +860,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "ac08cd4b05a0a350b3bb",
-      "title": "煙突火災で実況見分へ 熊本地震で被災した日本製紙八代工場 鉄柱切断中に出火か",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-06T20:52:18Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
-      "first_seen": "2026-09-06T21:00:35Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -2578,7 +2578,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IQW1sb2sycDBCbFdMcVRDU0lEQjZDRzNoVkFBRzlWdjFzMjBtRTNueklNQkZaU1BIWFVIOUtnS0Z1bDBaLWpJZFNNczExcDBzY09Qbg?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
@@ -2729,7 +2729,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8waER5NU9FcEZxNkJZTE9EVl9kXzk4eU1adDZvZmMwTU1jVW9nSHlWRHZITkNDVlNYRkJZY1dVVHIya3d0MmYxZ3AtWlhhVlhPSGdLQzRTbFg1cWRWX0FYY1NTOVptdWVWSTVSWnp3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMG84d1M5MndGWEctbHdSQ3FWck1iaHFLWm5NdXZJSUt5Zl9rR2NsRjVGSUpKenhBVWI5VjNNSU5LaTh6anRJSFVzYTM1Unp1TVg2VGl1X1F4OGJZeHVJMXhRdml5eDdqdldsZW9PT0JRcmRQRFZWTHRkdTMtV2lBSFFFWU9sVXRKbTJLQVdB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -16647,7 +16647,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
