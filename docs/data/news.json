@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-15T14:30:47Z",
-  "updated_at_jst": "2026/09/15 23:30 JST",
+  "updated_at": "2026-09-15T15:00:47Z",
+  "updated_at_jst": "2026/09/16 00:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1291,
@@ -245,7 +245,7 @@
     },
     {
       "id": "d68539e94928d819cd3e",
-      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診 | NHKニュース | 令和8年熊本地震、小売業、企業・経営",
+      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -627,19 +627,20 @@
       ]
     },
     {
-      "id": "cd104b60451d2ad10ced",
-      "title": "爆発により建物が損傷したイオンモール熊本=7月29日、熊本県嘉島町(渡辺大樹撮影)",
+      "id": "ac08cd4b05a0a350b3bb",
+      "title": "煙突火災で実況見分へ 熊本地震で被災した日本製紙八代工場 鉄柱切断中に出火か",
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-09-07T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVNlREtWWmxXemZVY1BmWnJHSXJoZnVBUVMzZW44ZUVFY1dkeEh2a0lBVW83NmR2OUZ0Nk1HR2swaXZRM3M0TEJGYjFhR3o1LU5XdXRzTWtpZ1lKdEQ4R3FZMzhjUC13dTVEdVV4XzdLdE5Oc2tUNXB0dVFqbjF3YWdJTWEzbWJpcUl6cGp4aDRNZzVHUHlOZlBOakFheWpFUnc?oc=5",
-      "first_seen": "2026-09-07T00:00:45Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
+      "first_seen": "2026-09-06T21:00:35Z",
       "focus": [
+        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
-        "aeon"
+        "paper"
       ]
     },
     {
@@ -846,20 +847,19 @@
       ]
     },
     {
-      "id": "ac08cd4b05a0a350b3bb",
-      "title": "煙突火災で実況見分へ 熊本地震で被災した日本製紙八代工場 鉄柱切断中に出火か",
+      "id": "cd104b60451d2ad10ced",
+      "title": "爆発により建物が損傷したイオンモール熊本=7月29日、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
       "source_id": "sankei",
       "source_group": "全国紙",
-      "published_at": "2026-09-06T20:52:18Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16NlVKRVlMTVdSMTUtWjZlMGtKWHR4UU5xcF83NEVpc1JJNHdmNXpCVERyWmllaG5zblJWbk1vUDRVU2hOZjdTTklwSnd0SG9HLUJQWmpHR0tUc09DNHRqYnlWTHhCLWhlcVZtekhLUHJwTXl0Znc?oc=5",
-      "first_seen": "2026-09-06T21:00:35Z",
+      "published_at": "2026-09-06T22:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVNlREtWWmxXemZVY1BmWnJHSXJoZnVBUVMzZW44ZUVFY1dkeEh2a0lBVW83NmR2OUZ0Nk1HR2swaXZRM3M0TEJGYjFhR3o1LU5XdXRzTWtpZ1lKdEQ4R3FZMzhjUC13dTVEdVV4XzdLdE5Oc2tUNXB0dVFqbjF3YWdJTWEzbWJpcUl6cGp4aDRNZzVHUHlOZlBOakFheWpFUnc?oc=5",
+      "first_seen": "2026-09-07T00:00:45Z",
       "focus": [
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
-        "paper"
+        "aeon"
       ]
     },
     {
@@ -2578,7 +2578,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xOU1tRVQxLVBOb0RyQWNJT0ZXSldYREZaYU5YVFBBLTc2TVhocGtaV28xQ3cxQWE4Sk01dVVDMzl6b2RYdW55Qm5rQWp4MnVldkxFRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IQW1sb2sycDBCbFdMcVRDU0lEQjZDRzNoVkFBRzlWdjFzMjBtRTNueklNQkZaU1BIWFVIOUtnS0Z1bDBaLWpJZFNNczExcDBzY09Qbg?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
@@ -14113,7 +14113,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
@@ -14691,6 +14691,22 @@
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVV1V2FkMG1OaWthSUhuMVBwX1FWcmlDM3RZcDZzN0tBZHlXQ1NfZ2ZRWVRRRXJGOVdraFJ3SVJSa0JJRXlWYzAtUzAwRlY0MmJXZWJUV2pvSWp0NE9xbDFwdUhyeVI2Xy1helJNQXNIZ1dHRWVucC1rZWUyT2lmb0hjZE1DUmM5VEpPbGJybjhKOThuZ051eGs3LTlGSHBUNlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d887a94db5aa00c59f94",
+      "title": "爆発のあったイオンモール熊本=7月28日午後10時5分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZXUlFSSU9wSHVodjJqMjRUSUZTRVhZUkt4TTJmakk1X2xTd2RRWGdQQ2wwUEtmY3RuQU5CUDFkdUh3ek04bHZra2dPeElRR1FhM1Ztb09YeUV2U3FjRTVVSHZpdzNVUjFXQ2xQOF96NWpzeElNOGx0Q18yVEw5YWZzRlkxZ0pZUDlMZUQ3bHlHYmVWZzRWUTRqalp1YjN0Z0E?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -19391,22 +19407,6 @@
       "published_at": "2026-07-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbVdzb1lFc2VtU3Brc0FuTldJcE84dmRzTGJodE9LZnNMVnBNZjJaQkZkWktvY1BLbjJHd0FOb2FmREY3X2JNQjVUc3NHY2cyV2VtUVptT1hvcHFvelpDYVg1WGRtam5tUnl2THhqb2F6MjkzdkE?oc=5",
       "first_seen": "2026-07-28T15:22:23Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d887a94db5aa00c59f94",
-      "title": "爆発のあったイオンモール熊本=7月28日午後10時5分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDhhNzV1anYzaXA0cFZxeERTempKWHRta1oxdkJhaEJybmhNemFaN3VfT0xma2QtRVYtc1NZZE9pUHpuRmlzekhLRW9iMmhKaE9WUVpXOE9fLTNLMG92UkhxYy1fRmlkRGlGaERRUmJlMGY3ci1JNTNwT1lBdVNnS1hXUU1EY3lrTUs0MFVjdDlpdG9uSURFZkRGUzNpUU5QcWc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
       ],
