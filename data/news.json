@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T02:00:43Z",
-  "updated_at_jst": "2026/09/16 11:00 JST",
+  "updated_at": "2026-09-16T02:30:41Z",
+  "updated_at_jst": "2026/09/16 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1291,
@@ -693,14 +693,14 @@
       ]
     },
     {
-      "id": "1b74de0f808dadb98659",
-      "title": "日本製紙八代工場の煙突火災で実況見分 熊本",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
+      "id": "9cb4698ad350a73c6a53",
+      "title": "日本製紙八代工場の煙突火災で実況見分 鉄柱切断中に出火か",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-07T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdDRWRVQxLXY2ZE50TFNpV0pudDIxS1plWXZMbTB6V1VyZUJGUmF6UldXZGdCeWlpSlF6eWNGZjU3TWpNU2xFdThSUi1RQzl2S1dhT0F2QklRa1NjcVhYWDhadHNMa251N0RScw?oc=5",
-      "first_seen": "2026-09-07T12:00:33Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
+      "first_seen": "2026-09-07T05:00:45Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -710,14 +710,14 @@
       ]
     },
     {
-      "id": "9cb4698ad350a73c6a53",
-      "title": "日本製紙八代工場の煙突火災で実況見分 鉄柱切断中に出火か",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
+      "id": "1b74de0f808dadb98659",
+      "title": "日本製紙八代工場の煙突火災で実況見分 熊本",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
       "source_group": "全国紙",
-      "published_at": "2026-09-07T03:43:23Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzRHJUOVdLN0kxeVc3OEFIT1VaTHh4c0JrZVpsanpfaUc4WE5pQWZ3T1Z1TkFfbmRHYkc2anlXWHFnZ29BcjczSVdtUWZfRUUwZExNcDU2S2tCQ2x2UTh2NkRkUVhHYTlk?oc=5",
-      "first_seen": "2026-09-07T05:00:45Z",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdDRWRVQxLXY2ZE50TFNpV0pudDIxS1plWXZMbTB6V1VyZUJGUmF6UldXZGdCeWlpSlF6eWNGZjU3TWpNU2xFdThSUi1RQzl2S1dhT0F2QklRa1NjcVhYWDhadHNMa251N0RScw?oc=5",
+      "first_seen": "2026-09-07T12:00:33Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -1071,7 +1071,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-09-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54N1owOUpzRV9YTXZOTVlsWE5OZWdwRnBMN1czbHRwaWlDV1A2UmFCSzR2enl5a0Z6V0IxQldJTEsxWFIwUmlPT1kwSGNHMndZU2VoQi0xVTV4UWI1aDU4R1dlOXlTUEUycVRWOVdDbjZTZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pLXlvUFdUSVEtUUI4aXFCYmJqT3FqTXlTckR5STlqUlBvZm85Q2tkT21vV2Znd1FMSFdLMndFVWp4UkVMYkRDZW93WVVCbjk4RG12SFBZcTB0OWItXzBOWVR0NGwxYWFUYjYwUlB0T3lubjBl?oc=5",
       "first_seen": "2026-09-04T01:30:24Z",
       "focus": [
         "避難状況",
@@ -14113,7 +14113,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
