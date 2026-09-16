@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T10:30:43Z",
-  "updated_at_jst": "2026/09/16 19:30 JST",
+  "updated_at": "2026-09-16T11:00:46Z",
+  "updated_at_jst": "2026/09/16 20:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1292,
@@ -593,6 +593,24 @@
       ]
     },
     {
+      "id": "a6285a7969cd85bc620b",
+      "title": "日本製紙八代工場の煙突解体現場の火災、支柱を切断中に散った火花が出火原因か...ドローン使って実況見分",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xVzNxNmVwdmVaUUVnYVRtTElKanYyeHpIOUh1SFFKSmlQSmYxWm9oeXV0OUF6TTdZVFJ4Wi1yZ1lhZGVKcTIxT3lMYUREcS1NTTJXM1BadzRWdVRKX0I0MEViZFJLOXZoejJxVnhXcnZiQQ?oc=5",
+      "first_seen": "2026-09-08T01:30:30Z",
+      "focus": [
+        "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "f915a7bc911e5ee9ffd4",
       "title": "イオンモール熊本の爆発受け経産省で制度対応の検討始まる",
       "source": "NHK",
@@ -606,24 +624,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "a6285a7969cd85bc620b",
-      "title": "日本製紙八代工場の煙突解体現場の火災、支柱を切断中に散った火花が出火原因か...ドローン使って実況見分",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-09-08T01:26:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xVzNxNmVwdmVaUUVnYVRtTElKanYyeHpIOUh1SFFKSmlQSmYxWm9oeXV0OUF6TTdZVFJ4Wi1yZ1lhZGVKcTIxT3lMYUREcS1NTTJXM1BadzRWdVRKX0I0MEViZFJLOXZoejJxVnhXcnZiQQ?oc=5",
-      "first_seen": "2026-09-08T01:30:30Z",
-      "focus": [
-        "原因・検証",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -11586,7 +11586,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
