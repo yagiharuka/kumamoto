@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T08:00:45Z",
-  "updated_at_jst": "2026/09/16 17:00 JST",
+  "updated_at": "2026-09-16T08:30:44Z",
+  "updated_at_jst": "2026/09/16 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1292,
@@ -2308,20 +2308,6 @@
       ]
     },
     {
-      "id": "e688ba086b3ef88b44b4",
-      "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T12:09:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUdzZXpZYUhxRUFVTU9ERW9hV0VRUEw0SUJTa2xOZDBRSG9RcVRPbnRnOS1TcVBLcWFJUGNMazVxSEVPVjg0M0lfcEk2aVI4MUROZU9tRzV1TW85OW91NkhXRTFlbUZVUEVHcGVOeEdhenRKVk9jSWFvSmU2ZHppZ0R3?oc=5",
-      "first_seen": "2026-08-28T11:30:21Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "e5d2a7f30969ffe78ef0",
       "title": "イオンモール熊本の献花台を訪れる爆発事故の遺族ら=28日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -2589,13 +2575,27 @@
       ]
     },
     {
+      "id": "e688ba086b3ef88b44b4",
+      "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
+      "first_seen": "2026-08-28T11:30:21Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6e93ea120afcf8a906a9",
       "title": "爆発7人死亡、刑事責任は=イオン事故、立件に高いハードル―熊本地震1カ月",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IQW1sb2sycDBCbFdMcVRDU0lEQjZDRzNoVkFBRzlWdjFzMjBtRTNueklNQkZaU1BIWFVIOUtnS0Z1bDBaLWpJZFNNczExcDBzY09Qbg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
