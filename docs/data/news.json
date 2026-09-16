@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T03:00:44Z",
-  "updated_at_jst": "2026/09/16 12:00 JST",
+  "updated_at": "2026-09-16T03:30:42Z",
+  "updated_at_jst": "2026/09/16 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1291,
@@ -1071,7 +1071,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-09-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54N1owOUpzRV9YTXZOTVlsWE5OZWdwRnBMN1czbHRwaWlDV1A2UmFCSzR2enl5a0Z6V0IxQldJTEsxWFIwUmlPT1kwSGNHMndZU2VoQi0xVTV4UWI1aDU4R1dlOXlTUEUycVRWOVdDbjZTZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pLXlvUFdUSVEtUUI4aXFCYmJqT3FqTXlTckR5STlqUlBvZm85Q2tkT21vV2Znd1FMSFdLMndFVWp4UkVMYkRDZW93WVVCbjk4RG12SFBZcTB0OWItXzBOWVR0NGwxYWFUYjYwUlB0T3lubjBl?oc=5",
       "first_seen": "2026-09-04T01:30:24Z",
       "focus": [
         "避難状況",
@@ -1852,7 +1852,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVd0YWlGN3VWWGZCZWQyeUhHX3h6d01pRF9nTGlZaHJaeVZPV3NTZktOaXQ5aF82ZGtBbWNGOTNIa2JEa3NqOGhGc1gzNFNZVkZyVnQ2cGtRZXFSS0RtWGRLMGVGQmdOY2MxTFBSc0dad3pfQjBMTFpvYjFjcmtTRkVfdW42Rzhjd29seFlEemtCUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzhqVXRvaHFpVGdlS3FOeXpYZlo4dFBGajRlUzZPZ1Yycl9mM2E0Y29RS1o3TEUtRi1uMXNWQ0ZIXy1LbkQ4azlJZ3Z0M3Jkc1NVd3ZhVEZyQ1VxQUdJcGF2QjkxTmNqM3JtTjFrd0tTVm1idHRhMGNURTVNRGdhcEFUV2ZJY3hlM2kyNzluaDhQVy11?oc=5",
       "first_seen": "2026-09-03T13:30:30Z",
       "focus": [
         "目撃証言",
@@ -2578,7 +2578,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IQW1sb2sycDBCbFdMcVRDU0lEQjZDRzNoVkFBRzlWdjFzMjBtRTNueklNQkZaU1BIWFVIOUtnS0Z1bDBaLWpJZFNNczExcDBzY09Qbg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTmRKUFNjTTVpVE44VzRCMGVjcEZndlJJYWRXWlF4cGVJNGw0cGQyMjBJMk1EbjBabzdEQ3JpbGRaS3ZzV3lTSnF6aXBzZ28xZ0lrZEpJVW1EekhTOFE?oc=5",
       "first_seen": "2026-08-29T06:30:24Z",
       "focus": [
         "現場状況"
@@ -2596,22 +2596,6 @@
       "published_at": "2026-08-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWNXaThvRlFHZlAzeE1CUXZVVzJDcFNLdERmQjlvRV9IcG9ua0RVcThyUFNsUEIwajJTM0kwcnJDU1Z4MXJYamJRcEZwcm5La0kwQXFJVkFDdXVJLXkwSEQwb1NnQ0tHN0J2VDNvRGR6alNQel9kVmdMa21zYmZkdA?oc=5",
       "first_seen": "2026-08-28T12:30:18Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "aa2d7e108a09cce1f739",
-      "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pbks0SkUyWXlwY01BX0tWSnJvMUxiQWJfTS1HM1p0MHJDd3hobkdHZFp3YnAyYzM3UFF3bkt5UEJuYjVuN242cDN2VHgtX25LcFpUbXZRRG9JblB2c3BHMm1KVWtKUlhYT285Yg?oc=5",
-      "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
       ],
@@ -5106,6 +5090,22 @@
       "published_at": "2026-08-12T02:46:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQWtDcXJ1SXVLMkQ1WFNKVG1vTmN6ZHpzLWIzbjFiTWNmV0hoTXBrbXgtSHdJVEQzVFRpSUtOS0kyNGhiUGFRbTg1blVfUFE?oc=5",
       "first_seen": "2026-08-12T03:00:57Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "aa2d7e108a09cce1f739",
+      "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T00:51:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sczFrTks1RnNKdXhRUlNkcndnLTlYd0owZ0JwcEFoUGFjY2Q4SUhtbWU2WE9rRUZPRUViNjVkbGIta3haTk9jT1N4andsNG1CSzEyVV9Xb0djNmx6Q0tPUXlHZXh5eFZz?oc=5",
+      "first_seen": "2026-08-06T21:30:28Z",
       "focus": [
         "現場状況"
       ],
@@ -12644,7 +12644,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EXzg3TW5fTGN0OU80U3d2LW00aVF0WFZnWmVaSVhjSnlEdnVzcW9qSko3OGNoTWRXVENtay1Pc3o1dDlHTVdNZW5kcERqSGhpUTgxNl9oWG9MUzFQSHh6dV9zVnJNc1lldlE?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -12747,7 +12747,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXBJMllrOEFBdUU1R1JBcl9pWWN4aXl2dEtfcFQ5MmJVd0hXUkJaVTRrVXpKT0xqTlRIXzR3X3RudjJhU3JmWTB6NkJia291LTA4MmVkSjJkNFpRa2Y4cTBWcXhMMXJFdDYwbUZnWkFFOUNIaGpyWGhqa0VFYmpsNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zM1cwaWhfYVQ5aFJ1MXBkUzd4RWF2TmVBVHlqTDFSUDR5TzdhWVp2NzUycENqelNIYUlqdVpCalk3YmY0WmJDUVRNb2YxM1JaNEZva0RqWVVFWmpJZHhuT2lmMA?oc=5",
       "first_seen": "2026-07-30T12:00:10Z",
       "focus": [
         "原因・検証",
@@ -12867,7 +12867,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVd1elJrTHdTYTNrMkliS2Q5T1BtZGdsSXV5X2NkQ3ZGNHR2VTVpWmtpdEtPZ3U0emZEU1hoT2QwdzNEb0l3VVMwQmFxZUxMTW9PNVM0N1JUX0pqVEpWUzJ0bVNpOE1jSnF2QXQ1TklvaURyRnl6Y1RLVy16VG1fYlJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12eEszQ2RQUkp6SExJNm5iOVR6YWFXdmF2WU1wOElsRlNhdUpvR2d3aTRuU3dlUjNRREdCRkNXeXlsSkVCWG54RDJuem9zOVJOaWlVcmNpVzNEVWFaRnRBZ3AyVQ?oc=5",
       "first_seen": "2026-07-30T10:00:13Z",
       "focus": [
         "救助・安否",
@@ -14113,7 +14113,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
@@ -15201,20 +15201,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d5ce6c79f8dae1171302",
-      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcG90UjJSdHFHY2tmc0JOQjNLMU5USVNWeWN6STdvSl9hRkVzemlBc1JhN1I0Mm9rQjlFbjNVOWFrdlJpT1pWVllIZnJIdlZXckkyQnM2TVljbmxrUHdOdU1ZYW9fS01SVWFhU0w5M0lORjFHOVo3MERWXzlLOFpkTWoxQ2pNVVJfXzV6VjJQOXB5a3EzTVlpWjBHQ1ViOHM0SlE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -19683,6 +19669,20 @@
         "避難状況",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "d5ce6c79f8dae1171302",
+      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm1LS1Fjc0xOeGU2M1VsbHhOMkV6RGo0S0tjWE53UjRJOFZzM2lyNmpBV2Q5dlg2VlVGbHlHZklUVW1KSlg3TWxBLTl1cGZybmdkNDl2SFY1N2M3V0ExdXdpY2hfZEVVaTRMYnlQR00xRHVrNHFjYURvenlJT2dsaDdzZV9LSkVXaTFQZHBnZ2dRY3pVekMyWldkZ29jbmRRZHc?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
