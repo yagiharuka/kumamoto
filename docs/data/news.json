@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T11:00:46Z",
-  "updated_at_jst": "2026/09/16 20:00 JST",
+  "updated_at": "2026-09-16T11:30:52Z",
+  "updated_at_jst": "2026/09/16 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1292,
@@ -677,6 +677,22 @@
       ]
     },
     {
+      "id": "057bcc1e8702092d17f0",
+      "title": "爆発事故で再開見えぬイオンモール熊本 人口1万人の街に打撃を与えた「一強依存の構造」",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DNjM2WlRxbXpCNE9FRU9abldUc0JYUzBaSFpaNWFGNTYzNDBrMW01aEVYc3FDaWFQX0w2d1YyN2sydXFCSmhZUlNwRWFPaDVZWlljMWpKcVpmR3dta1hMYi16TF9QazY2dlp0NjlzZGlVV0QzRGc?oc=5",
+      "first_seen": "2026-09-06T22:30:41Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "cd104b60451d2ad10ced",
       "title": "爆発により建物が損傷したイオンモール熊本=7月29日、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -861,22 +877,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "057bcc1e8702092d17f0",
-      "title": "爆発事故で再開見えぬイオンモール熊本 人口1万人の街に打撃を与えた「一強依存の構造」",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-06T22:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DNjM2WlRxbXpCNE9FRU9abldUc0JYUzBaSFpaNWFGNTYzNDBrMW01aEVYc3FDaWFQX0w2d1YyN2sydXFCSmhZUlNwRWFPaDVZWlljMWpKcVpmR3dta1hMYi16TF9QazY2dlp0NjlzZGlVV0QzRGc?oc=5",
-      "first_seen": "2026-09-06T22:30:41Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -2308,6 +2308,20 @@
       ]
     },
     {
+      "id": "e688ba086b3ef88b44b4",
+      "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T12:09:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUdzZXpZYUhxRUFVTU9ERW9hV0VRUEw0SUJTa2xOZDBRSG9RcVRPbnRnOS1TcVBLcWFJUGNMazVxSEVPVjg0M0lfcEk2aVI4MUROZU9tRzV1TW85OW91NkhXRTFlbUZVUEVHcGVOeEdhenRKVk9jSWFvSmU2ZHppZ0R3?oc=5",
+      "first_seen": "2026-08-28T11:30:21Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e5d2a7f30969ffe78ef0",
       "title": "イオンモール熊本の献花台を訪れる爆発事故の遺族ら=28日午後、熊本県嘉島町(渡辺大樹撮影)",
       "source": "産経新聞",
@@ -2569,20 +2583,6 @@
       "published_at": "2026-08-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QzQ2N1RDeEN5Y0F5N0luX1RWMUNfZkR1RTRvLU90eHRjNVAwQlo5ZFBqRGg3NEx0S2hsRG04dzU4aTdhSzlWQmFFaFpsb3pBaGs5WQ?oc=5",
       "first_seen": "2026-08-29T15:01:05Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "e688ba086b3ef88b44b4",
-      "title": "被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
-      "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -8920,7 +8920,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
         "現場状況"
@@ -12629,7 +12629,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KSWhOR3pHdDVhQ0xOTGtwZkhlZFRlVHRGSDR3b1V3aFdwVzNLS1V5dm41aE5iNi1FVDVzZ1djZzRFWjg5X0VfS1VzTjlRM3NRX0F2c0NyMGRDZlh2WWRVd1cweHNEY3RwUnItYnFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOS2FyOC1VVFBDelJMSGRvczhsVDZ6ZG1FaFRMdHRDaXNCbE8xaVg1MmozNDBtZHJjcS1vdlhpVXRqbHBOVGh6eUY4WUJXcUdKUmRMTllHUHJTZEhF?oc=5",
       "first_seen": "2026-07-29T20:30:10Z",
       "focus": [
         "停電状況"
@@ -12661,7 +12661,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYmhWb21OVUtfcXp4R3JGRFlzN0d5TVk1VXlDY3Y5X1ZwWXZaTnQ4RVVtYWZjSVhfSUtjZzVPNURoaWI5TzZ4V21vWjYwaHhnYlBwSmh4Z05EYUkyMXB1eFdtanJyeE0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EXzg3TW5fTGN0OU80U3d2LW00aVF0WFZnWmVaSVhjSnlEdnVzcW9qSko3OGNoTWRXVENtay1Pc3o1dDlHTVdNZW5kcERqSGhpUTgxNl9oWG9MUzFQSHh6dV9zVnJNc1lldlE?oc=5",
       "first_seen": "2026-07-30T13:00:19Z",
       "focus": [
         "避難状況"
@@ -16647,7 +16647,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3T3llUU1ta1NPZEE2N0taNkc4LXJsSF9tSFI4M0duTTZHZ21oczhjSTRmMVJieUdzNWxvVkI2TUZ5ZWlLTGs0MWtJZl9ib0RmT3BiNFJVYmlXNXB0dkpZQ3AtTkNWamxOb1ZscWJn?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
