@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T20:00:48Z",
-  "updated_at_jst": "2026/09/18 05:00 JST",
+  "updated_at": "2026-09-17T20:30:41Z",
+  "updated_at_jst": "2026/09/18 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1293,
+  "article_count": 1294,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,11 +49,11 @@
     }
   ],
   "source_counts": {
+    "mainichi": 163,
     "kumanichi": 193,
     "asahi": 150,
     "nhk": 117,
     "sankei": 204,
-    "mainichi": 162,
     "yomiuri": 200,
     "jiji": 197,
     "nikkei": 70
@@ -77,10 +77,26 @@
   ],
   "category_counts": {
     "aeon": 980,
-    "power": 135,
+    "power": 136,
     "paper": 195
   },
   "items": [
+    {
+      "id": "b86b42ca1f0c348b4f7d",
+      "title": "7月の熊本地震 医療派遣18チーム、災害最前線へ 断水、停電... 高齢者、熱中症に 山野医師、八代で活動 /長崎",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-17T20:04:14Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dHN4bFFYUmdyV1lpeXNZaVBsQWRzbDBOazZReC1ZWTBkM3JKNGxiYThLNWZMSHkxWU0tMlJiTEp2R0tWaWxJOG9oNzFqVzhnTkRmWjNvSWw4dTQyeVh6YWRBOWJMSVQ2?oc=5",
+      "first_seen": "2026-09-17T20:30:41Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "f4e30609a1a69c60e6d7",
       "title": "2026年熊本地震>損傷がない煙突1本も撤去へ 110メートルの強化プラスチック製、安全面を考慮 被災の日本製紙八代工場 八代市",
@@ -12793,7 +12809,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVhNVm1DM0RTSTE2ZGZiU2hMVXIxcEJXYnJKTjhtdTVOVndkNmwwYTFwSmt4c0JKd0JNM1U2dV9TMFppb1BFeHV1RlVpaGJMQUk0cldUVmRLcWdmVHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
