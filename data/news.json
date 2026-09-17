@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T22:30:53Z",
-  "updated_at_jst": "2026/09/18 07:30 JST",
+  "updated_at": "2026-09-17T23:00:33Z",
+  "updated_at_jst": "2026/09/18 08:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1294,
@@ -295,7 +295,7 @@
     },
     {
       "id": "d68539e94928d819cd3e",
-      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
+      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診 | NHKニュース | 令和8年熊本地震、小売業、企業・経営",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -19531,6 +19531,23 @@
       ]
     },
     {
+      "id": "5acb916c9da0b38ffccd",
+      "title": "死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeTF2eEpoMlA1ZkRYLTJqU2RWX0luZjFuUmdmME13RnQwOUVrVDd4TUxfbVJEN1k3V3VJcWgzM3JWb1N3UHZRTDN4ODNsSzlZR01RWHJPOW02SU4xYV9ram43bWZsV3U3RUhXSFE5c3E3cFpQQnc?oc=5",
+      "first_seen": "2026-07-28T17:01:06Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ae00ce915da443925856",
       "title": "捜索活動が続くイオンモール熊本=7月28日午後7時32分、熊本県嘉島町(共同通信社ヘリから)",
       "source": "産経新聞",
@@ -19747,23 +19764,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "5acb916c9da0b38ffccd",
-      "title": "【フォトギャラリー】死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1acHI1MWZPYkJGV2RBUlFObHdyXzFoSVBGT1dlVDRXLWY3SGZaaHp4a3RwWWlxN3dZaDVxdHktdlYyekE5Z043XzJxS2pRbGNfWkxCZTJFem9nOW9QdE56MktKd1NxUEVBTklxeko2NUx1cXNPN0E?oc=5",
-      "first_seen": "2026-07-28T17:01:06Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
