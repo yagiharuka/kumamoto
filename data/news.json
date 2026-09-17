@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T07:00:43Z",
-  "updated_at_jst": "2026/09/17 16:00 JST",
+  "updated_at": "2026-09-17T07:30:42Z",
+  "updated_at_jst": "2026/09/17 16:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1292,
@@ -2621,6 +2621,22 @@
       ]
     },
     {
+      "id": "aa2d7e108a09cce1f739",
+      "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pbks0SkUyWXlwY01BX0tWSnJvMUxiQWJfTS1HM1p0MHJDd3hobkdHZFp3YnAyYzM3UFF3bkt5UEJuYjVuN242cDN2VHgtX25LcFpUbXZRRG9JblB2c3BHMm1KVWtKUlhYT285Yg?oc=5",
+      "first_seen": "2026-08-06T21:30:28Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "e9022cd3a8a1e2c9c5e7",
       "title": "◎被災1カ月、冥福祈る=イオン遺族「苦しいまま」―復興に不安の声も・熊本地震",
       "source": "時事通信",
@@ -4262,6 +4278,22 @@
       ]
     },
     {
+      "id": "4396a6d8083ff9865865",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-14T09:42:35Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a05JeDV6V2doeko1U1NNb3NGR2owVjVxVjFjSnRUU2VqSlUwcnQtRlg0QnJMc1kyYjVDTjR6a3l4Y0lDU2pDYlQ0UU1UZ21YVzNTZzlZcEI4NjlJTkt5alJoODUwV2plZ1E?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1a87263c95f1ff8e1b10",
       "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール",
       "source": "産経新聞",
@@ -5099,22 +5131,6 @@
       ]
     },
     {
-      "id": "aa2d7e108a09cce1f739",
-      "title": "「イオンモール熊本」爆発事故(2026年7月) 写真特集",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T00:51:13Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sczFrTks1RnNKdXhRUlNkcndnLTlYd0owZ0JwcEFoUGFjY2Q4SUhtbWU2WE9rRUZPRUViNjVkbGIta3haTk9jT1N4andsNG1CSzEyVV9Xb0djNmx6Q0tPUXlHZXh5eFZz?oc=5",
-      "first_seen": "2026-08-06T21:30:28Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "bd38d79ab8a2760853e5",
       "title": "熊本地震の現場は イオン爆発の実相、地上に現れた活断層...発災2週間の被災地はいま #2332",
       "source": "朝日新聞",
@@ -5737,22 +5753,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "4396a6d8083ff9865865",
-      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYldxeGlVandVQlY1Zk90V0lKNDJnY3JhVF9tMlkzUHBjcnBETFhmRlhtb2ZiQmx5ZHp0VTUxcDM1dEpYc0VwekJ5bXR0dmEzZ3FFck5YRTU1ZXlJUWk2bmxvOGNWVnNuX1E?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -12825,14 +12825,14 @@
       ]
     },
     {
-      "id": "e8e89400f33e82e3edcc",
+      "id": "d0d2374978942fee24d2",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGd4WWR1enVSaHJuNnBBUTNBdVJ1b3B6NXZtTEtibEkxSVVkcExOdmhHWUVuOXFDR2ljVUx4ckJvZGN6WmV1aEdhOEY0dl9iWUUzR3ptTVVTanhqOXktOHN1QVcwWTRJX0NQLVhzWnpGZXJSZS1yVG95SDV1MzlhZ2d3?oc=5",
-      "first_seen": "2026-07-30T08:30:10Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFo2ZkMwQU95aG9iaVZjQVJkRFlOSG81MkdNRUhmUlhLXzZPNktaWDJqcXlGZGlQc0FoZjVSV2V1UGlidV9aMjM2SXpsbzc5OVZ4S3hwMTlnUkNfQjVJT0FfQV9LTms5WXgxdHJmREgtalRoSzZNYzdyV2RLaXBMZnJ3?oc=5",
+      "first_seen": "2026-07-30T02:00:47Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -12843,14 +12843,14 @@
       ]
     },
     {
-      "id": "d0d2374978942fee24d2",
+      "id": "e8e89400f33e82e3edcc",
       "title": "熊本地震、死者34人に 連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUDRfcW41OFBCUWhFcHJkc0NkMy1aOWpDc3NOeFA4amR4WkJCMU9ETzVaUFR6MEF3eHFudEc5NV9Bc2Etenp4NmdjZWdHUDVObk9pWU5seUNwR1ItYXlGRU5YMA?oc=5",
-      "first_seen": "2026-07-30T02:00:47Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkZ4UnhvZC1ac2Y1dW1mZU5FcVE2OGlMdHFfcFM3eWJReTM4ZmphcnZXVW5Ybkxkb0dYTHF0MG0tbWlxbDdjX1dMVlpFZzlXTzZreHp3YkpvVTN6S0k2WFhzV0RyRzJMZGdqMnNIMzRKSVQ0Qy1LVm9UTWxFUmVfcm93?oc=5",
+      "first_seen": "2026-07-30T08:30:10Z",
       "focus": [
         "救助・安否",
         "避難状況",
@@ -16564,7 +16564,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUl6VTZabGdJT2R3Q0NrajlLdmpJTktNazJ1ZnAwX2xrSDhmcERqc3pXdjdCbzZZby1NWmpmb01QUFQtbUVsOHdMWGgxbXJRVkpsUHNiTlVCaWxaZ2d6d1lrYl9PN3laMjBMUHJxZnJvSkRNY1k4ZWJWV2ZzWHBDWGdjd0RjTC05ZTZIWTZXc0x2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -20566,7 +20566,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lX0ZwbjVOVDdLV1dua3RoSkl4RUZYR3g0dXFEX0g4YmNuTE5qYTdkSm5HcmVuVU9RcmF0ZzJmVTB6U1kzRFBJU3hKLUJsNmxWMG00eg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4waERGWWlJSlBGSkZBRHI5Ni1sRTFQekh1R3dLR2dPcWFPQXdwMmlWeWotNjY4clNkNE1nZl9vV1ZsZEk1TlV6MVdhREJXSjVzVU5KRw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
