@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T13:30:45Z",
-  "updated_at_jst": "2026/09/17 22:30 JST",
+  "updated_at": "2026-09-17T14:01:14Z",
+  "updated_at_jst": "2026/09/17 23:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1292,
+  "article_count": 1293,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -54,7 +54,7 @@
     "kumanichi": 193,
     "sankei": 204,
     "mainichi": 162,
-    "yomiuri": 199,
+    "yomiuri": 200,
     "jiji": 197,
     "nikkei": 70
   },
@@ -77,7 +77,7 @@
   ],
   "category_counts": {
     "aeon": 980,
-    "power": 134,
+    "power": 135,
     "paper": 195
   },
   "items": [
@@ -2102,6 +2102,22 @@
       ]
     },
     {
+      "id": "5ea67f5e2b8a5a999c34",
+      "title": "熊本地震の後、宇城市で「採卵鶏」4900羽死ぬ...停電で換気用ファンや給水システムが作動せず熱中症か:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-02T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Y0FMeXo1U2ktOTd4UmJOV3JMbEEzZks2N3p6U3Nub3g0ZnhZeFZjLWJHOXhERUVSRm9ENmZSamh6eF9ZLWZvMW5oaDVWMV9mYnRCNDUwTjhnZExZQmFRQXNlSnFDRUx4VUE?oc=5",
+      "first_seen": "2026-09-17T14:01:14Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "617baa5c05f6245f2403",
       "title": "熊本地震の後、宇城市で「採卵鶏」4900羽死ぬ...停電で換気用ファンや給水システムが作動せず熱中症か",
       "source": "読売新聞",
@@ -2419,22 +2435,6 @@
       ]
     },
     {
-      "id": "4df1c3df73e357c1040d",
-      "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-28T08:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWlZV1ZQbVVQQm1PMVFIV1FCV01md3hSb2twOFBOQjVzd01hSUZJWVlXbmlUbGVxVG5uWmk2Y05JX2l6a3doQjZmSjNJLXAyYUhTRkhlRjRMMDQ0QldaTGNIQ1RCcXZjcnh0Qm56a1JLYnJBTkVYckFoVTltczdVRkl4NVVMTlRRRHA5eEpn?oc=5",
-      "first_seen": "2026-08-28T20:00:24Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "bc3ed1cc4c72a93a9694",
       "title": "イオンモール熊本で死亡の女性の遺族 「残念でしかたがない」",
       "source": "NHK",
@@ -2513,6 +2513,22 @@
       ]
     },
     {
+      "id": "4df1c3df73e357c1040d",
+      "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJaUlhWjJsTU1zY1FOVEIxZ0NmeEw1dnZCZnFDLWlEczJZWHlLd1d5SlZmcE9SWDZOeUdrZ1ZKRVVJTndjbENoZGdhLV9JRC1wNXNoaGNjQjBOeDFjeUpPS183a1UyYkJjS3JVX2dn?oc=5",
+      "first_seen": "2026-08-28T20:00:24Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "9bd4901f2c72535897ce",
       "title": "熊本地震から1カ月、被災各地で黙禱 イオンには爆発事故の遺族も",
       "source": "朝日新聞",
@@ -2581,7 +2597,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWRsZWUxZVFiaVBpMldNeGdtNnEwMFBnanI1YzhmNmxybjBwaHpOM0dpcEYyOFJvX1RJWkQwSWhXVnZNeTRRNjR6Ukh4QTJlOTdRckZ0Sm1wTGdkdld0OWREa2czVUE1Z2JvczFZb1VqWXUxVDhkODJoeVNjUHFMSE53?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41dzl3X2txNldaN1JNZXN0Y2kzVXdQNEtielVuYjdGTkxJcVNhOWgyOVJsdTBPLVB3cGV4elF5N3RjZi1QaGI2N0lud3AwbWVmNDZDZGpxcHpSTHFBekhIemw4Yw?oc=5",
       "first_seen": "2026-08-28T11:30:21Z",
       "focus": [],
       "category_ids": [
@@ -12915,7 +12931,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LejhETDFLdHpBOE1uS2MtcG1OSnB2RlAwZkdQaEFCQVhvV2hMUkNVN0duZVB2WXdVZ2RZVW82eEZyZ2N0RUFQUElLaUJwMjhXSUZaOXN6eHZNME1lcVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01SkQ4U2Z6NXIzQk9PN19sVmZTMGhXT21zdXJleW5xNWNKOVlsVERya3A2VjBGRXZTU3lUaEVHeWdCY3Y3c3lSQ25CZEJFSUtJTmgzaw?oc=5",
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "避難状況",
@@ -12932,7 +12948,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
@@ -15190,6 +15206,20 @@
       ]
     },
     {
+      "id": "d5ce6c79f8dae1171302",
+      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcG90UjJSdHFHY2tmc0JOQjNLMU5USVNWeWN6STdvSl9hRkVzemlBc1JhN1I0Mm9rQjlFbjNVOWFrdlJpT1pWVllIZnJIdlZXckkyQnM2TVljbmxrUHdOdU1ZYW9fS01SVWFhU0w5M0lORjFHOVo3MERWXzlLOFpkTWoxQ2pNVVJfXzV6VjJQOXB5a3EzTVlpWjBHQ1ViOHM0SlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c22709c86c65e42e5274",
       "title": "【動画】鉄骨むき出し、床に建材散乱 爆発起きたイオンモール熊本内部の映像を警察庁が公開",
       "source": "産経新聞",
@@ -16892,7 +16922,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYWJVYnl2bXJMYzFEUHRnbEtkcWxqdV9UNXdKbkVfa3dIWWd1dV9tM2tXb2ZDZS1pRG5QRzhNWlpOdDVVOE9sMXZWbW9BWi1zckN3MUJwNkZRNV9EdnVKbEluNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlp4TTlBQlVJRERUZVFRLVE2THFfLWJPS1o0c01BZmNGTVBTSEtwQUNlMUE3Uy1lNFNmaS1HdWktaDQ3R0FmQXI4dlVUM2xDVXFJT1lpRXNoZ204RmZJUHlFUl9NcFNuLXZtY1BuTjJIMnF2ZGUxV1dRZjRkamJOWG5n?oc=5",
       "first_seen": "2026-07-29T03:00:26Z",
       "focus": [
         "避難状況",
@@ -19638,20 +19668,6 @@
         "避難状況",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "d5ce6c79f8dae1171302",
-      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm1LS1Fjc0xOeGU2M1VsbHhOMkV6RGo0S0tjWE53UjRJOFZzM2lyNmpBV2Q5dlg2VlVGbHlHZklUVW1KSlg3TWxBLTl1cGZybmdkNDl2SFY1N2M3V0ExdXdpY2hfZEVVaTRMYnlQR00xRHVrNHFjYURvenlJT2dsaDdzZV9LSkVXaTFQZHBnZ2dRY3pVekMyWldkZ29jbmRRZHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
