@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T17:00:56Z",
-  "updated_at_jst": "2026/09/18 02:00 JST",
+  "updated_at": "2026-09-17T17:30:37Z",
+  "updated_at_jst": "2026/09/18 02:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1293,
@@ -279,7 +279,7 @@
     },
     {
       "id": "d68539e94928d819cd3e",
-      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診 | NHKニュース | 令和8年熊本地震、小売業、企業・経営",
+      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -11834,6 +11834,22 @@
       ]
     },
     {
+      "id": "0fc86118e07c407a40ac",
+      "title": "爆発が起き、捜索が続く「イオンモール熊本」に集まる消防隊員=30日午前7時15分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi03MXpxTDl4WVRLNk11UGNibno3ZXhQTzVvMEgzOTZWME13VjJzQTFkS0JZeHprY19iSXNzbk1iSUlUYjJBVWhQNkFZcHJrMjNFV09KYjN1V3BPQjJYSmJFZEg2WGt4VVJ5MjhkekdNa2NJQjlyNDlzSlJjaHBsY0dqb0lqQUJRUkJXZmZFWmViQ1hLamVzRlo4TDdoY2E4ZVE?oc=5",
+      "first_seen": "2026-07-30T07:30:11Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "181dc330e794df40c827",
       "title": "熊本地震で死者計17人に イオンモールは5人、日本製紙八代工場で8人 心肺停止は6人",
       "source": "産経新聞",
@@ -13273,22 +13289,6 @@
       "first_seen": "2026-07-30T04:30:49Z",
       "focus": [
         "救助・安否"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "0fc86118e07c407a40ac",
-      "title": "爆発が起き、捜索が続く「イオンモール熊本」に集まる消防隊員=30日午前7時15分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-30T04:16:19Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi03MXpxTDl4WVRLNk11UGNibno3ZXhQTzVvMEgzOTZWME13VjJzQTFkS0JZeHprY19iSXNzbk1iSUlUYjJBVWhQNkFZcHJrMjNFV09KYjN1V3BPQjJYSmJFZEg2WGt4VVJ5MjhkekdNa2NJQjlyNDlzSlJjaHBsY0dqb0lqQUJRUkJXZmZFWmViQ1hLamVzRlo4TDdoY2E4ZVE?oc=5",
-      "first_seen": "2026-07-30T07:30:11Z",
-      "focus": [
-        "現場状況"
       ],
       "category_ids": [
         "aeon"
@@ -15024,6 +15024,20 @@
         "原因・検証",
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "dd86341ffdd133fe3892",
+      "title": "イオン九州、マックスバリュなど熊本県内17店が営業見合わせ",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxUjlwbjNoNF93WUtIeEdqbW1pbm8xZklubUpQV1ZhZmh4UTZFdHprZTJXYlRVaE1hcFdjOURucjRnMjFYdkJDU2NuQ0cyMUdnQ0Rlek16S09pUnNPZFdpSW1OT0FlOXdpV1N6T0xudWpIa09jMUE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -18151,20 +18165,6 @@
         "原因・検証",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "dd86341ffdd133fe3892",
-      "title": "イオン九州、マックスバリュなど熊本県内17店が営業見合わせ",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T03:23:33Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxUjlwbjNoNF93WUtIeEdqbW1pbm8xZklubUpQV1ZhZmh4UTZFdHprZTJXYlRVaE1hcFdjOURucjRnMjFYdkJDU2NuQ0cyMUdnQ0Rlek16S09pUnNPZFdpSW1OT0FlOXdpV1N6T0xudWpIa09jMUE?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
