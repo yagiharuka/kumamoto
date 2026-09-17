@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T10:30:37Z",
-  "updated_at_jst": "2026/09/17 19:30 JST",
+  "updated_at": "2026-09-17T11:01:05Z",
+  "updated_at_jst": "2026/09/17 20:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1292,
@@ -5778,7 +5778,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMFhrckpDaXhGXzZ1Yi10YlFMMXdOUm5TWS1jMERsdHVmbW5aalhvYmhxeGRwUE51djBOajhhSGQ1RVExSTU1OVI4YUtmQ19lS2tjWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmZQTFhvS2R5QzVIcVE2MU8yQ3dfTjh1aHdFM1BKSEV1cFhSN2NPbF80V3oxaDUxWDExS0NtNVVhU0xhdnpsYXlSRmJDcENRRHotZl8wb2s1Vks0ZkE?oc=5",
       "first_seen": "2026-08-13T20:00:57Z",
       "focus": [
         "現場状況"
@@ -7813,7 +7813,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlVKYzctVE1QT1gyWjhqbEY4RUNkTTFpVi02TTZlaDJkcm52M3Vvb09KNmhrcmFpRzU4b0FMTi1jNk5ldWtGQ2RPS1FlMW5aNElBb08zamczYXlGdHdHd3EtNzlsQm5adjJPT1NfR2FZdjQ3N0Z4U3RYd0lyV1kybw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX2VwRmNBakFpOVhRNlJUN1h0UWFsSTRpNGx4bmhWOUpoVTZLMUFIeXd2REZSSXJpaEdUYW5iV1E2MzhkQnUtZXN1NHoyZV9Yc0l4SlFzNzN3YnVsSTJfWFBNTQ?oc=5",
       "first_seen": "2026-08-04T10:01:06Z",
       "focus": [
         "現場状況"
@@ -8181,7 +8181,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yaVNZMmxJRGVRVV9pakVHMlRoT2paT0RVd1hzLThJN0gzcXdmdnREOTY2SWU0RElaT3dqNjdoWnQwTFBvbEJOdTBkUWhNLWY3czlxNUlzakZ0LVVyMTEydkNGRnJBYjdxWldwMjFOcm9jQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1ckVMWEowa1Boa2NNblZFRUpCYXUwU3NzQ2w4R3psdTFfenJabVJyM1dOdUpBZXA4U0QzVE5MMG1BbGpSZEpGc21RQzZIZk9YSHdZczRPSHVwRTlnTW9JdE5WdWtONmdxdW56MEdfbmtReHBS?oc=5",
       "first_seen": "2026-08-03T01:31:06Z",
       "focus": [],
       "category_ids": [
@@ -15190,6 +15190,20 @@
       ]
     },
     {
+      "id": "d5ce6c79f8dae1171302",
+      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcG90UjJSdHFHY2tmc0JOQjNLMU5USVNWeWN6STdvSl9hRkVzemlBc1JhN1I0Mm9rQjlFbjNVOWFrdlJpT1pWVllIZnJIdlZXckkyQnM2TVljbmxrUHdOdU1ZYW9fS01SVWFhU0w5M0lORjFHOVo3MERWXzlLOFpkTWoxQ2pNVVJfXzV6VjJQOXB5a3EzTVlpWjBHQ1ViOHM0SlE?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "c22709c86c65e42e5274",
       "title": "【動画】鉄骨むき出し、床に建材散乱 爆発起きたイオンモール熊本内部の映像を警察庁が公開",
       "source": "産経新聞",
@@ -19678,20 +19692,6 @@
       ]
     },
     {
-      "id": "d5ce6c79f8dae1171302",
-      "title": "がれきが散乱する「イオンモール熊本」付近の道路=7月28日午後10時26分、熊本県嘉島町",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm1LS1Fjc0xOeGU2M1VsbHhOMkV6RGo0S0tjWE53UjRJOFZzM2lyNmpBV2Q5dlg2VlVGbHlHZklUVW1KSlg3TWxBLTl1cGZybmdkNDl2SFY1N2M3V0ExdXdpY2hfZEVVaTRMYnlQR00xRHVrNHFjYURvenlJT2dsaDdzZV9LSkVXaTFQZHBnZ2dRY3pVekMyWldkZ29jbmRRZHc?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "10d2e8d44707ed9b25a7",
       "title": "【動画】イオンモール熊本「避難後、しばらくしてから爆発が起きた」",
       "source": "産経新聞",
@@ -20566,7 +20566,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4waERGWWlJSlBGSkZBRHI5Ni1sRTFQekh1R3dLR2dPcWFPQXdwMmlWeWotNjY4clNkNE1nZl9vV1ZsZEk1TlV6MVdhREJXSjVzVU5KRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lX0ZwbjVOVDdLV1dua3RoSkl4RUZYR3g0dXFEX0g4YmNuTE5qYTdkSm5HcmVuVU9RcmF0ZzJmVTB6U1kzRFBJU3hKLUJsNmxWMG00eg?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
