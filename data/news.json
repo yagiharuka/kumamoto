@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T21:00:45Z",
-  "updated_at_jst": "2026/09/18 06:00 JST",
+  "updated_at": "2026-09-17T21:30:34Z",
+  "updated_at_jst": "2026/09/18 06:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1294,
@@ -12893,7 +12893,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFo2ZkMwQU95aG9iaVZjQVJkRFlOSG81MkdNRUhmUlhLXzZPNktaWDJqcXlGZGlQc0FoZjVSV2V1UGlidV9aMjM2SXpsbzc5OVZ4S3hwMTlnUkNfQjVJT0FfQV9LTms5WXgxdHJmREgtalRoSzZNYzdyV2RLaXBMZnJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkZ4UnhvZC1ac2Y1dW1mZU5FcVE2OGlMdHFfcFM3eWJReTM4ZmphcnZXVW5Ybkxkb0dYTHF0MG0tbWlxbDdjX1dMVlpFZzlXTzZreHp3YkpvVTN6S0k2WFhzV0RyRzJMZGdqMnNIMzRKSVQ0Qy1LVm9UTWxFUmVfcm93?oc=5",
       "first_seen": "2026-07-30T02:00:47Z",
       "focus": [
         "救助・安否",
@@ -12980,7 +12980,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkRfVWgtVEVvbVp6bEczT1loYlRUd1Rrdjc4WXFFUm9CLWtIVU1TbjNmRjE3OTVndl9wUTNVbGFVdThNT0Rac1k1cjQ1RGU2MDNCamd3aDg5OVJ3Rm5USjJJbFRmUE10MUpUSmFGZGUxb01RaE85Umw1RW53ZzFGYlRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaG1haUtRVWpuX1pBT01GWVhCQjk4MllpLXMtSDR5M19HQlZvYk1EZkEwU0dwRjVScUNHR1h3a2hvdHpXNVQ4eFR1UVp2cVN0aWNnOUZnWlF3VFgwMHMwWEdlSQ?oc=5",
       "first_seen": "2026-07-30T03:00:49Z",
       "focus": [
         "避難状況",
@@ -19531,6 +19531,23 @@
       ]
     },
     {
+      "id": "5acb916c9da0b38ffccd",
+      "title": "死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeTF2eEpoMlA1ZkRYLTJqU2RWX0luZjFuUmdmME13RnQwOUVrVDd4TUxfbVJEN1k3V3VJcWgzM3JWb1N3UHZRTDN4ODNsSzlZR01RWHJPOW02SU4xYV9ram43bWZsV3U3RUhXSFE5c3E3cFpQQnc?oc=5",
+      "first_seen": "2026-07-28T17:01:06Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ae00ce915da443925856",
       "title": "捜索活動が続くイオンモール熊本=7月28日午後7時32分、熊本県嘉島町(共同通信社ヘリから)",
       "source": "産経新聞",
@@ -19747,23 +19764,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "5acb916c9da0b38ffccd",
-      "title": "【フォトギャラリー】死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1acHI1MWZPYkJGV2RBUlFObHdyXzFoSVBGT1dlVDRXLWY3SGZaaHp4a3RwWWlxN3dZaDVxdHktdlYyekE5Z043XzJxS2pRbGNfWkxCZTJFem9nOW9QdE56MktKd1NxUEVBTklxeko2NUx1cXNPN0E?oc=5",
-      "first_seen": "2026-07-28T17:01:06Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
