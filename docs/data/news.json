@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T09:00:44Z",
-  "updated_at_jst": "2026/09/17 18:00 JST",
+  "updated_at": "2026-09-17T09:30:45Z",
+  "updated_at_jst": "2026/09/17 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1292,
@@ -262,7 +262,7 @@
     },
     {
       "id": "d68539e94928d819cd3e",
-      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
+      "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診 | NHKニュース | 令和8年熊本地震、小売業、企業・経営",
       "source": "NHK",
       "source_id": "nhk",
       "source_group": "公共放送",
@@ -576,23 +576,6 @@
       ]
     },
     {
-      "id": "027d114b1db9d94ededf",
-      "title": "火花がごみに燃え移ったか 日本製紙八代工場の煙突火災、熊本",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-08T08:24:44Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NS3hLOWUxZ2JoTnBxNG43MjRJSDBxa1ZCMUkzZzczeHlUN2dMcElIbklhTGVselhpclZkTS1DWFp6SEN4cjQ0ZXd4aVdCeHFOQklmbWFCZGk3TThacDBpOWJrUDFkdEwtdUdUSURNN0loazR2WXc?oc=5",
-      "first_seen": "2026-09-08T08:30:50Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "a6285a7969cd85bc620b",
       "title": "日本製紙八代工場の煙突解体現場の火災、支柱を切断中に散った火花が出火原因か...ドローン使って実況見分",
       "source": "読売新聞",
@@ -603,6 +586,23 @@
       "first_seen": "2026-09-08T01:30:30Z",
       "focus": [
         "原因・検証",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "027d114b1db9d94ededf",
+      "title": "火花がごみに燃え移ったか 日本製紙八代工場の煙突火災、熊本",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NS3hLOWUxZ2JoTnBxNG43MjRJSDBxa1ZCMUkzZzczeHlUN2dMcElIbklhTGVselhpclZkTS1DWFp6SEN4cjQ0ZXd4aVdCeHFOQklmbWFCZGk3TThacDBpOWJrUDFkdEwtdUdUSURNN0loazR2WXc?oc=5",
+      "first_seen": "2026-09-08T08:30:50Z",
+      "focus": [
         "目撃証言",
         "現場状況"
       ],
@@ -4278,6 +4278,22 @@
       ]
     },
     {
+      "id": "4396a6d8083ff9865865",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-14T09:42:35Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a05JeDV6V2doeko1U1NNb3NGR2owVjVxVjFjSnRUU2VqSlUwcnQtRlg0QnJMc1kyYjVDTjR6a3l4Y0lDU2pDYlQ0UU1UZ21YVzNTZzlZcEI4NjlJTkt5alJoODUwV2plZ1E?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1a87263c95f1ff8e1b10",
       "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール",
       "source": "産経新聞",
@@ -5737,22 +5753,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "4396a6d8083ff9865865",
-      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYldxeGlVandVQlY1Zk90V0lKNDJnY3JhVF9tMlkzUHBjcnBETFhmRlhtb2ZiQmx5ZHp0VTUxcDM1dEpYc0VwekJ5bXR0dmEzZ3FFck5YRTU1ZXlJUWk2bmxvOGNWVnNuX1E?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -16564,7 +16564,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVDJIZlhvU19RUEZIM2VTdkVzTXZkWDhldzB2bF92SHZIYng4c2ZfNU52SDM5TTV1SHN0eXBKd05EWDNPQ20xTUZhbE5XdmR0QW9ldzFlMTZfM3R6Vk9STzZQbEhubjJTZE44SmFkcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUl6VTZabGdJT2R3Q0NrajlLdmpJTktNazJ1ZnAwX2xrSDhmcERqc3pXdjdCbzZZby1NWmpmb01QUFQtbUVsOHdMWGgxbXJRVkpsUHNiTlVCaWxaZ2d6d1lrYl9PN3laMjBMUHJxZnJvSkRNY1k4ZWJWV2ZzWHBDWGdjd0RjTC05ZTZIWTZXc0x2Zw?oc=5",
       "first_seen": "2026-07-29T22:30:53Z",
       "focus": [
         "現場状況"
@@ -19531,6 +19531,23 @@
       ]
     },
     {
+      "id": "5acb916c9da0b38ffccd",
+      "title": "死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeTF2eEpoMlA1ZkRYLTJqU2RWX0luZjFuUmdmME13RnQwOUVrVDd4TUxfbVJEN1k3V3VJcWgzM3JWb1N3UHZRTDN4ODNsSzlZR01RWHJPOW02SU4xYV9ram43bWZsV3U3RUhXSFE5c3E3cFpQQnc?oc=5",
+      "first_seen": "2026-07-28T17:01:06Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "ae00ce915da443925856",
       "title": "捜索活動が続くイオンモール熊本=7月28日午後7時32分、熊本県嘉島町(共同通信社ヘリから)",
       "source": "産経新聞",
@@ -19733,23 +19750,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "5acb916c9da0b38ffccd",
-      "title": "【フォトギャラリー】死者1人、けが多数 熊本で震度7 イオンモール爆発20~30人不明か 倒壊や火災も",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1acHI1MWZPYkJGV2RBUlFObHdyXzFoSVBGT1dlVDRXLWY3SGZaaHp4a3RwWWlxN3dZaDVxdHktdlYyekE5Z043XzJxS2pRbGNfWkxCZTJFem9nOW9QdE56MktKd1NxUEVBTklxeko2NUx1cXNPN0E?oc=5",
-      "first_seen": "2026-07-28T17:01:06Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
