@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T19:30:44Z",
-  "updated_at_jst": "2026/09/18 04:30 JST",
+  "updated_at": "2026-09-17T20:00:48Z",
+  "updated_at_jst": "2026/09/18 05:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1293,
@@ -499,7 +499,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-09T11:10:01Z",
+      "published_at": "2026-09-09T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnS3dqYVQyV0V4VEZTYnYyT2sta2dSV3hocXhicWdmaEtpTm1yNnZxZDUwZGdLbDA2U3ZibzczMjR4TF93b04xYkhkN2FKRHc?oc=5",
       "first_seen": "2026-09-09T11:30:48Z",
       "focus": [
@@ -11840,7 +11840,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHJNdVYwa0IyQ0dBVks3ZGR6VzFtdjdYQ24tcW5xZnBmeVhuTEZndGNSekVDcS1DVHhLUGtwSklqZDFUaV9RU2V1RG1QQ29Ka1dDWHBzVU5teWFWeHNOSDl1RkRBSzMzNGVqZkx4QnVIVW8wdE1zb3IyX1p2eGRMMWVja1h4SkZxOS1VQzhLSm5vMzhScjZMWkRIbHJoak5xR0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi03MXpxTDl4WVRLNk11UGNibno3ZXhQTzVvMEgzOTZWME13VjJzQTFkS0JZeHprY19iSXNzbk1iSUlUYjJBVWhQNkFZcHJrMjNFV09KYjN1V3BPQjJYSmJFZEg2WGt4VVJ5MjhkekdNa2NJQjlyNDlzSlJjaHBsY0dqb0lqQUJRUkJXZmZFWmViQ1hLamVzRlo4TDdoY2E4ZVE?oc=5",
       "first_seen": "2026-07-30T07:30:11Z",
       "focus": [
         "現場状況"
@@ -12793,7 +12793,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVhNVm1DM0RTSTE2ZGZiU2hMVXIxcEJXYnJKTjhtdTVOVndkNmwwYTFwSmt4c0JKd0JNM1U2dV9TMFppb1BFeHV1RlVpaGJMQUk0cldUVmRLcWdmVHc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
