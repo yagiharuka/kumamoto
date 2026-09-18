@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-18T11:30:41Z",
-  "updated_at_jst": "2026/09/18 20:30 JST",
+  "updated_at": "2026-09-18T12:00:54Z",
+  "updated_at_jst": "2026/09/18 21:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1298,
@@ -87,7 +87,7 @@
       "source": "毎日新聞",
       "source_id": "mainichi",
       "source_group": "全国紙",
-      "published_at": "2026-09-18T07:39:46Z",
+      "published_at": "2026-09-17T20:04:14Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dHN4bFFYUmdyV1lpeXNZaVBsQWRzbDBOazZReC1ZWTBkM3JKNGxiYThLNWZMSHkxWU0tMlJiTEp2R0tWaWxJOG9oNzFqVzhnTkRmWjNvSWw4dTQyeVh6YWRBOWJMSVQ2?oc=5",
       "first_seen": "2026-09-17T20:30:41Z",
       "focus": [
@@ -13047,7 +13047,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTlNZODdBTGt4UnVDUlkyeDM4X3V0TVRTaU9HWWlXTlp4UVJTOWhCQVM3YlZEVndkMDlsRjZXcFk5MkhUOFBxMFA5M0h2U0ZOUDJvVzlzMi0xcG9qbG1Ca20wOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzctZjB5dkR5b1B1enIxeDhzWThOQkQ0aGdZVXl3dzNCbTB1bW1vaGs2TFNBNmp2VW1LV0xUNmU4NjFSNklpaWk1UHlOQkNCQkFZQzZ1M1p0M0gyRFp6NE1zeXpjUWgzSGxoVDZiY0VjWTdIVXlEY0xCWG5uSGxDeFRR?oc=5",
       "first_seen": "2026-07-30T11:30:10Z",
       "focus": [
         "救助・安否",
@@ -14178,7 +14178,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
@@ -17132,7 +17132,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WNG14M3RwQU96ZlRVUEpwdFNfcklMdGdvTVRjREJoLVV2RUFKNjRFWEVucDVKT2JadmlhV0dFZGlEYnZhNHF4M01SX2kxYy1IM1YwbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fRW5pT3Nnc3MyXy1WbEp4VWpVZHBKSlQzcGVwUklzZk9Ma1lEMmZIWHNIdXg3bXNzamVneXItdjVjQUV5ZVV4STRJRzFsN2tiTVY0dUtQTGE3UUFWMkE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否",
@@ -17475,6 +17475,23 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sbFBqUTdCdjdEekc0OUJhRS1PYWhLMlg5QkVkMHBtRGJ2c1lDc1c1RVM1YktFb19RakFtVWNPRFJ2V05kVUM1RFBudmFUUjQ?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "a066370779536f574d06",
+      "title": "【動画】イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止 熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMUxJbk1xTEVMaFhZYkJpSGhwS3FDelNPeUpzZUdxYVFiUk5OUzBDQzB6cGU3VUMwZkdNVWVDM1k4N0hUTTdCV0I1R05MRWM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
       "category_ids": [
         "aeon"
       ]
@@ -18451,23 +18468,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmtqekc0VTRHS1JyVjZlOW84RUpJRWhLTWVUZy02c3JEVEY4NWJCUGt3M1VoRHhBaXB4dnNOMVprYm9HcG1Lc2xNV0VOc04zakJLNkFySERLV0czYkFEcC1Nbk91amIyTlFfLXVMMnhaSGZMcHhTd0UxN1oteUZYWUZ6emlKVFVPenZYVkw1ck8wbWJIb2VKaEVkMTJLd2V6UVE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "a066370779536f574d06",
-      "title": "【動画】イオンモールで爆発 日本製紙、工場の煙突倒壊 トヨタ・ホンダ、工場停止 熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-29T00:39:22Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMUxJbk1xTEVMaFhZYkJpSGhwS3FDelNPeUpzZUdxYVFiUk5OUzBDQzB6cGU3VUMwZkdNVWVDM1k4N0hUTTdCV0I1R05MRWM?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "目撃証言",
         "現場状況"
       ],
       "category_ids": [
@@ -20647,7 +20647,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4waERGWWlJSlBGSkZBRHI5Ni1sRTFQekh1R3dLR2dPcWFPQXdwMmlWeWotNjY4clNkNE1nZl9vV1ZsZEk1TlV6MVdhREJXSjVzVU5KRw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lX0ZwbjVOVDdLV1dua3RoSkl4RUZYR3g0dXFEX0g4YmNuTE5qYTdkSm5HcmVuVU9RcmF0ZzJmVTB6U1kzRFBJU3hKLUJsNmxWMG00eg?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
