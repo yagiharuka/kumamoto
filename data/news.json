@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T23:30:34Z",
-  "updated_at_jst": "2026/09/18 08:30 JST",
+  "updated_at": "2026-09-18T00:01:04Z",
+  "updated_at_jst": "2026/09/18 09:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1294,
@@ -50,9 +50,9 @@
   ],
   "source_counts": {
     "mainichi": 163,
-    "kumanichi": 193,
     "asahi": 150,
     "nhk": 117,
+    "kumanichi": 193,
     "sankei": 204,
     "yomiuri": 200,
     "jiji": 197,
@@ -95,23 +95,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "f4e30609a1a69c60e6d7",
-      "title": "2026年熊本地震>損傷がない煙突1本も撤去へ 110メートルの強化プラスチック製、安全面を考慮 被災の日本製紙八代工場 八代市",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-17T16:38:33Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmSE1CQzJnUGRzenZ5RWE2Yi1mWjhVTHprWWhLSTE1M1pQaUNDWFBWRFVRYmJJSF9jZVFXVF9GdzdnSkNDYXI1LUFtZzhZdXM?oc=5",
-      "first_seen": "2026-09-12T15:00:53Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
       ]
     },
     {
@@ -321,6 +304,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "f4e30609a1a69c60e6d7",
+      "title": "2026年熊本地震>損傷がない煙突1本も撤去へ 110メートルの強化プラスチック製、安全面を考慮 被災の日本製紙八代工場 八代市",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-11T11:25:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmSE1CQzJnUGRzenZ5RWE2Yi1mWjhVTHprWWhLSTE1M1pQaUNDWFBWRFVRYmJJSF9jZVFXVF9GdzdnSkNDYXI1LUFtZzhZdXM?oc=5",
+      "first_seen": "2026-09-12T15:00:53Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -12809,7 +12809,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaGVHTF9vckJwWnY5c3NQWC0xSnVRWHBScGM2Qzc5bWxpUndmanZjaWJXS1VnbU0zTngzclJ1STZVeGZ1LVhXaFhsTnFEeFQ2by1IV1dLWjVPMXh5Vnc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVhNVm1DM0RTSTE2ZGZiU2hMVXIxcEJXYnJKTjhtdTVOVndkNmwwYTFwSmt4c0JKd0JNM1U2dV9TMFppb1BFeHV1RlVpaGJMQUk0cldUVmRLcWdmVHc?oc=5",
       "first_seen": "2026-08-01T01:30:51Z",
       "focus": [
         "原因・検証",
