@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T15:30:58Z",
-  "updated_at_jst": "2026/09/20 00:30 JST",
+  "updated_at": "2026-09-19T16:00:52Z",
+  "updated_at_jst": "2026/09/20 01:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1301,
@@ -339,23 +339,6 @@
       ]
     },
     {
-      "id": "179a0b2a18a107c2fcdb",
-      "title": "商業施設のガス管近くに警報器の設置を要請、経産省 イオン爆発受け [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-11T09:55:34Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcUt5YU5IamV0Yk5FZHZ3ZGo0LWlfdzNGamJiTlEzTWdONUxxTEM5bHE3aUNPRTRUWTdTcWpjNEwyalNKSFdFNnRkZ01WOFVhNERCM0VQdVZXdVVTV0hGWWFVbERfQjQ?oc=5",
-      "first_seen": "2026-09-11T11:48:03Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2efd9708ad6671ebd619",
       "title": "爆発事故で営業休止のイオンモール熊本、専門店に契約解除打診...「営業終了ではない」",
       "source": "読売新聞",
@@ -381,6 +364,23 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1takNYeWdVS2d6bTVxUmVxOHhMTF95ZU9qWXBiWmNUZGZNTVlxMDdENzBIVnpmaGx2aERndUE1WHdqUF9XV1VldEh0dWJzb25NOTl1OXdKZEJ0ekFsNlZHWThVMzg3b2FTeXFHWFppTWNOczY0eUE?oc=5",
       "first_seen": "2026-09-11T11:48:03Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "179a0b2a18a107c2fcdb",
+      "title": "商業施設のガス管近くに警報器の設置を要請、経産省 イオン爆発受け [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcUt5YU5IamV0Yk5FZHZ3ZGo0LWlfdzNGamJiTlEzTWdONUxxTEM5bHE3aUNPRTRUWTdTcWpjNEwyalNKSFdFNnRkZ01WOFVhNERCM0VQdVZXdVVTV0hGWWFVbERfQjQ?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -5095,6 +5095,22 @@
     },
     {
       "id": "c614a36787100877b5c8",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "first_seen": "2026-08-13T12:35:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c614a36787100877b5c8",
       "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
@@ -5118,22 +5134,6 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUstMWtFMTBEUmxSc2hveEJLeEN6UWFLYVJLOTZxVlRZMlY5UzdSb0o0R0dveXpqX2pDWkRCMnBtLUNOMzAxLWFlT18zUlRXUTBSalJzZXAzanpNd2VrYk5QUFZMR0ZCTXBUTEpiekxIamU0QlVsZC1EQU9udmpmdg?oc=5",
       "first_seen": "2026-08-12T09:00:57Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
-      "first_seen": "2026-08-13T12:35:38Z",
       "focus": [
         "現場状況"
       ],
@@ -5541,7 +5541,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MU3d1U0JXNWQyQkFwQTJ1LXRzVFI2TmZDTzZfYmZPd1BPbTVHNzVFQTUzcFpYdWI4QlF1REVRSVVINDltamhrTmExRWVqdkRjNllDRXR5ekF3eTVpRHFZVHhvSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXVQdGFuRmtvMG1mbmtkbDlqeVBwb0Nma2JoRzF5TEx0a0NabHU5NnN6N0tPVC1wSWd1eWduOFhnelZsbXZoZDc4LVRnRXRiWUl5em85QmFVVHp1eWg4a1I0LVE5Ym1USlBuQi1fWlBqV2w1cWoyQWNzbldJUlJ2WWln?oc=5",
       "first_seen": "2026-08-10T22:30:42Z",
       "focus": [
         "現場状況"
@@ -7898,7 +7898,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -13115,7 +13115,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzctZjB5dkR5b1B1enIxeDhzWThOQkQ0aGdZVXl3dzNCbTB1bW1vaGs2TFNBNmp2VW1LV0xUNmU4NjFSNklpaWk1UHlOQkNCQkFZQzZ1M1p0M0gyRFp6NE1zeXpjUWgzSGxoVDZiY0VjWTdIVXlEY0xCWG5uSGxDeFRR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTlNZODdBTGt4UnVDUlkyeDM4X3V0TVRTaU9HWWlXTlp4UVJTOWhCQVM3YlZEVndkMDlsRjZXcFk5MkhUOFBxMFA5M0h2U0ZOUDJvVzlzMi0xcG9qbG1Ca20wOA?oc=5",
       "first_seen": "2026-07-30T11:30:10Z",
       "focus": [
         "救助・安否",
