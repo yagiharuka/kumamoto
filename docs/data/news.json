@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T13:00:41Z",
-  "updated_at_jst": "2026/09/19 22:00 JST",
+  "updated_at": "2026-09-19T13:30:38Z",
+  "updated_at_jst": "2026/09/19 22:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1301,
@@ -325,6 +325,20 @@
       ]
     },
     {
+      "id": "161a04eb9b6d2698988c",
+      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-11T10:44:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "2efd9708ad6671ebd619",
       "title": "爆発事故で営業休止のイオンモール熊本、専門店に契約解除打診...「営業終了ではない」",
       "source": "読売新聞",
@@ -352,20 +366,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "161a04eb9b6d2698988c",
-      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
-      "first_seen": "2026-09-11T11:48:03Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -810,6 +810,23 @@
       ]
     },
     {
+      "id": "d68fcb61b8a867f928f8",
+      "title": "煙突火災で実況見分 日本製紙八代工場、熊本(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyV1diVTU0Z0pBSmFRV0xmMnRfX2ZoV1AweldMMHVuQjBIVkMyOXJRTmV5Z1BVNEdLdlZZZ3RnZGhXZEdyaXFPUkQwSlRQbEE?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "9cb4698ad350a73c6a53",
       "title": "日本製紙八代工場の煙突火災で実況見分 鉄柱切断中に出火か",
       "source": "毎日新聞",
@@ -912,23 +929,6 @@
       ]
     },
     {
-      "id": "d68fcb61b8a867f928f8",
-      "title": "煙突火災で実況見分 日本製紙八代工場、熊本(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-07T01:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyV1diVTU0Z0pBSmFRV0xmMnRfX2ZoV1AweldMMHVuQjBIVkMyOXJRTmV5Z1BVNEdLdlZZZ3RnZGhXZEdyaXFPUkQwSlRQbEE?oc=5",
-      "first_seen": "2026-09-07T02:00:32Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "32df0d4d508f36cad568",
       "title": "日本製紙八代工場火災、煙突を囲う支柱を切断中に出火...熊本県警八代署と消防は7日にも実況見分",
       "source": "読売新聞",
@@ -968,7 +968,7 @@
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-05T03:23:00Z",
+      "published_at": "2026-09-05T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41WktOSFFWZXNRQzlCTUNCNkdpZlQwc1AwM3ZhMXhDUS0yZ045WGRFazZ3aFBSRnUxRm9RSlBqaHBaQ2F0eTNDX1NlMzNYM28?oc=5",
       "first_seen": "2026-09-05T04:00:32Z",
       "focus": [
@@ -7898,7 +7898,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -14232,7 +14232,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
