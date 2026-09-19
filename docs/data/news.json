@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T12:30:38Z",
-  "updated_at_jst": "2026/09/19 21:30 JST",
+  "updated_at": "2026-09-19T13:00:41Z",
+  "updated_at_jst": "2026/09/19 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1301,
@@ -325,37 +325,6 @@
       ]
     },
     {
-      "id": "161a04eb9b6d2698988c",
-      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-11T10:44:06Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
-      "first_seen": "2026-09-11T11:48:03Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "179a0b2a18a107c2fcdb",
-      "title": "商業施設のガス管近くに警報器の設置を要請、経産省 イオン爆発受け [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-11T09:55:34Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcUt5YU5IamV0Yk5FZHZ3ZGo0LWlfdzNGamJiTlEzTWdONUxxTEM5bHE3aUNPRTRUWTdTcWpjNEwyalNKSFdFNnRkZ01WOFVhNERCM0VQdVZXdVVTV0hGWWFVbERfQjQ?oc=5",
-      "first_seen": "2026-09-11T11:48:03Z",
-      "focus": [
-        "原因・検証",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "2efd9708ad6671ebd619",
       "title": "爆発事故で営業休止のイオンモール熊本、専門店に契約解除打診...「営業終了ではない」",
       "source": "読売新聞",
@@ -381,6 +350,37 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1takNYeWdVS2d6bTVxUmVxOHhMTF95ZU9qWXBiWmNUZGZNTVlxMDdENzBIVnpmaGx2aERndUE1WHdqUF9XV1VldEh0dWJzb25NOTl1OXdKZEJ0ekFsNlZHWThVMzg3b2FTeXFHWFppTWNOczY0eUE?oc=5",
       "first_seen": "2026-09-11T11:48:03Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "161a04eb9b6d2698988c",
+      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "179a0b2a18a107c2fcdb",
+      "title": "商業施設のガス管近くに警報器の設置を要請、経産省 イオン爆発受け [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-11T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVcUt5YU5IamV0Yk5FZHZ3ZGo0LWlfdzNGamJiTlEzTWdONUxxTEM5bHE3aUNPRTRUWTdTcWpjNEwyalNKSFdFNnRkZ01WOFVhNERCM0VQdVZXdVVTV0hGWWFVbERfQjQ?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -7898,7 +7898,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -9053,7 +9053,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-02T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaUVhbDlRVDh4VkZta3JEV01yeHVKLU1Ib2lSSko4U0N0WDh4RGtYT3NqZzVVUXNIeUNsVGRZRjFwRVVTMHpkX2UtcEI3aWpTNG5HOWJyLUxhTG8zWUNzd0JfZkZZM2Z6cDBrMWt3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRSSDdlUTNTLVg5Ylh0c1pENFZKQXE3cF9kc2VvMVBzZzRKLTJwWTdlNFhhSGV2RXZHU2stV0JDcUI1S1pMNFhZTXNPRElyblZuS09KRmpPZzNiWkNxeTd4a2JsY1Q0d0tJNVR5QWFHeE5uSW12S3BpUjhqNkh3V1hFNlJPdjRtanBNYWZB?oc=5",
       "first_seen": "2026-08-03T02:31:06Z",
       "focus": [
         "現場状況"
@@ -16732,7 +16732,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVXNQOVNZSUZTSjBFUzNRMk9pVDBWQTltend3VFFYckJtM0w2ODhac1pGc0lxWUw5MHd2LUMxSFo1bXA4eVJNcXgzWGpjNENXZ2pIZFh1eDM5c2Mwb3FmNmo2ZW1BZndPS3p0NEJR?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -16780,7 +16780,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xMWdEdXc5a1RpdW5tZFpHcHJLR1RkU1hDeEdTdlZZVzBXQWtESGkyT1gzYWZ3ai1faVpfMlVVNmZWT2NqeW5LTnNhSmtyZXhXT1BjNFZSQktTWkhMN1YyZzdWT1ZkamhyMFZpYkd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ejJ2aVlmNjFSZWlGMEhEeThHSk5rN1NjU3FzQTFaUVRrUVhNQkt2eVFEUlkzdlZ3ZWVkMHg0UkRZT083Y1BpbXVvT1Q0S0VhR3VPQk02NE5LZ1VLR0UweW1VT0tJdmhPT3l3UDl3?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "救助・安否"
