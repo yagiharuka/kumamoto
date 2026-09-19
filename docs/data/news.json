@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T00:00:39Z",
-  "updated_at_jst": "2026/09/19 09:00 JST",
+  "updated_at": "2026-09-19T00:30:52Z",
+  "updated_at_jst": "2026/09/19 09:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1301,
@@ -4411,22 +4411,6 @@
       ]
     },
     {
-      "id": "4396a6d8083ff9865865",
-      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-14T09:42:35Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a05JeDV6V2doeko1U1NNb3NGR2owVjVxVjFjSnRUU2VqSlUwcnQtRlg0QnJMc1kyYjVDTjR6a3l4Y0lDU2pDYlQ0UU1UZ21YVzNTZzlZcEI4NjlJTkt5alJoODUwV2plZ1E?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "1a87263c95f1ff8e1b10",
       "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール",
       "source": "産経新聞",
@@ -5095,6 +5079,22 @@
     },
     {
       "id": "c614a36787100877b5c8",
+      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
+      "first_seen": "2026-08-13T12:35:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "c614a36787100877b5c8",
       "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
       "source": "時事通信",
       "source_id": "jiji",
@@ -5118,22 +5118,6 @@
       "published_at": "2026-08-12T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUstMWtFMTBEUmxSc2hveEJLeEN6UWFLYVJLOTZxVlRZMlY5UzdSb0o0R0dveXpqX2pDWkRCMnBtLUNOMzAxLWFlT18zUlRXUTBSalJzZXAzanpNd2VrYk5QUFZMR0ZCTXBUTEpiekxIamU0QlVsZC1EQU9udmpmdg?oc=5",
       "first_seen": "2026-08-12T09:00:57Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "c614a36787100877b5c8",
-      "title": "イオン、遺族に補償の方針 爆発事故「解明待たず早期対応」―熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-08-12T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jRmpyUUhXX1h5VlhBNVBwcXd5MWJ1U2FwQzBOanJ0ZGp3b2lmVXZ1VlNfTUo3OUh0ZGZ1bUFlRzQxbHJlUEJnZmxsR2xkWDNUOFJ4THU0OVFJb2xYVkdhS01KQQ?oc=5",
-      "first_seen": "2026-08-13T12:35:38Z",
       "focus": [
         "現場状況"
       ],
@@ -5886,6 +5870,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "4396a6d8083ff9865865",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-10T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYldxeGlVandVQlY1Zk90V0lKNDJnY3JhVF9tMlkzUHBjcnBETFhmRlhtb2ZiQmx5ZHp0VTUxcDM1dEpYc0VwekJ5bXR0dmEzZ3FFck5YRTU1ZXlJUWk2bmxvOGNWVnNuX1E?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
@@ -11737,7 +11737,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hOFhEQ2tmWEp6S0gxVHlLaW5kVDAtLVpxWU0xS2ZLR1RqSlpxRk0tbDF2QzR0WlBERzNDVG1DMnJuWXd3OEFpeFRJODU5MHgzcXdaejlCT2tGakd5S28zYVZXSlhOdTRNWENxSlkwUVJCVkRu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrTkRtclN2NUNWVDF0SW9tVjlPODVkTWEya3BsOTAwRFp0RjV2QXdpS0NvX0UxdERYMGZkeUthaEdLWld3dXB4ODlWSDVDd0Q1bzJWMHQ1MUN1eFRaRU1QYUt0cWxYRjMwRlZ3UDBmeUdxQQ?oc=5",
       "first_seen": "2026-07-30T06:30:11Z",
       "focus": [],
       "category_ids": [
@@ -12761,6 +12761,23 @@
       "published_at": "2026-07-30T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lQkphUlhPX1VJTkVBdjJxZ0xOZkVrQ1lEa1FoVHVTdVVWMmJkOUJ5aEFFS2J5ZkRwbHhfazdpMlZMWXdFY3gxX3FYX0lsN0RPUzlEQVJZelZldi1W?oc=5",
       "first_seen": "2026-07-29T20:30:10Z",
+      "focus": [
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
+      "id": "6042eb22679815692607",
+      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
+      "first_seen": "2026-07-29T10:49:24Z",
       "focus": [
         "避難状況",
         "停電状況"
@@ -14229,7 +14246,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
@@ -16522,23 +16539,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZY25LUGhXU0VZRE1GNlhvcWFBb3VoOHlSbDZJU2EzcmdaZERqM21HVDNZS2duQWRGMHp5ZmZnMi1wcGlWRW85RmFBV0JJeDRiNDJxckt2NUpkQzQ2?oc=5",
       "first_seen": "2026-07-29T02:13:56Z",
       "focus": [
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
-      ]
-    },
-    {
-      "id": "6042eb22679815692607",
-      "title": "猛暑、停電、断水... 命を守るために避難生活で気を付けたいポイント [2026年熊本地震]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZnNUeWIxSk10U3Zka083VVhQQWhMbUQydThDWFp2LXByVnE0SHNzSjRwWlZPRzNqVGMzdzlsV2NOcmZEZndzR2RrM2tSMFJIazlmbFJ2X1h1M0JLZnpNdVJVSm5ub1E?oc=5",
-      "first_seen": "2026-07-29T10:49:24Z",
-      "focus": [
-        "避難状況",
         "停電状況"
       ],
       "category_ids": [
