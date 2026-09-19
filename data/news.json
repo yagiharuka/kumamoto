@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T18:01:02Z",
-  "updated_at_jst": "2026/09/20 03:01 JST",
+  "updated_at": "2026-09-19T18:30:43Z",
+  "updated_at_jst": "2026/09/20 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1301,
@@ -325,6 +325,20 @@
       ]
     },
     {
+      "id": "161a04eb9b6d2698988c",
+      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-11T10:44:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
+      "first_seen": "2026-09-11T11:48:03Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "179a0b2a18a107c2fcdb",
       "title": "商業施設のガス管近くに警報器の設置を要請、経産省 イオン爆発受け [2026年熊本地震]",
       "source": "朝日新聞",
@@ -369,20 +383,6 @@
       "focus": [
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "161a04eb9b6d2698988c",
-      "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」<2026年熊本地震",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-11T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
-      "first_seen": "2026-09-11T11:48:03Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -793,6 +793,40 @@
       ]
     },
     {
+      "id": "287ae8ba1e285d6534cf",
+      "title": "煙突火災の日本製紙八代工場で実況見分 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTFh4STE0ZWJfcUQyUVg0bWxBcVA4ckdIaW1PempyUWdzZThIUTJFSUFETjlybndhbmxMa3BWc1dPdVFQT1d1c3M5S2xOTDg?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "d68fcb61b8a867f928f8",
+      "title": "煙突火災で実況見分 日本製紙八代工場、熊本(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-07T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyV1diVTU0Z0pBSmFRV0xmMnRfX2ZoV1AweldMMHVuQjBIVkMyOXJRTmV5Z1BVNEdLdlZZZ3RnZGhXZEdyaXFPUkQwSlRQbEE?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "9cb4698ad350a73c6a53",
       "title": "日本製紙八代工場の煙突火災で実況見分 鉄柱切断中に出火か",
       "source": "毎日新聞",
@@ -886,40 +920,6 @@
       "published_at": "2026-09-07T02:30:50Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzBCcXdScjh4TE1tSGdJSTdjcnJpdXpFXzIzb1M1Uk8tQXhEdDdtUU53Z0Q5MzFQV1QzQ2RJc1lZUUZodk5aWTRTR0tDVl9wcGt6M01VWnBPZnJ1Nm9GSjVZaDNNSlQ4NDhYUnZ1ZVp4R0FNV3RwRlg3VkZ2RWpCOUFXUTE5OVNxTlBWXzIyX0RpMHdLX0tJZ3lSNERyc1pPa2c?oc=5",
       "first_seen": "2026-09-07T04:00:39Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "d68fcb61b8a867f928f8",
-      "title": "煙突火災で実況見分 日本製紙八代工場、熊本(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-07T01:40:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyV1diVTU0Z0pBSmFRV0xmMnRfX2ZoV1AweldMMHVuQjBIVkMyOXJRTmV5Z1BVNEdLdlZZZ3RnZGhXZEdyaXFPUkQwSlRQbEE?oc=5",
-      "first_seen": "2026-09-07T02:00:32Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "287ae8ba1e285d6534cf",
-      "title": "煙突火災の日本製紙八代工場で実況見分 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-07T01:20:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTFh4STE0ZWJfcUQyUVg0bWxBcVA4ckdIaW1PempyUWdzZThIUTJFSUFETjlybndhbmxMa3BWc1dPdVFQT1d1c3M5S2xOTDg?oc=5",
-      "first_seen": "2026-09-07T02:00:32Z",
       "focus": [
         "目撃証言",
         "現場状況"
