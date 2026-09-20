@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-20T02:00:35Z",
-  "updated_at_jst": "2026/09/20 11:00 JST",
+  "updated_at": "2026-09-20T02:30:29Z",
+  "updated_at_jst": "2026/09/20 11:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1302,
@@ -810,23 +810,6 @@
       ]
     },
     {
-      "id": "287ae8ba1e285d6534cf",
-      "title": "煙突火災の日本製紙八代工場で実況見分 (共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-07T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTFh4STE0ZWJfcUQyUVg0bWxBcVA4ckdIaW1PempyUWdzZThIUTJFSUFETjlybndhbmxMa3BWc1dPdVFQT1d1c3M5S2xOTDg?oc=5",
-      "first_seen": "2026-09-07T02:00:32Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "d68fcb61b8a867f928f8",
       "title": "煙突火災で実況見分 日本製紙八代工場、熊本(共同通信)",
       "source": "熊本日日新聞",
@@ -937,6 +920,23 @@
       "published_at": "2026-09-07T02:30:50Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzBCcXdScjh4TE1tSGdJSTdjcnJpdXpFXzIzb1M1Uk8tQXhEdDdtUU53Z0Q5MzFQV1QzQ2RJc1lZUUZodk5aWTRTR0tDVl9wcGt6M01VWnBPZnJ1Nm9GSjVZaDNNSlQ4NDhYUnZ1ZVp4R0FNV3RwRlg3VkZ2RWpCOUFXUTE5OVNxTlBWXzIyX0RpMHdLX0tJZ3lSNERyc1pPa2c?oc=5",
       "first_seen": "2026-09-07T04:00:39Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "287ae8ba1e285d6534cf",
+      "title": "煙突火災の日本製紙八代工場で実況見分 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-07T01:20:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTFh4STE0ZWJfcUQyUVg0bWxBcVA4ckdIaW1PempyUWdzZThIUTJFSUFETjlybndhbmxMa3BWc1dPdVFQT1d1c3M5S2xOTDg?oc=5",
+      "first_seen": "2026-09-07T02:00:32Z",
       "focus": [
         "目撃証言",
         "現場状況"
@@ -3912,7 +3912,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJMi1lN19jLXZWekRxcDNDTy1PUkpEQkNPU1EtSm8yeGdaZkZDaVVBNjR4NFNzVUhabVhqZ2d4WWQwVjZrdTVDVnRKSDlXcjVuenFlbQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOUdEeDZJd1FIaks0NjdKeW9XVEhranBET2t6aVAtYTRDLVl2Zkd1QklkNTRwR1BaTjJ4aXA1ckdET3VEM3RtUHdqdEM4WDlUU3FrWVVqdWtwMUJRaGc?oc=5",
       "first_seen": "2026-08-20T06:30:33Z",
       "focus": [
         "現場状況"
@@ -3928,7 +3928,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-20T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeWh5UHJPSHhFWF9aUDV6MV9YZWNpV2FBM1lnUTYyY2tCc2pWZkNrc0hIMU5NV1JxZVdXcTV5Ymo0T0t5X1Z3Yk5iTXVOZVo1azc4S3VTdkJZejRQWFRzN2d4bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzAyMG9lMF9sTFVYNGZMQURHb1Jib3F5bE1Bbld6bzVyYzFYVFJ1bkVzT2M5WjRmRFllQUxycml3dFpiM01Iai1tdE5veXpZbmJCUGVxNXlLS0l2YTFXcVlJSWxGLUM3THJ3Zk55S3JmTUZHZy04dlRxWGxJREx6YQ?oc=5",
       "first_seen": "2026-08-20T07:30:29Z",
       "focus": [
         "現場状況"
@@ -5928,7 +5928,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMFhrckpDaXhGXzZ1Yi10YlFMMXdOUm5TWS1jMERsdHVmbW5aalhvYmhxeGRwUE51djBOajhhSGQ1RVExSTU1OVI4YUtmQ19lS2tjWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoZmZQTFhvS2R5QzVIcVE2MU8yQ3dfTjh1aHdFM1BKSEV1cFhSN2NPbF80V3oxaDUxWDExS0NtNVVhU0xhdnpsYXlSRmJDcENRRHotZl8wb2s1Vks0ZkE?oc=5",
       "first_seen": "2026-08-13T20:00:57Z",
       "focus": [
         "現場状況"
@@ -19477,7 +19477,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UHZ5VjExd1h0UW9JQzFvbVplWnBoYlZxZ3FveWFxY0kycHZIUjJraWIwNklnTHprNnZLVUl6QXBvdDVvNmJadnZZQ1BVdk90Q3RKUHVIX0NLMTFkTC14VlN3MU1Vdnk3cXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yTEg2MFFnMV95X2w0RFpndElVZE9NLS0yeWdSMEl3ZWlzRXVaTnVpNzc0bFFMQl9INnRhQWpYSFZFcF83QlJpN0hNMTJNQlBIclZpblp6OUFHa0hOWmZ1NmJOZ25fS2Nxc2c?oc=5",
       "first_seen": "2026-08-02T20:00:20Z",
       "focus": [
         "救助・安否",
