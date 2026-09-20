@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-20T17:30:46Z",
-  "updated_at_jst": "2026/09/21 02:30 JST",
+  "updated_at": "2026-09-20T18:00:48Z",
+  "updated_at_jst": "2026/09/21 03:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1302,
@@ -4531,7 +4531,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-13T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
       "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
@@ -7915,7 +7915,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
@@ -11636,6 +11636,22 @@
       ]
     },
     {
+      "id": "69a4e921d262b182ff95",
+      "title": "【2026年熊本地震】イオンモール熊本で爆発",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-30T09:55:40Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWFwQ09qMHBvdEsyQnJ0UDh5dzdjMFRocDVaTnpEVDhEZ1lKX29qZ1JLVXRZdWF3MEdNakRGYlhqdzM4OXV3cEREOXptU1lXVEJVSFRhY2pOWE5lM3Y0Qjhzb1VvQXJqMHgxYWpKaVRkNmxjdndqUV9rTTRINmJxZ3ZubzYzSVhJYUJTbW1rVnU2Z0JKZ1NDSmtGRTFxcDNpbXJvUXEtYlZiTEU3SW1PbQ?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "6421ffc7c9f675807ca4",
       "title": "「思い出の詰まったイオンモール熊本」熊本出身のMBS・山崎香佳アナ、長文で思いつづる「無力さを感じています」",
       "source": "読売新聞",
@@ -13763,22 +13779,6 @@
       "source_group": "全国紙",
       "published_at": "2026-07-29T11:30:00Z",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRlRfbTV4Wjl6WEF3aVo4X3hXNEE0MzM5LUVVVUVxbzZrVmtOR2RZY3BvLThGMWNwNDNXSmRyOWEwMnZPQVRhd0ZkNUFNQ2tFQ004?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "69a4e921d262b182ff95",
-      "title": "【2026年熊本地震】イオンモール熊本で爆発",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T11:15:52Z",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNzJ4c1VyVUM2ejFtS2pXRmNqNUlqWnBabFJCSkFWeHdYVjdWYWJmc3lqeTRmWkIyQVhWSE1aTDlkaFdJREpKYUUtbndvNmV0eG1KTzgteHBZRV9XdlVhd3BYWnlsemVtZTh4cXFBbjlPa2ZXbWlBRV9BMWQyZ0FrSlh0dldpY2JsV0EzbzBudF9uR2dtSTR5U2E3NVJuczR6anZRLWVVNTRfemd6MVd3YUFTV3BZVkp5dGp5VHNhQlJGUnIzOXJVZUgwdWNBdHFVYS1GYUV5TzBDSlQ4RmdOMEQ0dGx5Zy1iR1JmWGhHVVQtOHJOQVplS2Z5N1pzNW5BbkdJWW5zTlpLdFhsNkE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -20556,7 +20556,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2Q0RlZycmtadmtKYWh6NEVFX3A4T0JZS3hLaUtPWXVmaUd4dEhZR3BkWjJSVkxNREZsTGZpSWNqdzlNWEx2R0VmN0FBeVZZVXN4TEI5SjAxNDhMVF9xSk9fTXRRTVVtUy1GbThaZjJaeEZLZW1DS015WUlMeDd4MENpMW1uTTUyOTdjX0hR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
