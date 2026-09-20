@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-20T20:30:45Z",
-  "updated_at_jst": "2026/09/21 05:30 JST",
+  "updated_at": "2026-09-20T21:00:48Z",
+  "updated_at_jst": "2026/09/21 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1302,
@@ -251,6 +251,22 @@
       ]
     },
     {
+      "id": "24e59f99224ac475ea4f",
+      "title": "爆発事故のイオンモール熊本 全テナントに一時的契約解除打診",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbFdmMWY5UnBGVkFVclgzclZxc1drcUtURUJaaHlQLVoxOHA4d2UtTUt2M3p0eTdPcTFOS1hFZTY5c3NBaEpNX0t3RkloaGRJMDJBNHpyUTU?oc=5",
+      "first_seen": "2026-09-11T20:31:06Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "d68539e94928d819cd3e",
       "title": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
       "source": "NHK",
@@ -304,22 +320,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lWVVHU3RjYXAwLVk3X3MzSTJCMVlvRi1BalEwQnNhMktjS2NBMU1aWFlydmxLOTlQcFRYc1NvT0dMY3JrV1FkdjVTa0JhSFk?oc=5",
       "first_seen": "2026-09-12T02:30:52Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "24e59f99224ac475ea4f",
-      "title": "爆発事故のイオンモール熊本 全テナントに一時的契約解除打診",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-11T20:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbFdmMWY5UnBGVkFVclgzclZxc1drcUtURUJaaHlQLVoxOHA4d2UtTUt2M3p0eTdPcTFOS1hFZTY5c3NBaEpNX0t3RkloaGRJMDJBNHpyUTU?oc=5",
-      "first_seen": "2026-09-11T20:31:06Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
