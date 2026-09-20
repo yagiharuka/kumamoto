@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-20T12:30:46Z",
-  "updated_at_jst": "2026/09/20 21:30 JST",
+  "updated_at": "2026-09-20T13:00:47Z",
+  "updated_at_jst": "2026/09/20 22:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1302,
@@ -1301,6 +1301,22 @@
       ]
     },
     {
+      "id": "6a4d8e17efe8a048f841",
+      "title": "人命第一の企業防災を 熊本・イオン爆発にやるせなさ 東日本大震災遺族、訴え /兵庫",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdjJoTTRiQ0xNRG5Mc0VUUFo0NVJXYjlpbzc4NkdHRTlXT25sNHp3dDU0RGswVndJMWlsNldwNVQtMThXcWEwcmpBVHB3bW1ZOERNYnpqTXFUZFVMX2VKd1M5bWtDSG5z?oc=5",
+      "first_seen": "2026-09-03T20:30:30Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "bf97e5c403ad2f2e9b6f",
       "title": "煙突の骨組み切断中に出火か 熊本地震で被害の日本製紙八代工場 [熊本県]",
       "source": "朝日新聞",
@@ -1468,22 +1484,6 @@
       ],
       "category_ids": [
         "paper"
-      ]
-    },
-    {
-      "id": "6a4d8e17efe8a048f841",
-      "title": "人命第一の企業防災を 熊本・イオン爆発にやるせなさ 東日本大震災遺族、訴え /兵庫",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-03T20:05:20Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdjJoTTRiQ0xNRG5Mc0VUUFo0NVJXYjlpbzc4NkdHRTlXT25sNHp3dDU0RGswVndJMWlsNldwNVQtMThXcWEwcmpBVHB3bW1ZOERNYnpqTXFUZFVMX2VKd1M5bWtDSG5z?oc=5",
-      "first_seen": "2026-09-03T20:30:30Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -15024,7 +15024,7 @@
       "source_id": "sankei",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjBENjlIVHJYV0dwOVhRVXlHLUJYbDlFWGR0TS01QnBIMzlVMkJqbnFfRXZhbVVTei0wRlBnSWdkbE5QTEV0czFfQ2JyUmlwc2FoWHdSblNibnFDcFNSckI5VXcyUWZjQzZQTURydm44aC1mclBsdVJ4MkkyU1NVUnRVYWNOMXZSZVlZalZYbDNiSWlyTm1Ic1ZvZzFKQU1JVUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3VfZGgtZi12NkhfUUJ5UzBsLXk1bU1KQXdCNXBWQjZWTFlscUR5LUotQmZtZDhnVEhyU0tPSXdJenVtZHJfLTU3M3VReUhYN3JYNkt3Z3RnUlhublBuSGR5OHE0YXN3cnY2TGF3M3RVMnJnLVd3WkdRUl9PMGNIdmVOYWt6YUc4a0lnYk1DVEwwc2xVazNoZmU3dGtXNjM1SEE?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "現場状況"
@@ -16641,23 +16641,6 @@
       "first_seen": "2026-07-28T20:31:11Z",
       "focus": [
         "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "42b3dd7426cf3f4662ee",
-      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01SnNfYzA1OWRsUlZyR2h3MTZiak1Pd3EzOHBOLW5QM3FOSXdlNE5nOG5pNEdLTENqM2tRUUhFNXlaaXhEWlF6bk1SOC1JenZneEs5bXJYbmtSdjFVeGNjN2ZRMWpLNWlLaVNPU0dR?oc=5",
-      "first_seen": "2026-07-29T00:00:27Z",
-      "focus": [
-        "避難状況",
         "現場状況"
       ],
       "category_ids": [
@@ -20567,6 +20550,23 @@
       ]
     },
     {
+      "id": "42b3dd7426cf3f4662ee",
+      "title": "従業員に誘導され避難、その後爆発 イオンモール熊本にいた人語る [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
+      "first_seen": "2026-07-29T00:00:27Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "307f7e07ced63d869f40",
       "title": "イオンモール熊本の爆発、ガス漏れか? 専門家が指摘する可能性 [熊本県] [2026年熊本地震]",
       "source": "朝日新聞",
@@ -20655,7 +20655,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RFJMVUFGYTBqYlNnRnBvWmZadUQ4VkdDWmV0THZtQTlmVHVDMDBIRWEwTDc2SnlRN09MLXRZTDFIXzNxMVJyN0pLa1pEcThDN09mRFZzLVptRXlvcjJQOGFXWlRRUnd6RDBJMHhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xR3c3aC1LN1ltY3pwUzdUX2J0WDBKaVgxTmtiR1ZJeFlvQV9iOWRXeW9wdnFOSF9CNUJUaXB6eWNsU0JjNUF6ZXFCUzI0ZFhGb09Gd1ZGb0U2NldZczdtamx3TnI0OWJNd2ZEUWh3?oc=5",
       "first_seen": "2026-08-01T21:30:12Z",
       "focus": [],
       "category_ids": [
