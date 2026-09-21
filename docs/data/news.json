@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T03:00:56Z",
-  "updated_at_jst": "2026/09/21 12:00 JST",
+  "updated_at": "2026-09-21T03:30:50Z",
+  "updated_at_jst": "2026/09/21 12:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1302,
@@ -237,6 +237,22 @@
       ]
     },
     {
+      "id": "000db4e1d5c240b5028e",
+      "title": "地震後の爆発発生で休業続くイオンモール熊本、全テナントに契約解除打診",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-12T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwS3M3dGtXRDVfSnBlSEp4cDBOSjRYRzFIV1ltUVVraVZsTThqOWptTTB5UXNBSEJRUmFzQjRoUjRlRDFZd295YTlfcTNxbm51YW9uVEJkR0FDMGl6ejVNRGVIU3Axbi1uNEFDbW9jMTdLWFlhTVE?oc=5",
+      "first_seen": "2026-09-12T02:30:52Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "b92f8ec6de78455581e5",
       "title": "地震で休業のイオンモール熊本、全テナントに一時契約解除を打診",
       "source": "毎日新聞",
@@ -290,22 +306,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RdzNibUZEVjJBTHJzaUs5N3VtYTliWnZnbmt5SE5VRVJ4dTd1VUNjclNIY0RJZWpRdlpoajR3UFZLR1hLOGlOcmJxVTBrT1E?oc=5",
       "first_seen": "2026-09-12T03:00:51Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "000db4e1d5c240b5028e",
-      "title": "地震後の爆発発生で休業続くイオンモール熊本、全テナントに契約解除打診",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-12T02:25:06Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwS3M3dGtXRDVfSnBlSEp4cDBOSjRYRzFIV1ltUVVraVZsTThqOWptTTB5UXNBSEJRUmFzQjRoUjRlRDFZd295YTlfcTNxbm51YW9uVEJkR0FDMGl6ejVNRGVIU3Axbi1uNEFDbW9jMTdLWFlhTVE?oc=5",
-      "first_seen": "2026-09-12T02:30:52Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
@@ -12960,7 +12960,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TTVRwX2JFUnQ0Z1lCTGcwSmNBUmFaWnZCMXhqQkV1cGVWRjhyclkwQ0dsYTk2M05GTmVvalVUSXZOSkY4Vlh2ckNqeWtGV2JoTnM3VThVUy1OT216VFFETG9YNjI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FSzJuUmNqYVh6LUpoWUx6bXd3ZHgzajBVQUtnQnl3ZEwwWkcydlhTNU5jNXdqZE1jbEdETWVUcXcya1JVMmxkZV82d3lQcjFXeGpZSndiZUE2ckJpeV9OMENnZmU?oc=5",
       "first_seen": "2026-07-30T02:30:50Z",
       "focus": [
         "救助・安否"
