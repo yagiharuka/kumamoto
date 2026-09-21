@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T13:30:57Z",
-  "updated_at_jst": "2026/09/21 22:30 JST",
+  "updated_at": "2026-09-21T14:01:02Z",
+  "updated_at_jst": "2026/09/21 23:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1303,
@@ -453,6 +453,20 @@
       ]
     },
     {
+      "id": "0928fa08a79e6c49d56c",
+      "title": "◎日本製紙、八代工場被災で調査委設置=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-10T07:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMDZJM1RreGlDYkR2SWhsSkZpa1ZVei1zeFRFaWxHVnd1bW1kZ1MxZGJUemUyWlZRU3JQSVdTTnBtR0k5eW9ScDBHdTNuWUN6aTdiRQ?oc=5",
+      "first_seen": "2026-09-11T05:01:23Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "430b8d88aaeb1d6f4d6e",
       "title": "日本製紙、八代工場被災で調査委設置 熊本震度7",
       "source": "時事通信",
@@ -492,20 +506,6 @@
       "published_at": "2026-09-10T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RaW1wbmpidEZnaDBWUW8tLVUzM0plY3lwb1ZjRjJieFprXzBiSG9hVTB1RlAzWmRzV1VUSXhKWkRMVy02bEJhSENVSU1ITjFLeUMyWV9EM1ROM2FJTmlNWVd5Yw?oc=5",
       "first_seen": "2026-09-10T10:00:56Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "0928fa08a79e6c49d56c",
-      "title": "◎日本製紙、八代工場被災で調査委設置=熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMDZJM1RreGlDYkR2SWhsSkZpa1ZVei1zeFRFaWxHVnd1bW1kZ1MxZGJUemUyWlZRU3JQSVdTTnBtR0k5eW9ScDBHdTNuWUN6aTdiRQ?oc=5",
-      "first_seen": "2026-09-11T05:01:23Z",
       "focus": [],
       "category_ids": [
         "paper"
@@ -13030,7 +13030,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZXpTZV8xemhSR2sydUtJcWpjS0xJMzZJNkpST2R6TzRObUtOWk5CcUU2ZHYydTFnZHFubm5NZTJkNXdtYURwaHdRWW5aM3EyTEhaVU9veldFcWlnX2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yR0NaajZPWV95MFJpdVZFTzBhRFlROERjZFZ5cWcwcUtoeHVkYnpta3JhVi03QkFpT3JWY0RBYTQxT2gyVFhsVURkN3ZsUm10YlhzQw?oc=5",
       "first_seen": "2026-07-31T18:00:53Z",
       "focus": [
         "救助・安否",
@@ -16732,7 +16732,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RY01QcTdObFJJUWVXZDVsRmlMMTRmNFF6MVU0M05yY1U5UHA5dkhScXhRWGwwNEJlRHBOV2lEU1JDbk42Ylp2T1prZU5Qb2VVZUd2c0VZaFNRWklSWmRsRkprQ0dEWkxrbG1ReHp3?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
@@ -20570,7 +20570,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2Q0RlZycmtadmtKYWh6NEVFX3A4T0JZS3hLaUtPWXVmaUd4dEhZR3BkWjJSVkxNREZsTGZpSWNqdzlNWEx2R0VmN0FBeVZZVXN4TEI5SjAxNDhMVF9xSk9fTXRRTVVtUy1GbThaZjJaeEZLZW1DS015WUlMeDd4MENpMW1uTTUyOTdjX0hR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9USDFMMlB0SkJNSHFxUEdXWHJndTlOTHNERkJScFdEcWp4ZkVCY3hIekQ4SFNSRzI0M2NSOWg4RGJoc2VUblNFampTQUtHbjNCaWk1SktPLVJmZ25GNzZqX3ByaE5fbXhDT0NzbzNB?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
