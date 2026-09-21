@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T09:01:06Z",
-  "updated_at_jst": "2026/09/21 18:01 JST",
+  "updated_at": "2026-09-21T09:30:48Z",
+  "updated_at_jst": "2026/09/21 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1303,
@@ -4428,6 +4428,22 @@
       ]
     },
     {
+      "id": "4396a6d8083ff9865865",
+      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-08-14T09:42:35Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0a05JeDV6V2doeko1U1NNb3NGR2owVjVxVjFjSnRUU2VqSlUwcnQtRlg0QnJMc1kyYjVDTjR6a3l4Y0lDU2pDYlQ0UU1UZ21YVzNTZzlZcEI4NjlJTkt5alJoODUwV2plZ1E?oc=5",
+      "first_seen": "2026-08-11T07:30:42Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "1a87263c95f1ff8e1b10",
       "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール",
       "source": "産経新聞",
@@ -5887,22 +5903,6 @@
       ],
       "category_ids": [
         "power"
-      ]
-    },
-    {
-      "id": "4396a6d8083ff9865865",
-      "title": "イオンモール熊本で木村知事が献花 爆発で7人犠牲「大変胸が痛む」 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-08-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyYldxeGlVandVQlY1Zk90V0lKNDJnY3JhVF9tMlkzUHBjcnBETFhmRlhtb2ZiQmx5ZHp0VTUxcDM1dEpYc0VwekJ5bXR0dmEzZ3FFck5YRTU1ZXlJUWk2bmxvOGNWVnNuX1E?oc=5",
-      "first_seen": "2026-08-11T07:30:42Z",
-      "focus": [
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
       ]
     },
     {
@@ -12960,7 +12960,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TTVRwX2JFUnQ0Z1lCTGcwSmNBUmFaWnZCMXhqQkV1cGVWRjhyclkwQ0dsYTk2M05GTmVvalVUSXZOSkY4Vlh2ckNqeWtGV2JoTnM3VThVUy1OT216VFFETG9YNjI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FSzJuUmNqYVh6LUpoWUx6bXd3ZHgzajBVQUtnQnl3ZEwwWkcydlhTNU5jNXdqZE1jbEdETWVUcXcya1JVMmxkZV82d3lQcjFXeGpZSndiZUE2ckJpeV9OMENnZmU?oc=5",
       "first_seen": "2026-07-30T02:30:50Z",
       "focus": [
         "救助・安否"
@@ -16732,7 +16732,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KV1Z6ZU05MjY1ZUZuY3QzVUZDLWJzQ3Z2MmczNGFLekRmeGMwSThLSTJrd0lRQkFYWktxc3hfVzBuMjZpT0xEaDRfNHRhdGVVNzlIYXV5QXFmM2VVZmQtXzBWWEJ1Z2g4cmJDbnFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RY01QcTdObFJJUWVXZDVsRmlMMTRmNFF6MVU0M05yY1U5UHA5dkhScXhRWGwwNEJlRHBOV2lEU1JDbk42Ylp2T1prZU5Qb2VVZUd2c0VZaFNRWklSWmRsRkprQ0dEWkxrbG1ReHp3?oc=5",
       "first_seen": "2026-07-29T13:30:13Z",
       "focus": [
         "現場状況"
