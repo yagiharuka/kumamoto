@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T22:30:47Z",
-  "updated_at_jst": "2026/09/22 07:30 JST",
+  "updated_at": "2026-09-21T23:01:04Z",
+  "updated_at_jst": "2026/09/22 08:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1304,
@@ -1419,6 +1419,23 @@
       ]
     },
     {
+      "id": "f44b8c604a3fda98e826",
+      "title": "日本製紙八代工場 解体中の煙突から出火 約6時間半後に鎮火",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nb0c2SW42R1hvODVVVlZxVmYxYVZwMlY5RFFZMWw0VEluMExyNm5lcEJWVGpyenFFc1VFTFFXM29oWnBETWo3cnNDbi1wYlVGUTZ0b1RKMlk?oc=5",
+      "first_seen": "2026-09-03T21:30:22Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "d9a2489971322ebc316a",
       "title": "千葉・市原のイオンでガス漏れか 客ら全員避難、けが人なし(共同通信)",
       "source": "熊本日日新聞",
@@ -1464,23 +1481,6 @@
       "first_seen": "2026-09-03T22:30:29Z",
       "focus": [
         "操業情報"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "f44b8c604a3fda98e826",
-      "title": "日本製紙八代工場 解体中の煙突から出火 約6時間半後に鎮火",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-03T20:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nb0c2SW42R1hvODVVVlZxVmYxYVZwMlY5RFFZMWw0VEluMExyNm5lcEJWVGpyenFFc1VFTFFXM29oWnBETWo3cnNDbi1wYlVGUTZ0b1RKMlk?oc=5",
-      "first_seen": "2026-09-03T21:30:22Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
       ],
       "category_ids": [
         "paper"
