@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T00:30:47Z",
-  "updated_at_jst": "2026/09/22 09:30 JST",
+  "updated_at": "2026-09-22T01:00:54Z",
+  "updated_at_jst": "2026/09/22 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1304,
@@ -209,6 +209,20 @@
       ]
     },
     {
+      "id": "6a106b87efb5de5504c2",
+      "title": "イオンモール熊本:契約の一時解除、イオン熊本打診 全テナントに",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-13T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETXhRRURFcW8yNEVNbXVLLUhRNDg3V3V6MUxOOFpvVzYtV1BiTVlxUXRkTVl5STl3dlJSUjRtYmMzN25Eajh1SjA1RVkwVUVKYWs3ZWFzWFE3dmdsYW91bHcteGxYWTBO?oc=5",
+      "first_seen": "2026-09-12T17:30:54Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "97588730088838992c6e",
       "title": "全テナントに契約解除打診 イオン熊本、一時的",
       "source": "毎日新聞",
@@ -217,20 +231,6 @@
       "published_at": "2026-09-12T20:03:26Z",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5Nk1CR0Fhbk1Zdy1hYlNyd1Z1eVI3ZmtvWWdDMmZrSmRicWJfTkNkLW0wQkdVU2hjNDdaQWI2aGRpZmNSaXVQYjVtQWhVWTVvdG5GZm54WnBFcXlFNXUwbWlIMVlRUW1n?oc=5",
       "first_seen": "2026-09-13T18:01:07Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "6a106b87efb5de5504c2",
-      "title": "イオンモール熊本:契約の一時解除、イオン熊本打診 全テナントに",
-      "source": "毎日新聞",
-      "source_id": "mainichi",
-      "source_group": "全国紙",
-      "published_at": "2026-09-12T17:02:21Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETXhRRURFcW8yNEVNbXVLLUhRNDg3V3V6MUxOOFpvVzYtV1BiTVlxUXRkTVl5STl3dlJSUjRtYmMzN25Eajh1SjA1RVkwVUVKYWs3ZWFzWFE3dmdsYW91bHcteGxYWTBO?oc=5",
-      "first_seen": "2026-09-12T17:30:54Z",
       "focus": [],
       "category_ids": [
         "aeon"
@@ -453,6 +453,20 @@
       ]
     },
     {
+      "id": "0928fa08a79e6c49d56c",
+      "title": "◎日本製紙、八代工場被災で調査委設置=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-10T07:33:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMDZJM1RreGlDYkR2SWhsSkZpa1ZVei1zeFRFaWxHVnd1bW1kZ1MxZGJUemUyWlZRU3JQSVdTTnBtR0k5eW9ScDBHdTNuWUN6aTdiRQ?oc=5",
+      "first_seen": "2026-09-11T05:01:23Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "430b8d88aaeb1d6f4d6e",
       "title": "日本製紙、八代工場被災で調査委設置 熊本震度7",
       "source": "時事通信",
@@ -492,20 +506,6 @@
       "published_at": "2026-09-10T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RaW1wbmpidEZnaDBWUW8tLVUzM0plY3lwb1ZjRjJieFprXzBiSG9hVTB1RlAzWmRzV1VUSXhKWkRMVy02bEJhSENVSU1ITjFLeUMyWV9EM1ROM2FJTmlNWVd5Yw?oc=5",
       "first_seen": "2026-09-10T10:00:56Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "0928fa08a79e6c49d56c",
-      "title": "◎日本製紙、八代工場被災で調査委設置=熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMDZJM1RreGlDYkR2SWhsSkZpa1ZVei1zeFRFaWxHVnd1bW1kZ1MxZGJUemUyWlZRU3JQSVdTTnBtR0k5eW9ScDBHdTNuWUN6aTdiRQ?oc=5",
-      "first_seen": "2026-09-11T05:01:23Z",
       "focus": [],
       "category_ids": [
         "paper"
@@ -2734,7 +2734,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QzQ2N1RDeEN5Y0F5N0luX1RWMUNfZkR1RTRvLU90eHRjNVAwQlo5ZFBqRGg3NEx0S2hsRG04dzU4aTdhSzlWQmFFaFpsb3pBaGs5WQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CdkF0R1FZNDZtM0o4cjBSRHZwa3Ezc1JGdzJEUjlFOWRTLVRTUXpDQlhwZkQ0aTI2WndsdEZVQklWSlNhM1N1NlFEcmhXWkFVdDB5NG92ZkhZdEcxSEE?oc=5",
       "first_seen": "2026-08-29T15:01:05Z",
       "focus": [],
       "category_ids": [
