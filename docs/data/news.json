@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T19:01:03Z",
-  "updated_at_jst": "2026/09/23 04:01 JST",
+  "updated_at": "2026-09-22T19:30:50Z",
+  "updated_at_jst": "2026/09/23 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1304,
+  "article_count": 1306,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "nikkei": 72,
-    "mainichi": 164,
+    "mainichi": 166,
     "asahi": 150,
     "nhk": 117,
     "kumanichi": 193,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 987,
+    "aeon": 989,
     "power": 137,
     "paper": 197
   },
@@ -653,6 +653,22 @@
       "published_at": "2026-09-08T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxV0NGSm53d3dLeS14bUhmVzR3OTZiVFN3V18tNGNZRjA1aGdFV3huRG5WNGpZZk9qTnQ1REJsOHY3TWEzX0pjQjI0WDB4SEE?oc=5",
       "first_seen": "2026-09-08T10:00:38Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "18ca9badf304613c79b6",
+      "title": "イオンモール熊本爆発事故:爆発現場は外壁吹き飛び骨組みぐにゃり 粟野仁雄",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hX2FSM3pwQlFuZUhCUWRPa3MzVlF6bVR0UURSSkN3Q2JWNVRabjNjRkpORFVYTkpUem1kUXBnNlpJSVRKejQ3d292bDFwZzRlZ3JIY1FsdnAwY0RKQm1VVWQ2dVhwbG4tZmMxMkN5dDNsRVhsYVZIc0Q1djZOdXM?oc=5",
+      "first_seen": "2026-09-22T19:30:50Z",
       "focus": [
         "現場状況"
       ],
@@ -1310,6 +1326,23 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdjJoTTRiQ0xNRG5Mc0VUUFo0NVJXYjlpbzc4NkdHRTlXT25sNHp3dDU0RGswVndJMWlsNldwNVQtMThXcWEwcmpBVHB3bW1ZOERNYnpqTXFUZFVMX2VKd1M5bWtDSG5z?oc=5",
       "first_seen": "2026-09-03T20:30:30Z",
       "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "8a35967b27d8667d1f97",
+      "title": "イオンモール熊本爆発事故:災害拠点のエネルギー源としてのLPガスを再考する 編集部",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-09-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQmpiN2RPc3VYOGhCTG1YMnZoVTZ5emxRdnJyX1J6YzhXZVBsVm0waERHQ18wcG5EUkpLSXliekQzbUVwcHRFWVg4aTdtWU9zcG1CU3RfMUxzQnNwUmNWTDRTYmpVZFBtdjZsaWVXUGJiY0pRN05xYkN0TWRNTXc?oc=5",
+      "first_seen": "2026-09-22T19:30:50Z",
+      "focus": [
+        "原因・検証",
         "現場状況"
       ],
       "category_ids": [
@@ -11222,20 +11255,6 @@
       ]
     },
     {
-      "id": "00404de981e926303f02",
-      "title": "損傷したイオンモール熊本 熊本県嘉島...:熊本地震(2026年7月) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-30T20:47:52Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FU3VNVHlCN3ljTzd4b010VmFLaDRwTUo2c0ZuWTQwbWpHZ05oWU02dW9JcGlDd052cjhTdy0zTkRZd0VpMTc0OXd0cFZhM1hKeXpXSU9QTlZ2N0VHbHpTNlBZczdlRlpSQkNKWEo3aw?oc=5",
-      "first_seen": "2026-07-30T22:05:54Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "b5d9a6dd5c687abbfdf0",
       "title": "崩れた日本製紙八代工場内の建物 地震...:熊本地震(2026年7月) 写真特集:時事ドットコム",
       "source": "時事通信",
@@ -17227,6 +17246,20 @@
       "published_at": "2026-07-29T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96TUswZjJ0OWNqMEMwdEs1dnBZVjg1ZkVWQzlrQncyZFpZNGtRTDMyNUhQdzY4LXMzOEF3X1JPQ01qMmUwQWx3alR6bV9zdkY0UFlzLXJvbHdJSmI5M1RPV1RxVkJDNU4tMkk2ZzBWNA?oc=5",
       "first_seen": "2026-07-30T21:00:13Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "00404de981e926303f02",
+      "title": "損傷したイオンモール熊本 熊本県嘉島...:熊本地震(2026年7月) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FU3VNVHlCN3ljTzd4b010VmFLaDRwTUo2c0ZuWTQwbWpHZ05oWU02dW9JcGlDd052cjhTdy0zTkRZd0VpMTc0OXd0cFZhM1hKeXpXSU9QTlZ2N0VHbHpTNlBZczdlRlpSQkNKWEo3aw?oc=5",
+      "first_seen": "2026-07-30T22:05:54Z",
       "focus": [],
       "category_ids": [
         "aeon"
