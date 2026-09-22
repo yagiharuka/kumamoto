@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T14:00:57Z",
-  "updated_at_jst": "2026/09/22 23:00 JST",
+  "updated_at": "2026-09-22T14:30:52Z",
+  "updated_at_jst": "2026/09/22 23:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1304,
@@ -2068,14 +2068,14 @@
       ]
     },
     {
-      "id": "24b07990cb0d2f6cebd1",
-      "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
+      "id": "29081465ce7d0f28882f",
+      "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0ZBUDgyaHFyMjIzTDh0UTEwNTZLUnlYUnNiRzcwQkJDbm5wTWtmVXhOR1luX2FPZmRQOWw0cTlNZnh0WWdNQi1VbDBrTzJEQS0zT1ZxcVlxa2kxMkxTdjFDQUV4R1hIN3VBLUpMRUNfaGlCazJwaDhkV0NIVXRycQ?oc=5",
-      "first_seen": "2026-09-03T13:30:30Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jajlqT2dXQ0podnh2ajJwZHgxZjlfTkVsckRraTc5ckQtal90aUo4elk1OFBDZFpFRy1OSzNGQVQ5Q3JRUzk5Rlc3ZnhZalVXNUNRSGZ3S0lUX09vbEVlRENpYw?oc=5",
+      "first_seen": "2026-09-03T11:00:38Z",
       "focus": [
         "救助・安否",
         "目撃証言",
@@ -2086,14 +2086,14 @@
       ]
     },
     {
-      "id": "29081465ce7d0f28882f",
+      "id": "24b07990cb0d2f6cebd1",
       "title": "日本製紙八代工場で火災 煙突解体中、けが人なし―熊本",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jajlqT2dXQ0podnh2ajJwZHgxZjlfTkVsckRraTc5ckQtal90aUo4elk1OFBDZFpFRy1OSzNGQVQ5Q3JRUzk5Rlc3ZnhZalVXNUNRSGZ3S0lUX09vbEVlRENpYw?oc=5",
-      "first_seen": "2026-09-03T11:00:38Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0ZBUDgyaHFyMjIzTDh0UTEwNTZLUnlYUnNiRzcwQkJDbm5wTWtmVXhOR1luX2FPZmRQOWw0cTlNZnh0WWdNQi1VbDBrTzJEQS0zT1ZxcVlxa2kxMkxTdjFDQUV4R1hIN3VBLUpMRUNfaGlCazJwaDhkV0NIVXRycQ?oc=5",
+      "first_seen": "2026-09-03T13:30:30Z",
       "focus": [
         "救助・安否",
         "目撃証言",
