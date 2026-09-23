@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-23T19:01:04Z",
-  "updated_at_jst": "2026/09/24 04:01 JST",
+  "updated_at": "2026-09-23T19:30:54Z",
+  "updated_at_jst": "2026/09/24 04:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1306,
@@ -8743,7 +8743,7 @@
     },
     {
       "id": "480337365fceaa5ace94",
-      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県] [2026年熊本地震]",
+      "title": "イオンに戻った5分後に爆発、22歳の女性が犠牲 会社は遺族に謝罪 [熊本県]",
       "source": "朝日新聞",
       "source_id": "asahi",
       "source_group": "全国紙",
