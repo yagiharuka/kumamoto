@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-23T14:31:01Z",
-  "updated_at_jst": "2026/09/23 23:31 JST",
+  "updated_at": "2026-09-23T15:01:01Z",
+  "updated_at_jst": "2026/09/24 00:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1306,
@@ -4037,14 +4037,14 @@
       ]
     },
     {
-      "id": "32002a70455fc7502cd7",
-      "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊:写真",
+      "id": "0c8192e09094cab46684",
+      "title": "熊本地震:日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-19T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNjd0ejhGcmtjMnJIcF85NXo2Vklmem42N0ZOaUd6bTNVZUZFQk9iTXZFUm5JeWdGcGEybUFVT2k1UzZuNE5ud0FER2dLYlItLWdLOWFmZmNELUNORDkwRTNrNTkxXzNpUkE?oc=5",
-      "first_seen": "2026-08-29T01:00:19Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55U2l0eWt0WGRGTGlSaUpIekhWZUtJR2hYaDZjYTF3N01jbHMxREVIeVJMQnpQMFN2cGV0Qmx5VzNpRG5WVVZaS1ZjbjdZX1h6YmlvWlMtU1dKbS1ESEhSUTlyek5jWmJzdHFNSjl0ZUxrQQ?oc=5",
+      "first_seen": "2026-08-19T04:00:23Z",
       "focus": [
         "救助・安否"
       ],
@@ -4053,14 +4053,14 @@
       ]
     },
     {
-      "id": "0c8192e09094cab46684",
-      "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊",
+      "id": "32002a70455fc7502cd7",
+      "title": "日本製紙八代工場で活動「余震の度に退避を繰り返しながら1人を救助した」...佐賀県警の広域緊急援助隊:写真",
       "source": "読売新聞",
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-19T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55U2l0eWt0WGRGTGlSaUpIekhWZUtJR2hYaDZjYTF3N01jbHMxREVIeVJMQnpQMFN2cGV0Qmx5VzNpRG5WVVZaS1ZjbjdZX1h6YmlvWlMtU1dKbS1ESEhSUTlyek5jWmJzdHFNSjl0ZUxrQQ?oc=5",
-      "first_seen": "2026-08-19T04:00:23Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNjd0ejhGcmtjMnJIcF85NXo2Vklmem42N0ZOaUd6bTNVZUZFQk9iTXZFUm5JeWdGcGEybUFVT2k1UzZuNE5ud0FER2dLYlItLWdLOWFmZmNELUNORDkwRTNrNTkxXzNpUkE?oc=5",
+      "first_seen": "2026-08-29T01:00:19Z",
       "focus": [
         "救助・安否"
       ],
@@ -4564,7 +4564,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-08-13T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KTWR3elp0SFhiSHhXQlJLMGxxMUpMYkhXaXV1TDNNcUZacDVuNFdleTBmT18xR0FlVkRpR3cxblFURTRRNnpkUU84T0pKSzUybWJ1ckNvQVpXcHpLYVQ2dHFpemp5UDBNRFBCRGQ4dThvQTVa?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNnQxRTBSdnh2Y1FTM0tNTDNvN1hyR3VraHJRamQ1Q1lJNGlpSGwwNTQtbzU0Y3VJRkNNbmNLTG0tQWR1Ym84dmFsVndqLXgwY1k5bElieFlaOF9oYTI5ZkRSaEdKb2kteWt3SHFVajNOUQ?oc=5",
       "first_seen": "2026-08-13T06:31:06Z",
       "focus": [
         "現場状況"
@@ -16914,6 +16914,20 @@
       ]
     },
     {
+      "id": "8b414b11d658509a1074",
+      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-07-29T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RFJMVUFGYTBqYlNnRnBvWmZadUQ4VkdDWmV0THZtQTlmVHVDMDBIRWEwTDc2SnlRN09MLXRZTDFIXzNxMVJyN0pLa1pEcThDN09mRFZzLVptRXlvcjJQOGFXWlRRUnd6RDBJMHhR?oc=5",
+      "first_seen": "2026-08-01T21:30:12Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "869d731b1d604f3af940",
       "title": "「真っ暗で煙吸った」 崩落のイオンモール、途絶えた彼女のLINE=公開停止 [熊本県]",
       "source": "朝日新聞",
@@ -20707,20 +20721,6 @@
         "救助・安否",
         "現場状況"
       ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "8b414b11d658509a1074",
-      "title": "【28日の詳報】熊本で震度7、イオンや日本製紙工場で被害 発災日 [熊本県]",
-      "source": "朝日新聞",
-      "source_id": "asahi",
-      "source_group": "全国紙",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RFJMVUFGYTBqYlNnRnBvWmZadUQ4VkdDWmV0THZtQTlmVHVDMDBIRWEwTDc2SnlRN09MLXRZTDFIXzNxMVJyN0pLa1pEcThDN09mRFZzLVptRXlvcjJQOGFXWlRRUnd6RDBJMHhR?oc=5",
-      "first_seen": "2026-08-01T21:30:12Z",
-      "focus": [],
       "category_ids": [
         "aeon"
       ]
