@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-24T08:30:50Z",
-  "updated_at_jst": "2026/09/24 17:30 JST",
+  "updated_at": "2026-09-24T09:01:02Z",
+  "updated_at_jst": "2026/09/24 18:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1308,
+  "article_count": 1309,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,12 +49,12 @@
     }
   ],
   "source_counts": {
+    "sankei": 205,
     "kumanichi": 195,
     "nikkei": 72,
     "mainichi": 166,
     "asahi": 150,
     "nhk": 117,
-    "sankei": 204,
     "yomiuri": 205,
     "jiji": 199
   },
@@ -78,9 +78,25 @@
   "category_counts": {
     "aeon": 991,
     "power": 137,
-    "paper": 197
+    "paper": 198
   },
   "items": [
+    {
+      "id": "55a619a71109daa1381e",
+      "title": "新聞用紙に供給懸念なし 日本製紙八代工場操業停止、製紙連が業界横断で支援",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-24T08:29:59Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8welgwLTV0bVJJTGx0U1JUXzhKdlhIT1k0SnNjUW1BeDNxY2RTNmh3UzUzMXFXSU5oVncxc1VVcWlaVU1URGViajFaZnhPSFVTMmx1d09RT1N5ZXU5WlFTLVppMTlpRlRxbEp6ZnNxYnJDc2xxT0E?oc=5",
+      "first_seen": "2026-09-24T09:01:02Z",
+      "focus": [
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
     {
       "id": "c60a62a72a82e1611d30",
       "title": "イオン、送風機自主回収 1万4千台、発火の恐れ(共同通信)",
