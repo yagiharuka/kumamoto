@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-24T18:01:08Z",
-  "updated_at_jst": "2026/09/25 03:01 JST",
+  "updated_at": "2026-09-24T18:30:48Z",
+  "updated_at_jst": "2026/09/25 03:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1309,
+  "article_count": 1310,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 196,
     "sankei": 205,
-    "kumanichi": 195,
     "nikkei": 72,
     "mainichi": 166,
     "asahi": 150,
@@ -77,10 +77,26 @@
   ],
   "category_counts": {
     "aeon": 991,
-    "power": 137,
+    "power": 138,
     "paper": 198
   },
   "items": [
+    {
+      "id": "22cd9567266ebda61465",
+      "title": "大雨響き停電1万軒超、長期化も 土砂崩れで作業遅れ、千葉(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-24T18:08:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfcy12Ml9rUG9OSE9vOHZpdndPazdCQVdZMFRqWlJROXh0eE1jU2xHbzNVdlhuY25LRjBNOHZBeTdxakJaRXRMRmVGYjdUOGc?oc=5",
+      "first_seen": "2026-09-24T18:30:48Z",
+      "focus": [
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "55a619a71109daa1381e",
       "title": "新聞用紙に供給懸念なし 日本製紙八代工場操業停止、製紙連が業界横断で支援",
@@ -2187,7 +2203,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9USmhUU09fUVhVdTUyekR2WE1ZWkpHNFhkV0UxZ1lpbndMUkstQkpvWUVIcnFOdGZ1YzRiRU1qbDBacVRIeHdES1dZVUlzSU1ubER2bQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82SExJWEpBemJXMEFYUVpVdlpzQ1pFdnlSaXlaTVF3eVMtM0x4cU9QX1BLY1VhNll0b0JuX3pHYll4RTFadndkTE1BbVUyc1RKSzRuYw?oc=5",
       "first_seen": "2026-09-03T23:30:24Z",
       "focus": [
         "操業情報"
