@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-24T03:30:47Z",
-  "updated_at_jst": "2026/09/24 12:30 JST",
+  "updated_at": "2026-09-24T04:00:52Z",
+  "updated_at_jst": "2026/09/24 13:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1306,
+  "article_count": 1308,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 195,
     "nikkei": 72,
     "mainichi": 166,
     "asahi": 150,
-    "kumanichi": 193,
     "nhk": 117,
     "sankei": 204,
     "yomiuri": 205,
@@ -76,11 +76,39 @@
     }
   ],
   "category_counts": {
-    "aeon": 989,
+    "aeon": 991,
     "power": 137,
     "paper": 197
   },
   "items": [
+    {
+      "id": "c60a62a72a82e1611d30",
+      "title": "イオン、送風機自主回収 1万4千台、発火の恐れ(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-24T03:40:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03ZHVhdDg3M19XaUNZeEExa3RGX1lteFFNUGZDaXFUT09vb3pmOWs1azZZSHpmVXEtaThpekF1bGNXenUzdDhsMkpjRlJ0NmM?oc=5",
+      "first_seen": "2026-09-24T04:00:52Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "1e0a1b5cf777d1eb8f71",
+      "title": "イオン、送風機1万4千台を自主回収 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-24T03:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XWnptS3kzSTlPaW5Dc3ljRUhjTGNBTWVpbHpMeXRBWWFrWm1XLXJqZG5XQVRtLUFjX1NsQVhaeGNPT2FIdFhpOEhuS20yZnc?oc=5",
+      "first_seen": "2026-09-24T04:00:52Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "89c9b30e0e2af6da3a1e",
       "title": "熊本地震 その時企業は(1) 小売り、避難後の対策精査 イオン爆発でマニュアル改訂 再入館禁止、基準づくり",
