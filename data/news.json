@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-25T01:30:40Z",
-  "updated_at_jst": "2026/09/25 10:30 JST",
+  "updated_at": "2026-09-25T02:00:49Z",
+  "updated_at_jst": "2026/09/25 11:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1310,
@@ -722,6 +722,23 @@
       ]
     },
     {
+      "id": "f4b9a4379aaefdaab534",
+      "title": "日本製紙八代工場の煙突火災で行われた実況見分=7日午前、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-08T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkd4dkxZT1pCbFJaYXpmVHlySGl4ZG9VNDZUY0ZpNUhDUUlEY3JfOGstUEl1SzF2Vlp5ZzFHck1zTHZtalBhYndMeEJTSU9DZ3VoOXpTVkVya0t6N00yQngwM0g3eFR2TlY1T3c5Qm9iWjNtRXZtREFtdm10eERkdE9oZlVMamlIN242V1JMZFl1X0pUQmF3N005d0owc3hPTUE?oc=5",
+      "first_seen": "2026-09-07T04:00:39Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "4a2a20ebfdc71f05b248",
       "title": "2026年熊本地震>イオン爆発事故巡り、経産相の諮問機関が初会合 再発防止策に関し、議論の進め方を協議",
       "source": "熊本日日新聞",
@@ -1013,23 +1030,6 @@
       "published_at": "2026-09-07T02:30:50Z",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNUjVoSHhXLUFlWnpSZEhWMHdxTVlHdlh0SDY4NkVodDg0dFVqbk9lT3J1VzR1LUd5SjBPZ0lzT0txdzJ0eUNkTzRET1d1WXc4REkzMWxIeHhieVd3MHBsa18xSzAzRXJEMmVvVzRHbTFVR3lkQVE?oc=5",
       "first_seen": "2026-09-07T03:30:31Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
-      "id": "f4b9a4379aaefdaab534",
-      "title": "日本製紙八代工場の煙突火災で行われた実況見分=7日午前、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-07T02:30:50Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzBCcXdScjh4TE1tSGdJSTdjcnJpdXpFXzIzb1M1Uk8tQXhEdDdtUU53Z0Q5MzFQV1QzQ2RJc1lZUUZodk5aWTRTR0tDVl9wcGt6M01VWnBPZnJ1Nm9GSjVZaDNNSlQ4NDhYUnZ1ZVp4R0FNV3RwRlg3VkZ2RWpCOUFXUTE5OVNxTlBWXzIyX0RpMHdLX0tJZ3lSNERyc1pPa2c?oc=5",
-      "first_seen": "2026-09-07T04:00:39Z",
       "focus": [
         "目撃証言",
         "現場状況"
