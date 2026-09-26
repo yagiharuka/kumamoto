@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-26T14:31:19Z",
-  "updated_at_jst": "2026/09/26 23:31 JST",
+  "updated_at": "2026-09-26T15:01:15Z",
+  "updated_at_jst": "2026/09/27 00:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1312,
@@ -83,14 +83,15 @@
   "items": [
     {
       "id": "22cd9567266ebda61465",
-      "title": "大雨響き停電1万軒超、長期化も 土砂崩れで作業遅れ、千葉(共同通信)",
+      "title": "新たに1遺体、死者計12人 停電続く、印旛沼の堤防工事開始(共同通信)",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-24T18:08:00Z",
+      "published_at": "2026-09-25T09:19:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfcy12Ml9rUG9OSE9vOHZpdndPazdCQVdZMFRqWlJROXh0eE1jU2xHbzNVdlhuY25LRjBNOHZBeTdxakJaRXRMRmVGYjdUOGc?oc=5",
       "first_seen": "2026-09-24T18:30:48Z",
       "focus": [
+        "救助・安否",
         "停電状況"
       ],
       "category_ids": [
