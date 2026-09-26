@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-26T00:30:36Z",
-  "updated_at_jst": "2026/09/26 09:30 JST",
+  "updated_at": "2026-09-26T01:00:52Z",
+  "updated_at_jst": "2026/09/26 10:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1311,
+  "article_count": 1312,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -56,7 +56,7 @@
     "mainichi": 166,
     "asahi": 150,
     "nhk": 117,
-    "yomiuri": 205
+    "yomiuri": 206
   },
   "tracked_categories": [
     {
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 992,
+    "aeon": 993,
     "power": 138,
     "paper": 198
   },
@@ -1052,6 +1052,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "6df71b1923ed53b1e212",
+      "title": "イオンモール熊本爆発、雑貨店側が従業員の遺族に事実と異なる説明...「保身と動揺によるもの」謝罪:写真",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-05T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAySmZGeXpIbTJXbFV0VnV2blYzem9VbmdNN2JaLWRTTG1TS2J1NnpIZG9ZMXNzS2s2bHhVeVk4dmVlUXpNLTc0anRUdTlrLXdQY3hlaVJiNmVrTmotZzFzTlhXb05BcEJSbFE?oc=5",
+      "first_seen": "2026-09-26T01:00:52Z",
+      "focus": [
+        "避難状況",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
