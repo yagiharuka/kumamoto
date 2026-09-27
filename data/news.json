@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-27T20:30:40Z",
-  "updated_at_jst": "2026/09/28 05:30 JST",
+  "updated_at": "2026-09-27T21:00:39Z",
+  "updated_at_jst": "2026/09/28 06:00 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1312,
+  "article_count": 1313,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "source_counts": {
-    "kumanichi": 196,
+    "kumanichi": 197,
     "sankei": 205,
     "nikkei": 72,
     "jiji": 200,
@@ -77,10 +77,27 @@
   ],
   "category_counts": {
     "aeon": 993,
-    "power": 138,
+    "power": 139,
     "paper": 198
   },
   "items": [
+    {
+      "id": "646551f7b02df23f3416",
+      "title": "台風25号、13人死亡2人不明 発生1週間、4千世帯で停電続く(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-27T20:24:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZGJOODJZMzhTTXVKTnQyRWUwZ0lxN3lSSnhVWUdldGd4dTJXaTRxUUhhcXFnck1jQ1AxeEdJOWpJR3VDX2w1OU9GcjNYMk0?oc=5",
+      "first_seen": "2026-09-27T21:00:39Z",
+      "focus": [
+        "救助・安否",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
     {
       "id": "22cd9567266ebda61465",
       "title": "新たに1遺体、死者計12人 停電続く、印旛沼の堤防工事開始(共同通信)",
@@ -20727,7 +20744,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2Q0RlZycmtadmtKYWh6NEVFX3A4T0JZS3hLaUtPWXVmaUd4dEhZR3BkWjJSVkxNREZsTGZpSWNqdzlNWEx2R0VmN0FBeVZZVXN4TEI5SjAxNDhMVF9xSk9fTXRRTVVtUy1GbThaZjJaeEZLZW1DS015WUlMeDd4MENpMW1uTTUyOTdjX0hR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZkM0cXJhbzZPMjVSSGRheFpaTlJuXzItQk5tZEs4RHphZERnTEU0YWkxUnhMQkRranRYUmlrbU1IOGFmUE9UeXg1azNleWFObjJIY3NpU2c5Z2VtVHoxTWhJUnNWa3I4OGtTM0NR?oc=5",
       "first_seen": "2026-07-29T00:00:27Z",
       "focus": [
         "避難状況",
