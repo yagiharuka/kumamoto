@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T19:31:17Z",
-  "updated_at_jst": "2026/09/29 04:31 JST",
+  "updated_at": "2026-09-28T20:01:38Z",
+  "updated_at_jst": "2026/09/29 05:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1318,
@@ -221,29 +221,12 @@
       ]
     },
     {
-      "id": "7626e8ddfc61df5fe592",
-      "title": "地震で巨大な煙突が折れ、犠牲者が出た日本製紙八代工場=7月29日、熊本県八代市",
-      "source": "産経新聞",
-      "source_id": "sankei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-22T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHhiSTZwZ3FjaFZ1X3Fyalp6SzBtaEdPN2luZmg0SURTZHV4cFA5eFlTUzhTUDZSTU5UMmVrLWlZakRKcEt6cWpMZDlXanhGTEZBaDVnTGxPOXo1UGtKMHhLc2NDb01jM3hLdnlTR25vR1NKQVV0MTdvTkZTRTFrZ3ZmRG5XVG9TNHRnTTg3Skg5WXhSeEFnWFlOYndGZlAtbXc?oc=5",
-      "first_seen": "2026-09-01T03:30:35Z",
-      "focus": [
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "89c9b30e0e2af6da3a1e",
       "title": "熊本地震 その時企業は(1) 小売り、避難後の対策精査 イオン爆発でマニュアル改訂 再入館禁止、基準づくり",
       "source": "日本経済新聞",
       "source_id": "nikkei",
       "source_group": "全国紙",
-      "published_at": "2026-09-19T17:00:00Z",
+      "published_at": "2026-09-20T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Y2djS2cydDhiNzkyeHRvV25lMzFRc2h4WXl0VzIzWW1jbGFUZy1PMjNUTk9TNHpfY2lrczlPbTBMTkdlNC1fVC1BZWRxNUVPaWRNWGo0N2ZFZDh0aDdyVWxFYUJ1aWNJYTBydw?oc=5",
       "first_seen": "2026-09-19T21:30:34Z",
       "focus": [
@@ -2488,6 +2471,23 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "7626e8ddfc61df5fe592",
+      "title": "地震で巨大な煙突が折れ、犠牲者が出た日本製紙八代工場=7月29日、熊本県八代市",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-01T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjgta0wzdkU2M0FfRFliS2JVRm9IOTZNM2RTS3dJVFpCdTl5N1RnWm0yR2Q5QTQtZTBHQzd3Tm5sWWliaEFNSlFpNGJiQnBUc3p0eFRTVEZsbDRWdVEyem9NSTB5ZENNdU4tMEs1QzJTSVVqbHRZVnhzUU85TU9KaFNmRDk5Z0lNeUhVbnVRLUo1TEt0YU9rSVQyTlplZ3lYRWc?oc=5",
+      "first_seen": "2026-09-01T03:30:35Z",
+      "focus": [
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
