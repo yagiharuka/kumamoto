@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T09:31:00Z",
-  "updated_at_jst": "2026/09/28 18:31 JST",
+  "updated_at": "2026-09-28T10:01:16Z",
+  "updated_at_jst": "2026/09/28 19:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1315,
+  "article_count": 1316,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "nikkei": 73,
     "nhk": 118,
     "kumanichi": 197,
     "sankei": 205,
-    "nikkei": 72,
     "jiji": 201,
     "mainichi": 166,
     "asahi": 150,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 994,
+    "aeon": 995,
     "power": 139,
     "paper": 199
   },
   "items": [
+    {
+      "id": "795999bc58f6f541eac4",
+      "title": "イオン九州、熊本地震で特別損失17億円 店舗や商品に被害",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-28T09:51:42Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUWt0WUlaUGRXSVdSZXBZendGZUtaMlBBTkdMaW0tZ21ib0VkSDBIcXRaTEVrNk1WbnFpUGhUM2paVHJqNTltZ3A1a0JGNHVfSU9vRUMzcWtvQ3RaSzNBT1NrMk5mOHV6RkFfTQ?oc=5",
+      "first_seen": "2026-09-28T10:01:16Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "749bcd192efbc4a29a9d",
       "title": "日本製紙八代工場の操業停止長期化 地域経済への影響広がる",
