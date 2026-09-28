@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T08:31:03Z",
-  "updated_at_jst": "2026/09/28 17:31 JST",
+  "updated_at": "2026-09-28T09:01:20Z",
+  "updated_at_jst": "2026/09/28 18:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1313,
+  "article_count": 1314,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "nhk": 118,
     "kumanichi": 197,
     "sankei": 205,
     "nikkei": 72,
     "jiji": 200,
     "mainichi": 166,
     "asahi": 150,
-    "nhk": 117,
     "yomiuri": 206
   },
   "tracked_categories": [
@@ -78,16 +78,32 @@
   "category_counts": {
     "aeon": 993,
     "power": 139,
-    "paper": 198
+    "paper": 199
   },
   "items": [
     {
+      "id": "749bcd192efbc4a29a9d",
+      "title": "日本製紙八代工場の操業停止長期化 地域経済への影響広がる",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-28T08:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PWVF0WlBWQ1RCZzJLWmVzSDYzaXJyVGFTZFY4d0s0RnE1N0xkd3Z0b09INUdXN0VIV1FZa2cySk05Y0pvZU9ISUx4WEhGWmdBYzhEdTRiUEw?oc=5",
+      "first_seen": "2026-09-28T09:01:20Z",
+      "focus": [
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "646551f7b02df23f3416",
-      "title": "台風25号、13人死亡2人不明 発生1週間、4千世帯で停電続く(共同通信)",
+      "title": "台風25号、14人死亡1人不明 発生1週間、4千世帯で停電続く(共同通信)",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-09-27T20:24:00Z",
+      "published_at": "2026-09-28T08:05:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZGJOODJZMzhTTXVKTnQyRWUwZ0lxN3lSSnhVWUdldGd4dTJXaTRxUUhhcXFnck1jQ1AxeEdJOWpJR3VDX2w1OU9GcjNYMk0?oc=5",
       "first_seen": "2026-09-27T21:00:39Z",
       "focus": [
