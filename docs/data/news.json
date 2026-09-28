@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T09:01:20Z",
-  "updated_at_jst": "2026/09/28 18:01 JST",
+  "updated_at": "2026-09-28T09:31:00Z",
+  "updated_at_jst": "2026/09/28 18:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1314,
+  "article_count": 1315,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -53,7 +53,7 @@
     "kumanichi": 197,
     "sankei": 205,
     "nikkei": 72,
-    "jiji": 200,
+    "jiji": 201,
     "mainichi": 166,
     "asahi": 150,
     "yomiuri": 206
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 993,
+    "aeon": 994,
     "power": 139,
     "paper": 199
   },
@@ -2613,6 +2613,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "7548c6f5c41bbd5ca8d4",
+      "title": "画像・写真:被災1カ月、冥福祈る イオン遺族「苦しいまま」―復興に不安の声も・熊本地震:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-08-28T12:09:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlNXQVpCQzFxckdGcjdubDIzam5LTWF3a2tteWI4R0ItY3lmaENweTN6ZGVvY1Z3M2JKVERROERuXzZBWElOYktUODhKalliY3pvRW4yMURVN3hyc2JfTGJQYUVRZlpHOTFDLUNWeGNOSmJfMkMyalVTWjc1SE9OUlhR?oc=5",
+      "first_seen": "2026-09-28T09:31:00Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
@@ -8075,7 +8089,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CWXpPODU3ckw2NGtvd0dnWHVZZ0hiYmttSGIxMFBtTkdyZ2cyMVA4ZnpUaHNOeS1NdjlPVXhYeUpqaE1LVUp4WDZIbTFMN090clNvYlMwR2E3UDh5dHdvTXZxaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmw0ellLRWpybEVqbmZXX1pJNkRrZjM1YTdYV09pdHpYbDNUN3FjOUpEaGhzUWxCMS1zYmY3RGxHbkFOWlYxS0dtbG5WN2FsX2N2ejFEaTZRcE5waFZhbW55dDlMYktnSG5YQTN5T1NHVUdWcGphczQtUmdEWU40UVF3?oc=5",
       "first_seen": "2026-08-04T06:01:03Z",
       "focus": [
         "現場状況"
