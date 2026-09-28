@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T22:31:11Z",
-  "updated_at_jst": "2026/09/29 07:31 JST",
+  "updated_at": "2026-09-28T23:01:31Z",
+  "updated_at_jst": "2026/09/29 08:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1319,
+  "article_count": 1320,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,10 +49,10 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 198,
     "yomiuri": 207,
     "nhk": 120,
     "nikkei": 73,
-    "kumanichi": 197,
     "jiji": 201,
     "sankei": 205,
     "mainichi": 166,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 998,
+    "aeon": 999,
     "power": 139,
     "paper": 199
   },
   "items": [
+    {
+      "id": "1c40452f8e99d7676c15",
+      "title": "イオン九州、特別損失17億円超計上へ 26年8月決算、熊本地震で",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-28T22:51:38Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1TjZBbklncG1FVlJOa3lIbmxMVEVxZXlheXZTa2t1MTFYT3I3S3lIVUZaTFlCdkxfQnozOEc2VFdSMk1GTDJWbk5PN2otREU?oc=5",
+      "first_seen": "2026-09-28T23:01:31Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "641f90ec3cbbac6b7d07",
       "title": "「イオンモール熊本」で妻亡くした男性が初めて内部へ、出口まで「走れば5秒」...墓前にロウソクともし誕生日祝う",
