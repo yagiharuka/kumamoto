@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T11:01:17Z",
-  "updated_at_jst": "2026/09/28 20:01 JST",
+  "updated_at": "2026-09-28T11:31:07Z",
+  "updated_at_jst": "2026/09/28 20:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1316,
+  "article_count": 1317,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "nhk": 119,
     "nikkei": 73,
-    "nhk": 118,
     "kumanichi": 197,
     "sankei": 205,
     "jiji": 201,
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 995,
+    "aeon": 996,
     "power": 139,
     "paper": 199
   },
   "items": [
+    {
+      "id": "ad290b96fedad0eeab40",
+      "title": "熊本 イオンモール爆発事故 生存者2人救助時の状況は",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-28T11:13:59Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ZnpkRlJwSHpURzdwRUVrUnl6b3RLMEpSY2w3QVRJN0xXSFlDbjR0SXl5Nk16d1ltZ3RCRXVkdWpJdU9ic19NUkdxM2laNFVHNURRalZZMkNOdEtneG5r?oc=5",
+      "first_seen": "2026-09-28T11:31:07Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "795999bc58f6f541eac4",
       "title": "イオン九州、熊本地震で特別損失17億円 店舗や商品に被害",
