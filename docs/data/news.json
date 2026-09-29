@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-29T09:00:59Z",
-  "updated_at_jst": "2026/09/29 18:00 JST",
+  "updated_at": "2026-09-29T09:30:56Z",
+  "updated_at_jst": "2026/09/29 18:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1322,
+  "article_count": 1323,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,7 +51,7 @@
   "source_counts": {
     "yomiuri": 209,
     "kumanichi": 198,
-    "nhk": 120,
+    "nhk": 121,
     "nikkei": 73,
     "jiji": 201,
     "sankei": 205,
@@ -76,7 +76,7 @@
     }
   ],
   "category_counts": {
-    "aeon": 1001,
+    "aeon": 1002,
     "power": 139,
     "paper": 199
   },
@@ -363,6 +363,22 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "d9feebc794508a280601",
+      "title": "イオンモール熊本 爆発事故",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-16T11:29:21Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMnNuaE1rM2g4ODNUS05tcVZHUXl3cUNIeVlScnR2b3pXRmU4bmltTTRHV1hzWHMxaU9uOGplQlA1ZmNNalo0N1BFSDVMNlBsNmRSeFlGdVdJTnhaY0xPSVV2X05xOWFYaVV2Q2J6Ql8?oc=5",
+      "first_seen": "2026-09-29T09:30:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
