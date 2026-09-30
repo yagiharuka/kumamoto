@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-30T15:00:44Z",
-  "updated_at_jst": "2026/10/01 00:00 JST",
+  "updated_at": "2026-09-30T15:30:47Z",
+  "updated_at_jst": "2026/10/01 00:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1323,
+  "article_count": 1324,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 199,
     "yomiuri": 209,
-    "kumanichi": 198,
     "nhk": 121,
     "nikkei": 73,
     "jiji": 201,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 1002,
+    "aeon": 1003,
     "power": 139,
     "paper": 199
   },
   "items": [
+    {
+      "id": "d0ab15b00bbc15a87cb0",
+      "title": "酒税改正でビール値下げ開始 1日から、イオンはPBで(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-30T15:09:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IcDE5eVJDTXNOdGx2bi1sSjRzSUlGVzBtQ0MxVlpGUEhpSTNoMjFPUFFad3BFSm5hbXpJZDNNNm9DSkhaS1pDWmZ6aVpjcTA?oc=5",
+      "first_seen": "2026-09-30T15:30:47Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "67f7077e9531ff9e63d6",
       "title": "イオン九州、熊本地震に伴う特別損失17億円...スーパー出店していた「イオンモール熊本」は別会社が運営",
