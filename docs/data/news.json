@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-30T10:00:42Z",
-  "updated_at_jst": "2026/09/30 19:00 JST",
+  "updated_at": "2026-09-30T10:30:40Z",
+  "updated_at_jst": "2026/09/30 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1323,
@@ -1873,24 +1873,6 @@
       ]
     },
     {
-      "id": "387203c3a68fa7e2d854",
-      "title": "◎日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-03T10:05:15Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlcjBLSV9pYUVqQURyVmp1MnpudnV5bjZ2WU5JS2pGcHpZaGFtNzB2N2J5MXA5NHQ5UWstblVmNEkxUlVoZUxsSy1xT2lleGdXZ3ZfNA?oc=5",
-      "first_seen": "2026-09-03T10:30:40Z",
-      "focus": [
-        "救助・安否",
-        "目撃証言",
-        "現場状況"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "24b07990cb0d2f6cebd1",
       "title": "日本製紙八代工場で火災 熊本地震で煙突倒壊:時事ドットコム",
       "source": "時事通信",
@@ -2398,6 +2380,24 @@
       "first_seen": "2026-09-03T23:30:24Z",
       "focus": [
         "操業情報"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "387203c3a68fa7e2d854",
+      "title": "◎日本製紙八代工場で火災=煙突解体中、けが人なし―熊本",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-03T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlcjBLSV9pYUVqQURyVmp1MnpudnV5bjZ2WU5JS2pGcHpZaGFtNzB2N2J5MXA5NHQ5UWstblVmNEkxUlVoZUxsSy1xT2lleGdXZ3ZfNA?oc=5",
+      "first_seen": "2026-09-03T10:30:40Z",
+      "focus": [
+        "救助・安否",
+        "目撃証言",
+        "現場状況"
       ],
       "category_ids": [
         "paper"
@@ -13431,7 +13431,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWXRfZDNFZENudmVhUFFQWGNiaVBma0paLVAzSE1XSmtxcFB2TlhoVFBrZDRabHlFT2NoYmRtbXppUWVmZEdPRXAyb3ZybXZOY3FCTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YcDNScHRYamZnalFoZ29XM2d3NTlEcnVHbG5QM1AxWHZqOVJxdXZ0amx1d0gyXzlXUDNZWEs2RThpN2Jram5pWF9JWGYtczZpMEtSV21EOXU5Y1hDUEE?oc=5",
       "first_seen": "2026-07-30T10:30:19Z",
       "focus": [
         "救助・安否",
