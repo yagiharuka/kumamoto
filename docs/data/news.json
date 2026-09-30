@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-30T05:00:40Z",
-  "updated_at_jst": "2026/09/30 14:00 JST",
+  "updated_at": "2026-09-30T05:30:42Z",
+  "updated_at_jst": "2026/09/30 14:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1323,
@@ -3210,7 +3210,7 @@
       "source_id": "asahi",
       "source_group": "全国紙",
       "published_at": "2026-08-27T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LSVdMcDhKOXJkaTY4XzEwMktCQmhGTlVGZzM5bi1ERU5JMno5RXJ2bDBROVVpc1NPLUQ1eXVMWGxyOVBRNEtxelVlNWNSbThsQTJic1o2aHd2Mjl1RzVyUXdJc3hib3hfRzdIY1JB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qcm9OdlBwdXA5N1RmYWZuRUpYVmJIVThYdVNZRTBMWEl3c25LdHBZaDg3WFEyTU0taGNBOGNzLXd4RzBxdGxHOUtpdmJfX3ZNOHdmeE8yQXc4eDJUQUtObzdFbmpaaXVqTnNDamJB?oc=5",
       "first_seen": "2026-08-28T00:00:19Z",
       "focus": [
         "現場状況"
@@ -8272,13 +8272,13 @@
     },
     {
       "id": "aeddbba8e11ba200dce4",
-      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7",
+      "title": "死亡3人、14分前「ちょうど店出る」 オンワード「痛恨の極み」―イオン爆発事故・熊本震度7:時事ドットコム",
       "source": "時事通信",
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlVKYzctVE1QT1gyWjhqbEY4RUNkTTFpVi02TTZlaDJkcm52M3Vvb09KNmhrcmFpRzU4b0FMTi1jNk5ldWtGQ2RPS1FlMW5aNElBb08zamczYXlGdHdHd3EtNzlsQm5adjJPT1NfR2FZdjQ3N0Z4U3RYd0lyV1kybw?oc=5",
-      "first_seen": "2026-08-04T10:01:06Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX2VwRmNBakFpOVhRNlJUN1h0UWFsSTRpNGx4bmhWOUpoVTZLMUFIeXd2REZSSXJpaEdUYW5iV1E2MzhkQnUtZXN1NHoyZV9Yc0l4SlFzNzN3YnVsSTJfWFBNTQ?oc=5",
+      "first_seen": "2026-09-21T20:30:51Z",
       "focus": [
         "現場状況"
       ],
@@ -8293,8 +8293,8 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-08-04T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX2VwRmNBakFpOVhRNlJUN1h0UWFsSTRpNGx4bmhWOUpoVTZLMUFIeXd2REZSSXJpaEdUYW5iV1E2MzhkQnUtZXN1NHoyZV9Yc0l4SlFzNzN3YnVsSTJfWFBNTQ?oc=5",
-      "first_seen": "2026-09-21T20:30:51Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlVKYzctVE1QT1gyWjhqbEY4RUNkTTFpVi02TTZlaDJkcm52M3Vvb09KNmhrcmFpRzU4b0FMTi1jNk5ldWtGQ2RPS1FlMW5aNElBb08zamczYXlGdHdHd3EtNzlsQm5adjJPT1NfR2FZdjQ3N0Z4U3RYd0lyV1kybw?oc=5",
+      "first_seen": "2026-08-04T10:01:06Z",
       "focus": [
         "現場状況"
       ],
