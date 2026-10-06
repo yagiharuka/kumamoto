@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T15:32:14Z",
-  "updated_at_jst": "2026/10/07 00:32 JST",
+  "updated_at": "2026-10-06T16:02:42Z",
+  "updated_at_jst": "2026/10/07 01:02 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1331,
@@ -217,6 +217,23 @@
       ]
     },
     {
+      "id": "646551f7b02df23f3416",
+      "title": "台風25号14人死亡1人不明 発生1週間、停電4千世帯(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-09-28T09:43:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZGJOODJZMzhTTXVKTnQyRWUwZ0lxN3lSSnhVWUdldGd4dTJXaTRxUUhhcXFnck1jQ1AxeEdJOWpJR3VDX2w1OU9GcjNYMk0?oc=5",
+      "first_seen": "2026-09-27T21:00:39Z",
+      "focus": [
+        "救助・安否",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
+      ]
+    },
+    {
       "id": "f2b95e84978a94bec4c3",
       "title": "イオン九州[2653]:「令和8年熊本地震」による影響および特別損失計上について 2026年9月28日(適時開示) :日経会社情報DIGITAL",
       "source": "日本経済新聞",
@@ -242,23 +259,6 @@
       "focus": [],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "646551f7b02df23f3416",
-      "title": "台風25号14人死亡1人不明 発生1週間、停電4千世帯(共同通信)",
-      "source": "熊本日日新聞",
-      "source_id": "kumanichi",
-      "source_group": "地元紙",
-      "published_at": "2026-09-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZGJOODJZMzhTTXVKTnQyRWUwZ0lxN3lSSnhVWUdldGd4dTJXaTRxUUhhcXFnck1jQ1AxeEdJOWpJR3VDX2w1OU9GcjNYMk0?oc=5",
-      "first_seen": "2026-09-27T21:00:39Z",
-      "focus": [
-        "救助・安否",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
