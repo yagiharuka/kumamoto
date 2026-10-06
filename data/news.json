@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T00:02:03Z",
-  "updated_at_jst": "2026/10/06 09:02 JST",
+  "updated_at": "2026-10-06T00:31:22Z",
+  "updated_at_jst": "2026/10/06 09:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1330,
+  "article_count": 1331,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -50,7 +50,7 @@
   ],
   "source_counts": {
     "yomiuri": 212,
-    "jiji": 202,
+    "jiji": 203,
     "kumanichi": 199,
     "nikkei": 75,
     "nhk": 121,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 1007,
     "power": 140,
-    "paper": 200
+    "paper": 201
   },
   "items": [
     {
@@ -1749,6 +1749,22 @@
       "focus": [
         "目撃証言",
         "現場状況"
+      ],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
+      "id": "456ad4844b9c88bf0dd9",
+      "title": "八代工場、遠い操業再開 新聞用紙、他社が代替生産―日本製紙",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-04T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfV2cybzE0MzIxaDFkQTlpcWhYS2dZbXJ3RW1TUC1pNkNrQm55OEY5QXRPVmFtQUo0Ty1wRGRpTXRuMG9ZbWs0cnljcGxxa2lpdmNwUGdGall2bVJlOV8za3hSRQ?oc=5",
+      "first_seen": "2026-10-06T00:31:22Z",
+      "focus": [
+        "操業情報"
       ],
       "category_ids": [
         "paper"
