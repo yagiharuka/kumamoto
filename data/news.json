@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T12:32:03Z",
-  "updated_at_jst": "2026/10/06 21:32 JST",
+  "updated_at": "2026-10-06T13:02:13Z",
+  "updated_at_jst": "2026/10/06 22:02 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1331,
@@ -217,20 +217,6 @@
       ]
     },
     {
-      "id": "795999bc58f6f541eac4",
-      "title": "イオン九州、熊本地震で特別損失17億円 店舗や商品に被害",
-      "source": "日本経済新聞",
-      "source_id": "nikkei",
-      "source_group": "全国紙",
-      "published_at": "2026-09-28T09:51:42Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUWt0WUlaUGRXSVdSZXBZendGZUtaMlBBTkdMaW0tZ21ib0VkSDBIcXRaTEVrNk1WbnFpUGhUM2paVHJqNTltZ3A1a0JGNHVfSU9vRUMzcWtvQ3RaSzNBT1NrMk5mOHV6RkFfTQ?oc=5",
-      "first_seen": "2026-09-28T10:01:16Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "646551f7b02df23f3416",
       "title": "台風25号14人死亡1人不明 発生1週間、停電4千世帯(共同通信)",
       "source": "熊本日日新聞",
@@ -270,6 +256,20 @@
       "published_at": "2026-09-28T07:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zSDJZVnB0QmxKbFY1eDR4UUtVS3JNdDF6bGVwczlMMkxaTHVFWjBqUGJNN181X2RTeHFsUy1UU2NWMlBuNWJlODZhOV9ENTdRVVpMNlZrS1NxWTZoOEY4T2hIYVA5dw?oc=5",
       "first_seen": "2026-09-28T14:01:28Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "795999bc58f6f541eac4",
+      "title": "イオン九州、熊本地震で特別損失17億円 店舗や商品に被害",
+      "source": "日本経済新聞",
+      "source_id": "nikkei",
+      "source_group": "全国紙",
+      "published_at": "2026-09-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUWt0WUlaUGRXSVdSZXBZendGZUtaMlBBTkdMaW0tZ21ib0VkSDBIcXRaTEVrNk1WbnFpUGhUM2paVHJqNTltZ3A1a0JGNHVfSU9vRUMzcWtvQ3RaSzNBT1NrMk5mOHV6RkFfTQ?oc=5",
+      "first_seen": "2026-09-28T10:01:16Z",
       "focus": [],
       "category_ids": [
         "aeon"
