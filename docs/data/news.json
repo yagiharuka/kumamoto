@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T08:32:07Z",
-  "updated_at_jst": "2026/10/06 17:32 JST",
+  "updated_at": "2026-10-06T09:02:20Z",
+  "updated_at_jst": "2026/10/06 18:02 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1331,
@@ -200,20 +200,6 @@
       ]
     },
     {
-      "id": "641f90ec3cbbac6b7d07",
-      "title": "「イオンモール熊本」で妻亡くした男性が初めて内部へ、出口まで「走れば5秒」...墓前にロウソクともし誕生日祝う",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-09-28T13:42:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zSDJZVnB0QmxKbFY1eDR4UUtVS3JNdDF6bGVwczlMMkxaTHVFWjBqUGJNN181X2RTeHFsUy1UU2NWMlBuNWJlODZhOV9ENTdRVVpMNlZrS1NxWTZoOEY4T2hIYVA5dw?oc=5",
-      "first_seen": "2026-09-28T14:01:28Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ff367890b70b22d46f75",
       "title": "イオンモール熊本爆発事故 爆発当日の救助の動画を独自入手",
       "source": "NHK",
@@ -270,6 +256,20 @@
       "published_at": "2026-09-28T08:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fcmIyQlppOVF2bXF0RXpXUVdzelJPZlh1LUU5d2NEbDhYOGdpWjJSRTFiWFc3TkhkVXhJLVJnM0dDdlRqeUxSSHREQWNXTnNPZG9hUEpvbWg5Sm9xVThTVnFBd18yRGlFQkE?oc=5",
       "first_seen": "2026-10-06T00:02:03Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "641f90ec3cbbac6b7d07",
+      "title": "「イオンモール熊本」で妻亡くした男性が初めて内部へ、出口まで「走れば5秒」...墓前にロウソクともし誕生日祝う",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zSDJZVnB0QmxKbFY1eDR4UUtVS3JNdDF6bGVwczlMMkxaTHVFWjBqUGJNN181X2RTeHFsUy1UU2NWMlBuNWJlODZhOV9ENTdRVVpMNlZrS1NxWTZoOEY4T2hIYVA5dw?oc=5",
+      "first_seen": "2026-09-28T14:01:28Z",
       "focus": [],
       "category_ids": [
         "aeon"
