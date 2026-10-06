@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T07:01:38Z",
-  "updated_at_jst": "2026/10/06 16:01 JST",
+  "updated_at": "2026-10-06T07:32:02Z",
+  "updated_at_jst": "2026/10/06 16:32 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1331,
@@ -214,23 +214,6 @@
       ]
     },
     {
-      "id": "ad290b96fedad0eeab40",
-      "title": "熊本 イオンモール爆発事故 生存者2人救助時の状況は",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-28T11:13:59Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ZnpkRlJwSHpURzdwRUVrUnl6b3RLMEpSY2w3QVRJN0xXSFlDbjR0SXl5Nk16d1ltZ3RCRXVkdWpJdU9ic19NUkdxM2laNFVHNURRalZZMkNOdEtneG5r?oc=5",
-      "first_seen": "2026-09-28T11:31:07Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "ff367890b70b22d46f75",
       "title": "イオンモール熊本爆発事故 爆発当日の救助の動画を独自入手",
       "source": "NHK",
@@ -279,22 +262,6 @@
       ]
     },
     {
-      "id": "749bcd192efbc4a29a9d",
-      "title": "日本製紙八代工場の操業停止長期化 地域経済への影響広がる",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-28T08:13:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PWVF0WlBWQ1RCZzJLWmVzSDYzaXJyVGFTZFY4d0s0RnE1N0xkd3Z0b09INUdXN0VIV1FZa2cySk05Y0pvZU9ISUx4WEhGWmdBYzhEdTRiUEw?oc=5",
-      "first_seen": "2026-09-28T09:01:20Z",
-      "focus": [
-        "操業情報"
-      ],
-      "category_ids": [
-        "paper"
-      ]
-    },
-    {
       "id": "f2b95e84978a94bec4c3",
       "title": "イオン九州[2653]:「令和8年熊本地震」による影響および特別損失計上について 2026年9月28日(適時開示) :日経会社情報DIGITAL",
       "source": "日本経済新聞",
@@ -306,6 +273,39 @@
       "focus": [],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "ad290b96fedad0eeab40",
+      "title": "熊本 イオンモール爆発事故 生存者2人救助時の状況は",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ZnpkRlJwSHpURzdwRUVrUnl6b3RLMEpSY2w3QVRJN0xXSFlDbjR0SXl5Nk16d1ltZ3RCRXVkdWpJdU9ic19NUkdxM2laNFVHNURRalZZMkNOdEtneG5r?oc=5",
+      "first_seen": "2026-09-28T11:31:07Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "749bcd192efbc4a29a9d",
+      "title": "日本製紙八代工場の操業停止長期化 地域経済への影響広がる",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PWVF0WlBWQ1RCZzJLWmVzSDYzaXJyVGFTZFY4d0s0RnE1N0xkd3Z0b09INUdXN0VIV1FZa2cySk05Y0pvZU9ISUx4WEhGWmdBYzhEdTRiUEw?oc=5",
+      "first_seen": "2026-09-28T09:01:20Z",
+      "focus": [
+        "操業情報"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
