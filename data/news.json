@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T02:31:19Z",
-  "updated_at_jst": "2026/10/07 11:31 JST",
+  "updated_at": "2026-10-07T03:01:47Z",
+  "updated_at_jst": "2026/10/07 12:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1331,
+  "article_count": 1332,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "mainichi": 167,
     "yomiuri": 212,
     "jiji": 203,
     "kumanichi": 199,
     "nikkei": 75,
     "nhk": 121,
     "sankei": 205,
-    "mainichi": 166,
     "asahi": 150
   },
   "tracked_categories": [
@@ -76,11 +76,28 @@
     }
   ],
   "category_counts": {
-    "aeon": 1007,
+    "aeon": 1008,
     "power": 140,
     "paper": 201
   },
   "items": [
+    {
+      "id": "65115ca13bc2e770ca55",
+      "title": "「10年前の経験生きた」 救助隊が語るイオン爆発事故 熊本地震",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-10-07T02:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmQXZwTFBHZDJZX3ZJWEdzSndXaTUwRFJta2w3VWROSDJWMEtYU2xFTUZjUkZOT1V6RUZrMG9WT3I1RWMwc3lyOEFVekpjYWprdnlCN3ZXMmJWWGtSNTBONk5ONzVkRDhD?oc=5",
+      "first_seen": "2026-10-07T03:01:47Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "ac02b4bbe19d4f68c9cb",
       "title": "熊本:イオン捜索 元保護犬ジロー貢献 県警嘱託、集中力評価:地域ニュース",
