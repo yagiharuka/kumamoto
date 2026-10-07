@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T05:31:43Z",
-  "updated_at_jst": "2026/10/07 14:31 JST",
+  "updated_at": "2026-10-07T06:01:58Z",
+  "updated_at_jst": "2026/10/07 15:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1332,
@@ -19451,6 +19451,22 @@
       ]
     },
     {
+      "id": "940ca5a61b2abe67b034",
+      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-28T12:12:48Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zNGJNcXdGeVl4YVFXTlN1cmJ5NTFvRlE0ZldwX3p6eDRVOWU3dFdDMmhjazdibGE2QzY1WTV4SjljS0ZTdGpKRThTZWV2WkJBZUdzZTNWX2pGWHZvZWFqWUpkRkM?oc=5",
+      "first_seen": "2026-07-29T13:39:56Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
       "id": "77cb1ef152fcc5177ba3",
       "title": "爆発で外壁などが大きく崩れたイオンモール熊本=7月28日午後7時38分、熊本県嘉島町(共同通信社ヘリから)",
       "source": "産経新聞",
@@ -21136,22 +21152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lYWlBNTV4LUZsMmJuUlptZTNoR2V6dWpENTNJakZFYWVjaVR0MDJxdnhWRDNkVFdoLTUzNjh5Tzd2SnR6VGlWMlYzeFFHdVVZQXNVNFNoaGQ5TjJEbWxLVm9zVXI?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "940ca5a61b2abe67b034",
-      "title": "画像・写真:崩落したイオンモール熊本:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-07-28T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VN0xGd3V3NUc3V0tYQkcwdmlJY3hfeTAzNHJvcDJCejBEcTRxeGJzdWJRRGl6cDZCcHlYazdtaFpnUGRNZzg2TldxY0VTRmNHZWpudnViWEVVc3ZNTWFzRWc1UVg?oc=5",
-      "first_seen": "2026-07-29T13:39:56Z",
-      "focus": [
-        "現場状況"
-      ],
       "category_ids": [
         "aeon"
       ]
