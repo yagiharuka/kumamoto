@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T20:02:12Z",
-  "updated_at_jst": "2026/10/07 05:02 JST",
+  "updated_at": "2026-10-07T00:13:33Z",
+  "updated_at_jst": "2026/10/07 09:13 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1331,
@@ -200,23 +200,6 @@
       ]
     },
     {
-      "id": "ff367890b70b22d46f75",
-      "title": "イオンモール熊本爆発事故 爆発当日の救助の動画を独自入手",
-      "source": "NHK",
-      "source_id": "nhk",
-      "source_group": "公共放送",
-      "published_at": "2026-09-28T09:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vRlRJN2R2QkVqR3ptZk9QdUJqVEtnOHpEODlOM1dyUGpXaHdPbXQxREJra2FvVVUwQXFiQ0gzRWpUOGpvQjlDdGFiVVUyQUVnTGRQaG1FX1A?oc=5",
-      "first_seen": "2026-09-28T20:31:15Z",
-      "focus": [
-        "救助・安否",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "f2b95e84978a94bec4c3",
       "title": "イオン九州[2653]:「令和8年熊本地震」による影響および特別損失計上について 2026年9月28日(適時開示) :日経会社情報DIGITAL",
       "source": "日本経済新聞",
@@ -306,6 +289,23 @@
       ],
       "category_ids": [
         "paper"
+      ]
+    },
+    {
+      "id": "ff367890b70b22d46f75",
+      "title": "イオンモール熊本爆発事故 爆発当日の救助の動画を独自入手",
+      "source": "NHK",
+      "source_id": "nhk",
+      "source_group": "公共放送",
+      "published_at": "2026-09-28T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vRlRJN2R2QkVqR3ptZk9QdUJqVEtnOHpEODlOM1dyUGpXaHdPbXQxREJra2FvVVUwQXFiQ0gzRWpUOGpvQjlDdGFiVVUyQUVnTGRQaG1FX1A?oc=5",
+      "first_seen": "2026-09-28T20:31:15Z",
+      "focus": [
+        "救助・安否",
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
       ]
     },
     {
