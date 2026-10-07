@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T15:31:56Z",
-  "updated_at_jst": "2026/10/08 00:31 JST",
+  "updated_at": "2026-10-07T16:02:26Z",
+  "updated_at_jst": "2026/10/08 01:02 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1332,
@@ -159,20 +159,6 @@
       ]
     },
     {
-      "id": "67f7077e9531ff9e63d6",
-      "title": "イオン九州、熊本地震に伴う特別損失17億円...スーパー出店していた「イオンモール熊本」は別会社が運営",
-      "source": "読売新聞",
-      "source_id": "yomiuri",
-      "source_group": "全国紙",
-      "published_at": "2026-09-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxVWNRbUFFYV81cVRCZzBQTDFlWkFscDdhbU5OYm9RS0kwZTNVTmUwUV9Cc2lmak02cTg4R1dMVjYyNlFuVzY0bXpRb01iXzlWenNYaU5mR2kxRW5yYWNkT2IxVTdNSzdiMnFCaHFZSUZjUQ?oc=5",
-      "first_seen": "2026-09-29T01:01:38Z",
-      "focus": [],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
       "id": "684f3a3d23dd6b41aaf3",
       "title": "イオンモール熊本爆発事故、妻の発見場所は天井が落ち鉄骨むき出し「悔しさと悲しさで感情がぐちゃぐちゃ」",
       "source": "読売新聞",
@@ -184,6 +170,20 @@
       "focus": [
         "現場状況"
       ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "67f7077e9531ff9e63d6",
+      "title": "イオン九州、熊本地震に伴う特別損失17億円...スーパー出店していた「イオンモール熊本」は別会社が運営",
+      "source": "読売新聞",
+      "source_id": "yomiuri",
+      "source_group": "全国紙",
+      "published_at": "2026-09-29T00:51:00Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxVWNRbUFFYV81cVRCZzBQTDFlWkFscDdhbU5OYm9RS0kwZTNVTmUwUV9Cc2lmak02cTg4R1dMVjYyNlFuVzY0bXpRb01iXzlWenNYaU5mR2kxRW5yYWNkT2IxVTdNSzdiMnFCaHFZSUZjUQ?oc=5",
+      "first_seen": "2026-09-29T01:01:38Z",
+      "focus": [],
       "category_ids": [
         "aeon"
       ]
