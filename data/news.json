@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T23:31:12Z",
-  "updated_at_jst": "2026/10/08 08:31 JST",
+  "updated_at": "2026-10-08T00:01:44Z",
+  "updated_at_jst": "2026/10/08 09:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1332,
+  "article_count": 1333,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -51,8 +51,8 @@
   "source_counts": {
     "mainichi": 167,
     "jiji": 203,
+    "kumanichi": 200,
     "yomiuri": 212,
-    "kumanichi": 199,
     "nikkei": 75,
     "nhk": 121,
     "sankei": 205,
@@ -78,7 +78,7 @@
   "category_counts": {
     "aeon": 1008,
     "power": 140,
-    "paper": 201
+    "paper": 202
   },
   "items": [
     {
@@ -114,6 +114,24 @@
       ],
       "category_ids": [
         "power"
+      ]
+    },
+    {
+      "id": "97aa11b1029fd4e5e54f",
+      "title": "めり込んだ煙突、がれきに埋もれた従業員... 機材と手作業で懸命に3人救出 日本製紙八代工場<2026年熊本地震・八代広域消防本部が対応状況公表",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-10-05T11:32:22Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nbGpJWkZrV1cyckdEenBMdE52akNhTktVc1ozLTEzd1Vfc1ZoLTVPY05MdTNCTXQ0cGxnYk82TjFrVTNqaGlJa21vdGx1Z00?oc=5",
+      "first_seen": "2026-10-08T00:01:44Z",
+      "focus": [
+        "避難状況",
+        "目撃証言",
+        "現場状況"
+      ],
+      "category_ids": [
+        "paper"
       ]
     },
     {
@@ -14901,7 +14919,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLandyVl85YnRaSDl5cWswRWFSV3QxcTd0M2VycWlxTVVYOUgtUDVxNnFFclBEc3pCdWhiaEV6XzUtbUVYMGpCOHlIdTFmVWNXZEFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNW9TS3V4aF9ZTU9LalVQY0hNb0RkUTVIWjc4ME9nZWJZV2IxemdwcWN3Z0h2Z000b0djY29wS2pIcDItaFRQeXd3VHBPN1MyRmNFT1R6UUFKTmc?oc=5",
       "first_seen": "2026-07-29T06:30:27Z",
       "focus": [
         "現場状況"
