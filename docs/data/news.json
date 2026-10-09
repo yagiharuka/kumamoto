@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T21:31:48Z",
-  "updated_at_jst": "2026/10/10 06:31 JST",
+  "updated_at": "2026-10-09T22:02:05Z",
+  "updated_at_jst": "2026/10/10 07:02 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1333,
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
-    "mainichi": 167,
     "jiji": 203,
+    "mainichi": 167,
     "kumanichi": 200,
     "yomiuri": 212,
     "nikkei": 75,
@@ -81,6 +81,22 @@
     "paper": 202
   },
   "items": [
+    {
+      "id": "7fa97576abdf6e82c01a",
+      "title": "イオンモール熊本爆発事故...:日本の重大事件・事故(2000年以降) 写真特集:時事ドットコム",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-10-09T20:15:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vNm5MTDNUY3ZpQ3p1NDZwdW5KaGs5SmIwTTZpUVl3bVl3RXZYZGJ2YTl4OHUyT1BPWDFzTVFyQ0V5STNKZllfTHo1S2I5Zmo0aE1SMVZYeHdJbEtBVmhaNEwyaDhEMUNrcHc?oc=5",
+      "first_seen": "2026-09-25T10:00:59Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "65115ca13bc2e770ca55",
       "title": "「10年前の経験生きた」 救助隊が語るイオン爆発事故 熊本地震",
@@ -432,22 +448,6 @@
       "first_seen": "2026-09-18T21:00:51Z",
       "focus": [
         "避難状況",
-        "現場状況"
-      ],
-      "category_ids": [
-        "aeon"
-      ]
-    },
-    {
-      "id": "7fa97576abdf6e82c01a",
-      "title": "イオンモール熊本爆発事故...:日本の重大事件・事故(2000年以降) 写真特集:時事ドットコム",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-18T18:07:18Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdm8waWRmN01Ca0NnUldiTnJHSktZa0U1SjFnODczZUR4NTM4Z1NJVWdVWFgyMVhvS2x6SEdkMm5wM1J5Y1FkSzRLYzIxWTdQX2Y4TnB4eUpPYWlyWVA5SkZpWE5lVzNJOHc?oc=5",
-      "first_seen": "2026-09-25T10:00:59Z",
-      "focus": [
         "現場状況"
       ],
       "category_ids": [
