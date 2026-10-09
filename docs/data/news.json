@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T15:02:09Z",
-  "updated_at_jst": "2026/10/10 00:02 JST",
+  "updated_at": "2026-10-09T15:31:50Z",
+  "updated_at_jst": "2026/10/10 00:31 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1333,
@@ -50,9 +50,9 @@
   ],
   "source_counts": {
     "mainichi": 167,
-    "jiji": 203,
     "kumanichi": 200,
     "yomiuri": 212,
+    "jiji": 203,
     "nikkei": 75,
     "nhk": 121,
     "sankei": 205,
@@ -96,24 +96,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "681be94bcc3a8df780ff",
-      "title": "◎熊本地震、死者34人に=連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-10-05T18:19:17Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnMmlCYmdMOFZLQUNnX3lZZUFfenBkZ2ozQnBLbU91SHpnak9ZWEN4RDJ1NV91b2w4UXZhb0EyUDhSZ1I2Smw3Wk85bmFXdUVSSktuQWRPM1drQUZfNHc?oc=5",
-      "first_seen": "2026-08-02T01:00:12Z",
-      "focus": [
-        "救助・安否",
-        "避難状況",
-        "停電状況"
-      ],
-      "category_ids": [
-        "power"
       ]
     },
     {
@@ -13594,6 +13576,24 @@
       ],
       "category_ids": [
         "aeon"
+      ]
+    },
+    {
+      "id": "681be94bcc3a8df780ff",
+      "title": "◎熊本地震、死者34人に=連日の猛暑、1万人近く避難―発生3日目、断水・停電続く",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-07-30T07:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnMmlCYmdMOFZLQUNnX3lZZUFfenBkZ2ozQnBLbU91SHpnak9ZWEN4RDJ1NV91b2w4UXZhb0EyUDhSZ1I2Smw3Wk85bmFXdUVSSktuQWRPM1drQUZfNHc?oc=5",
+      "first_seen": "2026-08-02T01:00:12Z",
+      "focus": [
+        "救助・安否",
+        "避難状況",
+        "停電状況"
+      ],
+      "category_ids": [
+        "power"
       ]
     },
     {
