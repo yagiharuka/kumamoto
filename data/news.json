@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10T08:01:48Z",
-  "updated_at_jst": "2026/10/10 17:01 JST",
+  "updated_at": "2026-10-10T08:30:32Z",
+  "updated_at_jst": "2026/10/10 17:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1335,
@@ -841,6 +841,20 @@
       ]
     },
     {
+      "id": "b43fc772f9827ac64bec",
+      "title": "日本製紙、八代工場被災で調査委設置=熊本地震",
+      "source": "時事通信",
+      "source_id": "jiji",
+      "source_group": "通信社",
+      "published_at": "2026-09-10T08:19:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UMXQ4U2hCTGpIeFRfX29rOXRhZmtiUUl1QVJKcHFUY20wcDUzVnI5WnkxcDdoQUpLN3N6SkhvZkFZOTBHdHhUWmVLOExJZkFiczFvcC1VRTdaNTVFRVE?oc=5",
+      "first_seen": "2026-09-10T08:31:05Z",
+      "focus": [],
+      "category_ids": [
+        "paper"
+      ]
+    },
+    {
       "id": "430b8d88aaeb1d6f4d6e",
       "title": "日本製紙、八代工場被災で調査委設置 熊本震度7",
       "source": "時事通信",
@@ -869,20 +883,6 @@
       ],
       "category_ids": [
         "aeon"
-      ]
-    },
-    {
-      "id": "b43fc772f9827ac64bec",
-      "title": "日本製紙、八代工場被災で調査委設置=熊本地震",
-      "source": "時事通信",
-      "source_id": "jiji",
-      "source_group": "通信社",
-      "published_at": "2026-09-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UMXQ4U2hCTGpIeFRfX29rOXRhZmtiUUl1QVJKcHFUY20wcDUzVnI5WnkxcDdoQUpLN3N6SkhvZkFZOTBHdHhUWmVLOExJZkFiczFvcC1VRTdaNTVFRVE?oc=5",
-      "first_seen": "2026-09-10T08:31:05Z",
-      "focus": [],
-      "category_ids": [
-        "paper"
       ]
     },
     {
