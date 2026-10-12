@@ -164,6 +164,10 @@ OUTLETS_BY_ALIAS = {
 class CollectionError(RuntimeError):
     """Raised when a run cannot safely produce an updated snapshot."""
 
+    def __init__(self, message: str, *, diagnostics: Iterable[str] = ()) -> None:
+        super().__init__(message)
+        self.diagnostics = tuple(diagnostics)
+
 
 def normalize_text(value: str) -> str:
     return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", value)).strip()
@@ -237,7 +241,9 @@ def fetch_bytes(url: str) -> bytes:
 
         time.sleep(RETRY_DELAYS_SECONDS[attempt])
 
-    raise CollectionError(f"RSS fetch failed: {last_error}") from last_error
+    raise CollectionError(
+        f"RSS fetch failed ({type(last_error).__name__}): {last_error}"
+    ) from last_error
 
 
 def element_text(parent: ElementTree.Element, tag: str) -> str:
@@ -442,7 +448,7 @@ def fetch_queries(
             try:
                 _, result = future.result()
             except Exception as error:  # A partial feed outage should not erase history.
-                warnings.append(f"{query}: {error}")
+                warnings.append(f"{query}: {type(error).__name__}: {error}")
             else:
                 success_count += 1
                 records.extend(result)
@@ -455,7 +461,10 @@ def collect_category(
 ) -> tuple[list[dict[str, Any]], list[str]]:
     raw_records, warnings, broad_successes = fetch_queries(category.broad_queries)
     if broad_successes == 0:
-        raise CollectionError(f"all primary RSS queries failed for {category.name}")
+        raise CollectionError(
+            f"all primary RSS queries failed for {category.name}",
+            diagnostics=warnings,
+        )
 
     candidates = [
         item
@@ -495,12 +504,13 @@ def collect_candidates(now: datetime) -> tuple[list[dict[str, Any]], list[str]]:
             category_candidates, category_warnings = collect_category(category, now)
         except CollectionError as error:
             warnings.append(str(error))
+            warnings.extend(error.diagnostics)
             continue
         successful_categories += 1
         candidates.extend(category_candidates)
         warnings.extend(category_warnings)
     if successful_categories == 0:
-        raise CollectionError("all category RSS queries failed")
+        raise CollectionError("all category RSS queries failed", diagnostics=warnings)
     return candidates, warnings
 
 
@@ -734,6 +744,7 @@ def main() -> int:
     except Exception as error:
         from zoneinfo import ZoneInfo
 
+        diagnostics = list(error.diagnostics) if isinstance(error, CollectionError) else []
         write_result(
             {
                 "status": "failed",
@@ -742,9 +753,12 @@ def main() -> int:
                     "%Y/%m/%d %H:%M JST"
                 ),
                 "error": str(error),
+                "warnings": diagnostics,
             }
         )
         print(f"collection failed: {error}", file=sys.stderr)
+        for diagnostic in diagnostics:
+            print(f"warning: {diagnostic}", file=sys.stderr)
         return 1
 
 
