@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T10:02:33Z",
-  "updated_at_jst": "2026/10/13 19:02 JST",
+  "updated_at": "2026-10-13T10:30:53Z",
+  "updated_at_jst": "2026/10/13 19:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1338,
+  "article_count": 1339,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,13 +49,13 @@
     }
   ],
   "source_counts": {
+    "sankei": 206,
     "kumanichi": 204,
     "mainichi": 168,
     "jiji": 203,
     "yomiuri": 212,
     "nikkei": 75,
     "nhk": 121,
-    "sankei": 205,
     "asahi": 150
   },
   "tracked_categories": [
@@ -76,11 +76,27 @@
     }
   ],
   "category_counts": {
-    "aeon": 1011,
+    "aeon": 1012,
     "power": 142,
     "paper": 202
   },
   "items": [
+    {
+      "id": "60e36cff694c0b5e707f",
+      "title": "イオン中間決算、熊本地震の特損41億9800万円を計上 爆発事故で吉田社長改めて陳謝",
+      "source": "産経新聞",
+      "source_id": "sankei",
+      "source_group": "全国紙",
+      "published_at": "2026-10-13T10:26:45Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oSmtDQmdPTktfT1VDdkVuMXFKVnBmRV83UjEwaFFNQVludlZrY2VnejNRdlVsMlZLNHBLN19EdjFKNHRJWXJBUUN6TmpHZ1htREd2MEF6WS15eGZ4YlFBOWltcHRDYWtSSUhVTUthXzFNdm9OWmc?oc=5",
+      "first_seen": "2026-10-13T10:30:53Z",
+      "focus": [
+        "現場状況"
+      ],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "e5a19c93f833807ee25c",
       "title": "イオン、純利益3・3倍 ドラッグストア事業好調(共同通信)",
@@ -13579,7 +13595,7 @@
       "source_id": "jiji",
       "source_group": "通信社",
       "published_at": "2026-07-30T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZXpTZV8xemhSR2sydUtJcWpjS0xJMzZJNkpST2R6TzRObUtOWk5CcUU2ZHYydTFnZHFubm5NZTJkNXdtYURwaHdRWW5aM3EyTEhaVU9veldFcWlnX2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yR0NaajZPWV95MFJpdVZFTzBhRFlROERjZFZ5cWcwcUtoeHVkYnpta3JhVi03QkFpT3JWY0RBYTQxT2gyVFhsVURkN3ZsUm10YlhzQw?oc=5",
       "first_seen": "2026-07-31T18:00:53Z",
       "focus": [
         "救助・安否",
