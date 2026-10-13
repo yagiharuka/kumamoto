@@ -1,11 +1,6 @@
 name: Update Kumamoto AEON Watch
 
 on:
-  schedule:
-    # Cloudflare remains the primary trigger at :00 and :30. These delayed
-    # checks only run the collector when the latest snapshot is stale.
-    - cron: "10 * * * *"
-    - cron: "40 * * * *"
   workflow_dispatch:
     inputs:
       send_email:
@@ -18,17 +13,6 @@ on:
         required: false
         default: "manual"
         type: string
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/update.yml"
-      - "scripts/**"
-      - "tests/**"
-      - "docs/index.html"
-      - "docs/styles.css"
-      - "docs/app.js"
-      - "docs/.nojekyll"
 
 permissions:
   contents: write
@@ -41,6 +25,9 @@ concurrency:
 
 jobs:
   collect:
+    # Automatic collection and email are paused. Cloudflare cron dispatches
+    # must remain blocked even while the external Cron Trigger is active.
+    if: ${{ github.event_name == 'workflow_dispatch' && (inputs.trigger == 'manual' || inputs.trigger == 'website') }}
     runs-on: ubuntu-latest
     timeout-minutes: 12
     outputs:
