@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T09:32:38Z",
-  "updated_at_jst": "2026/10/13 18:32 JST",
+  "updated_at": "2026-10-13T10:02:33Z",
+  "updated_at_jst": "2026/10/13 19:02 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1336,
+  "article_count": 1338,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,8 +49,8 @@
     }
   ],
   "source_counts": {
+    "kumanichi": 204,
     "mainichi": 168,
-    "kumanichi": 202,
     "jiji": 203,
     "yomiuri": 212,
     "nikkei": 75,
@@ -76,11 +76,39 @@
     }
   ],
   "category_counts": {
-    "aeon": 1009,
+    "aeon": 1011,
     "power": 142,
     "paper": 202
   },
   "items": [
+    {
+      "id": "e5a19c93f833807ee25c",
+      "title": "イオン、純利益3・3倍 ドラッグストア事業好調(共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-10-13T09:29:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tdExuNjN5MTdLekxfV05FT0FnVzZaSjV3bzhIbGo3eXJ3NHFfNE0zLWtQZlY3TjZFSkZTSHl0NVMtXzVXQVd2a19PeVhUQ28?oc=5",
+      "first_seen": "2026-10-13T10:02:33Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
+    {
+      "id": "5086ba40d93ea02c1db6",
+      "title": "イオン純利益3倍、ドラッグストア事業好調 (共同通信)",
+      "source": "熊本日日新聞",
+      "source_id": "kumanichi",
+      "source_group": "地元紙",
+      "published_at": "2026-10-13T07:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jTnBrZVJwdks0Z0FnSy1JdUpndjRnSWpmU01yS1AzUFhTV09vNXcwZE9QUDNaUzBSc2hHelRfVDQ1NmhQRVBlTzdva0FpY1E?oc=5",
+      "first_seen": "2026-10-13T10:02:33Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "79360fe5f28d3dfa5e5c",
       "title": "熊本地震 生きた「10年前の教訓」 救助隊が語るイオン爆発事故 /熊本",
@@ -14735,7 +14763,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
