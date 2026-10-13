@@ -97,6 +97,12 @@ def main() -> int:
     event_name = os.environ.get("FALLBACK_EVENT_NAME", "workflow_dispatch")
     schedule = os.environ.get("FALLBACK_SCHEDULE")
     trigger = os.environ.get("FALLBACK_TRIGGER")
+    # Keep queued runs using older workflow definitions paused as well.
+    # Their checkout uses main, so this gate still prevents collection and mail.
+    if event_name != "workflow_dispatch" or trigger not in (None, "", "manual", "website"):
+        write_output(False)
+        print("Automatic collection and email are paused; skipping this trigger.")
+        return 0
     now = datetime.now(timezone.utc)
     updated_at = load_updated_at()
     if event_name == "schedule":

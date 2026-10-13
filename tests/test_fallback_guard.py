@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import os
 import sys
 import unittest
+from unittest import mock
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -120,6 +122,44 @@ class FallbackGuardTests(unittest.TestCase):
                 "schedule", self.now, self.now, "unknown"
             )
         )
+
+
+class PausedAutomationTests(unittest.TestCase):
+    def test_automatic_and_unknown_triggers_skip_without_reading_data(self) -> None:
+        cases = [
+            ("schedule", "", "10 * * * *"),
+            ("schedule", "", "40 * * * *"),
+            ("push", "", ""),
+            ("workflow_dispatch", "cloudflare-cron", ""),
+            ("workflow_dispatch", "unknown", ""),
+        ]
+        for event, trigger, schedule in cases:
+            with self.subTest(event=event, trigger=trigger, schedule=schedule):
+                env = {
+                    "FALLBACK_EVENT_NAME": event,
+                    "FALLBACK_TRIGGER": trigger,
+                    "FALLBACK_SCHEDULE": schedule,
+                }
+                with mock.patch.dict(os.environ, env, clear=True), \
+                     mock.patch.object(fallback_guard, "write_output") as output, \
+                     mock.patch.object(fallback_guard, "load_updated_at") as load, \
+                     mock.patch("builtins.print"):
+                    self.assertEqual(fallback_guard.main(), 0)
+                    output.assert_called_once_with(False)
+                    load.assert_not_called()
+
+    def test_explicit_manual_and_website_triggers_remain_available(self) -> None:
+        for trigger in (None, "", "manual", "website"):
+            with self.subTest(trigger=trigger):
+                env = {"FALLBACK_EVENT_NAME": "workflow_dispatch"}
+                if trigger is not None:
+                    env["FALLBACK_TRIGGER"] = trigger
+                with mock.patch.dict(os.environ, env, clear=True), \
+                     mock.patch.object(fallback_guard, "write_output") as output, \
+                     mock.patch.object(fallback_guard, "load_updated_at", return_value=None), \
+                     mock.patch("builtins.print"):
+                    self.assertEqual(fallback_guard.main(), 0)
+                    output.assert_called_once_with(True)
 
 
 if __name__ == "__main__":
