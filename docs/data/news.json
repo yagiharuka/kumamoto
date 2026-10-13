@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T20:00:59Z",
-  "updated_at_jst": "2026/10/14 05:00 JST",
+  "updated_at": "2026-10-13T20:30:59Z",
+  "updated_at_jst": "2026/10/14 05:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1344,
+  "article_count": 1345,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "asahi": 152,
     "kumanichi": 206,
     "mainichi": 169,
-    "asahi": 151,
     "sankei": 207,
     "jiji": 203,
     "yomiuri": 212,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 1017,
+    "aeon": 1018,
     "power": 142,
     "paper": 202
   },
   "items": [
+    {
+      "id": "1c6bbeed43b13e1a79ee",
+      "title": "イオン、災害特損41億円 8月中間決算 熊本地震・千葉豪雨",
+      "source": "朝日新聞",
+      "source_id": "asahi",
+      "source_group": "全国紙",
+      "published_at": "2026-10-13T20:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VlI4UWIxQ2psVUVoWTZJZ1h2eS1PQ3F2WUY4dzQ5OFJETDN2Y3g5WFNKaUoxWTRsQlpIQ1V5Q2R0b1djZzA4Q2ljcFk5ZnhiX2ptVEtSZnhoNHNp?oc=5",
+      "first_seen": "2026-10-13T20:30:59Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "f01006d28c10db0a9d28",
       "title": "イズミ 休業店舗の再開に意欲 イオン九州 「従業員の雇用守る」 中間決算で説明 <2026年熊本地震",
