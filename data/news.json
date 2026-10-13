@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T11:00:55Z",
-  "updated_at_jst": "2026/10/13 20:00 JST",
+  "updated_at": "2026-10-13T11:30:54Z",
+  "updated_at_jst": "2026/10/13 20:30 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
-  "article_count": 1339,
+  "article_count": 1340,
   "source_count": 8,
   "tracked_sources": [
     {
@@ -49,9 +49,9 @@
     }
   ],
   "source_counts": {
+    "mainichi": 169,
     "sankei": 206,
     "kumanichi": 204,
-    "mainichi": 168,
     "jiji": 203,
     "yomiuri": 212,
     "nikkei": 75,
@@ -76,11 +76,25 @@
     }
   ],
   "category_counts": {
-    "aeon": 1012,
+    "aeon": 1013,
     "power": 142,
     "paper": 202
   },
   "items": [
+    {
+      "id": "909842fd06f13985cf67",
+      "title": "イオン、熊本地震などで41億円の特別損失を計上 中間決算",
+      "source": "毎日新聞",
+      "source_id": "mainichi",
+      "source_group": "全国紙",
+      "published_at": "2026-10-13T11:13:32Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHWlp4MEZzSk1LV3NPWW1pMXBfbU9ycDdTYjQ4OU5kLU9SM3FIbmlVOVZzNHh6elkxTGhVZ1VrQzhqR2F6TGp1RFh5dnRjXzdZRHlhTlRONFVsQjBjR2xaUWRGNndrRTRO?oc=5",
+      "first_seen": "2026-10-13T11:30:54Z",
+      "focus": [],
+      "category_ids": [
+        "aeon"
+      ]
+    },
     {
       "id": "60e36cff694c0b5e707f",
       "title": "イオン中間決算、熊本地震の特損41億9800万円を計上 爆発事故で吉田社長改めて陳謝",
@@ -2450,7 +2464,7 @@
       "source_id": "mainichi",
       "source_group": "全国紙",
       "published_at": "2026-09-03T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lYmttenBBOXlfdDBaZDVJNWE5akFtcFgybURKbzJRdzUwR3VKT05tdDVGYXBOUGZpcWk0Z1ZaZFUyWGpNZDhuVjlBWDVSZ20yNXZKcDF0U2I5WGNCMHhwbC1VQzJqOGdk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Nb3FOalExa052MURaMDl2SV9vYTdLTXVuZnZWUEtMNzJteU5La3dJOC1xMlY4WVBONkpWN2dlQUR6M2pTSUU1SVdiUTFhREswdHFLbjBtX0lfMDFDcHc?oc=5",
       "first_seen": "2026-09-03T10:00:36Z",
       "focus": [
         "目撃証言",
@@ -14779,7 +14793,7 @@
       "source_id": "yomiuri",
       "source_group": "全国紙",
       "published_at": "2026-07-29T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbUotZWw4SExQalJkQXh6aVJXcjBlNkc2V3RHel9hNGdjaEQ2Z3VOZVZlNHBVOTdXc2tlX25EZnJoZUhkbS1VaDVZYVNhNnFESTZQQnR2NThmMjVXRnNzTW5ITWhEeDA0bHBTdERNbFI2OGZ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55anlROTFmdnFCMU5mWGU2bDdPMmV4aEVSb3FRbDVOSnRPODllVWl4a1ZtaWdDaHVoQmRsNFIyVFVZb3hLNXhmWlJyVU5vVmZvZzVLbVV3ZHRwTTF1NllzbnBwOUJpYm40NnBZQl9zVWdDZw?oc=5",
       "first_seen": "2026-07-29T13:39:56Z",
       "focus": [
         "避難状況",
