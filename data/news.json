@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T15:30:57Z",
-  "updated_at_jst": "2026/10/14 00:30 JST",
+  "updated_at": "2026-10-13T16:01:07Z",
+  "updated_at_jst": "2026/10/14 01:01 JST",
   "query": "熊本地震（イオン爆発／停電・電源車／日本製紙・八代工場）",
   "cadence_minutes": 30,
   "article_count": 1344,
@@ -177,11 +177,11 @@
     },
     {
       "id": "e5a19c93f833807ee25c",
-      "title": "イオン、純利益3・3倍 ドラッグストア事業好調(共同通信)",
+      "title": "イオン、純利益3・3倍 地震関連含む損失42億円(共同通信)",
       "source": "熊本日日新聞",
       "source_id": "kumanichi",
       "source_group": "地元紙",
-      "published_at": "2026-10-13T09:29:00Z",
+      "published_at": "2026-10-13T10:24:00Z",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tdExuNjN5MTdLekxfV05FT0FnVzZaSjV3bzhIbGo3eXJ3NHFfNE0zLWtQZlY3TjZFSkZTSHl0NVMtXzVXQVd2a19PeVhUQ28?oc=5",
       "first_seen": "2026-10-13T10:02:33Z",
       "focus": [],
